@@ -8,9 +8,6 @@ on:
 
 permissions:
   contents: write
-  # 添加读取用户 star 列表所需的权限
-  read:org: read
-  read:user: read
 
 jobs:
   analyze:
