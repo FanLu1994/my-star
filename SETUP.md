@@ -49,8 +49,9 @@
 | `OPENAI_API_KEY` | LLM API 密钥 | `sk-xxx...` |
 | `OPENAI_BASE_URL` | API 基础 URL | `https://api.openai.com/v1` |
 | `OPENAI_MODEL` | 模型名称 | `gpt-4o-mini` |
+| `MY_GITHUB_TOKEN` | GitHub Token（步骤1中创建） | `ghp_xxx...` |
 
-**注意**: `GITHUB_TOKEN` 会自动注入，无需手动配置。
+**重要**: `MY_GITHUB_TOKEN` 不能使用 GitHub Action 默认提供的 `GITHUB_TOKEN`，**必须**使用步骤1中手动创建的 Personal Access Token，否则将无法正常工作。
 
 ### 4. API 配置示例
 
@@ -118,7 +119,7 @@ cp .env.example .env
 
 ```env
 # GitHub Token
-GITHUB_TOKEN=your_github_token_here
+MY_GITHUB_TOKEN=your_github_token_here
 
 # 使用 DeepSeek（推荐）
 OPENAI_API_KEY=sk-xxx...
