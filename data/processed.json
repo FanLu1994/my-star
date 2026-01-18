@@ -1662,21 +1662,6 @@
     "starred_at": "",
     "original_description": "The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet."
   },
-  "783343310": {
-    "description": "这是一个自托管的在线文件转换工具，支持超过1000种文件格式的相互转换。",
-    "category": "工具/库",
-    "tags": [
-      "文件转换",
-      "自托管"
-    ],
-    "use_case": "用户可以在自己的服务器上部署此工具，将各种格式的文件（如文档、图片、PDF等）在线转换为其他格式，无需依赖第三方云服务，保护隐私并实现本地化处理。",
-    "repo_name": "C4illin/ConvertX",
-    "repo_url": "https://github.com/C4illin/ConvertX",
-    "language": "TypeScript",
-    "stars": 15054,
-    "starred_at": "",
-    "original_description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️"
-  },
   "1008504792": {
     "description": "这是一个用于评估代码质量并生成美观报告的屎山代码检测工具。",
     "category": "工具/库",
