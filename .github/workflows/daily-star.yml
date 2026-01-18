@@ -52,5 +52,12 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add data/ README.md
-          git diff --staged --quiet || git commit -m "Update star analysis [skip ci]"
-          git push
+
+          # 检查是否有变更
+          if git diff --staged --quiet; then
+            echo "没有变更，跳过提交"
+          else
+            git commit -m "Update star analysis [skip ci]"
+            git push origin HEAD:${{ github.ref_name }}
+            echo "推送完成"
+          fi

@@ -77,18 +77,38 @@ class GitHubStarAnalyzer:
             try:
                 url = f"https://api.github.com/user/starred"
                 params = {"page": page, "per_page": per_page}
-                data = self._github_api_request(url, params)
 
-                if not data:
+                headers = {
+                    "Authorization": f"token {self.github_token}",
+                    "Accept": "application/vnd.github.v3+json"
+                }
+                response = requests.get(url, headers=headers, params=params)
+                response.raise_for_status()
+
+                # 检查是否还有下一页
+                link_header = response.headers.get('Link', '')
+                has_next = 'rel="next"' in link_header
+
+                data = response.json()
+
+                if not data:  # 空结果，结束
                     break
 
                 stars.extend(data)
-                print(f"已获取 {len(stars)} 个star...")
+                print(f"  第{page}页: 获取到 {len(data)} 个，累计 {len(stars)} 个star")
                 page += 1
-                time.sleep(0.1)  # 避免触发限流
+
+                if not has_next:  # 没有下一页了
+                    break
+
+                time.sleep(0.2)  # 避免触发限流
 
             except requests.exceptions.RequestException as e:
                 print(f"获取star列表时出错: {e}")
+                if response.status_code == 401:
+                    print("错误: GitHub Token 无效或已过期，请检查 GITHUB_TOKEN")
+                elif response.status_code == 403:
+                    print("错误: API 速率限制，请稍后再试")
                 break
 
         print(f"总共获取到 {len(stars)} 个star")
@@ -102,9 +122,9 @@ class GitHubStarAnalyzer:
         language = repo.get("language", "")
         homepage = repo.get("homepage", "")
 
-        # 如果已经处理过且有描述，跳过
-        repo_id = repo["id"]
-        if repo_id in self.processed_stars and self.processed_stars[repo_id].get("description"):
+        # 如果已经处理过且有分类信息，跳过（检查 category 字段是否存在）
+        repo_id = str(repo["id"])  # 转换为字符串，因为JSON的key是字符串
+        if repo_id in self.processed_stars and self.processed_stars[repo_id].get("category"):
             print(f"跳过已处理: {repo_name}")
             return self.processed_stars[repo_id]
 
@@ -163,9 +183,9 @@ class GitHubStarAnalyzer:
                 "original_description": description
             })
 
-            # 保存到已处理列表
+            # 保存到已处理列表（内存中）
             self.processed_stars[repo_id] = analysis
-            self._save_processed()
+            # 注意：不在这里写入文件，统一在最后保存
 
             print(f"分析完成: {repo_name} -> {analysis.get('category')}")
             time.sleep(0.5)  # 避免触发限流
@@ -188,18 +208,22 @@ class GitHubStarAnalyzer:
                 "original_description": description
             }
 
-    def cleanup_removed_stars(self, current_stars: List[Dict[str, Any]]):
-        """清理已经取消star的仓库"""
-        current_ids = {repo["id"] for repo in current_stars}
+    def cleanup_removed_stars(self, current_stars: List[Dict[str, Any]]) -> bool:
+        """清理已经取消star的仓库（只修改内存，不立即写入文件）
+
+        Returns:
+            bool: 是否有数据被清理
+        """
+        current_ids = {str(repo["id"]) for repo in current_stars}  # 转换为字符串
         processed_ids = set(self.processed_stars.keys())
 
         removed_ids = processed_ids - current_ids
         if removed_ids:
-            print(f"发现 {len(removed_ids)} 个已取消star的仓库")
+            print(f"发现 {len(removed_ids)} 个已取消star的仓库，将从缓存中移除...")
             for repo_id in removed_ids:
                 del self.processed_stars[repo_id]
-
-            self._save_processed()
+            return True
+        return False
 
     def generate_markdown(self, repos: List[Dict[str, Any]]) -> str:
         """生成markdown文档"""
@@ -241,34 +265,47 @@ class GitHubStarAnalyzer:
         ]
 
         # 分类目录
-        lines.append("## :open_file_folder: 分类目录\n")
-        for cat in category_order:
-            if cat in categories:
-                count = len(categories[cat])
-                lines.append(f"| [{cat}](#{self._slugify(cat).lower()}) | {count} |")
+        lines.append("## :open_file_folder: 分类目录\n\n")
+        lines.append("| 分类 | 数量 | 分类 | 数量 |\n")
+        lines.append("|------|------|------|------|\n")
+
+        # 两列布局
+        active_cats = [cat for cat in category_order if cat in categories]
+        for i in range(0, len(active_cats), 2):
+            cat1 = active_cats[i]
+            count1 = len(categories[cat1])
+            col1 = f"[{cat1}](#{self._slugify(cat1).lower()})"
+
+            if i + 1 < len(active_cats):
+                cat2 = active_cats[i + 1]
+                count2 = len(categories[cat2])
+                col2 = f"[{cat2}](#{self._slugify(cat2).lower()})"
+            else:
+                col2 = ""
+                count2 = ""
+
+            lines.append(f"| {col1} | {count1} | {col2} | {count2} |\n")
+
         lines.append("\n---\n")
 
         # 标签云导航
         lines.append("## :label: 标签导航\n\n")
         if sorted_tags:
-            # 按使用数量分组显示
-            lines.append("| 标签 | 数量 | 标签 | 数量 |\n")
-            lines.append("|------|------|------|------|\n")
+            # 按使用数量分组显示（无表头，但需要空表头行）
+            lines.append("| | | | |\n")
+            lines.append("|---|---|---|---|\n")
 
-            # 两列布局
-            for i in range(0, len(sorted_tags), 2):
-                tag1, count1 = sorted_tags[i][0], len(sorted_tags[i][1])
-                tag_link1 = f"#{self._slugify('tag-' + tag1).lower()}"
-                col1 = f"[`{tag1}`]({tag_link1}) ({count1})"
-
-                if i + 1 < len(sorted_tags):
-                    tag2, count2 = sorted_tags[i + 1][0], len(sorted_tags[i + 1][1])
-                    tag_link2 = f"#{self._slugify('tag-' + tag2).lower()}"
-                    col2 = f"[`{tag2}`]({tag_link2}) ({count2})"
-                else:
-                    col2 = ""
-
-                lines.append(f"| {col1} | {col2} |\n")
+            # 四列布局
+            for i in range(0, len(sorted_tags), 4):
+                cols = []
+                for j in range(4):
+                    if i + j < len(sorted_tags):
+                        tag, count = sorted_tags[i + j][0], len(sorted_tags[i + j][1])
+                        tag_link = f"#{self._slugify('tag-' + tag).lower()}"
+                        cols.append(f"[`{tag}`]({tag_link}) ({count})")
+                    else:
+                        cols.append("")
+                lines.append(f"| {cols[0]} | {cols[1]} | {cols[2]} | {cols[3]} |\n")
 
         lines.append("\n---\n")
 
@@ -365,16 +402,37 @@ class GitHubStarAnalyzer:
         current_stars = self.get_starred_repos()
 
         # 2. 清理已取消的star
-        self.cleanup_removed_stars(current_stars)
+        has_removed = self.cleanup_removed_stars(current_stars)
 
         # 3. 分析每个仓库
+        print(f"\n开始分析 {len(current_stars)} 个仓库...")
         analyzed_repos = []
+        skipped_count = 0
+        new_count = 0
+        need_save = False  # 标记是否需要保存
+
         for repo in current_stars:
+            repo_id = str(repo["id"])  # 转换为字符串
+            # 检查是否已处理
+            if repo_id in self.processed_stars and self.processed_stars[repo_id].get("category"):
+                skipped_count += 1
+            else:
+                new_count += 1
+                need_save = True
             analysis = self.analyze_repo(repo)
             analyzed_repos.append(analysis)
 
-        # 4. 生成markdown
-        print("正在生成markdown文档...")
+        print(f"\n分析完成:")
+        print(f"  - 跳过已处理: {skipped_count} 个")
+        print(f"  - 新分析: {new_count} 个")
+
+        # 4. 统一保存缓存（只在新数据或删除数据时保存）
+        if need_save or has_removed:
+            print("正在保存缓存数据...")
+            self._save_processed()
+
+        # 5. 生成markdown
+        print("\n正在生成markdown文档...")
         markdown_content = self.generate_markdown(analyzed_repos)
 
         # 保存markdown
@@ -384,7 +442,7 @@ class GitHubStarAnalyzer:
 
         print(f"markdown已保存到: {self.markdown_file}")
 
-        # 5. 提交到仓库
+        # 6. 提交到仓库
         self.commit_to_repo()
 
         print("=" * 50)
