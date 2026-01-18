@@ -269,7 +269,7 @@ class GitHubStarAnalyzer:
         lines.append("| 分类 | 数量 | 分类 | 数量 |\n")
         lines.append("|------|------|------|------|\n")
 
-        # 两列布局
+        # 两列布局 - 确保表格行连续（无空行）
         active_cats = [cat for cat in category_order if cat in categories]
         for i in range(0, len(active_cats), 2):
             cat1 = active_cats[i]
@@ -284,6 +284,7 @@ class GitHubStarAnalyzer:
                 col2 = ""
                 count2 = ""
 
+            # 表格行末尾加 \n，用空字符串join避免双换行
             lines.append(f"| {col1} | {count1} | {col2} | {count2} |\n")
 
         lines.append("\n---\n")
@@ -295,7 +296,7 @@ class GitHubStarAnalyzer:
             lines.append("| | | | |\n")
             lines.append("|---|---|---|---|\n")
 
-            # 四列布局
+            # 四列布局 - 确保表格行连续（无空行）
             for i in range(0, len(sorted_tags), 4):
                 cols = []
                 for j in range(4):
@@ -305,6 +306,7 @@ class GitHubStarAnalyzer:
                         cols.append(f"[`{tag}`]({tag_link}) ({count})")
                     else:
                         cols.append("")
+                # 表格行末尾加 \n，用空字符串join避免双换行
                 lines.append(f"| {cols[0]} | {cols[1]} | {cols[2]} | {cols[3]} |\n")
 
         lines.append("\n---\n")
@@ -371,7 +373,8 @@ class GitHubStarAnalyzer:
             lines.append("\n".join(repo_links))
             lines.append("\n")
 
-        return "\n".join(lines)
+        # 直接合并，因为每个元素已经包含了正确的换行
+        return "".join(lines)
 
     def _slugify(self, text: str) -> str:
         """生成URL友好的slug"""
