@@ -8,6 +8,9 @@ on:
 
 permissions:
   contents: write
+  # 添加读取用户 star 列表所需的权限
+  read:org: read
+  read:user: read
 
 jobs:
   analyze:
@@ -37,7 +40,8 @@ jobs:
 
       - name: Run star analyzer
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          # 优先使用自定义的 MY_GITHUB_TOKEN（如配置了的话），否则使用默认的
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN || github.token }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
