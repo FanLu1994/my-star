@@ -4050,5 +4050,35 @@
     "stars": 15062,
     "starred_at": "",
     "original_description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️"
+  },
+  "1131513930": {
+    "description": "这是一个基于LLM的A股和H股智能分析工具，整合多数据源行情、实时新闻和Gemini决策，提供自动化股票分析和推送服务。",
+    "category": "AI/机器学习",
+    "tags": [
+      "量化交易",
+      "AI助手"
+    ],
+    "use_case": "适用于个人投资者或量化爱好者进行自动化股票分析、市场监控和投资决策辅助，通过零成本方案实现定时运行的智能投顾功能。",
+    "repo_name": "ZhuLinsen/daily_stock_analysis",
+    "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "language": "Python",
+    "stars": 3724,
+    "starred_at": "",
+    "original_description": "LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行"
+  },
+  "77213120": {
+    "description": "Tabby是一个现代化的跨平台终端模拟器，支持SSH、串口和Telnet连接。",
+    "category": "工具/库",
+    "tags": [
+      "终端模拟器",
+      "SSH客户端"
+    ],
+    "use_case": "适用于开发者和系统管理员进行远程服务器管理、本地命令行操作以及串口设备调试。",
+    "repo_name": "Eugeny/tabby",
+    "repo_url": "https://github.com/Eugeny/tabby",
+    "language": "TypeScript",
+    "stars": 68296,
+    "starred_at": "",
+    "original_description": "A terminal for a more modern age"
   }
 }
