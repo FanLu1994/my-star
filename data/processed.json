@@ -4080,5 +4080,35 @@
     "stars": 68296,
     "starred_at": "",
     "original_description": "A terminal for a more modern age"
+  },
+  "1001684671": {
+    "description": "这是一个基于GPU加速的非破坏性RAW图像编辑器，专注于高性能图像处理。",
+    "category": "工具/库",
+    "tags": [
+      "图像处理",
+      "RAW编辑"
+    ],
+    "use_case": "适用于摄影师和设计师快速、高效地编辑RAW格式照片，支持无损编辑和GPU加速处理。",
+    "repo_name": "CyberTimon/RapidRAW",
+    "repo_url": "https://github.com/CyberTimon/RapidRAW",
+    "language": "TypeScript",
+    "stars": 4262,
+    "starred_at": "",
+    "original_description": "A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind."
+  },
+  "1081230042": {
+    "description": "这是一个支持从全球多个网站下载视频的TypeScript工具",
+    "category": "工具/库",
+    "tags": [
+      "视频下载",
+      "跨平台"
+    ],
+    "use_case": "用户需要从Facebook、TikTok、Twitter、YouTube等网站下载视频时使用",
+    "repo_name": "nexmoe/VidBee",
+    "repo_url": "https://github.com/nexmoe/VidBee",
+    "language": "TypeScript",
+    "stars": 4081,
+    "starred_at": "",
+    "original_description": "Download videos from almost any website worldwide"
   }
 }
