@@ -4110,5 +4110,35 @@
     "stars": 4081,
     "starred_at": "",
     "original_description": "Download videos from almost any website worldwide"
+  },
+  "274495425": {
+    "description": "这是一个使用React以编程方式创建视频的库。",
+    "category": "工具/库",
+    "tags": [
+      "视频生成",
+      "React"
+    ],
+    "use_case": "开发者可以用React组件和代码逻辑动态生成和渲染视频，适用于创建自动化视频内容、数据可视化视频、个性化视频消息等场景。",
+    "repo_name": "remotion-dev/remotion",
+    "repo_url": "https://github.com/remotion-dev/remotion",
+    "language": "TypeScript",
+    "stars": 28408,
+    "starred_at": "",
+    "original_description": "🎥      Make videos programmatically with React"
+  },
+  "1136608164": {
+    "description": "这是一个为AI智能体提供可视化反馈的工具。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI工具",
+      "可视化"
+    ],
+    "use_case": "开发者在构建或调试AI智能体时，可以使用此工具来直观地观察和分析智能体的决策过程与状态变化。",
+    "repo_name": "benjitaylor/agentation",
+    "repo_url": "https://github.com/benjitaylor/agentation",
+    "language": "TypeScript",
+    "stars": 1008,
+    "starred_at": "",
+    "original_description": "The visual feedback tool for agents."
   }
 }
