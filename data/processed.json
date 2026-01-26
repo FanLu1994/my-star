@@ -4140,5 +4140,20 @@
     "stars": 1008,
     "starred_at": "",
     "original_description": "The visual feedback tool for agents."
+  },
+  "1103012935": {
+    "description": "这是一个跨平台的个人AI助手，让用户能够拥有和控制自己的数据。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI助手",
+      "数据主权"
+    ],
+    "use_case": "用户可以在任何操作系统或平台上部署此助手，作为个人AI伴侣，处理日常任务、回答问题或进行自动化操作，同时确保所有数据由用户自己掌控。",
+    "repo_name": "clawdbot/clawdbot",
+    "repo_url": "https://github.com/clawdbot/clawdbot",
+    "language": "TypeScript",
+    "stars": 19444,
+    "starred_at": "",
+    "original_description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 "
   }
 }
