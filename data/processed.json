@@ -4155,5 +4155,20 @@
     "stars": 19444,
     "starred_at": "",
     "original_description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 "
+  },
+  "1021895365": {
+    "description": "这是一个为Codex和Claude Code提供移动端和Web端客户端的项目，支持实时语音、加密和全功能特性。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI助手",
+      "实时通信"
+    ],
+    "use_case": "用户可通过移动设备或网页与Codex和Claude Code等AI代码助手进行交互，实现实时语音对话、加密通信及代码协作。",
+    "repo_name": "slopus/happy",
+    "repo_url": "https://github.com/slopus/happy",
+    "language": "TypeScript",
+    "stars": 9254,
+    "starred_at": "",
+    "original_description": "Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured"
   }
 }
