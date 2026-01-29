@@ -4170,5 +4170,36 @@
     "stars": 9254,
     "starred_at": "",
     "original_description": "Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured"
+  },
+  "1130381422": {
+    "description": "这是一个使用Python代码将城市地图转换为简约风格海报的工具",
+    "category": "工具/库",
+    "tags": [
+      "地图可视化",
+      "设计工具"
+    ],
+    "use_case": "用户可以通过编写Python代码，选择特定城市区域，生成具有艺术感的地图海报，适用于个人装饰、礼品制作或数据可视化项目",
+    "repo_name": "originalankur/maptoposter",
+    "repo_url": "https://github.com/originalankur/maptoposter",
+    "language": "Python",
+    "stars": 8358,
+    "starred_at": "",
+    "original_description": "Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code."
+  },
+  "1131419881": {
+    "description": "这是一个用于在Windows系统上显示小型通知的轻量级命令行工具。",
+    "category": "工具/库",
+    "tags": [
+      "Windows",
+      "命令行工具",
+      "通知"
+    ],
+    "use_case": "开发者或脚本可以通过命令行快速触发Windows桌面通知，用于任务完成提醒、错误提示或自动化流程中的状态反馈。",
+    "repo_name": "shanselman/toasty",
+    "repo_url": "https://github.com/shanselman/toasty",
+    "language": "C++",
+    "stars": 215,
+    "starred_at": "",
+    "original_description": "Tiny Windows toast notification CLI (229 KB)"
   }
 }
