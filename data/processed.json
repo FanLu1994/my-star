@@ -4201,5 +4201,20 @@
     "stars": 215,
     "starred_at": "",
     "original_description": "Tiny Windows toast notification CLI (229 KB)"
+  },
+  "1144386801": {
+    "description": "一个用于创建美观Mermaid图表和流程图的TypeScript工具库。",
+    "category": "工具/库",
+    "tags": [
+      "图表",
+      "可视化"
+    ],
+    "use_case": "开发者可以在Web应用或文档中集成此库，以生成和自定义Mermaid图表，用于技术文档、系统架构图或流程图的可视化展示。",
+    "repo_name": "lukilabs/beautiful-mermaid",
+    "repo_url": "https://github.com/lukilabs/beautiful-mermaid",
+    "language": "TypeScript",
+    "stars": 4527,
+    "starred_at": "",
+    "original_description": null
   }
 }
