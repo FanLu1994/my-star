@@ -4216,5 +4216,36 @@
     "stars": 4527,
     "starred_at": "",
     "original_description": null
+  },
+  "1074561042": {
+    "description": "这是一个为AI编程助手提供内存增强功能的Go语言库，旨在提升编码代理的长期记忆能力。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI编程助手",
+      "内存管理",
+      "Go库"
+    ],
+    "use_case": "用于增强Claude Code等AI编程助手的上下文记忆能力，使其在长时间编码会话中能更好地记住之前的代码结构和决策。",
+    "repo_name": "steveyegge/beads",
+    "repo_url": "https://github.com/steveyegge/beads",
+    "language": "Go",
+    "stars": 14361,
+    "starred_at": "",
+    "original_description": "Beads - A memory upgrade for your coding agent"
+  },
+  "455229168": {
+    "description": "Immich是一个高性能的自托管照片和视频管理解决方案，旨在替代Google Photos。",
+    "category": "工具/库",
+    "tags": [
+      "自托管",
+      "照片管理"
+    ],
+    "use_case": "适用于个人或组织希望完全控制自己的照片和视频数据，通过私有服务器进行备份、管理和分享，避免依赖第三方云服务。",
+    "repo_name": "immich-app/immich",
+    "repo_url": "https://github.com/immich-app/immich",
+    "language": "TypeScript",
+    "stars": 91467,
+    "starred_at": "",
+    "original_description": "High performance self-hosted photo and video management solution."
   }
 }
