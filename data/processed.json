@@ -4277,5 +4277,20 @@
     "stars": 10094,
     "starred_at": "",
     "original_description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+  },
+  "1083188349": {
+    "description": "这是一个将Markdown格式和AI对话内容一键粘贴到Word、WPS和Excel中的效率工具。",
+    "category": "工具/库",
+    "tags": [
+      "生产力工具",
+      "格式转换"
+    ],
+    "use_case": "用户在与ChatGPT、DeepSeek等AI对话后，需要将对话内容（含Markdown格式、代码块、数学公式等）完整、美观地复制到Office文档中时使用。",
+    "repo_name": "RICHQAQ/PasteMD",
+    "repo_url": "https://github.com/RICHQAQ/PasteMD",
+    "language": "Python",
+    "stars": 4011,
+    "starred_at": "",
+    "original_description": "一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly."
   }
 }
