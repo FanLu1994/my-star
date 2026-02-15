@@ -1,14 +1,14 @@
 # 我的 GitHub Star 收藏 :star:
-> 最后更新: 2026-02-14 00:13:16 | 总计: **284** 个仓库 | 分类: **10** 个 | 标签: **395** 个
+> 最后更新: 2026-02-15 00:12:46 | 总计: **288** 个仓库 | 分类: **10** 个 | 标签: **399** 个
 
 ---
 ## :open_file_folder: 分类目录
 
 | 分类 | 数量 | 分类 | 数量 |
 |------|------|------|------|
-| [AI/机器学习](#ai机器学习) | 42 | [Web开发](#web开发) | 17 |
-| [移动开发](#移动开发) | 28 | [框架](#框架) | 6 |
-| [数据库](#数据库) | 5 | [工具/库](#工具库) | 143 |
+| [AI/机器学习](#ai机器学习) | 44 | [Web开发](#web开发) | 17 |
+| [移动开发](#移动开发) | 28 | [框架](#框架) | 7 |
+| [数据库](#数据库) | 5 | [工具/库](#工具库) | 144 |
 | [DevOps/基础设施](#devops基础设施) | 11 | [游戏](#游戏) | 22 |
 | [教育](#教育) | 6 | [其他](#其他) | 4 |
 
@@ -18,14 +18,14 @@
 | | | | |
 |---|---|---|---|
 | [`自动化测试`](#tag-自动化测试) (17) | [`Android`](#tag-android) (12) | [`逆向工程`](#tag-逆向工程) (11) | [`开发工具`](#tag-开发工具) (9) |
-| [`性能测试`](#tag-性能测试) (9) | [`AI助手`](#tag-ai助手) (8) | [`性能分析`](#tag-性能分析) (8) | [`AI代理`](#tag-ai代理) (7) |
-| [`iOS`](#tag-ios) (7) | [`自动化`](#tag-自动化) (6) | [`Android工具`](#tag-android工具) (6) | [`游戏开发`](#tag-游戏开发) (6) |
-| [`自托管`](#tag-自托管) (5) | [`桌面应用`](#tag-桌面应用) (5) | [`跨平台`](#tag-跨平台) (4) | [`ADB`](#tag-adb) (4) |
-| [`Python`](#tag-python) (4) | [`浏览器扩展`](#tag-浏览器扩展) (4) | [`设备管理`](#tag-设备管理) (4) | [`AI智能体`](#tag-ai智能体) (3) |
-| [`可视化`](#tag-可视化) (3) | [`Windows`](#tag-windows) (3) | [`AI工具`](#tag-ai工具) (3) | [`AI开发工具`](#tag-ai开发工具) (3) |
-| [`MCP`](#tag-mcp) (3) | [`UI设计`](#tag-ui设计) (3) | [`浏览器自动化`](#tag-浏览器自动化) (3) | [`TypeScript库`](#tag-typescript库) (3) |
-| [`Android自动化`](#tag-android自动化) (3) | [`移动自动化`](#tag-移动自动化) (3) | [`游戏工具`](#tag-游戏工具) (3) | [`学习资源`](#tag-学习资源) (3) |
-| [`教程`](#tag-教程) (3) | [`开发者工具`](#tag-开发者工具) (3) | [`游戏开发工具`](#tag-游戏开发工具) (3) | [`文件管理`](#tag-文件管理) (3) |
+| [`性能测试`](#tag-性能测试) (9) | [`AI助手`](#tag-ai助手) (8) | [`性能分析`](#tag-性能分析) (8) | [`自动化`](#tag-自动化) (7) |
+| [`桌面应用`](#tag-桌面应用) (7) | [`AI代理`](#tag-ai代理) (7) | [`iOS`](#tag-ios) (7) | [`Android工具`](#tag-android工具) (6) |
+| [`游戏开发`](#tag-游戏开发) (6) | [`自托管`](#tag-自托管) (5) | [`文件管理`](#tag-文件管理) (4) | [`跨平台`](#tag-跨平台) (4) |
+| [`ADB`](#tag-adb) (4) | [`Python`](#tag-python) (4) | [`浏览器扩展`](#tag-浏览器扩展) (4) | [`设备管理`](#tag-设备管理) (4) |
+| [`AI智能体`](#tag-ai智能体) (3) | [`可视化`](#tag-可视化) (3) | [`Windows`](#tag-windows) (3) | [`AI工具`](#tag-ai工具) (3) |
+| [`AI开发工具`](#tag-ai开发工具) (3) | [`MCP`](#tag-mcp) (3) | [`UI设计`](#tag-ui设计) (3) | [`浏览器自动化`](#tag-浏览器自动化) (3) |
+| [`TypeScript库`](#tag-typescript库) (3) | [`Android自动化`](#tag-android自动化) (3) | [`移动自动化`](#tag-移动自动化) (3) | [`游戏工具`](#tag-游戏工具) (3) |
+| [`学习资源`](#tag-学习资源) (3) | [`教程`](#tag-教程) (3) | [`开发者工具`](#tag-开发者工具) (3) | [`游戏开发工具`](#tag-游戏开发工具) (3) |
 | [`Vue组件`](#tag-vue组件) (3) | [`iOS开发`](#tag-ios开发) (3) | [`负载测试`](#tag-负载测试) (3) | [`生产力工具`](#tag-生产力工具) (2) |
 | [`AI编程助手`](#tag-ai编程助手) (2) | [`命令行工具`](#tag-命令行工具) (2) | [`视频下载`](#tag-视频下载) (2) | [`终端模拟器`](#tag-终端模拟器) (2) |
 | [`SSH客户端`](#tag-ssh客户端) (2) | [`文件转换`](#tag-文件转换) (2) | [`Obsidian插件`](#tag-obsidian插件) (2) | [`AI集成`](#tag-ai集成) (2) |
@@ -39,7 +39,8 @@
 | [`终端工具`](#tag-终端工具) (2) | [`TypeScript`](#tag-typescript) (2) | [`屏幕镜像`](#tag-屏幕镜像) (2) | [`调试工具`](#tag-调试工具) (2) |
 | [`远程控制`](#tag-远程控制) (2) | [`电视直播`](#tag-电视直播) (2) | [`Node.js`](#tag-nodejs) (2) | [`IPTV`](#tag-iptv) (2) |
 | [`移动测试`](#tag-移动测试) (2) | [`Python工具`](#tag-python工具) (2) | [`安全工具`](#tag-安全工具) (2) | [`虚幻引擎`](#tag-虚幻引擎) (2) |
-| [`WebUSB`](#tag-webusb) (2) | [`格式转换`](#tag-格式转换) (1) | [`上下文管理`](#tag-上下文管理) (1) | [`LLM工具`](#tag-llm工具) (1) |
+| [`WebUSB`](#tag-webusb) (2) | [`内容生成`](#tag-内容生成) (1) | [`桌面应用开发`](#tag-桌面应用开发) (1) | [`前端模板`](#tag-前端模板) (1) |
+| [`语音助手`](#tag-语音助手) (1) | [`格式转换`](#tag-格式转换) (1) | [`上下文管理`](#tag-上下文管理) (1) | [`LLM工具`](#tag-llm工具) (1) |
 | [`内存管理`](#tag-内存管理) (1) | [`Go库`](#tag-go库) (1) | [`照片管理`](#tag-照片管理) (1) | [`图表`](#tag-图表) (1) |
 | [`地图可视化`](#tag-地图可视化) (1) | [`设计工具`](#tag-设计工具) (1) | [`通知`](#tag-通知) (1) | [`实时通信`](#tag-实时通信) (1) |
 | [`数据主权`](#tag-数据主权) (1) | [`视频生成`](#tag-视频生成) (1) | [`React`](#tag-react) (1) | [`图像处理`](#tag-图像处理) (1) |
@@ -121,7 +122,7 @@
 
 ## AI/机器学习
 <a name="ai机器学习"></a>
-**42** 个仓库
+**44** 个仓库
 
 ### [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
 **⭐ 51917** | **Python**
@@ -541,6 +542,26 @@ OneContext是一个为AI智能体提供统一上下文管理的代理自管理�
 标签: [`LLM安全`](#tag-llm安全) [`隐私保护`](#tag-隐私保护) [`API网关`](#tag-api网关)
 
 **使用场景**: 在调用大型语言模型API时保护敏感数据、管理请求路由并确保隐私合规。
+
+---
+### [Pangu-Immortal/hunter-ai-content-factory](https://github.com/Pangu-Immortal/hunter-ai-content-factory)
+**⭐ 213** | **Python**
+
+这是一个利用AI自动采集热点、生成文章和插图并发布的自动化内容创作系统。
+
+标签: [`自动化`](#tag-自动化) [`内容生成`](#tag-内容生成)
+
+**使用场景**: 适用于需要自动化内容创作和发布的场景，如博客、新闻聚合或社交媒体运营，以节省人工选题和写作时间。
+
+---
+### [andyhuo520/openclaw-assistant-mvp](https://github.com/andyhuo520/openclaw-assistant-mvp)
+**⭐ 181** | **JavaScript**
+
+这是一个基于Electron的桌面AI语音助手，具有Live2D角色动画、实时语音识别和文本转语音功能。
+
+标签: [`语音助手`](#tag-语音助手) [`桌面应用`](#tag-桌面应用)
+
+**使用场景**: 可作为个人桌面助手，通过语音交互执行任务、提供信息或娱乐，适用于需要便捷语音操作和可视化交互的场景。
 
 ---
 
@@ -1006,7 +1027,7 @@ Sonic云真机平台的Android插件，用于在云端管理和测试Android设�
 
 ## 框架
 <a name="框架"></a>
-**6** 个仓库
+**7** 个仓库
 
 ### [obra/superpowers](https://github.com/obra/superpowers)
 **⭐ 27956** | **Shell**
@@ -1068,6 +1089,16 @@ Monibuca是一个模块化、可扩展的流媒体服务器框架，用于构建
 **使用场景**: 适用于需要处理多种流媒体协议（如RTMP、WebRTC、HLS等）的直播平台、视频会议系统或在线教育场景。
 
 ---
+### [LuanRoger/electron-shadcn](https://github.com/LuanRoger/electron-shadcn)
+**⭐ 720** | **TypeScript**
+
+这是一个基于Electron Forge和shadcn-ui的桌面应用开发模板，集成了Vite、TypeScript等现代前端工具链。
+
+标签: [`桌面应用开发`](#tag-桌面应用开发) [`前端模板`](#tag-前端模板)
+
+**使用场景**: 开发者可以使用此模板快速搭建现代化的跨平台桌面应用程序，特别适合需要结合Electron桌面能力和shadcn-ui设计系统的项目。
+
+---
 
 ## 数据库
 <a name="数据库"></a>
@@ -1126,7 +1157,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
 ## 工具/库
 <a name="工具库"></a>
-**143** 个仓库
+**144** 个仓库
 
 ### [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
 **⭐ 134282** | **C**
@@ -2168,6 +2199,16 @@ PyMpler是一个用于测量、监控和分析Python应用程序中对象内存�
 **使用场景**: 用于开发者和系统管理员高效地浏览、搜索和分析大型日志文件，支持正则表达式和高亮显示。
 
 ---
+### [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer)
+**⭐ 1306** | **Rust**
+
+这是一个使用Tauri和React开发的快速文件资源管理器。
+
+标签: [`桌面应用`](#tag-桌面应用) [`文件管理`](#tag-文件管理)
+
+**使用场景**: 用于在桌面环境中快速浏览和管理本地文件系统，提供现代化的图形界面。
+
+---
 ### [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)
 **⭐ 1301** | **TypeScript**
 
@@ -3098,6 +3139,26 @@ Envoy是一个云原生高性能边缘/中间/服务代理，用于处理服务�
 - [vinjn/perf-doctor](https://github.com/vinjn/perf-doctor) (450 :star:)
 - [ARM-software/libGPUCounters](https://github.com/ARM-software/libGPUCounters) (259 :star:)
 
+#### `自动化`
+<a name="tag-自动化"></a>
+- [clearw5/Auto.js](https://github.com/clearw5/Auto.js) (12848 :star:)
+- [asweigart/pyautogui](https://github.com/asweigart/pyautogui) (12222 :star:)
+- [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) (6991 :star:)
+- [allinssl/allinssl](https://github.com/allinssl/allinssl) (3270 :star:)
+- [difyz9/ytb2bili](https://github.com/difyz9/ytb2bili) (1339 :star:)
+- [browser-use/qa-use](https://github.com/browser-use/qa-use) (444 :star:)
+- [Pangu-Immortal/hunter-ai-content-factory](https://github.com/Pangu-Immortal/hunter-ai-content-factory) (213 :star:)
+
+#### `桌面应用`
+<a name="tag-桌面应用"></a>
+- [tw93/Pake](https://github.com/tw93/Pake) (44860 :star:)
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) (16737 :star:)
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) (12017 :star:)
+- [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor) (3320 :star:)
+- [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) (1306 :star:)
+- [ihatecsv/deepseek-ocr-client](https://github.com/ihatecsv/deepseek-ocr-client) (729 :star:)
+- [andyhuo520/openclaw-assistant-mvp](https://github.com/andyhuo520/openclaw-assistant-mvp) (181 :star:)
+
 #### `AI代理`
 <a name="tag-ai代理"></a>
 - [anthropics/skills](https://github.com/anthropics/skills) (44227 :star:)
@@ -3117,15 +3178,6 @@ Envoy是一个云原生高性能边缘/中间/服务代理，用于处理服务�
 - [codeskyblue/tidevice3](https://github.com/codeskyblue/tidevice3) (276 :star:)
 - [SonicCloudOrg/sonic-ios-wda](https://github.com/SonicCloudOrg/sonic-ios-wda) (29 :star:)
 - [15525730080/iOS17_perf](https://github.com/15525730080/iOS17_perf) (21 :star:)
-
-#### `自动化`
-<a name="tag-自动化"></a>
-- [clearw5/Auto.js](https://github.com/clearw5/Auto.js) (12848 :star:)
-- [asweigart/pyautogui](https://github.com/asweigart/pyautogui) (12222 :star:)
-- [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) (6991 :star:)
-- [allinssl/allinssl](https://github.com/allinssl/allinssl) (3270 :star:)
-- [difyz9/ytb2bili](https://github.com/difyz9/ytb2bili) (1339 :star:)
-- [browser-use/qa-use](https://github.com/browser-use/qa-use) (444 :star:)
 
 #### `Android工具`
 <a name="tag-android工具"></a>
@@ -3153,13 +3205,12 @@ Envoy是一个云原生高性能边缘/中间/服务代理，用于处理服务�
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) (32997 :star:)
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) (15062 :star:)
 
-#### `桌面应用`
-<a name="tag-桌面应用"></a>
-- [tw93/Pake](https://github.com/tw93/Pake) (44860 :star:)
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) (16737 :star:)
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) (12017 :star:)
-- [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor) (3320 :star:)
-- [ihatecsv/deepseek-ocr-client](https://github.com/ihatecsv/deepseek-ocr-client) (729 :star:)
+#### `文件管理`
+<a name="tag-文件管理"></a>
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) (32997 :star:)
+- [moudey/Shell](https://github.com/moudey/Shell) (6147 :star:)
+- [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) (5992 :star:)
+- [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) (1306 :star:)
 
 #### `跨平台`
 <a name="tag-跨平台"></a>
@@ -3291,12 +3342,6 @@ Envoy是一个云原生高性能边缘/中间/服务代理，用于处理服务�
 - [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) (8499 :star:)
 - [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) (4978 :star:)
 - [jashking/UnrealPakViewer](https://github.com/jashking/UnrealPakViewer) (1378 :star:)
-
-#### `文件管理`
-<a name="tag-文件管理"></a>
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) (32997 :star:)
-- [moudey/Shell](https://github.com/moudey/Shell) (6147 :star:)
-- [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) (5992 :star:)
 
 #### `Vue组件`
 <a name="tag-vue组件"></a>

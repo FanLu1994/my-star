@@ -4292,5 +4292,65 @@
     "stars": 4011,
     "starred_at": "",
     "original_description": "一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly."
+  },
+  "1139746805": {
+    "description": "这是一个利用AI自动采集热点、生成文章和插图并发布的自动化内容创作系统。",
+    "category": "AI/机器学习",
+    "tags": [
+      "自动化",
+      "内容生成"
+    ],
+    "use_case": "适用于需要自动化内容创作和发布的场景，如博客、新闻聚合或社交媒体运营，以节省人工选题和写作时间。",
+    "repo_name": "Pangu-Immortal/hunter-ai-content-factory",
+    "repo_url": "https://github.com/Pangu-Immortal/hunter-ai-content-factory",
+    "language": "Python",
+    "stars": 213,
+    "starred_at": "",
+    "original_description": "自动发布 24 小时情报系统：好文章的 80% 在于选题。Hunter AI 自动从 GitHub Trending、Twitter、HackerNews Reddit 等平台采集热点，用 AI 判断哪些值得写，自动生成文章和插图，自动发布。"
+  },
+  "741963118": {
+    "description": "这是一个基于Electron Forge和shadcn-ui的桌面应用开发模板，集成了Vite、TypeScript等现代前端工具链。",
+    "category": "框架",
+    "tags": [
+      "桌面应用开发",
+      "前端模板"
+    ],
+    "use_case": "开发者可以使用此模板快速搭建现代化的跨平台桌面应用程序，特别适合需要结合Electron桌面能力和shadcn-ui设计系统的项目。",
+    "repo_name": "LuanRoger/electron-shadcn",
+    "repo_url": "https://github.com/LuanRoger/electron-shadcn",
+    "language": "TypeScript",
+    "stars": 720,
+    "starred_at": "",
+    "original_description": ":electron: Electron Forge with shadcn-ui (Vite + Typescript)"
+  },
+  "652584079": {
+    "description": "这是一个使用Tauri和React开发的快速文件资源管理器。",
+    "category": "工具/库",
+    "tags": [
+      "桌面应用",
+      "文件管理"
+    ],
+    "use_case": "用于在桌面环境中快速浏览和管理本地文件系统，提供现代化的图形界面。",
+    "repo_name": "conaticus/FileExplorer",
+    "repo_url": "https://github.com/conaticus/FileExplorer",
+    "language": "Rust",
+    "stars": 1306,
+    "starred_at": "",
+    "original_description": "Fast file explorer written with Tauri and React."
+  },
+  "1157128270": {
+    "description": "这是一个基于Electron的桌面AI语音助手，具有Live2D角色动画、实时语音识别和文本转语音功能。",
+    "category": "AI/机器学习",
+    "tags": [
+      "语音助手",
+      "桌面应用"
+    ],
+    "use_case": "可作为个人桌面助手，通过语音交互执行任务、提供信息或娱乐，适用于需要便捷语音操作和可视化交互的场景。",
+    "repo_name": "andyhuo520/openclaw-assistant-mvp",
+    "repo_url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
+    "language": "JavaScript",
+    "stars": 181,
+    "starred_at": "",
+    "original_description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech"
   }
 }
