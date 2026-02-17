@@ -4367,5 +4367,20 @@
     "stars": 3874,
     "starred_at": "",
     "original_description": "claw done right 🦀"
+  },
+  "1122242121": {
+    "description": "这是一个支持多种AI代码助手（Claude Code/Codex/Gemini/OpenCode）的移动应用，让开发者可以随时随地通过AI辅助进行编程。",
+    "category": "移动开发",
+    "tags": [
+      "AI编程助手",
+      "移动开发工具"
+    ],
+    "use_case": "开发者在移动设备上使用AI代码助手进行代码编写、调试或学习编程，适合通勤、外出等碎片化时间进行编码工作。",
+    "repo_name": "tiann/hapi",
+    "repo_url": "https://github.com/tiann/hapi",
+    "language": "TypeScript",
+    "stars": 1505,
+    "starred_at": "",
+    "original_description": "App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere"
   }
 }
