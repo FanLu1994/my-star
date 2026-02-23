@@ -4397,5 +4397,80 @@
     "stars": 5190,
     "starred_at": "",
     "original_description": "A lightweight, lightning-fast, in-process vector database"
+  },
+  "943398999": {
+    "description": "这是一个收集和整理各种AI编程工具（如Cursor、Devin AI、Replit等）的系统提示词、内部工具和AI模型的仓库。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI工具",
+      "系统提示词"
+    ],
+    "use_case": "为开发者或研究人员提供参考，用于了解、复现或改进各类AI辅助编程工具的内部工作机制和提示策略。",
+    "repo_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "repo_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "language": null,
+    "stars": 117726,
+    "starred_at": "",
+    "original_description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+  },
+  "1153093670": {
+    "description": "这是一个收集OpenClaw使用案例的社区仓库，旨在帮助用户更便捷地应用OpenClaw工具。",
+    "category": "其他",
+    "tags": [
+      "awesome-list",
+      "usecase"
+    ],
+    "use_case": "用户可在此查找和分享OpenClaw（如ClawdBot、MoltBot等工具）的实际应用示例，以提升日常工作效率或解决特定问题。",
+    "repo_name": "hesamsheikh/awesome-openclaw-usecases",
+    "repo_url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "language": null,
+    "stars": 5650,
+    "starred_at": "",
+    "original_description": "A community collection of OpenClaw use cases for making life easier."
+  },
+  "739576520": {
+    "description": "这是一个聚合顶级编程、人工智能、产品及科技文章并提供AI摘要与评分的博客推荐平台。",
+    "category": "AI/机器学习",
+    "tags": [
+      "内容聚合",
+      "AI摘要"
+    ],
+    "use_case": "用户可通过该平台快速发现和筛选高质量的科技文章，利用大语言模型生成的摘要和评分辅助阅读决策，节省信息筛选时间。",
+    "repo_name": "ginobefun/BestBlogs",
+    "repo_url": "https://github.com/ginobefun/BestBlogs",
+    "language": null,
+    "stars": 2989,
+    "starred_at": "",
+    "original_description": "bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来"
+  },
+  "569605317": {
+    "description": "这是一个收集人工智能、机器学习和数据科学领域在线新闻与信息来源的聚合列表。",
+    "category": "AI/机器学习",
+    "tags": [
+      "资源聚合",
+      "信息源"
+    ],
+    "use_case": "开发者或研究人员可以在此快速查找和订阅AI/ML/Data Science相关的博客、新闻、播客、视频、招聘信息等，以跟踪领域动态和获取学习资源。",
+    "repo_name": "foorilla/allainews_sources",
+    "repo_url": "https://github.com/foorilla/allainews_sources",
+    "language": null,
+    "stars": 373,
+    "starred_at": "",
+    "original_description": "A list of online news & info sources in the AI/ML/Data Science space"
+  },
+  "1163177460": {
+    "description": "这是一个用于与小米AI音箱进行交互的Python项目。",
+    "category": "工具/库",
+    "tags": [
+      "智能家居",
+      "语音助手"
+    ],
+    "use_case": "开发者或爱好者可以通过此工具库，使用Python脚本控制或与小米AI音箱进行交互，实现自动化或扩展功能。",
+    "repo_name": "yihong0618/mibe",
+    "repo_url": "https://github.com/yihong0618/mibe",
+    "language": "Python",
+    "stars": 15,
+    "starred_at": "",
+    "original_description": "Vibe with Xiaomi AI Speaker"
   }
 }
