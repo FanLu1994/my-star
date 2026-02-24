@@ -4472,5 +4472,50 @@
     "stars": 15,
     "starred_at": "",
     "original_description": "Vibe with Xiaomi AI Speaker"
+  },
+  "1159576735": {
+    "description": "这是一个基于Go语言开发的、功能比OpenClaw更强大的智能化代理（agent）软件。",
+    "category": "AI/机器学习",
+    "tags": [
+      "智能代理",
+      "自动化工具"
+    ],
+    "use_case": "可用于自动化任务处理、智能助手或需要高级代理功能的场景，提供比同类工具更人性化和强大的交互与执行能力。",
+    "repo_name": "Kxiandaoyan/Memoh-v2",
+    "repo_url": "https://github.com/Kxiandaoyan/Memoh-v2",
+    "language": "Go",
+    "stars": 165,
+    "starred_at": "",
+    "original_description": "比OpenClaw强大数倍的人性化agent,龙虾有的我都有,龙虾没有的,我也有."
+  },
+  "1161885955": {
+    "description": "这是一个为技术爱好者设计的Chromium浏览器扩展，用于自定义新标签页的启动界面。",
+    "category": "Web开发",
+    "tags": [
+      "浏览器扩展",
+      "TypeScript"
+    ],
+    "use_case": "用户安装此扩展后，可以在打开新标签页时看到一个自定义的、可能包含快捷链接或技术相关信息的启动页面，替代默认的空白页或搜索引擎主页。",
+    "repo_name": "TheCSir/TerminalStart",
+    "repo_url": "https://github.com/TheCSir/TerminalStart",
+    "language": "TypeScript",
+    "stars": 194,
+    "starred_at": "",
+    "original_description": "Chromium Extension for Tech Bros"
+  },
+  "1163251644": {
+    "description": "这是一个基于AI的新闻摘要工具，从Twitter/RSS源提取结构化摘要并提供网页仪表板",
+    "category": "AI/机器学习",
+    "tags": [
+      "新闻聚合",
+      "AI摘要"
+    ],
+    "use_case": "用户可以通过该工具聚合多个新闻源，利用AI生成结构化摘要，在网页仪表板上高效浏览新闻内容",
+    "repo_name": "kevinho/clawfeed",
+    "repo_url": "https://github.com/kevinho/clawfeed",
+    "language": "HTML",
+    "stars": 197,
+    "starred_at": "",
+    "original_description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard"
   }
 }
