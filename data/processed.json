@@ -4517,5 +4517,20 @@
     "stars": 197,
     "starred_at": "",
     "original_description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard"
+  },
+  "1162099055": {
+    "description": "这是一个为AI提供审美判断能力的前端工具，旨在提升AI生成内容的品味和质量。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI工具",
+      "前端开发"
+    ],
+    "use_case": "用于增强AI助手或代码生成工具的输出质量，避免生成平庸、通用或低质量的内容，特别适用于需要创意或设计感的前端开发场景。",
+    "repo_name": "Leonxlnx/taste-skill",
+    "repo_url": "https://github.com/Leonxlnx/taste-skill",
+    "language": null,
+    "stars": 1395,
+    "starred_at": "",
+    "original_description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" "
   }
 }
