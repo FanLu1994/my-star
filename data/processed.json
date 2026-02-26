@@ -4248,21 +4248,6 @@
     "starred_at": "",
     "original_description": "High performance self-hosted photo and video management solution."
   },
-  "1152833832": {
-    "description": "OneContext是一个为AI智能体提供统一上下文管理的代理自管理上下文层。",
-    "category": "AI/机器学习",
-    "tags": [
-      "AI智能体",
-      "上下文管理"
-    ],
-    "use_case": "为开发团队中的多个AI智能体提供共享和统一的上下文环境，以提升协作效率和智能体性能。",
-    "repo_name": "TheAgentContextLab/OneContext",
-    "repo_url": "https://github.com/TheAgentContextLab/OneContext",
-    "language": null,
-    "stars": 773,
-    "starred_at": "",
-    "original_description": " OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. "
-  },
   "1035029907": {
     "description": "这是一个AI代理工具包，提供编码代理CLI、统一的LLM API、TUI和Web UI库、Slack机器人以及vLLM pods等功能。",
     "category": "AI/机器学习",
@@ -4532,5 +4517,20 @@
     "stars": 1395,
     "starred_at": "",
     "original_description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" "
+  },
+  "1008373485": {
+    "description": "这是一个为Claude Code、Cursor CLI和Codex提供移动端和网页端界面的开源GUI工具，帮助用户远程管理AI编程会话和项目。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI编程助手",
+      "Web界面"
+    ],
+    "use_case": "开发者可以在手机或网页上通过图形界面使用Claude Code等AI编程工具，远程管理编程会话和项目文件，实现移动端编程辅助。",
+    "repo_name": "siteboon/claudecodeui",
+    "repo_url": "https://github.com/siteboon/claudecodeui",
+    "language": "TypeScript",
+    "stars": 6996,
+    "starred_at": "",
+    "original_description": "Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely"
   }
 }
