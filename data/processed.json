@@ -4532,5 +4532,35 @@
     "stars": 6996,
     "starred_at": "",
     "original_description": "Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely"
+  },
+  "1165277268": {
+    "description": "这是一个为AI智能体提供互联网内容访问能力的命令行工具，支持从多个社交媒体平台免费抓取数据。",
+    "category": "工具/库",
+    "tags": [
+      "AI工具",
+      "网络爬虫"
+    ],
+    "use_case": "开发AI智能体时，需要让智能体获取Twitter、Reddit、YouTube等平台的实时信息进行分析或决策，无需支付API费用即可实现数据采集。",
+    "repo_name": "Panniantong/Agent-Reach",
+    "repo_url": "https://github.com/Panniantong/Agent-Reach",
+    "language": "Python",
+    "stars": 1785,
+    "starred_at": "",
+    "original_description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+  },
+  "1149707767": {
+    "description": "一个轻量级、高性能的Go语言自动化工具，用于简化重复性任务和部署流程。",
+    "category": "工具/库",
+    "tags": [
+      "自动化",
+      "Go工具"
+    ],
+    "use_case": "适用于开发人员自动化日常重复任务（如文件处理、部署脚本）、快速构建轻量级CLI工具，以及需要跨平台部署的自动化场景。",
+    "repo_name": "sipeed/picoclaw",
+    "repo_url": "https://github.com/sipeed/picoclaw",
+    "language": "Go",
+    "stars": 20378,
+    "starred_at": "",
+    "original_description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity"
   }
 }
