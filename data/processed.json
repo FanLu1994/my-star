@@ -4308,21 +4308,6 @@
     "starred_at": "",
     "original_description": ":electron: Electron Forge with shadcn-ui (Vite + Typescript)"
   },
-  "652584079": {
-    "description": "这是一个使用Tauri和React开发的快速文件资源管理器。",
-    "category": "工具/库",
-    "tags": [
-      "桌面应用",
-      "文件管理"
-    ],
-    "use_case": "用于在桌面环境中快速浏览和管理本地文件系统，提供现代化的图形界面。",
-    "repo_name": "conaticus/FileExplorer",
-    "repo_url": "https://github.com/conaticus/FileExplorer",
-    "language": "Rust",
-    "stars": 1306,
-    "starred_at": "",
-    "original_description": "Fast file explorer written with Tauri and React."
-  },
   "1157128270": {
     "description": "这是一个基于Electron的桌面AI语音助手，具有Live2D角色动画、实时语音识别和文本转语音功能。",
     "category": "AI/机器学习",
@@ -4577,5 +4562,50 @@
     "stars": 6996,
     "starred_at": "",
     "original_description": ":electron: A complete tool for building and publishing Electron applications"
+  },
+  "1144284308": {
+    "description": "这是一个为飞书/Lark平台提供OpenClaw AI助手集成配置指南和社区支持的仓库。",
+    "category": "AI/机器学习",
+    "tags": [
+      "飞书插件",
+      "AI助手"
+    ],
+    "use_case": "帮助用户在飞书或Lark工作台中配置和部署OpenClaw AI助手，实现通过Webhook或WebSocket进行智能对话与自动化任务。",
+    "repo_name": "AlexAnys/openclaw-feishu",
+    "repo_url": "https://github.com/AlexAnys/openclaw-feishu",
+    "language": "TypeScript",
+    "stars": 359,
+    "starred_at": "",
+    "original_description": "飞书插件 × OpenClaw 保姆级配置指南 & 社区支持 （0302 - 增加 API 耗尽根因排查、Lark Webhook 内网穿透方案）"
+  },
+  "1167515091": {
+    "description": "这是一个用于在命令行中模拟虚拟手机的Python工具",
+    "category": "工具/库",
+    "tags": [
+      "命令行工具",
+      "虚拟设备"
+    ],
+    "use_case": "开发者可以在没有实体手机的情况下，通过命令行快速测试移动应用或执行自动化脚本",
+    "repo_name": "Lakr233/vphone-cli",
+    "repo_url": "https://github.com/Lakr233/vphone-cli",
+    "language": "Python",
+    "stars": 2606,
+    "starred_at": "",
+    "original_description": null
+  },
+  "1132001614": {
+    "description": "这是一个为AI智能体设计的浏览器自动化命令行工具。",
+    "category": "AI/机器学习",
+    "tags": [
+      "浏览器自动化",
+      "AI智能体"
+    ],
+    "use_case": "用于AI智能体（如自主代理）通过命令行控制浏览器进行网页导航、数据抓取或自动化交互等任务。",
+    "repo_name": "vercel-labs/agent-browser",
+    "repo_url": "https://github.com/vercel-labs/agent-browser",
+    "language": "TypeScript",
+    "stars": 17156,
+    "starred_at": "",
+    "original_description": "Browser automation CLI for AI agents"
   }
 }
