@@ -4607,5 +4607,50 @@
     "stars": 17156,
     "starred_at": "",
     "original_description": "Browser automation CLI for AI agents"
+  },
+  "1118099356": {
+    "description": "这是一个为AI助手和代理设计的个人上下文存储工具，提供桌面GUI和CLI来捕获、搜索和复用项目知识。",
+    "category": "工具/库",
+    "tags": [
+      "AI助手",
+      "开发者工具"
+    ],
+    "use_case": "开发者可与现有AI编码代理（如Codex、Claude）集成，通过桌面界面管理项目上下文，实现跨代理和仓库的知识共享与复用。",
+    "repo_name": "0xranx/OpenContext",
+    "repo_url": "https://github.com/0xranx/OpenContext",
+    "language": "JavaScript",
+    "stars": 410,
+    "starred_at": "",
+    "original_description": "A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos."
+  },
+  "997485797": {
+    "description": "这是一个提供远程访问Claude Code的Telegram机器人，让开发者能在任何地方通过AI辅助进行项目开发并保持会话持久性。",
+    "category": "AI/机器学习",
+    "tags": [
+      "Telegram Bot",
+      "AI助手"
+    ],
+    "use_case": "开发者通过Telegram与Claude Code AI助手交互，远程管理代码项目、获取编程建议和调试帮助，适合移动办公或快速咨询场景。",
+    "repo_name": "RichardAtCT/claude-code-telegram",
+    "repo_url": "https://github.com/RichardAtCT/claude-code-telegram",
+    "language": "Python",
+    "stars": 1874,
+    "starred_at": "",
+    "original_description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence."
+  },
+  "1137553326": {
+    "description": "这是一个基于Python开发的新闻聚合技能，能够从多个信息源收集新闻，深度解析文章内容并提供智能解读。",
+    "category": "AI/机器学习",
+    "tags": [
+      "新闻聚合",
+      "自然语言处理"
+    ],
+    "use_case": "用于构建智能助手或信息平台，自动聚合全网新闻并生成深度分析报告，适用于个人资讯定制或企业舆情监控场景。",
+    "repo_name": "cclank/news-aggregator-skill",
+    "repo_url": "https://github.com/cclank/news-aggregator-skill",
+    "language": "Python",
+    "stars": 383,
+    "starred_at": "",
+    "original_description": "这是一个为您定制的全网新闻聚合skill,支持多个信息源，支持深度获取，能够阅读文章正文并提供有理有据的深度解读。"
   }
 }
