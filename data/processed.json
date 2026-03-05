@@ -4652,5 +4652,21 @@
     "stars": 383,
     "starred_at": "",
     "original_description": "这是一个为您定制的全网新闻聚合skill,支持多个信息源，支持深度获取，能够阅读文章正文并提供有理有据的深度解读。"
+  },
+  "1170475068": {
+    "description": "这是一个为OpenClaw代理设计的自动化安全实践指南，而非传统的人工安全检查清单。",
+    "category": "DevOps/基础设施",
+    "tags": [
+      "安全",
+      "自动化",
+      "Shell脚本"
+    ],
+    "use_case": "用于自动化执行OpenClaw代理的安全配置和加固任务，确保系统安全基线。",
+    "repo_name": "slowmist/openclaw-security-practice-guide",
+    "repo_url": "https://github.com/slowmist/openclaw-security-practice-guide",
+    "language": "Shell",
+    "stars": 943,
+    "starred_at": "",
+    "original_description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist."
   }
 }
