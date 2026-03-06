@@ -4668,5 +4668,50 @@
     "stars": 943,
     "starred_at": "",
     "original_description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist."
+  },
+  "1031738741": {
+    "description": "这是一个基于AI的计算机使用代理，能够自动化操作计算机界面和浏览器",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "use_case": "用于自动化执行计算机上的重复性任务，如网页操作、GUI界面交互等，提高工作效率",
+    "repo_name": "TurixAI/TuriX-CUA",
+    "repo_url": "https://github.com/TurixAI/TuriX-CUA",
+    "language": "Python",
+    "stars": 1080,
+    "starred_at": "",
+    "original_description": "This is the official website for TuriX Computer-use-Agent"
+  },
+  "479491550": {
+    "description": "Memray是一个用于Python的内存分析器，能够检测内存泄漏和进行内存分析。",
+    "category": "工具/库",
+    "tags": [
+      "内存分析",
+      "Python工具"
+    ],
+    "use_case": "用于Python应用程序的内存性能分析，帮助开发者识别内存泄漏、优化内存使用，适用于调试和性能调优场景。",
+    "repo_name": "bloomberg/memray",
+    "repo_url": "https://github.com/bloomberg/memray",
+    "language": "Python",
+    "stars": 14913,
+    "starred_at": "",
+    "original_description": "Memray is a memory profiler for Python"
+  },
+  "1172405518": {
+    "description": "这是一个用于在终端中浏览B站视频、用户和收藏的Python命令行工具。",
+    "category": "工具/库",
+    "tags": [
+      "命令行工具",
+      "Bilibili"
+    ],
+    "use_case": "用户可以在不打开浏览器的情况下，通过终端命令行快速搜索、查看B站视频信息、用户资料或管理收藏内容。",
+    "repo_name": "jackwener/bilibili-cli",
+    "repo_url": "https://github.com/jackwener/bilibili-cli",
+    "language": "Python",
+    "stars": 249,
+    "starred_at": "",
+    "original_description": "A CLI for Bilibili — browse videos, users, favorites from the terminal 📺"
   }
 }
