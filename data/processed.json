@@ -4713,5 +4713,50 @@
     "stars": 249,
     "starred_at": "",
     "original_description": "A CLI for Bilibili — browse videos, users, favorites from the terminal 📺"
+  },
+  "1097346685": {
+    "description": "这是一个为AI设计助手提供设计语言和组件的JavaScript库。",
+    "category": "AI/机器学习",
+    "tags": [
+      "设计系统",
+      "UI组件"
+    ],
+    "use_case": "用于构建或增强AI驱动的设计工具，使其能够生成或建议更一致、专业的用户界面。",
+    "repo_name": "pbakaus/impeccable",
+    "repo_url": "https://github.com/pbakaus/impeccable",
+    "language": "JavaScript",
+    "stars": 1731,
+    "starred_at": "",
+    "original_description": "The design language that makes your AI harness better at design."
+  },
+  "770579617": {
+    "description": "这是一个用于在Linux系统上优雅安装和配置clash/mihomo代理环境的Shell脚本工具。",
+    "category": "工具/库",
+    "tags": [
+      "网络代理",
+      "Linux工具"
+    ],
+    "use_case": "适用于需要在Linux服务器或桌面环境中快速部署和管理clash/mihomo代理服务的用户，简化安装和配置流程。",
+    "repo_name": "nelvko/clash-for-linux-install",
+    "repo_url": "https://github.com/nelvko/clash-for-linux-install",
+    "language": "Shell",
+    "stars": 9877,
+    "starred_at": "",
+    "original_description": "😼 优雅地使用基于 clash/mihomo 的代理环境"
+  },
+  "1173427820": {
+    "description": "这是一个将Claude AI编程助手连接到即时通讯平台的桥接工具。",
+    "category": "工具/库",
+    "tags": [
+      "AI助手集成",
+      "即时通讯机器人"
+    ],
+    "use_case": "用户可以在Telegram、Discord或飞书/Lark等聊天软件中直接与Claude Code/Codex AI编程助手对话，进行代码编写或技术讨论。",
+    "repo_name": "op7418/Claude-to-IM-skill",
+    "repo_url": "https://github.com/op7418/Claude-to-IM-skill",
+    "language": "TypeScript",
+    "stars": 642,
+    "starred_at": "",
+    "original_description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark."
   }
 }
