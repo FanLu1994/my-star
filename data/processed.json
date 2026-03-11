@@ -4758,5 +4758,20 @@
     "stars": 642,
     "starred_at": "",
     "original_description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark."
+  },
+  "1062458369": {
+    "description": "这是一个基于JavaScript的页面GUI代理工具，允许用户通过自然语言控制网页界面。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI代理",
+      "网页自动化"
+    ],
+    "use_case": "用于自动化网页操作，例如通过自然语言指令自动填写表单、点击按钮或执行其他UI交互，适用于测试、数据抓取或辅助用户操作等场景。",
+    "repo_name": "alibaba/page-agent",
+    "repo_url": "https://github.com/alibaba/page-agent",
+    "language": "TypeScript",
+    "stars": 3581,
+    "starred_at": "",
+    "original_description": "JavaScript in-page GUI agent. Control web interfaces with natural language."
   }
 }
