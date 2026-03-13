@@ -4773,5 +4773,36 @@
     "stars": 3581,
     "starred_at": "",
     "original_description": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+  },
+  "1178813768": {
+    "description": "这是一个基于TypeScript开发的控制中心项目，用于管理和监控OpenClaw相关服务。",
+    "category": "工具/库",
+    "tags": [
+      "控制面板",
+      "监控管理"
+    ],
+    "use_case": "适用于需要集中管理和监控分布式服务或设备的场景，提供可视化操作界面。",
+    "repo_name": "TianyiDataScience/openclaw-control-center",
+    "repo_url": "https://github.com/TianyiDataScience/openclaw-control-center",
+    "language": "TypeScript",
+    "stars": 437,
+    "starred_at": "",
+    "original_description": null
+  },
+  "1175748667": {
+    "description": "这是一个通过逆向工程API实现的小红书命令行工具，支持搜索、阅读和互动功能。",
+    "category": "工具/库",
+    "tags": [
+      "命令行工具",
+      "API逆向工程",
+      "社交媒体"
+    ],
+    "use_case": "用户可以通过命令行快速搜索小红书内容、阅读笔记或进行互动，适合自动化操作或集成到其他工具中。",
+    "repo_name": "jackwener/xiaohongshu-cli",
+    "repo_url": "https://github.com/jackwener/xiaohongshu-cli",
+    "language": "Python",
+    "stars": 780,
+    "starred_at": "",
+    "original_description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API"
   }
 }
