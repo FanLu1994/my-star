@@ -4804,5 +4804,20 @@
     "stars": 780,
     "starred_at": "",
     "original_description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API"
+  },
+  "575865240": {
+    "description": "这是一个支持多平台集成的智能聊天机器人基础设施，能够整合多种即时通讯平台、大语言模型和AI插件。",
+    "category": "AI/机器学习",
+    "tags": [
+      "聊天机器人",
+      "多平台集成"
+    ],
+    "use_case": "用于构建跨平台（如Discord、QQ、Telegram等）的智能聊天机器人，支持接入OpenAI、Gemini、Llama等大模型，并提供插件扩展功能。",
+    "repo_name": "AstrBotDevs/AstrBot",
+    "repo_url": "https://github.com/AstrBotDevs/AstrBot",
+    "language": "Python",
+    "stars": 23795,
+    "starred_at": "",
+    "original_description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
   }
 }
