@@ -4819,5 +4819,95 @@
     "stars": 23795,
     "starred_at": "",
     "original_description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
+  },
+  "956687107": {
+    "description": "这是一个通过Model Context Protocol（MCP）让AI助手（如Cursor、Windsurf、Claude Desktop）能够用自然语言控制Unreal Engine的服务器。",
+    "category": "游戏",
+    "tags": [
+      "AI集成",
+      "游戏开发工具"
+    ],
+    "use_case": "游戏开发者或技术美术师可以通过自然语言指令（如“在场景中添加一个立方体”或“调整光照强度”）直接控制Unreal Engine编辑器，提高开发效率和工作流程自动化程度。",
+    "repo_name": "chongdashu/unreal-mcp",
+    "repo_url": "https://github.com/chongdashu/unreal-mcp",
+    "language": "C++",
+    "stars": 1564,
+    "starred_at": "",
+    "original_description": "Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP)."
+  },
+  "1180351558": {
+    "description": "这是一个让AI智能体能够连接并控制用户当前已打开的Chrome浏览器会话的JavaScript工具。",
+    "category": "工具/库",
+    "tags": [
+      "Chrome DevTools Protocol",
+      "AI代理"
+    ],
+    "use_case": "用于自动化测试、网页数据抓取或构建能够与真实浏览器交互的AI助手，无需手动启动新浏览器实例。",
+    "repo_name": "pasky/chrome-cdp-skill",
+    "repo_url": "https://github.com/pasky/chrome-cdp-skill",
+    "language": "JavaScript",
+    "stars": 1478,
+    "starred_at": "",
+    "original_description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open"
+  },
+  "1100776768": {
+    "description": "这是Anthropic官方维护的高质量Claude代码插件目录",
+    "category": "AI/机器学习",
+    "tags": [
+      "claude插件",
+      "AI工具"
+    ],
+    "use_case": "为Claude AI助手提供官方认证的代码插件，扩展其编程和开发能力",
+    "repo_name": "anthropics/claude-plugins-official",
+    "repo_url": "https://github.com/anthropics/claude-plugins-official",
+    "language": "Python",
+    "stars": 11906,
+    "starred_at": "",
+    "original_description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+  },
+  "1018113827": {
+    "description": "OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增强生成平台。",
+    "category": "AI/机器学习",
+    "tags": [
+      "RAG",
+      "Langflow"
+    ],
+    "use_case": "用于构建和部署基于检索增强生成技术的AI应用，如智能问答、文档分析和知识库系统。",
+    "repo_name": "langflow-ai/openrag",
+    "repo_url": "https://github.com/langflow-ai/openrag",
+    "language": "Python",
+    "stars": 2952,
+    "starred_at": "",
+    "original_description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. "
+  },
+  "1010681419": {
+    "description": "这是一个从零开始构建的类Claude Code AI代理的教育项目，使用Bash脚本实现核心功能。",
+    "category": "教育",
+    "tags": [
+      "AI代理",
+      "教学项目"
+    ],
+    "use_case": "用于学习如何构建AI代理的开发教程，适合想要了解AI代理工作原理和实现方式的开发者。",
+    "repo_name": "shareAI-lab/learn-claude-code",
+    "repo_url": "https://github.com/shareAI-lab/learn-claude-code",
+    "language": "TypeScript",
+    "stars": 27856,
+    "starred_at": "",
+    "original_description": "Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1"
+  },
+  "1118601518": {
+    "description": "这是一个开源的中转服务，用于统一接入多个AI服务商的API订阅，支持拼车共享以分摊成本。",
+    "category": "工具/库",
+    "tags": [
+      "API中转",
+      "AI服务集成"
+    ],
+    "use_case": "适用于需要同时使用Claude、OpenAI、Gemini等AI服务的团队或个人，通过统一中转接口管理多个订阅，实现成本分摊和便捷调用。",
+    "repo_name": "Wei-Shaw/sub2api",
+    "repo_url": "https://github.com/Wei-Shaw/sub2api",
+    "language": "Go",
+    "stars": 5703,
+    "starred_at": "",
+    "original_description": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
   }
 }
