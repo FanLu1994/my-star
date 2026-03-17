@@ -4909,5 +4909,80 @@
     "stars": 5703,
     "starred_at": "",
     "original_description": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
+  },
+  "1104535633": {
+    "description": "这是一个为Antigravity工具提供专业账号管理和一键无缝切换功能的桌面应用程序。",
+    "category": "工具/库",
+    "tags": [
+      "账号管理",
+      "桌面应用"
+    ],
+    "use_case": "用户需要管理多个Antigravity账号，并希望快速、安全地在不同账号间切换，无需重复登录。",
+    "repo_name": "lbjlaq/Antigravity-Manager",
+    "repo_url": "https://github.com/lbjlaq/Antigravity-Manager",
+    "language": "Rust",
+    "stars": 26406,
+    "starred_at": "",
+    "original_description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。"
+  },
+  "943901988": {
+    "description": "Vite+ 是一个集成了运行时、包管理和前端工具链的统一Web开发工具链",
+    "category": "Web开发",
+    "tags": [
+      "前端工具链",
+      "构建工具"
+    ],
+    "use_case": "用于简化Web开发流程，统一管理项目依赖、构建和开发服务器等工具",
+    "repo_name": "voidzero-dev/vite-plus",
+    "repo_url": "https://github.com/voidzero-dev/vite-plus",
+    "language": "Rust",
+    "stars": 2228,
+    "starred_at": "",
+    "original_description": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place."
+  },
+  "1087192965": {
+    "description": "这是一个关于使用Claude AI进行编程最佳实践的仓库，主要包含HTML示例和指导文档。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI编程",
+      "最佳实践"
+    ],
+    "use_case": "为开发者提供使用Claude AI进行代码编写和优化的实践指南，帮助提升AI辅助编程的效率和质量。",
+    "repo_name": "shanraisshan/claude-code-best-practice",
+    "repo_url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "language": "HTML",
+    "stars": 17771,
+    "starred_at": "",
+    "original_description": "practice made claude perfect"
+  },
+  "1180325220": {
+    "description": "这是一个免费开源的屏幕录制工具，提供自动缩放、光标动画等功能，可作为Screen Studio的替代品。",
+    "category": "工具/库",
+    "tags": [
+      "屏幕录制",
+      "开源工具"
+    ],
+    "use_case": "用于录制屏幕视频时自动添加缩放效果和光标动画，提升演示或教程视频的专业性。",
+    "repo_name": "webadderall/Recordly",
+    "repo_url": "https://github.com/webadderall/Recordly",
+    "language": "TypeScript",
+    "stars": 2051,
+    "starred_at": "",
+    "original_description": "A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings. Substantially modifies the OpenScreen foundation."
+  },
+  "1014729376": {
+    "description": "这是一个为LLM和智能体系统设计的AI记忆操作系统，支持跨任务技能记忆的持久化存储、复用和演进。",
+    "category": "AI/机器学习",
+    "tags": [
+      "智能体系统",
+      "记忆管理"
+    ],
+    "use_case": "适用于需要长期记忆和技能复用的LLM应用场景，如聊天机器人、任务型智能体等，帮助AI系统在不同任务间保持和进化已学技能。",
+    "repo_name": "MemTensor/MemOS",
+    "repo_url": "https://github.com/MemTensor/MemOS",
+    "language": "Python",
+    "stars": 7220,
+    "starred_at": "",
+    "original_description": "AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution."
   }
 }
