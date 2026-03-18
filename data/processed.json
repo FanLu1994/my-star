@@ -4984,5 +4984,20 @@
     "stars": 7220,
     "starred_at": "",
     "original_description": "AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution."
+  },
+  "1048065319": {
+    "description": "这是一个Claude Code插件，能够自动记录Claude在编码会话中的所有操作，使用AI压缩存储，并在未来会话中注入相关上下文。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI助手增强",
+      "上下文管理"
+    ],
+    "use_case": "开发者在与Claude AI助手进行编程协作时，该插件可以自动保存历史交互记录，通过智能压缩和检索机制，让Claude在后续会话中保持上下文连续性，提升编程效率。",
+    "repo_name": "thedotmack/claude-mem",
+    "repo_url": "https://github.com/thedotmack/claude-mem",
+    "language": "TypeScript",
+    "stars": 37649,
+    "starred_at": "",
+    "original_description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
   }
 }
