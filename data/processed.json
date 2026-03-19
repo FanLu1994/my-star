@@ -4999,5 +4999,126 @@
     "stars": 37649,
     "starred_at": "",
     "original_description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+  },
+  "730534580": {
+    "description": "RAGFlow是一个开源的检索增强生成引擎，结合了先进的RAG技术和Agent能力，为大型语言模型提供优质的上下文层。",
+    "category": "AI/机器学习",
+    "tags": [
+      "RAG",
+      "Agent"
+    ],
+    "use_case": "用于构建基于文档的智能问答系统、知识库检索增强、文档理解与深度研究等场景，帮助LLM更准确地获取和利用外部知识。",
+    "repo_name": "infiniflow/ragflow",
+    "repo_url": "https://github.com/infiniflow/ragflow",
+    "language": "Python",
+    "stars": 75432,
+    "starred_at": "",
+    "original_description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
+  },
+  "1181982220": {
+    "description": "这是一个AI驱动的浏览器自动化工具，可将任何网站转换为命令行界面，实现动态网页数据提取和自动化操作。",
+    "category": "工具/库",
+    "tags": [
+      "浏览器自动化",
+      "网页抓取"
+    ],
+    "use_case": "用于自动化网页交互、数据抓取、测试脚本编写或构建基于网页服务的命令行工具。",
+    "repo_name": "jackwener/opencli",
+    "repo_url": "https://github.com/jackwener/opencli",
+    "language": "TypeScript",
+    "stars": 1805,
+    "starred_at": "",
+    "original_description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction."
+  },
+  "1139452397": {
+    "description": "这是一个用于搜索和获取图标的技能和MCP服务器",
+    "category": "工具/库",
+    "tags": [
+      "图标",
+      "MCP"
+    ],
+    "use_case": "开发者可以通过该工具快速搜索和集成图标资源到项目中，提高开发效率",
+    "repo_name": "better-auth/better-icons",
+    "repo_url": "https://github.com/better-auth/better-icons",
+    "language": "TypeScript",
+    "stars": 783,
+    "starred_at": "",
+    "original_description": "Skill and MCP server for searching and retrieving icons"
+  },
+  "1129930192": {
+    "description": "这是一个用于提升AI助手构建的界面质量的技能集合库。",
+    "category": "AI/机器学习",
+    "tags": [
+      "UI设计",
+      "前端开发"
+    ],
+    "use_case": "为AI助手（如GPTs、Claude等）提供一套现成的、可调用的UI组件和交互模式，帮助它们快速生成或优化用户界面，提升界面的一致性和美观度。",
+    "repo_name": "ibelick/ui-skills",
+    "repo_url": "https://github.com/ibelick/ui-skills",
+    "language": "Astro",
+    "stars": 1027,
+    "starred_at": "",
+    "original_description": "A growing set of skills to polish interfaces built by agents."
+  },
+  "1136590548": {
+    "description": "这是一个为Claude Code等AI编程助手设计的性能优化系统，专注于技能、记忆、安全和研究优先的开发。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI助手优化",
+      "开发者工具"
+    ],
+    "use_case": "用于提升AI编程助手（如Claude Code）的性能、安全性和开发效率，适用于AI辅助编程和代码生成场景。",
+    "repo_name": "affaan-m/everything-claude-code",
+    "repo_url": "https://github.com/affaan-m/everything-claude-code",
+    "language": "JavaScript",
+    "stars": 85528,
+    "starred_at": "",
+    "original_description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+  },
+  "1105657641": {
+    "description": "这是一个收集了45个从基础到高级的技巧，帮助开发者充分利用Claude Code AI编程助手的仓库。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI编程助手",
+      "开发效率工具"
+    ],
+    "use_case": "适用于希望提升Claude Code使用效率的开发者，通过技巧学习、脚本和插件（如dx插件）来优化AI辅助编程工作流，包括自定义状态栏、精简系统提示、集成其他AI工具（如Gemini CLI）等场景。",
+    "repo_name": "ykdojo/claude-code-tips",
+    "repo_url": "https://github.com/ykdojo/claude-code-tips",
+    "language": "JavaScript",
+    "stars": 5513,
+    "starred_at": "",
+    "original_description": "45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin."
+  },
+  "1027384981": {
+    "description": "这是一个基于LangChain和LangGraph构建的智能代理框架，具备规划工具、文件系统后端和子代理生成能力，用于处理复杂的自动化任务。",
+    "category": "AI/机器学习",
+    "tags": [
+      "智能代理",
+      "自动化框架"
+    ],
+    "use_case": "适用于需要多步骤规划、文件操作和分布式代理协作的复杂AI任务场景，如自动化工作流、智能决策系统等。",
+    "repo_name": "langchain-ai/deepagents",
+    "repo_url": "https://github.com/langchain-ai/deepagents",
+    "language": "Python",
+    "stars": 15106,
+    "starred_at": "",
+    "original_description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks."
+  },
+  "1019377450": {
+    "description": "这是一个收集和分析优秀claude.md文件及AI项目引导模式的精选仓库，旨在帮助开发者为其代码库创建有效的AI引导文档。",
+    "category": "AI/机器学习",
+    "tags": [
+      "文档",
+      "最佳实践",
+      "模板"
+    ],
+    "use_case": "开发者可以参考此仓库中的示例和分析，为自己的GitHub项目编写或优化用于AI助手（如Claude）的引导文档（claude.md），以提升AI对代码库的理解和协作效率。",
+    "repo_name": "josix/awesome-claude-md",
+    "repo_url": "https://github.com/josix/awesome-claude-md",
+    "language": "Python",
+    "stars": 157,
+    "starred_at": "",
+    "original_description": "Curated collection of exemplary claude.md files and onboarding patterns from public GitHub projects. Includes analyses, best practices, and templates to help developers create effective AI onboarding documentation for their codebases."
   }
 }
