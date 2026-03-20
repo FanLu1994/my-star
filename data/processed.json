@@ -5120,5 +5120,96 @@
     "stars": 157,
     "starred_at": "",
     "original_description": "Curated collection of exemplary claude.md files and onboarding patterns from public GitHub projects. Includes analyses, best practices, and templates to help developers create effective AI onboarding documentation for their codebases."
+  },
+  "1183071163": {
+    "description": "一个基于Python的虚拟世界模拟或交互式环境项目",
+    "category": "其他",
+    "tags": [
+      "Python",
+      "模拟环境"
+    ],
+    "use_case": "用于创建或探索虚拟世界，可能用于研究、教育或娱乐目的",
+    "repo_name": "inspatio/inspatio-world",
+    "repo_url": "https://github.com/inspatio/inspatio-world",
+    "language": "Python",
+    "stars": 266,
+    "starred_at": "",
+    "original_description": null
+  },
+  "1143767804": {
+    "description": "这是一个使用Claude前端技能创建精美网页幻灯片的仓库。",
+    "category": "Web开发",
+    "tags": [
+      "幻灯片",
+      "前端",
+      "CSS"
+    ],
+    "use_case": "用于快速创建和展示网页幻灯片，适用于技术分享、教学演示或产品展示等场景。",
+    "repo_name": "zarazhangrui/frontend-slides",
+    "repo_url": "https://github.com/zarazhangrui/frontend-slides",
+    "language": "CSS",
+    "stars": 10428,
+    "starred_at": "",
+    "original_description": "Create beautiful slides on the web using Claude's frontend skills"
+  },
+  "1151411061": {
+    "description": "这是一个基于Electron和Next.js构建的桌面GUI应用，用于可视化管理和使用Claude Code进行聊天、编程和项目管理。",
+    "category": "AI/机器学习",
+    "tags": [
+      "桌面应用",
+      "AI编程助手"
+    ],
+    "use_case": "为开发者提供一个图形化界面来与Claude Code交互，支持代码编写、项目管理和AI对话，提升开发效率。",
+    "repo_name": "op7418/CodePilot",
+    "repo_url": "https://github.com/op7418/CodePilot",
+    "language": "TypeScript",
+    "stars": 4314,
+    "starred_at": "",
+    "original_description": "A desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js."
+  },
+  "476427476": {
+    "description": "这是一个用于移动端和Web端无痛E2E自动化测试的工具",
+    "category": "工具/库",
+    "tags": [
+      "自动化测试",
+      "移动开发"
+    ],
+    "use_case": "用于Android和iOS移动应用以及Web应用的端到端UI自动化测试，简化测试流程",
+    "repo_name": "mobile-dev-inc/Maestro",
+    "repo_url": "https://github.com/mobile-dev-inc/Maestro",
+    "language": "Kotlin",
+    "stars": 12420,
+    "starred_at": "",
+    "original_description": "Painless E2E Automation for Mobile and Web"
+  },
+  "1179264259": {
+    "description": "这是一个基于Claude Code的开发者工具集，包含15个经过精心挑选的工具，旨在模拟CEO、设计师、工程经理、发布经理、文档工程师和QA等角色的功能，提升开发效率。",
+    "category": "工具/库",
+    "tags": [
+      "开发者工具",
+      "生产力工具"
+    ],
+    "use_case": "适用于希望提升开发流程效率的开发者或团队，通过集成多种角色功能的一站式工具集来优化项目管理、代码质量、文档编写和发布流程。",
+    "repo_name": "garrytan/gstack",
+    "repo_url": "https://github.com/garrytan/gstack",
+    "language": "TypeScript",
+    "stars": 27763,
+    "starred_at": "",
+    "original_description": "Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+  },
+  "812208048": {
+    "description": "这是一个用于游戏《鸣潮》的自动化脚本，提供后台自动战斗、刷声骸和一键日常等功能。",
+    "category": "游戏",
+    "tags": [
+      "游戏自动化",
+      "脚本工具"
+    ],
+    "use_case": "玩家在《鸣潮》游戏中，通过运行此脚本自动完成重复性战斗和日常任务，以节省时间。",
+    "repo_name": "ok-oldking/ok-wuthering-waves",
+    "repo_url": "https://github.com/ok-oldking/ok-wuthering-waves",
+    "language": "Python",
+    "stars": 5699,
+    "starred_at": "",
+    "original_description": "鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves"
   }
 }
