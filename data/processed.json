@@ -5211,5 +5211,50 @@
     "stars": 5699,
     "starred_at": "",
     "original_description": "鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves"
+  },
+  "1182081931": {
+    "description": "这是一个将任何代码库转换为可交互知识图谱的工具，支持探索、搜索和提问。",
+    "category": "工具/库",
+    "tags": [
+      "代码分析",
+      "知识图谱"
+    ],
+    "use_case": "帮助开发者快速理解陌生代码库的结构和逻辑，支持通过Claude Code或Codex等平台进行交互式查询。",
+    "repo_name": "Lum1104/Understand-Anything",
+    "repo_url": "https://github.com/Lum1104/Understand-Anything",
+    "language": "TypeScript",
+    "stars": 1340,
+    "starred_at": "",
+    "original_description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported)."
+  },
+  "1182135360": {
+    "description": "这是一个高仿锤子便签风格的开源笔记工具，支持将笔记导出为图片。",
+    "category": "工具/库",
+    "tags": [
+      "笔记工具",
+      "JavaScript"
+    ],
+    "use_case": "用于快速记录和整理个人笔记，并可将笔记内容以美观的图片格式导出分享。",
+    "repo_name": "zhaoolee/notes",
+    "repo_url": "https://github.com/zhaoolee/notes",
+    "language": "JavaScript",
+    "stars": 42,
+    "starred_at": "",
+    "original_description": "一个高仿锤子便签的小工具，完全开源，支持导出便签为图片"
+  },
+  "1147094660": {
+    "description": "一个超轻量级的OpenClaw实现，用于数据抓取或自动化任务。",
+    "category": "工具/库",
+    "tags": [
+      "自动化",
+      "爬虫"
+    ],
+    "use_case": "用于轻量级网页数据抓取、自动化测试或机器人控制等场景。",
+    "repo_name": "HKUDS/nanobot",
+    "repo_url": "https://github.com/HKUDS/nanobot",
+    "language": "Python",
+    "stars": 35149,
+    "starred_at": "",
+    "original_description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\""
   }
 }
