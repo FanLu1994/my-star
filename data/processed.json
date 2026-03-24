@@ -5256,5 +5256,158 @@
     "stars": 35149,
     "starred_at": "",
     "original_description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\""
+  },
+  "1066856689": {
+    "description": "这是谷歌新书《Agent设计模式》的中文翻译版本，提供在线阅读和电子书下载。",
+    "category": "教育",
+    "tags": [
+      "文档翻译",
+      "电子书"
+    ],
+    "use_case": "用于学习和参考Agent设计模式，支持在线阅读或下载PDF/EPUB格式的电子书。",
+    "repo_name": "xindoo/agentic-design-patterns",
+    "repo_url": "https://github.com/xindoo/agentic-design-patterns",
+    "language": "HTML",
+    "stars": 2605,
+    "starred_at": "",
+    "original_description": "谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。 "
+  },
+  "1052207806": {
+    "description": "这是一个使用AI技术进行绘图创作并生成视频的TypeScript项目。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI绘图",
+      "视频生成"
+    ],
+    "use_case": "用户可以通过AI辅助进行艺术创作，将生成的图像自动合成为视频内容，适用于内容创作、艺术设计、社交媒体营销等场景。",
+    "repo_name": "ljquan/aitu",
+    "repo_url": "https://github.com/ljquan/aitu",
+    "language": "TypeScript",
+    "stars": 482,
+    "starred_at": "",
+    "original_description": "AI绘图创作视频"
+  },
+  "979115477": {
+    "description": "DeerFlow是一个开源的多智能体框架，通过沙箱、记忆、工具和子代理等机制，能够处理从几分钟到数小时不同复杂度的任务。",
+    "category": "AI/机器学习",
+    "tags": [
+      "多智能体框架",
+      "AI工作流"
+    ],
+    "use_case": "适用于需要多智能体协作的复杂任务处理场景，如深度研究、代码生成、内容创作等长时间运行的AI驱动工作流。",
+    "repo_name": "bytedance/deer-flow",
+    "repo_url": "https://github.com/bytedance/deer-flow",
+    "language": "Python",
+    "stars": 39225,
+    "starred_at": "",
+    "original_description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours."
+  },
+  "915108897": {
+    "description": "将GitHub Copilot转换为兼容OpenAI/Anthropic API的服务器，使其能够像Claude Code一样使用。",
+    "category": "工具/库",
+    "tags": [
+      "API兼容",
+      "反向工程"
+    ],
+    "use_case": "开发者希望使用GitHub Copilot的代码生成能力，但需要其通过标准的OpenAI或Anthropic API接口提供服务，以便集成到其他支持这些API的工具或应用中。",
+    "repo_name": "ericc-ch/copilot-api",
+    "repo_url": "https://github.com/ericc-ch/copilot-api",
+    "language": "TypeScript",
+    "stars": 3160,
+    "starred_at": "",
+    "original_description": "Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!"
+  },
+  "1172781277": {
+    "description": "这是GSAP官方为AI编程代理提供的技能库，用于教授如何正确使用GSAP动画平台。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI技能",
+      "动画库",
+      "代码生成"
+    ],
+    "use_case": "用于训练AI助手或代码生成工具，使其能够正确理解和使用GSAP库进行动画开发，包括最佳实践、常见动画模式和插件用法。",
+    "repo_name": "greensock/gsap-skills",
+    "repo_url": "https://github.com/greensock/gsap-skills",
+    "language": null,
+    "stars": 1518,
+    "starred_at": "",
+    "original_description": "Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage."
+  },
+  "1184985738": {
+    "description": "这是一个为Claude Code提供完整联网能力的技能插件，通过三层通道调度、浏览器CDP和并行分治技术实现网络访问。",
+    "category": "工具/库",
+    "tags": [
+      "Claude插件",
+      "网络访问",
+      "浏览器自动化"
+    ],
+    "use_case": "用于增强Claude Code的联网功能，使其能够访问和处理网页内容，适用于需要实时网络数据交互的AI辅助编程场景。",
+    "repo_name": "eze-is/web-access",
+    "repo_url": "https://github.com/eze-is/web-access",
+    "language": "JavaScript",
+    "stars": 733,
+    "starred_at": "",
+    "original_description": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治"
+  },
+  "429536908": {
+    "description": "这是一个轻量级的WebGL地球可视化库，大小仅5KB。",
+    "category": "工具/库",
+    "tags": [
+      "可视化",
+      "WebGL"
+    ],
+    "use_case": "用于在网页中创建交互式、高性能的3D地球模型，适用于数据可视化、地理信息展示等场景。",
+    "repo_name": "shuding/cobe",
+    "repo_url": "https://github.com/shuding/cobe",
+    "language": "TypeScript",
+    "stars": 4442,
+    "starred_at": "",
+    "original_description": "5KB WebGL globe lib."
+  },
+  "1188427634": {
+    "description": "这是一个用于微信开发的TypeScript SDK，提供与微信API交互的代理功能。",
+    "category": "Web开发",
+    "tags": [
+      "微信开发",
+      "TypeScript"
+    ],
+    "use_case": "用于构建需要与微信平台（如公众号、小程序等）进行API交互的后端服务，简化微信接口的调用和代理转发。",
+    "repo_name": "wong2/weixin-agent-sdk",
+    "repo_url": "https://github.com/wong2/weixin-agent-sdk",
+    "language": "TypeScript",
+    "stars": 740,
+    "starred_at": "",
+    "original_description": null
+  },
+  "1133207146": {
+    "description": "这是一个为AI代理（如Claude、Codex、OpenClaw）提供技能插件的TypeScript仓库。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI代理",
+      "技能插件"
+    ],
+    "use_case": "开发者可以集成这些技能来扩展AI代理的功能，例如用于代码生成、任务自动化或特定领域的增强能力。",
+    "repo_name": "JimLiu/baoyu-skills",
+    "repo_url": "https://github.com/JimLiu/baoyu-skills",
+    "language": "TypeScript",
+    "stars": 10745,
+    "starred_at": "",
+    "original_description": null
+  },
+  "1179363570": {
+    "description": "这是一个用于审计Claude Code配置健康状况的工具。",
+    "category": "AI/机器学习",
+    "tags": [
+      "Claude",
+      "配置审计",
+      "AI工具"
+    ],
+    "use_case": "开发者或团队使用Claude Code时，通过此工具检查其配置在不同层面的健康状况，以确保最佳实践和性能。",
+    "repo_name": "tw93/claude-health",
+    "repo_url": "https://github.com/tw93/claude-health",
+    "language": null,
+    "stars": 482,
+    "starred_at": "",
+    "original_description": "🤫 Claude Code skill: audit your Claude Code config health across all layers"
   }
 }
