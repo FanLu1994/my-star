@@ -5409,5 +5409,20 @@
     "stars": 482,
     "starred_at": "",
     "original_description": "🤫 Claude Code skill: audit your Claude Code config health across all layers"
+  },
+  "643445235": {
+    "description": "这是一个用于构建、管理和协作AI智能体团队的平台，支持多智能体协作和知识库集成。",
+    "category": "AI/机器学习",
+    "tags": [
+      "智能体协作",
+      "AI平台"
+    ],
+    "use_case": "适用于需要多个AI智能体（如ChatGPT、Claude等）协同工作、共享知识库并完成复杂任务的团队协作场景。",
+    "repo_name": "lobehub/lobehub",
+    "repo_url": "https://github.com/lobehub/lobehub",
+    "language": "TypeScript",
+    "stars": 74248,
+    "starred_at": "",
+    "original_description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction."
   }
 }
