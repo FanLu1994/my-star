@@ -5424,5 +5424,21 @@
     "stars": 74248,
     "starred_at": "",
     "original_description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction."
+  },
+  "1175233515": {
+    "description": "这是一个基于AI的旅行规划智能体应用，帮助用户解决旅行信息过载和决策疲劳问题。",
+    "category": "AI/机器学习",
+    "tags": [
+      "Vue",
+      "AI应用",
+      "旅行规划"
+    ],
+    "use_case": "用户在进行旅行规划时，通过AI智能体快速获取个性化行程建议，简化决策过程。",
+    "repo_name": "1sdv/TripStar",
+    "repo_url": "https://github.com/1sdv/TripStar",
+    "language": "Vue",
+    "stars": 678,
+    "starred_at": "",
+    "original_description": "旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的“信息过载”和“决策疲劳”问题。"
   }
 }
