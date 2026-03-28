@@ -5440,5 +5440,35 @@
     "stars": 678,
     "starred_at": "",
     "original_description": "旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的“信息过载”和“决策疲劳”问题。"
+  },
+  "1176128802": {
+    "description": "这是一个为Claude Code编辑器配置的极简状态栏设置",
+    "category": "工具/库",
+    "tags": [
+      "编辑器配置",
+      "Shell脚本"
+    ],
+    "use_case": "适用于使用Claude Code编辑器的开发者，用于自定义和优化编辑器状态栏的显示效果",
+    "repo_name": "kamranahmedse/claude-statusline",
+    "repo_url": "https://github.com/kamranahmedse/claude-statusline",
+    "language": "Shell",
+    "stars": 936,
+    "starred_at": "",
+    "original_description": "Minimal Claude Code statusline setup I personally use"
+  },
+  "1193472224": {
+    "description": "这是一个关于如何与AI协作的演示文稿幻灯片项目。",
+    "category": "教育",
+    "tags": [
+      "演示文稿",
+      "AI教育"
+    ],
+    "use_case": "用于展示和学习如何在实际工作中与人工智能工具协作，适合技术分享、教学或内部培训场景。",
+    "repo_name": "Justineo/working-with-ai",
+    "repo_url": "https://github.com/Justineo/working-with-ai",
+    "language": "HTML",
+    "stars": 121,
+    "starred_at": "",
+    "original_description": "Working with AI - presentation slides"
   }
 }
