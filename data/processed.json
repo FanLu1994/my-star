@@ -4323,21 +4323,6 @@
     "starred_at": "",
     "original_description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech"
   },
-  "1156956890": {
-    "description": "这是一个用Rust实现的命令行工具库，专注于提供高效可靠的命令行处理功能。",
-    "category": "工具/库",
-    "tags": [
-      "命令行工具",
-      "Rust库"
-    ],
-    "use_case": "用于开发需要命令行交互的Rust应用程序，如系统工具、开发工具或自动化脚本。",
-    "repo_name": "zeroclaw-labs/zeroclaw",
-    "repo_url": "https://github.com/zeroclaw-labs/zeroclaw",
-    "language": "Rust",
-    "stars": 3874,
-    "starred_at": "",
-    "original_description": "claw done right 🦀"
-  },
   "1122242121": {
     "description": "这是一个支持多种AI代码助手（Claude Code/Codex/Gemini/OpenCode）的移动应用，让开发者可以随时随地通过AI辅助进行编程。",
     "category": "移动开发",
