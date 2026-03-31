@@ -5455,5 +5455,50 @@
     "stars": 121,
     "starred_at": "",
     "original_description": "Working with AI - presentation slides"
+  },
+  "1139971460": {
+    "description": "这是一个用于减少LLM（大语言模型）在常见开发命令中token消耗的CLI代理工具，可将token使用量降低60-90%。",
+    "category": "工具/库",
+    "tags": [
+      "AI/机器学习",
+      "开发者工具"
+    ],
+    "use_case": "开发者在与Claude Code等AI编程助手交互时，使用此工具代理命令行操作，通过优化输出内容来大幅降低API调用成本，提高AI辅助编程的经济性。",
+    "repo_name": "rtk-ai/rtk",
+    "repo_url": "https://github.com/rtk-ai/rtk",
+    "language": "Rust",
+    "stars": 15713,
+    "starred_at": "",
+    "original_description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies"
+  },
+  "1131194319": {
+    "description": "这是一个开源的JetBrains Git客户端重制项目。",
+    "category": "工具/库",
+    "tags": [
+      "Git客户端",
+      "IDE插件"
+    ],
+    "use_case": "为JetBrains IDE（如IntelliJ IDEA）用户提供一个替代的、开源的Git版本控制集成工具。",
+    "repo_name": "DetachHead/rebased",
+    "repo_url": "https://github.com/DetachHead/rebased",
+    "language": "Java",
+    "stars": 182,
+    "starred_at": "",
+    "original_description": "An open-source remake of the short-lived jetbrains git client"
+  },
+  "1092047360": {
+    "description": "这是一个关于Claude Code的视觉化、示例驱动的教程仓库，提供从基础概念到高级代理的指南和可直接复用的代码模板。",
+    "category": "教育",
+    "tags": [
+      "教程",
+      "AI工具"
+    ],
+    "use_case": "适用于开发者学习如何使用Claude Code进行编程，快速上手并应用其模板到实际项目中。",
+    "repo_name": "luongnv89/claude-howto",
+    "repo_url": "https://github.com/luongnv89/claude-howto",
+    "language": "Python",
+    "stars": 9817,
+    "starred_at": "",
+    "original_description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
   }
 }
