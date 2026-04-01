@@ -5500,5 +5500,128 @@
     "stars": 9817,
     "starred_at": "",
     "original_description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+  },
+  "965415649": {
+    "description": "这是一个轻量级的代码助手，可以在终端中运行，帮助开发者编写和优化代码。",
+    "category": "AI/机器学习",
+    "tags": [
+      "代码生成",
+      "终端工具"
+    ],
+    "use_case": "适用于开发者在终端环境中快速生成代码片段、自动化编码任务或辅助代码调试。",
+    "repo_name": "openai/codex",
+    "repo_url": "https://github.com/openai/codex",
+    "language": "Rust",
+    "stars": 69915,
+    "starred_at": "",
+    "original_description": "Lightweight coding agent that runs in your terminal"
+  },
+  "1168978399": {
+    "description": "这是一个连接本地AI编程助手与主流通讯平台的桥接工具，让开发者可以在聊天软件中与AI助手对话。",
+    "category": "工具/库",
+    "tags": [
+      "AI助手",
+      "消息集成"
+    ],
+    "use_case": "开发者希望在飞书、钉钉、Slack等通讯工具中直接调用本地的Claude Code、Cursor等AI编程助手进行代码讨论和开发协作，无需配置公网IP即可实现跨平台访问。",
+    "repo_name": "chenhg5/cc-connect",
+    "repo_url": "https://github.com/chenhg5/cc-connect",
+    "language": "Go",
+    "stars": 3827,
+    "starred_at": "",
+    "original_description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
+  },
+  "1197021090": {
+    "description": "这是一个基于泄露的Claude代码构建的增强工具集，旨在提供比单纯存档更实用的功能实现，并正在用Rust重写以提高性能。",
+    "category": "工具/库",
+    "tags": [
+      "AI工具",
+      "Rust",
+      "代码增强"
+    ],
+    "use_case": "开发者可利用此工具集快速集成或扩展基于Claude代码的功能，用于构建或优化AI相关的应用或工具链。",
+    "repo_name": "instructkr/claw-code",
+    "repo_url": "https://github.com/instructkr/claw-code",
+    "language": "Rust",
+    "stars": 57307,
+    "starred_at": "",
+    "original_description": "The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust."
+  },
+  "1099328966": {
+    "description": "这是一个收集和整理Claude Code系统提示词、工具描述和子代理提示的仓库。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI助手",
+      "开发工具"
+    ],
+    "use_case": "为使用Claude Code（一个AI编程助手）的开发者提供系统级的提示词模板和工具描述，以优化和定制AI在代码生成、任务规划等开发场景中的行为。",
+    "repo_name": "Piebald-AI/claude-code-system-prompts",
+    "repo_url": "https://github.com/Piebald-AI/claude-code-system-prompts",
+    "language": "JavaScript",
+    "stars": 7425,
+    "starred_at": "",
+    "original_description": "All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version."
+  },
+  "1191372811": {
+    "description": "这是Lark/飞书官方团队维护的命令行工具，提供访问Lark/飞书平台核心业务功能的接口。",
+    "category": "工具/库",
+    "tags": [
+      "命令行工具",
+      "API客户端",
+      "办公自动化"
+    ],
+    "use_case": "开发者或自动化脚本通过命令行调用Lark/飞书的API，实现消息发送、文档管理、日程安排等办公自动化任务，也可集成到AI Agent中作为技能使用。",
+    "repo_name": "larksuite/cli",
+    "repo_url": "https://github.com/larksuite/cli",
+    "language": "Go",
+    "stars": 5440,
+    "starred_at": "",
+    "original_description": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
+  },
+  "1138743298": {
+    "description": "这是一个用于飞书（Feishu）平台的命令行工具，方便用户通过命令行与飞书API进行交互。",
+    "category": "工具/库",
+    "tags": [
+      "飞书",
+      "命令行工具",
+      "API客户端"
+    ],
+    "use_case": "开发者或管理员可以通过此工具在终端中执行飞书相关操作，如发送消息、管理群组或自动化工作流，无需打开飞书客户端或使用网页界面。",
+    "repo_name": "riba2534/feishu-cli",
+    "repo_url": "https://github.com/riba2534/feishu-cli",
+    "language": "Go",
+    "stars": 739,
+    "starred_at": "",
+    "original_description": null
+  },
+  "1196321162": {
+    "description": "这是一个使用Claude Code中的Codex进行代码审查或任务委派的插件。",
+    "category": "AI/机器学习",
+    "tags": [
+      "代码审查",
+      "AI助手"
+    ],
+    "use_case": "开发者在编写代码时，可以使用此插件调用Codex AI来检查代码质量、发现潜在问题，或将特定的编码任务委托给AI完成。",
+    "repo_name": "openai/codex-plugin-cc",
+    "repo_url": "https://github.com/openai/codex-plugin-cc",
+    "language": "JavaScript",
+    "stars": 5645,
+    "starred_at": "",
+    "original_description": "Use Codex from Claude Code to review code or delegate tasks."
+  },
+  "1045330979": {
+    "description": "这是一个基于shadcn-vue构建的Vue组件库，旨在帮助开发者快速构建AI原生应用。",
+    "category": "AI/机器学习",
+    "tags": [
+      "Vue组件库",
+      "AI界面"
+    ],
+    "use_case": "适用于需要集成AI功能（如聊天界面、AI交互元素）的Vue.js Web应用开发。",
+    "repo_name": "vuepont/ai-elements-vue",
+    "repo_url": "https://github.com/vuepont/ai-elements-vue",
+    "language": "Vue",
+    "stars": 982,
+    "starred_at": "",
+    "original_description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster."
   }
 }
