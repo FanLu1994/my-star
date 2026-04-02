@@ -5623,5 +5623,67 @@
     "stars": 982,
     "starred_at": "",
     "original_description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster."
+  },
+  "1197357033": {
+    "description": "这是一个用于构建AI代理的TypeScript SDK，作为claude-agent-sdk的替代方案，不依赖CLI工具。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI代理",
+      "SDK"
+    ],
+    "use_case": "开发者在TypeScript项目中集成AI代理功能，特别是需要轻量级、开源且不绑定特定CLI的解决方案时使用。",
+    "repo_name": "codeany-ai/open-agent-sdk-typescript",
+    "repo_url": "https://github.com/codeany-ai/open-agent-sdk-typescript",
+    "language": "TypeScript",
+    "stars": 1897,
+    "starred_at": "",
+    "original_description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
+  },
+  "1147992203": {
+    "description": "这是一个基于GLM模型的OCR工具，能够快速准确地进行图像文字识别。",
+    "category": "AI/机器学习",
+    "tags": [
+      "OCR",
+      "图像识别",
+      "深度学习"
+    ],
+    "use_case": "用于从图像中提取文字信息，适用于文档数字化、车牌识别、票据处理等场景。",
+    "repo_name": "zai-org/GLM-OCR",
+    "repo_url": "https://github.com/zai-org/GLM-OCR",
+    "language": "Python",
+    "stars": 4987,
+    "starred_at": "",
+    "original_description": "GLM-OCR: Accurate ×  Fast × Comprehensive"
+  },
+  "1197742704": {
+    "description": "这是一个关于Anthropic Claude Code CLI源码的深度解析技术文档项目。",
+    "category": "教育",
+    "tags": [
+      "技术文档",
+      "源码分析",
+      "AI工具"
+    ],
+    "use_case": "用于学习和理解Claude Code CLI的架构设计、工程实践和编程思想，适合开发者、技术爱好者和AI工具研究者阅读参考。",
+    "repo_name": "sawzhang/deep-dive-claude-code",
+    "repo_url": "https://github.com/sawzhang/deep-dive-claude-code",
+    "language": "Typst",
+    "stars": 92,
+    "starred_at": "",
+    "original_description": "《深入理解 Claude Code 源码》— 系统剖析 Anthropic Claude Code CLI 的架构设计、工程实践与编程哲学 | 25 chapters, 101 Mermaid diagrams, 467 code blocks"
+  },
+  "1156956890": {
+    "description": "这是一个用Rust编写的快速、小巧、全自主的AI个人助理基础设施，支持任何操作系统和平台。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI基础设施",
+      "自主代理"
+    ],
+    "use_case": "用于在任何环境（如服务器、边缘设备、个人电脑）中部署和运行可互换的AI代理，构建个人助理或自动化服务。",
+    "repo_name": "zeroclaw-labs/zeroclaw",
+    "repo_url": "https://github.com/zeroclaw-labs/zeroclaw",
+    "language": "Rust",
+    "stars": 29152,
+    "starred_at": "",
+    "original_description": "Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀"
   }
 }
