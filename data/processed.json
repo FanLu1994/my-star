@@ -5531,22 +5531,6 @@
     "starred_at": "",
     "original_description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
   },
-  "1197021090": {
-    "description": "这是一个基于泄露的Claude代码构建的增强工具集，旨在提供比单纯存档更实用的功能实现，并正在用Rust重写以提高性能。",
-    "category": "工具/库",
-    "tags": [
-      "AI工具",
-      "Rust",
-      "代码增强"
-    ],
-    "use_case": "开发者可利用此工具集快速集成或扩展基于Claude代码的功能，用于构建或优化AI相关的应用或工具链。",
-    "repo_name": "instructkr/claw-code",
-    "repo_url": "https://github.com/instructkr/claw-code",
-    "language": "Rust",
-    "stars": 57307,
-    "starred_at": "",
-    "original_description": "The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust."
-  },
   "1099328966": {
     "description": "这是一个收集和整理Claude Code系统提示词、工具描述和子代理提示的仓库。",
     "category": "AI/机器学习",
@@ -5685,5 +5669,20 @@
     "stars": 29152,
     "starred_at": "",
     "original_description": "Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀"
+  },
+  "1178833585": {
+    "description": "这是一个企业级自托管开源智能体技能注册中心，用于发布、版本管理和治理AI技能包。",
+    "category": "DevOps/基础设施",
+    "tags": [
+      "企业级",
+      "技能管理"
+    ],
+    "use_case": "企业可在私有环境中部署，通过RBAC权限控制和审计日志管理AI技能包，支持Docker或Kubernetes部署，适用于需要安全可控地管理和分发AI能力的场景。",
+    "repo_name": "iflytek/skillhub",
+    "repo_url": "https://github.com/iflytek/skillhub",
+    "language": "Java",
+    "stars": 1660,
+    "starred_at": "",
+    "original_description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes."
   }
 }
