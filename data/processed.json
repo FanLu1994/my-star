@@ -5684,5 +5684,95 @@
     "stars": 1660,
     "starred_at": "",
     "original_description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes."
+  },
+  "1086887314": {
+    "description": "这是一个展示智能体核心执行流程和生产级特性的最小化专业单智能体演示项目。",
+    "category": "AI/机器学习",
+    "tags": [
+      "智能体",
+      "LLM"
+    ],
+    "use_case": "用于学习和演示基于大语言模型的智能体系统架构、执行流程及生产环境部署的最佳实践。",
+    "repo_name": "MiniMax-AI/Mini-Agent",
+    "repo_url": "https://github.com/MiniMax-AI/Mini-Agent",
+    "language": "Python",
+    "stars": 2250,
+    "starred_at": "",
+    "original_description": "A minimal yet professional single agent demo project that showcases the core execution pipeline and production-grade features of agents."
+  },
+  "973621150": {
+    "description": "这是一个开源的基于C#和TypeScript开发的知识管理与协作平台。",
+    "category": "Web开发",
+    "tags": [
+      "知识管理",
+      "协作平台"
+    ],
+    "use_case": "适用于团队或组织构建内部知识库、文档协作和内容管理系统，支持模块化扩展和定制化开发。",
+    "repo_name": "AIDotNet/OpenDeepWiki",
+    "repo_url": "https://github.com/AIDotNet/OpenDeepWiki",
+    "language": "C#",
+    "stars": 3030,
+    "starred_at": "",
+    "original_description": "OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize."
+  },
+  "1117242279": {
+    "description": "这是一个Chrome开发者工具扩展，用于实时监控和调试服务器发送事件（SSE）及Fetch流式请求。",
+    "category": "工具/库",
+    "tags": [
+      "调试工具",
+      "流式数据"
+    ],
+    "use_case": "开发者在调试流式API（如聊天应用、实时数据推送）时，可通过此工具在Chrome DevTools中直观查看SSE和Fetch流的数据流状态与内容。",
+    "repo_name": "bywwcnll/StreamPanel",
+    "repo_url": "https://github.com/bywwcnll/StreamPanel",
+    "language": "JavaScript",
+    "stars": 165,
+    "starred_at": "",
+    "original_description": "Stream Panel 是一个 Chrome DevTools 扩展，允许开发者实时监控和检查流式请求。它支持 服务器发送事件 (SSE) 和 基于 Fetch 的流式连接，是调试流式 API 和查看实时数据推送的必备工具。"
+  },
+  "1154103908": {
+    "description": "这是一个从零开始学习OpenClaw的中文教程仓库，提供安装、配置、实战案例和避坑指南。",
+    "category": "教育",
+    "tags": [
+      "教程",
+      "Shell脚本"
+    ],
+    "use_case": "适用于想要学习OpenClaw工具的新手用户，通过详细的步骤和案例快速上手。",
+    "repo_name": "xianyu110/awesome-openclaw-tutorial",
+    "repo_url": "https://github.com/xianyu110/awesome-openclaw-tutorial",
+    "language": "Shell",
+    "stars": 3828,
+    "starred_at": "",
+    "original_description": "从零开始玩转OpenClaw：最全面的中文教程，涵盖安装、配置、实战案例和避坑指南（github版）"
+  },
+  "1197674252": {
+    "description": "这是一个用Rust语言重构的Claude Code高性能实现，显著提升了启动速度和减少了二进制文件体积。",
+    "category": "工具/库",
+    "tags": [
+      "AI工具",
+      "性能优化"
+    ],
+    "use_case": "用于需要快速启动和高效运行的AI代码交互场景，如开发者的本地AI编程助手或命令行工具。",
+    "repo_name": "lorryjovens-hub/claude-code-rust",
+    "repo_url": "https://github.com/lorryjovens-hub/claude-code-rust",
+    "language": "TypeScript",
+    "stars": 889,
+    "starred_at": "",
+    "original_description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary"
+  },
+  "626805178": {
+    "description": "Dify是一个用于开发AI智能体工作流的低代码/无代码生产就绪平台。",
+    "category": "AI/机器学习",
+    "tags": [
+      "低代码平台",
+      "AI工作流编排"
+    ],
+    "use_case": "开发者或企业用户无需深入编码，即可通过可视化界面构建、部署和管理基于大语言模型（如GPT、Gemini）的AI应用、智能体（Agent）和RAG工作流。",
+    "repo_name": "langgenius/dify",
+    "repo_url": "https://github.com/langgenius/dify",
+    "language": "TypeScript",
+    "stars": 135664,
+    "starred_at": "",
+    "original_description": "Production-ready platform for agentic workflow development."
   }
 }
