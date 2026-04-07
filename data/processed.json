@@ -5774,5 +5774,50 @@
     "stars": 135664,
     "starred_at": "",
     "original_description": "Production-ready platform for agentic workflow development."
+  },
+  "1178733668": {
+    "description": "这是一个基于《软件设计的哲学》一书的Claude Code技能，用于指导软件设计原则和实践。",
+    "category": "教育",
+    "tags": [
+      "软件设计",
+      "编程指南"
+    ],
+    "use_case": "开发者学习软件设计原则，或在编码过程中获取设计建议和最佳实践。",
+    "repo_name": "luoling8192/software-design-philosophy-skill",
+    "repo_url": "https://github.com/luoling8192/software-design-philosophy-skill",
+    "language": null,
+    "stars": 239,
+    "starred_at": "",
+    "original_description": "Claude Code skill: Software design philosophy guide based on A Philosophy of Software Design by John Ousterhout"
+  },
+  "1201173969": {
+    "description": "这是一个通过模仿原始人说话风格来减少Claude AI代码生成中token使用量的技能工具。",
+    "category": "AI/机器学习",
+    "tags": [
+      "prompt-engineering",
+      "token-optimization"
+    ],
+    "use_case": "在需要控制Claude API调用成本或处理长文本时，通过简化表达来减少token消耗。",
+    "repo_name": "JuliusBrussee/caveman",
+    "repo_url": "https://github.com/JuliusBrussee/caveman",
+    "language": "Python",
+    "stars": 4099,
+    "starred_at": "",
+    "original_description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman"
+  },
+  "1197515131": {
+    "description": "收集各大流行网站的DESIGN.md文件，这些文件记录了设计系统，可用于帮助AI编程助手构建匹配的UI。",
+    "category": "Web开发",
+    "tags": [
+      "设计系统",
+      "AI辅助开发"
+    ],
+    "use_case": "开发者或团队在项目中引入这些设计规范文件，以便AI编码代理（如GitHub Copilot）能根据既定的设计系统生成风格一致的UI代码。",
+    "repo_name": "VoltAgent/awesome-design-md",
+    "repo_url": "https://github.com/VoltAgent/awesome-design-md",
+    "language": "HTML",
+    "stars": 22558,
+    "starred_at": "",
+    "original_description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI."
   }
 }
