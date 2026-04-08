@@ -5819,5 +5819,65 @@
     "stars": 22558,
     "starred_at": "",
     "original_description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI."
+  },
+  "1197990888": {
+    "description": "这是一个开源的代码助手CLI工具，支持通过OpenAI兼容API调用200多种AI模型进行代码生成和编程辅助。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI编程助手",
+      "CLI工具"
+    ],
+    "use_case": "开发人员可以通过命令行快速调用多种AI模型（如OpenAI、Gemini、DeepSeek等）来生成代码、解释代码或进行编程问题解答。",
+    "repo_name": "Gitlawb/openclaude",
+    "repo_url": "https://github.com/Gitlawb/openclaude",
+    "language": "TypeScript",
+    "stars": 19055,
+    "starred_at": "",
+    "original_description": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs."
+  },
+  "1085635946": {
+    "description": "这是一个实现内存稀疏注意力机制的可扩展框架，用于处理长达1亿个token的超长上下文序列。",
+    "category": "AI/机器学习",
+    "tags": [
+      "注意力机制",
+      "长序列处理"
+    ],
+    "use_case": "适用于需要处理超长文本序列的自然语言处理任务，如长文档理解、代码分析、基因组序列处理等场景。",
+    "repo_name": "EverMind-AI/MSA",
+    "repo_url": "https://github.com/EverMind-AI/MSA",
+    "language": "Python",
+    "stars": 2707,
+    "starred_at": "",
+    "original_description": "Memory Sparse Attention -  A scalable, end-to-end trainable latent-memory framework for 100M-token contexts."
+  },
+  "1201656210": {
+    "description": "这是一个基于Python开发的AI记忆系统，通过向量数据库技术实现高效的信息存储和检索。",
+    "category": "AI/机器学习",
+    "tags": [
+      "向量数据库",
+      "记忆增强"
+    ],
+    "use_case": "适用于需要长期记忆能力的AI应用，如智能助手、对话系统和知识管理工具，帮助AI更有效地存储和调用历史信息。",
+    "repo_name": "milla-jovovich/mempalace",
+    "repo_url": "https://github.com/milla-jovovich/mempalace",
+    "language": "Python",
+    "stars": 16602,
+    "starred_at": "",
+    "original_description": "The highest-scoring AI memory system ever benchmarked. And it's free."
+  },
+  "585146387": {
+    "description": "这是一个基于React的UI组件库，提供美观、可访问的组件，支持多种前端框架。",
+    "category": "Web开发",
+    "tags": [
+      "UI组件库",
+      "React"
+    ],
+    "use_case": "用于快速构建现代化、响应式的Web界面，适用于Next.js、Vite等项目。",
+    "repo_name": "shadcn-ui/ui",
+    "repo_url": "https://github.com/shadcn-ui/ui",
+    "language": "TypeScript",
+    "stars": 111741,
+    "starred_at": "",
+    "original_description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
   }
 }
