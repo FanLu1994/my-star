@@ -5879,5 +5879,36 @@
     "stars": 111741,
     "starred_at": "",
     "original_description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
+  },
+  "662430836": {
+    "description": "这是一个提供flowercloud机场官网地址的仓库，主要用于访问和分享相关服务信息。",
+    "category": "其他",
+    "tags": [
+      "代理服务",
+      "网络工具"
+    ],
+    "use_case": "用户可通过此仓库获取flowercloud机场的官网链接，以使用Clash、Shadowsocks、V2Ray等代理服务进行网络访问或翻墙。",
+    "repo_name": "winston779/flowercloud",
+    "repo_url": "https://github.com/winston779/flowercloud",
+    "language": null,
+    "stars": 169,
+    "starred_at": "",
+    "original_description": "flowercloud机场官网地址"
+  },
+  "1199201064": {
+    "description": "这是一个用Go语言重写的Claude Code代码编辑器，完全去除了Node.js和Electron依赖，仅需单个二进制文件即可运行。",
+    "category": "工具/库",
+    "tags": [
+      "代码编辑器",
+      "Go语言",
+      "轻量级"
+    ],
+    "use_case": "适用于需要轻量级、高性能代码编辑器的开发者，特别是希望避免Node.js/Electron环境依赖的场景，或需要在资源受限环境中运行代码编辑工具。",
+    "repo_name": "ProjectBarks/gopher-code",
+    "repo_url": "https://github.com/ProjectBarks/gopher-code",
+    "language": "Go",
+    "stars": 390,
+    "starred_at": "",
+    "original_description": "Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary."
   }
 }
