@@ -5910,5 +5910,66 @@
     "stars": 390,
     "starred_at": "",
     "original_description": "Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary."
+  },
+  "929121414": {
+    "description": "这是一个开源的AI编码工具构建器，用于创建确定性和可重复的AI编码工作流。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI编码助手",
+      "工作流引擎"
+    ],
+    "use_case": "开发者可以使用该工具构建和自动化AI辅助编码流程，例如通过定义YAML配置文件来标准化代码生成、测试和部署等任务，确保AI编码结果的一致性和可重复性。",
+    "repo_name": "coleam00/Archon",
+    "repo_url": "https://github.com/coleam00/Archon",
+    "language": "TypeScript",
+    "stars": 14393,
+    "starred_at": "",
+    "original_description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."
+  },
+  "53631945": {
+    "description": "ripgrep是一个用Rust编写的命令行搜索工具，能够递归搜索目录中的正则表达式模式，并自动遵守gitignore规则。",
+    "category": "工具/库",
+    "tags": [
+      "命令行工具",
+      "文本搜索"
+    ],
+    "use_case": "开发者在代码库中快速搜索特定模式或关键词，替代传统grep工具，提供更快的搜索速度和更好的默认配置（如忽略.gitignore中的文件）。",
+    "repo_name": "BurntSushi/ripgrep",
+    "repo_url": "https://github.com/BurntSushi/ripgrep",
+    "language": "Rust",
+    "stars": 62161,
+    "starred_at": "",
+    "original_description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
+  },
+  "1200597263": {
+    "description": "这是一个AI编程助手工具，能将代码、文档、论文或图像文件夹转换为可查询的知识图谱。",
+    "category": "AI/机器学习",
+    "tags": [
+      "知识图谱",
+      "AI编程助手"
+    ],
+    "use_case": "开发者或研究人员可以将项目代码库、技术文档、研究论文等资料转换为结构化知识图谱，便于通过自然语言查询快速理解代码逻辑、文档内容或研究主题。",
+    "repo_name": "safishamsi/graphify",
+    "repo_url": "https://github.com/safishamsi/graphify",
+    "language": "Python",
+    "stars": 17528,
+    "starred_at": "",
+    "original_description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph"
+  },
+  "958136139": {
+    "description": "这是一个展示设备端机器学习和生成式AI用例的画廊，允许用户在本地尝试和使用模型。",
+    "category": "AI/机器学习",
+    "tags": [
+      "机器学习",
+      "生成式AI",
+      "设备端AI"
+    ],
+    "use_case": "开发者或用户可以通过该应用查看和体验在移动设备上运行的AI模型示例，了解边缘计算和本地AI应用的可能性。",
+    "repo_name": "google-ai-edge/gallery",
+    "repo_url": "https://github.com/google-ai-edge/gallery",
+    "language": "Kotlin",
+    "stars": 19929,
+    "starred_at": "",
+    "original_description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally."
   }
 }
