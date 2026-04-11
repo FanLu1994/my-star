@@ -5971,5 +5971,80 @@
     "stars": 19929,
     "starred_at": "",
     "original_description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally."
+  },
+  "877435941": {
+    "description": "这是一个基于Node.js实现的Anthropic计算机使用系统，用于自动化计算机操作和测试。",
+    "category": "AI/机器学习",
+    "tags": [
+      "自动化测试",
+      "计算机视觉"
+    ],
+    "use_case": "可用于自动化软件测试、界面操作自动化、AI辅助的计算机任务执行等场景。",
+    "repo_name": "ashbuilds/computer-use",
+    "repo_url": "https://github.com/ashbuilds/computer-use",
+    "language": "TypeScript",
+    "stars": 9,
+    "starred_at": "",
+    "original_description": "Anthropic's Computer use implementation in Nodejs"
+  },
+  "832452447": {
+    "description": "这是一个基于AI和视觉驱动的跨平台UI自动化测试工具。",
+    "category": "工具/库",
+    "tags": [
+      "AI测试",
+      "UI自动化"
+    ],
+    "use_case": "用于Web、移动端和桌面应用的自动化测试，通过AI视觉识别技术模拟用户操作，实现跨平台的UI测试和交互自动化。",
+    "repo_name": "web-infra-dev/midscene",
+    "repo_url": "https://github.com/web-infra-dev/midscene",
+    "language": "TypeScript",
+    "stars": 12572,
+    "starred_at": "",
+    "original_description": "AI-powered, vision-driven UI automation for every platform."
+  },
+  "877726505": {
+    "description": "这是一个收集计算机使用GUI代理相关资源的仓库，包括视频、博客、论文和项目。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI代理",
+      "GUI自动化"
+    ],
+    "use_case": "为研究人员和开发者提供计算机GUI自动化代理的学习资料和工具参考，适用于构建能够操作图形界面的智能代理系统。",
+    "repo_name": "ranpox/awesome-computer-use",
+    "repo_url": "https://github.com/ranpox/awesome-computer-use",
+    "language": null,
+    "stars": 531,
+    "starred_at": "",
+    "original_description": "This is a collection of resources for computer-use GUI agents, including videos, blogs, papers, and projects."
+  },
+  "1117015300": {
+    "description": "这是一个将传统八字命理与现代金融数据可视化相结合的项目，将人生运势绘制成类似股票K线图的工具。",
+    "category": "其他",
+    "tags": [
+      "命理分析",
+      "数据可视化"
+    ],
+    "use_case": "用户输入出生信息后，系统生成个人运势K线图，用于趣味性的人生轨迹预测和运势起伏可视化展示。",
+    "repo_name": "XIAOEEN/lifeline-k-",
+    "repo_url": "https://github.com/XIAOEEN/lifeline-k-",
+    "language": "TypeScript",
+    "stars": 122,
+    "starred_at": "",
+    "original_description": "悉命运起伏，预见人生轨迹，合传统八字命理与现代金融数据可视化，我们将您的一生运势绘制成类似股票行情的K线图。助您发现人生牛市，规避风险熊市，把握关键转折点。"
+  },
+  "1124219907": {
+    "description": "DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大语言模型和RAG技术提供交互式学习体验。",
+    "category": "教育",
+    "tags": [
+      "AI学习助手",
+      "多智能体系统"
+    ],
+    "use_case": "适用于需要个性化辅导的学生或自学者，通过CLI工具进行交互式问答、知识检索和自适应学习指导。",
+    "repo_name": "HKUDS/DeepTutor",
+    "repo_url": "https://github.com/HKUDS/DeepTutor",
+    "language": "Python",
+    "stars": 15957,
+    "starred_at": "",
+    "original_description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\""
   }
 }
