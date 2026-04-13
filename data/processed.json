@@ -5623,22 +5623,6 @@
     "starred_at": "",
     "original_description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
   },
-  "1147992203": {
-    "description": "这是一个基于GLM模型的OCR工具，能够快速准确地进行图像文字识别。",
-    "category": "AI/机器学习",
-    "tags": [
-      "OCR",
-      "图像识别",
-      "深度学习"
-    ],
-    "use_case": "用于从图像中提取文字信息，适用于文档数字化、车牌识别、票据处理等场景。",
-    "repo_name": "zai-org/GLM-OCR",
-    "repo_url": "https://github.com/zai-org/GLM-OCR",
-    "language": "Python",
-    "stars": 4987,
-    "starred_at": "",
-    "original_description": "GLM-OCR: Accurate ×  Fast × Comprehensive"
-  },
   "1197742704": {
     "description": "这是一个关于Anthropic Claude Code CLI源码的深度解析技术文档项目。",
     "category": "教育",
@@ -5669,21 +5653,6 @@
     "stars": 29152,
     "starred_at": "",
     "original_description": "Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀"
-  },
-  "1178833585": {
-    "description": "这是一个企业级自托管开源智能体技能注册中心，用于发布、版本管理和治理AI技能包。",
-    "category": "DevOps/基础设施",
-    "tags": [
-      "企业级",
-      "技能管理"
-    ],
-    "use_case": "企业可在私有环境中部署，通过RBAC权限控制和审计日志管理AI技能包，支持Docker或Kubernetes部署，适用于需要安全可控地管理和分发AI能力的场景。",
-    "repo_name": "iflytek/skillhub",
-    "repo_url": "https://github.com/iflytek/skillhub",
-    "language": "Java",
-    "stars": 1660,
-    "starred_at": "",
-    "original_description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes."
   },
   "1086887314": {
     "description": "这是一个展示智能体核心执行流程和生产级特性的最小化专业单智能体演示项目。",
@@ -6017,21 +5986,6 @@
     "starred_at": "",
     "original_description": "This is a collection of resources for computer-use GUI agents, including videos, blogs, papers, and projects."
   },
-  "1117015300": {
-    "description": "这是一个将传统八字命理与现代金融数据可视化相结合的项目，将人生运势绘制成类似股票K线图的工具。",
-    "category": "其他",
-    "tags": [
-      "命理分析",
-      "数据可视化"
-    ],
-    "use_case": "用户输入出生信息后，系统生成个人运势K线图，用于趣味性的人生轨迹预测和运势起伏可视化展示。",
-    "repo_name": "XIAOEEN/lifeline-k-",
-    "repo_url": "https://github.com/XIAOEEN/lifeline-k-",
-    "language": "TypeScript",
-    "stars": 122,
-    "starred_at": "",
-    "original_description": "悉命运起伏，预见人生轨迹，合传统八字命理与现代金融数据可视化，我们将您的一生运势绘制成类似股票行情的K线图。助您发现人生牛市，规避风险熊市，把握关键转折点。"
-  },
   "1124219907": {
     "description": "DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大语言模型和RAG技术提供交互式学习体验。",
     "category": "教育",
@@ -6046,5 +6000,20 @@
     "stars": 15957,
     "starred_at": "",
     "original_description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\""
+  },
+  "1024554267": {
+    "description": "这是一个基于大型语言模型的AI智能体框架，能够根据用户需求进行扩展和成长。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI智能体",
+      "LLM框架"
+    ],
+    "use_case": "用于构建和部署可扩展的AI助手，支持与多种大模型（如Claude、ChatGPT）集成，适用于自动化任务、代码生成和智能对话等场景。",
+    "repo_name": "NousResearch/hermes-agent",
+    "repo_url": "https://github.com/NousResearch/hermes-agent",
+    "language": "Python",
+    "stars": 66199,
+    "starred_at": "",
+    "original_description": "The agent that grows with you"
   }
 }
