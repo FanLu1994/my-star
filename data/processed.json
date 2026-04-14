@@ -6015,5 +6015,35 @@
     "stars": 66199,
     "starred_at": "",
     "original_description": "The agent that grows with you"
+  },
+  "1129759677": {
+    "description": "Ralph是一个自主运行的AI代理循环，持续运行直到所有产品需求文档项目完成。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "use_case": "用于自动化执行产品需求文档中的任务，实现AI驱动的项目管理和任务完成。",
+    "repo_name": "snarktank/ralph",
+    "repo_url": "https://github.com/snarktank/ralph",
+    "language": "TypeScript",
+    "stars": 16504,
+    "starred_at": "",
+    "original_description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. "
+  },
+  "1142983825": {
+    "description": "这是一个包含改进Claude代码生成行为的提示工程文件的仓库。",
+    "category": "AI/机器学习",
+    "tags": [
+      "提示工程",
+      "代码生成"
+    ],
+    "use_case": "开发者在使用Claude进行编程时，可通过该文件优化代码生成质量，避免常见LLM编码陷阱。",
+    "repo_name": "forrestchang/andrej-karpathy-skills",
+    "repo_url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "language": null,
+    "stars": 24944,
+    "starred_at": "",
+    "original_description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
   }
 }
