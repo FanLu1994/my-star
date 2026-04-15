@@ -6045,5 +6045,36 @@
     "stars": 24944,
     "starred_at": "",
     "original_description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+  },
+  "1202808683": {
+    "description": "这是一个为Windows系统提供类似macOS上AppleScript自动化控制能力的MCP服务器，允许AI代理进行系统级桌面操作。",
+    "category": "工具/库",
+    "tags": [
+      "自动化工具",
+      "AI集成"
+    ],
+    "use_case": "AI助手或自动化脚本通过MCP协议控制Windows桌面，实现窗口管理、应用操作、文件处理等系统级自动化任务。",
+    "repo_name": "RavaniRoshan/winscript-mcp",
+    "repo_url": "https://github.com/RavaniRoshan/winscript-mcp",
+    "language": "Python",
+    "stars": 8,
+    "starred_at": "",
+    "original_description": "A Windows-native automation API, packaged as an MCP server, that gives AI agents the same system-level desktop control that AppleScript gives on macOS."
+  },
+  "1100259232": {
+    "description": "这是一个为JetBrains IDE开发的插件，提供Claude Code和Codex的图形用户界面。",
+    "category": "工具/库",
+    "tags": [
+      "JetBrains插件",
+      "AI编程助手",
+      "TypeScript"
+    ],
+    "use_case": "JetBrains IDE用户可以通过此插件在开发环境中便捷地使用Claude Code或Codex等AI编程助手，辅助代码生成、解释和调试。",
+    "repo_name": "zhukunpenglinyutong/jetbrains-cc-gui",
+    "repo_url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
+    "language": "TypeScript",
+    "stars": 2677,
+    "starred_at": "",
+    "original_description": "Jetbrains Claude Code and Codex GUI Plugin"
   }
 }
