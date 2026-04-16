@@ -6076,5 +6076,35 @@
     "stars": 2677,
     "starred_at": "",
     "original_description": "Jetbrains Claude Code and Codex GUI Plugin"
+  },
+  "681566005": {
+    "description": "这是一个基于AI的快速准确文件内容类型检测工具",
+    "category": "AI/机器学习",
+    "tags": [
+      "文件类型检测",
+      "AI推理"
+    ],
+    "use_case": "用于识别未知文件的真实类型（如判断伪装文件、检测恶意文件、自动化文件处理流程中的类型识别等）",
+    "repo_name": "google/magika",
+    "repo_url": "https://github.com/google/magika",
+    "language": "Python",
+    "stars": 13761,
+    "starred_at": "",
+    "original_description": "Fast and accurate AI powered file content types detection "
+  },
+  "1123338559": {
+    "description": "这是一个用于构建云端智能代理的开源模板项目。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI代理",
+      "TypeScript"
+    ],
+    "use_case": "开发者可以使用此模板快速搭建和部署能够执行自动化任务或提供智能服务的云端AI代理。",
+    "repo_name": "vercel-labs/open-agents",
+    "repo_url": "https://github.com/vercel-labs/open-agents",
+    "language": "TypeScript",
+    "stars": 2615,
+    "starred_at": "",
+    "original_description": "An open source template for building cloud agents."
   }
 }
