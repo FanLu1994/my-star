@@ -6106,5 +6106,20 @@
     "stars": 2615,
     "starred_at": "",
     "original_description": "An open source template for building cloud agents."
+  },
+  "1104370536": {
+    "description": "这是一个基于AI的本地聊天记录分析工具，通过Electron桌面应用帮助用户回顾和分析社交聊天历史。",
+    "category": "AI/机器学习",
+    "tags": [
+      "聊天分析",
+      "AI Agent"
+    ],
+    "use_case": "用户可将微信等社交应用的聊天记录导出后，使用该工具进行本地化分析，通过AI智能总结、情感分析、话题聚类等功能回顾社交记忆，无需上传数据到云端，保护隐私。",
+    "repo_name": "hellodigua/ChatLab",
+    "repo_url": "https://github.com/hellodigua/ChatLab",
+    "language": "TypeScript",
+    "stars": 5934,
+    "starred_at": "",
+    "original_description": "Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。"
   }
 }
