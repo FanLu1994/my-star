@@ -6121,5 +6121,50 @@
     "stars": 5934,
     "starred_at": "",
     "original_description": "Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。"
+  },
+  "946380199": {
+    "description": "这是一个用于构建多智能体工作流程的轻量级Python框架。",
+    "category": "框架",
+    "tags": [
+      "AI智能体",
+      "工作流框架"
+    ],
+    "use_case": "用于开发需要多个AI智能体协作完成复杂任务的应用，例如自动化客服、内容生成流水线或复杂决策系统。",
+    "repo_name": "openai/openai-agents-python",
+    "repo_url": "https://github.com/openai/openai-agents-python",
+    "language": "Python",
+    "stars": 23920,
+    "starred_at": "",
+    "original_description": "A lightweight, powerful framework for multi-agent workflows"
+  },
+  "1214741287": {
+    "description": "这是一个为AI代理提供高保真HTML设计和原型指导技能的仓库。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI代理",
+      "原型设计"
+    ],
+    "use_case": "用于辅助AI代理生成或理解高保真HTML设计原型，提升自动化设计能力。",
+    "repo_name": "ZeroZ-lab/cc-design",
+    "repo_url": "https://github.com/ZeroZ-lab/cc-design",
+    "language": "JavaScript",
+    "stars": 466,
+    "starred_at": "",
+    "original_description": "High-fidelity HTML design and prototype guidance skill for AI agents"
+  },
+  "942867788": {
+    "description": "该仓库收集并公开了多个主流AI系统（如ChatGPT、Gemini等）的系统提示词，旨在提高AI系统的透明度。",
+    "category": "AI/机器学习",
+    "tags": [
+      "prompt-engineering",
+      "transparency"
+    ],
+    "use_case": "用于研究AI系统的内部工作机制、进行红队测试、了解不同AI模型的系统级设定，或为提示工程提供参考。",
+    "repo_name": "elder-plinius/CL4R1T4S",
+    "repo_url": "https://github.com/elder-plinius/CL4R1T4S",
+    "language": null,
+    "stars": 18901,
+    "starred_at": "",
+    "original_description": "LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐"
   }
 }
