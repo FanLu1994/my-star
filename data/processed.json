@@ -6166,5 +6166,20 @@
     "stars": 18901,
     "starred_at": "",
     "original_description": "LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐"
+  },
+  "1155965274": {
+    "description": "这是一个基于Claude Code的AI游戏开发工作室系统，通过49个AI代理和72个工作流技能模拟真实游戏工作室的完整协作体系。",
+    "category": "游戏",
+    "tags": [
+      "AI辅助开发",
+      "游戏开发工具"
+    ],
+    "use_case": "游戏开发者可以使用该系统将Claude Code转化为完整的游戏开发工作室，利用AI代理分工协作完成游戏设计、开发、测试等全流程工作，特别适合独立游戏开发者和小型团队提高开发效率。",
+    "repo_name": "Donchitos/Claude-Code-Game-Studios",
+    "repo_url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+    "language": "Shell",
+    "stars": 14977,
+    "starred_at": "",
+    "original_description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
   }
 }
