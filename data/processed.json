@@ -6181,5 +6181,36 @@
     "stars": 14977,
     "starred_at": "",
     "original_description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
+  },
+  "1215145625": {
+    "description": "这是一个为Claude Code设计的HTML原生设计技能库，提供高保真原型、幻灯片和动画制作能力。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI工具",
+      "原型设计",
+      "HTML设计"
+    ],
+    "use_case": "用于在Claude Code等AI编程环境中快速创建高质量的HTML原型、演示文稿和动画，支持MP4导出和设计评审流程。",
+    "repo_name": "alchaincyf/huashu-design",
+    "repo_url": "https://github.com/alchaincyf/huashu-design",
+    "language": "HTML",
+    "stars": 4426,
+    "starred_at": "",
+    "original_description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic"
+  },
+  "1206553433": {
+    "description": "这是一个用Rust编写的即时、并发、安全且轻量级的AI Agent沙箱环境。",
+    "category": "AI/机器学习",
+    "tags": [
+      "沙箱",
+      "AI Agent"
+    ],
+    "use_case": "为AI Agent提供隔离、安全的执行环境，适用于需要并发运行多个不受信AI代码或模型的场景，如AI应用平台、多Agent系统测试与部署。",
+    "repo_name": "TencentCloud/CubeSandbox",
+    "repo_url": "https://github.com/TencentCloud/CubeSandbox",
+    "language": "Rust",
+    "stars": 2369,
+    "starred_at": "",
+    "original_description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents."
   }
 }
