@@ -6212,5 +6212,58 @@
     "stars": 2369,
     "starred_at": "",
     "original_description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents."
+  },
+  "838695230": {
+    "description": "一个开源的React组件集合，提供动画、交互式和完全可定制的组件，用于构建令人难忘的网站。",
+    "category": "Web开发",
+    "tags": [
+      "React",
+      "组件库",
+      "动画",
+      "UI组件",
+      "Tailwind CSS"
+    ],
+    "use_case": "适用于需要快速集成精美动画和交互效果的React网站开发，尤其是使用Tailwind CSS的项目。",
+    "repo_name": "DavidHDev/react-bits",
+    "repo_url": "https://github.com/DavidHDev/react-bits",
+    "language": "JavaScript",
+    "stars": 38638,
+    "starred_at": "",
+    "original_description": "An open source collection of animated, interactive & fully customizable React components for building memorable websites."
+  },
+  "1209098380": {
+    "description": "一个桌面应用，用于在Claude Code、Cursor、Gemini CLI、Codex等20多个平台上统一管理AI编码代理的技能。",
+    "category": "工具/库",
+    "tags": [
+      "AI",
+      "桌面应用",
+      "技能管理",
+      "编码代理"
+    ],
+    "use_case": "开发者可以使用此应用集中管理和同步不同AI编码平台（如Claude Code、Cursor等）的技能配置，提高工作效率。",
+    "repo_name": "iamzhihuix/skills-manage",
+    "repo_url": "https://github.com/iamzhihuix/skills-manage",
+    "language": "TypeScript",
+    "stars": 886,
+    "starred_at": "",
+    "original_description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place."
+  },
+  "1180745961": {
+    "description": "一个通过AI编码代理一键克隆任何网站的模板工具。",
+    "category": "工具/库",
+    "tags": [
+      "AI",
+      "网站克隆",
+      "自动化",
+      "模板",
+      "逆向工程"
+    ],
+    "use_case": "用于快速复制现有网站的前端界面和样式，适合需要基于现有网站快速搭建原型或进行逆向学习的开发者。",
+    "repo_name": "JCodesMore/ai-website-cloner-template",
+    "repo_url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "language": "TypeScript",
+    "stars": 12364,
+    "starred_at": "",
+    "original_description": "Clone any website with one command using AI coding agents"
   }
 }
