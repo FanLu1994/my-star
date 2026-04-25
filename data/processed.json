@@ -6265,5 +6265,21 @@
     "stars": 12364,
     "starred_at": "",
     "original_description": "Clone any website with one command using AI coding agents"
+  },
+  "1216116826": {
+    "description": "一个基于TypeScript的开源游戏编码代理框架，用于自动化游戏开发流程。",
+    "category": "游戏",
+    "tags": [
+      "游戏开发",
+      "AI代理",
+      "自动化编码"
+    ],
+    "use_case": "用于游戏开发者通过AI代理自动生成游戏代码、逻辑或资源，加速游戏原型设计和开发过程。",
+    "repo_name": "leigest519/OpenGame",
+    "repo_url": "https://github.com/leigest519/OpenGame",
+    "language": "TypeScript",
+    "stars": 966,
+    "starred_at": "",
+    "original_description": "OpenGame: Open Agentic Coding for Games"
   }
 }
