@@ -5941,21 +5941,6 @@
     "starred_at": "",
     "original_description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally."
   },
-  "877435941": {
-    "description": "这是一个基于Node.js实现的Anthropic计算机使用系统，用于自动化计算机操作和测试。",
-    "category": "AI/机器学习",
-    "tags": [
-      "自动化测试",
-      "计算机视觉"
-    ],
-    "use_case": "可用于自动化软件测试、界面操作自动化、AI辅助的计算机任务执行等场景。",
-    "repo_name": "ashbuilds/computer-use",
-    "repo_url": "https://github.com/ashbuilds/computer-use",
-    "language": "TypeScript",
-    "stars": 9,
-    "starred_at": "",
-    "original_description": "Anthropic's Computer use implementation in Nodejs"
-  },
   "832452447": {
     "description": "这是一个基于AI和视觉驱动的跨平台UI自动化测试工具。",
     "category": "工具/库",
@@ -6281,5 +6266,105 @@
     "stars": 966,
     "starred_at": "",
     "original_description": "OpenGame: Open Agentic Coding for Games"
+  },
+  "1228848781": {
+    "description": "一个基于Kotlin的移动端应用仓库，可能与OpenCyvis项目相关，但具体功能未明确。",
+    "category": "移动开发",
+    "tags": [
+      "Kotlin",
+      "移动应用"
+    ],
+    "use_case": "用于开发或测试OpenCyvis项目的手机端功能。",
+    "repo_name": "opencyvis/opencyvis-phone",
+    "repo_url": "https://github.com/opencyvis/opencyvis-phone",
+    "language": "Kotlin",
+    "stars": 74,
+    "starred_at": "",
+    "original_description": null
+  },
+  "1223170290": {
+    "description": "一个本地优先、开源的替代Anthropic Claude Design的设计工具，支持多种AI代理和设计系统，可生成网页、桌面、移动原型、幻灯片、图片、视频等。",
+    "category": "工具/库",
+    "tags": [
+      "AI设计",
+      "设计系统",
+      "原型设计",
+      "本地优先",
+      "开源"
+    ],
+    "use_case": "设计师和开发者使用AI代理快速创建和导出跨平台原型、设计系统和多媒体内容。",
+    "repo_name": "nexu-io/open-design",
+    "repo_url": "https://github.com/nexu-io/open-design",
+    "language": "TypeScript",
+    "stars": 30407,
+    "starred_at": "",
+    "original_description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI."
+  },
+  "1074669117": {
+    "description": "一个基于Claude Agent SDK的网页浏览工具，用于自动化网页操作和数据提取。",
+    "category": "工具/库",
+    "tags": [
+      "Claude",
+      "Agent",
+      "网页浏览"
+    ],
+    "use_case": "开发者可以利用该工具集成Claude的智能代理能力，实现自动化网页浏览、数据抓取和交互操作，适用于爬虫、测试或信息收集场景。",
+    "repo_name": "browserbase/skills",
+    "repo_url": "https://github.com/browserbase/skills",
+    "language": "JavaScript",
+    "stars": 2550,
+    "starred_at": "",
+    "original_description": "Claude Agent SDK with a web browsing tool"
+  },
+  "1128204614": {
+    "description": "一个用Rust编写的编码代理工具集，支持AI驱动的命令行界面和MCP协议。",
+    "category": "工具/库",
+    "tags": [
+      "AI",
+      "编码代理",
+      "CLI",
+      "Rust"
+    ],
+    "use_case": "开发者可以使用该工具在终端中通过AI助手（如Claude或OpenAI）辅助编码任务，例如代码生成、调试或自动化脚本编写。",
+    "repo_name": "1jehuang/jcode",
+    "repo_url": "https://github.com/1jehuang/jcode",
+    "language": "Rust",
+    "stars": 4506,
+    "starred_at": "",
+    "original_description": "Coding Agent Harness"
+  },
+  "1221509404": {
+    "description": "一个为AI代理构建的幻灯片框架，支持React和TypeScript。",
+    "category": "框架",
+    "tags": [
+      "agent",
+      "react",
+      "slides"
+    ],
+    "use_case": "用于创建由AI代理驱动的交互式幻灯片演示，适合开发者构建智能演示应用。",
+    "repo_name": "1weiho/open-slide",
+    "repo_url": "https://github.com/1weiho/open-slide",
+    "language": "TypeScript",
+    "stars": 1798,
+    "starred_at": "",
+    "original_description": "A slide framework built for agents."
+  },
+  "1162410458": {
+    "description": "一个基于AI的新闻聚合工具，自动生成中英文每日简报，支持飞书机器人、MCP和Webhook集成。",
+    "category": "工具/库",
+    "tags": [
+      "新闻聚合",
+      "AI",
+      "飞书机器人",
+      "MCP",
+      "Webhook"
+    ],
+    "use_case": "适用于个人或团队快速获取定制化新闻摘要，通过飞书、Webhook等渠道推送每日简报。",
+    "repo_name": "Thysrael/Horizon",
+    "repo_url": "https://github.com/Thysrael/Horizon",
+    "language": "Python",
+    "stars": 2434,
+    "starred_at": "",
+    "original_description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达"
   }
 }
