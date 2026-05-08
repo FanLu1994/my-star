@@ -6366,5 +6366,21 @@
     "stars": 2434,
     "starred_at": "",
     "original_description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达"
+  },
+  "1222252809": {
+    "description": "一个开源的语音输入工具，按住快捷键说话，松开后AI自动润色文本并输出到光标位置，支持macOS和Windows。",
+    "category": "工具/库",
+    "tags": [
+      "语音输入",
+      "AI润色",
+      "跨平台"
+    ],
+    "use_case": "用户在任何应用中需要快速输入并优化文字时，通过语音和AI辅助提高效率，适用于写作、笔记、聊天等场景。",
+    "repo_name": "appergb/openless",
+    "repo_url": "https://github.com/appergb/openless",
+    "language": "HTML",
+    "stars": 967,
+    "starred_at": "",
+    "original_description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)"
   }
 }
