@@ -6382,5 +6382,21 @@
     "stars": 967,
     "starred_at": "",
     "original_description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)"
+  },
+  "846698999": {
+    "description": "一个开源、可扩展的AI代理，超越代码建议，支持安装、执行、编辑和测试，可与任何大型语言模型配合使用。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI代理",
+      "代码自动化",
+      "LLM集成"
+    ],
+    "use_case": "用于自动化软件开发任务，如代码编辑、测试执行和项目管理，通过AI代理与多种LLM交互。",
+    "repo_name": "aaif-goose/goose",
+    "repo_url": "https://github.com/aaif-goose/goose",
+    "language": "Rust",
+    "stars": 44751,
+    "starred_at": "",
+    "original_description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
   }
 }
