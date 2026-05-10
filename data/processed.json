@@ -6398,5 +6398,21 @@
     "stars": 44751,
     "starred_at": "",
     "original_description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+  },
+  "938468965": {
+    "description": "基于Claude Code构建编码基础设施，允许用户自定义与模型交互方式的同时享受Anthropic的更新。",
+    "category": "工具/库",
+    "tags": [
+      "Claude Code",
+      "编码基础设施",
+      "AI交互"
+    ],
+    "use_case": "开发者可将其作为编码基础设施，灵活控制与Claude模型的交互流程，同时自动获取Anthropic的最新更新。",
+    "repo_name": "musistudio/claude-code-router",
+    "repo_url": "https://github.com/musistudio/claude-code-router",
+    "language": "TypeScript",
+    "stars": 33731,
+    "starred_at": "",
+    "original_description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic."
   }
 }
