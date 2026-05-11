@@ -4398,21 +4398,6 @@
     "starred_at": "",
     "original_description": "bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来"
   },
-  "569605317": {
-    "description": "这是一个收集人工智能、机器学习和数据科学领域在线新闻与信息来源的聚合列表。",
-    "category": "AI/机器学习",
-    "tags": [
-      "资源聚合",
-      "信息源"
-    ],
-    "use_case": "开发者或研究人员可以在此快速查找和订阅AI/ML/Data Science相关的博客、新闻、播客、视频、招聘信息等，以跟踪领域动态和获取学习资源。",
-    "repo_name": "foorilla/allainews_sources",
-    "repo_url": "https://github.com/foorilla/allainews_sources",
-    "language": null,
-    "stars": 373,
-    "starred_at": "",
-    "original_description": "A list of online news & info sources in the AI/ML/Data Science space"
-  },
   "1163177460": {
     "description": "这是一个用于与小米AI音箱进行交互的Python项目。",
     "category": "工具/库",
