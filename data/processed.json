@@ -6399,5 +6399,21 @@
     "stars": 33731,
     "starred_at": "",
     "original_description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic."
+  },
+  "1235403234": {
+    "description": "一个基于AI代理的HTML编辑器，支持多种输出格式和平台，无需API密钥即可使用。",
+    "category": "工具/库",
+    "tags": [
+      "AI编辑器",
+      "HTML",
+      "代理技能"
+    ],
+    "use_case": "用于快速生成和编辑HTML内容，支持社交媒体、杂志、海报等多种格式，适合内容创作者和开发者。",
+    "repo_name": "nexu-io/html-anything",
+    "repo_url": "https://github.com/nexu-io/html-anything",
+    "language": "HTML",
+    "stars": 787,
+    "starred_at": "",
+    "original_description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider."
   }
 }
