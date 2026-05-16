@@ -6415,5 +6415,59 @@
     "stars": 787,
     "starred_at": "",
     "original_description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider."
+  },
+  "1192787352": {
+    "description": "零编程基础到独立开发SaaS的实战指南，提供完整方法论、真实案例拆解和动手实践。",
+    "category": "教育",
+    "tags": [
+      "vibecoding",
+      "SaaS开发",
+      "AI辅助开发",
+      "初学者教程"
+    ],
+    "use_case": "帮助零编程基础的用户通过vibecoding方法学习独立开发SaaS产品，适合初学者和想转型AI辅助开发的开发者。",
+    "repo_name": "tmwgsicp/vibecoding-for-beginners",
+    "repo_url": "https://github.com/tmwgsicp/vibecoding-for-beginners",
+    "language": "Dockerfile",
+    "stars": 15,
+    "starred_at": "",
+    "original_description": "用 vibecoding 做产品的实战指南，零编程基础到独立开发 SaaS，完整方法论 + 真实案例拆解 + 动手实践"
+  },
+  "1163665991": {
+    "description": "一个基于TypeScript的RSS/Atom订阅源聚合与过滤工具，用于合并和自定义处理多个Feed源。",
+    "category": "工具/库",
+    "tags": [
+      "RSS",
+      "Feed聚合",
+      "TypeScript"
+    ],
+    "use_case": "用于将多个RSS/Atom订阅源合并为一个统一的Feed流，并支持过滤、排序等自定义处理，适合需要集中管理多个信息源的开发者和内容聚合场景。",
+    "repo_name": "BryanHoo/FeedFuse",
+    "repo_url": "https://github.com/BryanHoo/FeedFuse",
+    "language": "TypeScript",
+    "stars": 156,
+    "starred_at": "",
+    "original_description": null
+  },
+  "1203558071": {
+    "description": "TencentDB Agent Memory 是一个为AI代理提供完全本地化长期记忆的4层渐进式流水线，无需任何外部API依赖。",
+    "category": "AI/机器学习",
+    "tags": [
+      "agent",
+      "ai-agent",
+      "embedding",
+      "llm",
+      "local-first",
+      "long-term-memory",
+      "memory",
+      "vector-search"
+    ],
+    "use_case": "适用于需要本地长期记忆功能的AI代理应用，如智能助手、对话系统或个性化推荐，可在无网络环境下运行。",
+    "repo_name": "Tencent/TencentDB-Agent-Memory",
+    "repo_url": "https://github.com/Tencent/TencentDB-Agent-Memory",
+    "language": "TypeScript",
+    "stars": 1863,
+    "starred_at": "",
+    "original_description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies."
   }
 }
