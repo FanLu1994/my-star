@@ -6469,5 +6469,54 @@
     "stars": 1863,
     "starred_at": "",
     "original_description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies."
+  },
+  "221798060": {
+    "description": "提供中国历代人物传记数据库（CBDB）的最新SQLite版本，便于离线查询和分析。",
+    "category": "数据库",
+    "tags": [
+      "中国历史",
+      "人物传记",
+      "SQLite"
+    ],
+    "use_case": "用于历史研究、人物关系分析、数据挖掘等场景，支持离线访问CBDB数据。",
+    "repo_name": "cbdb-project/cbdb_sqlite",
+    "repo_url": "https://github.com/cbdb-project/cbdb_sqlite",
+    "language": "Shell",
+    "stars": 173,
+    "starred_at": "",
+    "original_description": "The latest SQLite version of the China Biographical Database"
+  },
+  "1137078255": {
+    "description": "为Claude Code、Codex、Cursor和OpenCode等AI编程助手提供预索引的代码知识图谱，以减少token消耗和工具调用，完全本地运行。",
+    "category": "工具/库",
+    "tags": [
+      "代码知识图谱",
+      "AI编程助手",
+      "本地索引",
+      "Token优化"
+    ],
+    "use_case": "开发者在本地项目中利用AI编程助手（如Claude Code、Cursor）进行代码理解和生成时，通过预索引的代码知识图谱减少API调用开销，提升效率。",
+    "repo_name": "colbymchenry/codegraph",
+    "repo_url": "https://github.com/colbymchenry/codegraph",
+    "language": "TypeScript",
+    "stars": 4899,
+    "starred_at": "",
+    "original_description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local"
+  },
+  "1176011916": {
+    "description": "CLI-Anything 旨在将任何软件转化为可通过命令行接口（CLI）与AI代理原生交互的工具，使所有软件都能被AI代理直接调用和操作。",
+    "category": "工具/库",
+    "tags": [
+      "CLI",
+      "AI代理",
+      "软件集成"
+    ],
+    "use_case": "开发者或AI系统通过统一的命令行接口，让AI代理能够自动调用和控制各种软件，实现自动化工作流和智能任务执行。",
+    "repo_name": "HKUDS/CLI-Anything",
+    "repo_url": "https://github.com/HKUDS/CLI-Anything",
+    "language": "Python",
+    "stars": 36618,
+    "starred_at": "",
+    "original_description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
   }
 }
