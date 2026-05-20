@@ -6518,5 +6518,21 @@
     "stars": 36618,
     "starred_at": "",
     "original_description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+  },
+  "939648665": {
+    "description": "一个MCP服务器，用于与Godot游戏引擎交互，提供启动编辑器、运行项目和捕获调试输出的工具。",
+    "category": "游戏",
+    "tags": [
+      "ai",
+      "godot",
+      "mcp"
+    ],
+    "use_case": "开发者可以通过MCP协议远程控制Godot引擎，实现自动化编辑、调试和项目运行，适用于游戏开发工作流集成。",
+    "repo_name": "Coding-Solo/godot-mcp",
+    "repo_url": "https://github.com/Coding-Solo/godot-mcp",
+    "language": "JavaScript",
+    "stars": 3738,
+    "starred_at": "",
+    "original_description": "MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output."
   }
 }
