@@ -6534,5 +6534,55 @@
     "stars": 3738,
     "starred_at": "",
     "original_description": "MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output."
+  },
+  "1129786550": {
+    "description": "一个非官方的Python API和智能体技能库，用于以编程方式访问Google NotebookLM的全部功能，包括Web UI未暴露的能力。",
+    "category": "AI/机器学习",
+    "tags": [
+      "NotebookLM",
+      "Python API",
+      "AI Agent"
+    ],
+    "use_case": "开发者或AI智能体（如Claude、Codex）通过Python或命令行自动化管理NotebookLM的笔记、生成播客等操作。",
+    "repo_name": "teng-lin/notebooklm-py",
+    "repo_url": "https://github.com/teng-lin/notebooklm-py",
+    "language": "Python",
+    "stars": 14112,
+    "starred_at": "",
+    "original_description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw."
+  },
+  "1134426800": {
+    "description": "一个包含1400多个可安装的AI代理技能的GitHub库，支持Claude Code、Cursor、Codex CLI、Gemini CLI等工具，并提供CLI安装器、工作流和官方/社区技能集合。",
+    "category": "工具/库",
+    "tags": [
+      "AI代理技能",
+      "开发者工具",
+      "工作流"
+    ],
+    "use_case": "开发者可以通过CLI安装和使用预构建的AI代理技能，以增强编码助手（如Claude Code、Cursor）的功能，实现自动化工作流和智能任务执行。",
+    "repo_name": "sickn33/antigravity-awesome-skills",
+    "repo_url": "https://github.com/sickn33/antigravity-awesome-skills",
+    "language": "Python",
+    "stars": 38173,
+    "starred_at": "",
+    "original_description": "Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections."
+  },
+  "1159381774": {
+    "description": "一个用于自托管LLM工具调用和多步骤代理工作流的Python框架",
+    "category": "AI/机器学习",
+    "tags": [
+      "agentic-ai",
+      "agentic-workflow",
+      "function-calling",
+      "llm",
+      "self-hosted"
+    ],
+    "use_case": "适用于需要构建基于自托管大语言模型的智能代理系统，支持工具调用和多步骤任务自动化，例如自动化客服、数据分析助手或复杂工作流编排",
+    "repo_name": "antoinezambelli/forge",
+    "repo_url": "https://github.com/antoinezambelli/forge",
+    "language": "Python",
+    "stars": 1199,
+    "starred_at": "",
+    "original_description": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows"
   }
 }
