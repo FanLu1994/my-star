@@ -6584,5 +6584,39 @@
     "stars": 1199,
     "starred_at": "",
     "original_description": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows"
+  },
+  "1214423832": {
+    "description": "一个开源的实时数字人智能体平台，用于构建支持语音优先的AI代理，集成WebRTC、记忆、工具、RAG和可选的数字人视频功能。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI代理",
+      "数字人",
+      "语音助手",
+      "WebRTC",
+      "实时交互"
+    ],
+    "use_case": "适用于需要创建具有语音交互、记忆功能和数字人形象的AI助手或虚拟伴侣的应用场景，如客户服务、虚拟主播、个人助理等。",
+    "repo_name": "dsd2077/CyberVerse",
+    "repo_url": "https://github.com/dsd2077/CyberVerse",
+    "language": "Python",
+    "stars": 745,
+    "starred_at": "",
+    "original_description": "Open-source real-time digital human agent platform. Build voice-first AI agents with WebRTC, persona memory, tools, RAG, and optional digital-human video."
+  },
+  "1202599845": {
+    "description": "数字生命卡兹克开源的AI技能合集，包含多种AI相关工具和脚本。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI",
+      "技能合集",
+      "开源"
+    ],
+    "use_case": "用于学习和使用AI技能，包括模型训练、数据处理等场景。",
+    "repo_name": "KKKKhazix/khazix-skills",
+    "repo_url": "https://github.com/KKKKhazix/khazix-skills",
+    "language": "Python",
+    "stars": 11460,
+    "starred_at": "",
+    "original_description": "数字生命卡兹克开源的 AI Skills 合集"
   }
 }
