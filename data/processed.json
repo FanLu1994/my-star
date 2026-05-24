@@ -6618,5 +6618,21 @@
     "stars": 11460,
     "starred_at": "",
     "original_description": "数字生命卡兹克开源的 AI Skills 合集"
+  },
+  "1246346594": {
+    "description": "一个本地代理和Web仪表盘，用于查看Claude Code、Codex、Kimi等编码代理发送给模型的数据。",
+    "category": "工具/库",
+    "tags": [
+      "代理",
+      "调试",
+      "监控"
+    ],
+    "use_case": "开发者使用编码代理时，通过此工具监控和审查代理与AI模型之间的通信内容。",
+    "repo_name": "jianshuo/ccglass",
+    "repo_url": "https://github.com/jianshuo/ccglass",
+    "language": "JavaScript",
+    "stars": 134,
+    "starred_at": "",
+    "original_description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard"
   }
 }
