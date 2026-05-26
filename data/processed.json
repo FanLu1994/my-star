@@ -6634,5 +6634,54 @@
     "stars": 134,
     "starred_at": "",
     "original_description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard"
+  },
+  "318341089": {
+    "description": "Lexical是一个可扩展的文本编辑器框架，专注于提供出色的可靠性、可访问性和性能。",
+    "category": "框架",
+    "tags": [
+      "文本编辑器",
+      "富文本编辑",
+      "React"
+    ],
+    "use_case": "用于构建高性能、可定制的文本编辑器，适用于内容管理系统、笔记应用、代码编辑器等需要富文本编辑功能的Web应用。",
+    "repo_name": "facebook/lexical",
+    "repo_url": "https://github.com/facebook/lexical",
+    "language": "TypeScript",
+    "stars": 23444,
+    "starred_at": "",
+    "original_description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance."
+  },
+  "145464445": {
+    "description": "一个无头富文本编辑器框架，专为网页开发者设计，基于ProseMirror构建，支持Vue和React。",
+    "category": "Web开发",
+    "tags": [
+      "富文本编辑器",
+      "无头UI",
+      "ProseMirror",
+      "Vue",
+      "React"
+    ],
+    "use_case": "用于在Web应用中集成可定制的富文本编辑功能，如博客编辑器、内容管理系统或协作编辑工具。",
+    "repo_name": "ueberdosis/tiptap",
+    "repo_url": "https://github.com/ueberdosis/tiptap",
+    "language": "TypeScript",
+    "stars": 36940,
+    "starred_at": "",
+    "original_description": "The headless rich text editor framework for web artisans."
+  },
+  "1019230814": {
+    "description": "一个支持百万数据渲染的多维表格解决方案",
+    "category": "Web开发",
+    "tags": [
+      "多维表格",
+      "数据可视化"
+    ],
+    "use_case": "用于在Web应用中高效渲染和操作大量数据，适用于数据分析、报表展示等场景",
+    "repo_name": "MrXujiang/pxcharts",
+    "repo_url": "https://github.com/MrXujiang/pxcharts",
+    "language": "TypeScript",
+    "stars": 173,
+    "starred_at": "",
+    "original_description": " 一款支持百万数据渲染的多维表格解决方案"
   }
 }
