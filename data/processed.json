@@ -6683,5 +6683,87 @@
     "stars": 173,
     "starred_at": "",
     "original_description": " 一款支持百万数据渲染的多维表格解决方案"
+  },
+  "1234968036": {
+    "description": "一个基于体素（voxel）的迷你世界构建工具，用于创建类似Minecraft风格的3D场景。",
+    "category": "游戏",
+    "tags": [
+      "build",
+      "minecraft",
+      "voxel"
+    ],
+    "use_case": "用于在浏览器中快速构建和编辑体素风格的3D世界，适合游戏开发、创意设计或教育演示。",
+    "repo_name": "jasonkneen/tiny-world-builder",
+    "repo_url": "https://github.com/jasonkneen/tiny-world-builder",
+    "language": "HTML",
+    "stars": 725,
+    "starred_at": "",
+    "original_description": "tiny-world-builder"
+  },
+  "1199092195": {
+    "description": "一个基于数学曲线的轻量级加载动画库，包含模态预览、公式和可复制的代码片段。",
+    "category": "Web开发",
+    "tags": [
+      "加载动画",
+      "数学曲线",
+      "前端组件"
+    ],
+    "use_case": "用于在网页中展示数学曲线风格的加载动画，支持预览和代码复制，适合开发者快速集成到项目中。",
+    "repo_name": "Paidax01/math-curve-loaders",
+    "repo_url": "https://github.com/Paidax01/math-curve-loaders",
+    "language": "JavaScript",
+    "stars": 1116,
+    "starred_at": "",
+    "original_description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets."
+  },
+  "1174023498": {
+    "description": "一个用于持久化、主动式AI智能体的多智能体协作平台，支持房间、工作区、技能和外部服务。",
+    "category": "AI/机器学习",
+    "tags": [
+      "agent",
+      "agentic",
+      "multi-agent"
+    ],
+    "use_case": "构建和管理多个AI智能体，使其在虚拟房间或工作区中协作执行任务，并集成外部服务以实现自动化工作流。",
+    "repo_name": "nexus-research-lab/nexus",
+    "repo_url": "https://github.com/nexus-research-lab/nexus",
+    "language": "Go",
+    "stars": 6,
+    "starred_at": "",
+    "original_description": "Multi-agent collaboration platform for persistent, proactive AI agents across rooms, workspaces, skills, and external services."
+  },
+  "632024122": {
+    "description": "基于图像识别的自动化黑盒测试框架，用于模拟用户操作和验证应用行为。",
+    "category": "框架",
+    "tags": [
+      "black-box-testing",
+      "computer-vision",
+      "automation"
+    ],
+    "use_case": "用于移动应用、桌面软件或游戏的自动化测试，通过图像识别模拟点击、滑动等操作，无需修改被测应用代码。",
+    "repo_name": "MaaXYZ/MaaFramework",
+    "repo_url": "https://github.com/MaaXYZ/MaaFramework",
+    "language": "C++",
+    "stars": 4094,
+    "starred_at": "",
+    "original_description": "基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition"
+  },
+  "22067521": {
+    "description": "一个无冗余、依赖极少的C++即时模式图形用户界面库。",
+    "category": "工具/库",
+    "tags": [
+      "gui",
+      "immediate-gui",
+      "cplusplus",
+      "game-development",
+      "multi-platform"
+    ],
+    "use_case": "用于游戏开发、工具开发或需要轻量级、可嵌入UI的C++项目中，提供即时模式GUI界面。",
+    "repo_name": "ocornut/imgui",
+    "repo_url": "https://github.com/ocornut/imgui",
+    "language": "C++",
+    "stars": 73479,
+    "starred_at": "",
+    "original_description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies"
   }
 }
