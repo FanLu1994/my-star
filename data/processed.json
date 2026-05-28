@@ -6765,5 +6765,22 @@
     "stars": 73479,
     "starred_at": "",
     "original_description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies"
+  },
+  "1249888354": {
+    "description": "一个Claude Code插件，用于维护项目的FILETREE.md文件，自动生成和更新文件树结构。",
+    "category": "工具/库",
+    "tags": [
+      "Claude Code",
+      "插件",
+      "文件树",
+      "AI"
+    ],
+    "use_case": "开发者使用Claude Code进行项目管理时，自动生成和同步项目文件树结构，便于文档维护和项目导航。",
+    "repo_name": "nekocode/filetree-skill",
+    "repo_url": "https://github.com/nekocode/filetree-skill",
+    "language": "Python",
+    "stars": 84,
+    "starred_at": "",
+    "original_description": "A Claude Code plugin that maintains `FILETREE.md`."
   }
 }
