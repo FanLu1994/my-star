@@ -6782,5 +6782,54 @@
     "stars": 84,
     "starred_at": "",
     "original_description": "A Claude Code plugin that maintains `FILETREE.md`."
+  },
+  "1247256864": {
+    "description": "一个基于Python的Paranoia技能评估与训练工具",
+    "category": "工具/库",
+    "tags": [
+      "Python",
+      "技能评估",
+      "训练工具"
+    ],
+    "use_case": "用于评估和训练用户的Paranoia相关技能，可能涉及心理或游戏场景",
+    "repo_name": "DY-2026/ParanoiaSkills",
+    "repo_url": "https://github.com/DY-2026/ParanoiaSkills",
+    "language": "Python",
+    "stars": 13,
+    "starred_at": "",
+    "original_description": null
+  },
+  "996360053": {
+    "description": "一个开源的AI模型数据库，用于存储和检索各种AI模型。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI模型",
+      "数据库",
+      "开源"
+    ],
+    "use_case": "开发者可以在此数据库中查找、分享和管理AI模型，适用于模型部署和集成场景。",
+    "repo_name": "anomalyco/models.dev",
+    "repo_url": "https://github.com/anomalyco/models.dev",
+    "language": "TypeScript",
+    "stars": 4385,
+    "starred_at": "",
+    "original_description": "An open-source database of AI models."
+  },
+  "1226917411": {
+    "description": "CodexGuide 是一份面向全球初学者、创作者、开发者与团队的 Codex 实践指南，提供使用 OpenAI Codex 的教程和最佳实践。",
+    "category": "教育",
+    "tags": [
+      "Codex",
+      "OpenAI",
+      "实践指南",
+      "教程"
+    ],
+    "use_case": "帮助初学者、创作者、开发者及团队学习如何有效使用 OpenAI Codex 进行编程和创作。",
+    "repo_name": "freestylefly/CodexGuide",
+    "repo_url": "https://github.com/freestylefly/CodexGuide",
+    "language": null,
+    "stars": 780,
+    "starred_at": "",
+    "original_description": "CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南"
   }
 }
