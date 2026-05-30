@@ -6831,5 +6831,21 @@
     "stars": 780,
     "starred_at": "",
     "original_description": "CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南"
+  },
+  "1162021647": {
+    "description": "一个本地优先的会话智能和分析工具，用于编码代理，支持Claude Code、Codex等20多种代理，并且是ccusage的100倍替代品。",
+    "category": "工具/库",
+    "tags": [
+      "编码代理",
+      "会话分析",
+      "本地优先"
+    ],
+    "use_case": "开发者在本地环境中监控和分析编码代理的会话数据，提升工作效率。",
+    "repo_name": "kenn-io/agentsview",
+    "repo_url": "https://github.com/kenn-io/agentsview",
+    "language": "Go",
+    "stars": 1136,
+    "starred_at": "",
+    "original_description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!"
   }
 }
