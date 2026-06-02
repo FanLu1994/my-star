@@ -6880,5 +6880,21 @@
     "stars": 7899,
     "starred_at": "",
     "original_description": "A fast, helpful, and open-source document parser"
+  },
+  "967738751": {
+    "description": "一个开源的沉浸式翻译浏览器扩展，支持多种语言和LLM翻译引擎，帮助用户阅读外文网页。",
+    "category": "工具/库",
+    "tags": [
+      "浏览器扩展",
+      "翻译",
+      "语言学习"
+    ],
+    "use_case": "用户在浏览外文网页时，通过该扩展实现实时翻译，辅助阅读和学习外语。",
+    "repo_name": "mengxi-ream/read-frog",
+    "repo_url": "https://github.com/mengxi-ream/read-frog",
+    "language": "TypeScript",
+    "stars": 7275,
+    "starred_at": "",
+    "original_description": "🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译"
   }
 }
