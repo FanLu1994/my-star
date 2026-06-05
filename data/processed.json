@@ -6979,5 +6979,21 @@
     "stars": 12783,
     "starred_at": "",
     "original_description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API."
+  },
+  "1258814915": {
+    "description": "一个基于TypeScript的精灵图（sprite）编辑或管理工具",
+    "category": "工具/库",
+    "tags": [
+      "精灵图",
+      "图像处理",
+      "TypeScript"
+    ],
+    "use_case": "用于创建、编辑或管理游戏或Web应用中的精灵图资源",
+    "repo_name": "boona13/sprite-lab",
+    "repo_url": "https://github.com/boona13/sprite-lab",
+    "language": "TypeScript",
+    "stars": 66,
+    "starred_at": "",
+    "original_description": null
   }
 }
