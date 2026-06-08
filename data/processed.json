@@ -6815,23 +6815,6 @@
     "starred_at": "",
     "original_description": "An open-source database of AI models."
   },
-  "1226917411": {
-    "description": "CodexGuide 是一份面向全球初学者、创作者、开发者与团队的 Codex 实践指南，提供使用 OpenAI Codex 的教程和最佳实践。",
-    "category": "教育",
-    "tags": [
-      "Codex",
-      "OpenAI",
-      "实践指南",
-      "教程"
-    ],
-    "use_case": "帮助初学者、创作者、开发者及团队学习如何有效使用 OpenAI Codex 进行编程和创作。",
-    "repo_name": "freestylefly/CodexGuide",
-    "repo_url": "https://github.com/freestylefly/CodexGuide",
-    "language": null,
-    "stars": 780,
-    "starred_at": "",
-    "original_description": "CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南"
-  },
   "1162021647": {
     "description": "一个本地优先的会话智能和分析工具，用于编码代理，支持Claude Code、Codex等20多种代理，并且是ccusage的100倍替代品。",
     "category": "工具/库",
