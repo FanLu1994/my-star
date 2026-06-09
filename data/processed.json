@@ -6978,5 +6978,40 @@
     "stars": 66,
     "starred_at": "",
     "original_description": null
+  },
+  "1131808626": {
+    "description": "提供31个影视创作评估与策划的AI Agent技能，支持竖屏短剧和长剧IP改编的自动化工作流。",
+    "category": "AI/机器学习",
+    "tags": [
+      "agents",
+      "ai",
+      "skills",
+      "影视创作",
+      "自动化工作流"
+    ],
+    "use_case": "用于影视行业从业者（如编剧、制片人）利用AI Agent进行剧本评估、IP改编和竖屏短剧策划，实现创作流程自动化。",
+    "repo_name": "GongLingRui/screen-creative-skills",
+    "repo_url": "https://github.com/GongLingRui/screen-creative-skills",
+    "language": "Python",
+    "stars": 181,
+    "starred_at": "",
+    "original_description": "Skills for Film and Television Creation Agents|31 个影视创作评估策划Agent Skills｜AI影视自动化工作流｜竖屏短剧长剧IP改编"
+  },
+  "1261650101": {
+    "description": "在本地运行Claude Design作为代理技能，生成自包含HTML格式的UI设计稿、原型和线框图。",
+    "category": "AI/机器学习",
+    "tags": [
+      "Claude",
+      "UI设计",
+      "原型工具",
+      "代理技能"
+    ],
+    "use_case": "开发者或设计师在Cursor、Claude Code等工具中集成Claude Design，快速生成高质量的UI设计原型和演示文稿。",
+    "repo_name": "JimLiu/baoyu-design",
+    "repo_url": "https://github.com/JimLiu/baoyu-design",
+    "language": "JavaScript",
+    "stars": 515,
+    "starred_at": "",
+    "original_description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8."
   }
 }
