@@ -7013,5 +7013,71 @@
     "stars": 515,
     "starred_at": "",
     "original_description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8."
+  },
+  "985675434": {
+    "description": "一个命令行工具，用于比较.uasset文件以识别游戏资产两个版本之间的差异。",
+    "category": "游戏",
+    "tags": [
+      "游戏资产",
+      "文件比较",
+      "命令行工具"
+    ],
+    "use_case": "游戏开发者或模组制作者在更新游戏版本时，快速对比.uasset文件的差异，以便定位资产变更。",
+    "repo_name": "theqoqqi/uasset-diff-tool",
+    "repo_url": "https://github.com/theqoqqi/uasset-diff-tool",
+    "language": "C#",
+    "stars": 27,
+    "starred_at": "",
+    "original_description": "A command-line tool for comparing .uasset files to identify differences between two versions of a game’s assets"
+  },
+  "1258143407": {
+    "description": "一个轻量级托盘/菜单栏代理工具，用于在Codex Desktop中一键切换多种国产大模型（如DeepSeek、千问等），并实现本地Responses↔Chat转译。",
+    "category": "工具/库",
+    "tags": [
+      "codex",
+      "deepseek",
+      "macos",
+      "proxy",
+      "rust",
+      "windows"
+    ],
+    "use_case": "适用于需要在Codex Desktop环境中快速切换和使用不同国产大模型（如DeepSeek、千问、智谱等）的开发者或用户，提供便捷的代理和转译功能。",
+    "repo_name": "xqnode/codex-helper",
+    "repo_url": "https://github.com/xqnode/codex-helper",
+    "language": "Rust",
+    "stars": 126,
+    "starred_at": "",
+    "original_description": "Windows / macOS 轻量托盘·菜单栏代理，让 Codex Desktop 一键切换 DeepSeek、千问、智谱、Kimi、MiniMax 等国产大模型。本地 Responses↔Chat 转译，开箱即用。"
+  },
+  "1259415257": {
+    "description": "一个开源工具和技能集，用于通过Codex/Claude代码生成生产就绪的Lottie动画。",
+    "category": "工具/库",
+    "tags": [
+      "Lottie动画",
+      "AI代码生成"
+    ],
+    "use_case": "开发者利用AI代码助手（如Codex或Claude）快速创建和导出可用于生产环境的Lottie动画，适用于UI动效、品牌展示等场景。",
+    "repo_name": "diffusionstudio/lottie",
+    "repo_url": "https://github.com/diffusionstudio/lottie",
+    "language": "TypeScript",
+    "stars": 1457,
+    "starred_at": "",
+    "original_description": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code"
+  },
+  "1258377532": {
+    "description": "AlignDev 帮助AI辅助前端团队生成共享编码规范和SKILL.md文件，使Claude Code、Codex、Cursor、Copilot等AI代理编写一致的代码。",
+    "category": "工具/库",
+    "tags": [
+      "AI辅助开发",
+      "前端",
+      "编码规范"
+    ],
+    "use_case": "用于前端团队统一AI编码助手的代码风格和规则，提升协作效率。",
+    "repo_name": "razr001/align-dev",
+    "repo_url": "https://github.com/razr001/align-dev",
+    "language": "TypeScript",
+    "stars": 357,
+    "starred_at": "",
+    "original_description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently."
   }
 }
