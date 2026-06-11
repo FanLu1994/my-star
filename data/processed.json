@@ -7079,5 +7079,38 @@
     "stars": 357,
     "starred_at": "",
     "original_description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently."
+  },
+  "1257388224": {
+    "description": "一个基于Codex原生的工作流运行器，用于多工作者的差异审查。",
+    "category": "工具/库",
+    "tags": [
+      "Codex",
+      "工作流",
+      "差异审查"
+    ],
+    "use_case": "用于团队协作中自动化代码差异审查流程，支持多工作者并行处理。",
+    "repo_name": "enderzcx/codex-flow",
+    "repo_url": "https://github.com/enderzcx/codex-flow",
+    "language": "JavaScript",
+    "stars": 21,
+    "starred_at": "",
+    "original_description": "Codex-native workflow runner for multi-worker diff review"
+  },
+  "1183971506": {
+    "description": "一个用于清理AI编程工具（如Claude Code、Codex、Cursor）产生的僵尸进程的内存清理器。",
+    "category": "工具/库",
+    "tags": [
+      "AI编程",
+      "进程清理",
+      "内存优化",
+      "CLI工具"
+    ],
+    "use_case": "开发者在长时间使用AI编程助手后，系统内存被僵尸进程占用，通过运行npx zclean快速清理这些进程，释放系统资源。",
+    "repo_name": "TheStack-ai/zclean",
+    "repo_url": "https://github.com/TheStack-ai/zclean",
+    "language": "JavaScript",
+    "stars": 50,
+    "starred_at": "",
+    "original_description": "Kill zombie processes from AI coding tools — free memory cleaner for Claude Code, Codex, Cursor. npx zclean"
   }
 }
