@@ -7112,5 +7112,38 @@
     "stars": 50,
     "starred_at": "",
     "original_description": "Kill zombie processes from AI coding tools — free memory cleaner for Claude Code, Codex, Cursor. npx zclean"
+  },
+  "1222089408": {
+    "description": "一个用于VSCode技能训练的Python项目",
+    "category": "教育",
+    "tags": [
+      "VSCode",
+      "技能训练",
+      "Python"
+    ],
+    "use_case": "帮助用户通过练习提升VSCode使用技能",
+    "repo_name": "vibeshotclub/vsc-skills",
+    "repo_url": "https://github.com/vibeshotclub/vsc-skills",
+    "language": "Python",
+    "stars": 194,
+    "starred_at": "",
+    "original_description": null
+  },
+  "7568434": {
+    "description": "一个用于对齐和比较表格数据的工具，支持CSV和SQLite格式的差异比较。",
+    "category": "工具/库",
+    "tags": [
+      "表格比较",
+      "CSV差异",
+      "数据对齐",
+      "diff工具"
+    ],
+    "use_case": "适用于需要比较两个表格数据差异的场景，如数据迁移验证、版本控制中的表格变更检测、数据库表对比等。",
+    "repo_name": "paulfitz/daff",
+    "repo_url": "https://github.com/paulfitz/daff",
+    "language": "Java",
+    "stars": 914,
+    "starred_at": "",
+    "original_description": "align and compare tables"
   }
 }
