@@ -7145,5 +7145,75 @@
     "stars": 914,
     "starred_at": "",
     "original_description": "align and compare tables"
+  },
+  "1158722119": {
+    "description": "为AI编码代理提供生产级工程技能的仓库。",
+    "category": "工具/库",
+    "tags": [
+      "AI编码代理",
+      "工程技能",
+      "开发工具"
+    ],
+    "use_case": "用于提升AI编码代理（如Claude Code、Cursor等）在软件开发中的工程能力，使其能够处理生产级任务。",
+    "repo_name": "addyosmani/agent-skills",
+    "repo_url": "https://github.com/addyosmani/agent-skills",
+    "language": "Shell",
+    "stars": 56784,
+    "starred_at": "",
+    "original_description": "Production-grade engineering skills for AI coding agents."
+  },
+  "1188421161": {
+    "description": "一个自托管的微信机器人管理平台，集成了应用市场和AI工具，支持多种通讯平台和多种语言SDK。",
+    "category": "工具/库",
+    "tags": [
+      "微信机器人",
+      "Bot管理平台",
+      "AI工具",
+      "自托管",
+      "应用市场"
+    ],
+    "use_case": "用于构建和管理微信机器人，集成AI工具和第三方平台（如飞书、Slack、Discord等），适用于企业自动化、客服系统和智能助手场景。",
+    "repo_name": "openilink/openilink-hub",
+    "repo_url": "https://github.com/openilink/openilink-hub",
+    "language": "Go",
+    "stars": 1332,
+    "starred_at": "",
+    "original_description": "开源微信 Bot 管理平台 + App 应用市场 | Self-hosted WeChat Bot Platform with App Marketplace | Lark · Slack · Discord · DingTalk · GitHub · Notion · 20+ Apps | AI Tools | 7 Language SDKs"
+  },
+  "1221881274": {
+    "description": "一个开源的中间人代理，用于拦截、检查和模拟网络流量。",
+    "category": "工具/库",
+    "tags": [
+      "MITM代理",
+      "网络调试",
+      "HTTP/HTTPS代理",
+      "SOCKS5代理",
+      "Rust"
+    ],
+    "use_case": "用于开发人员调试网络请求、模拟API响应、测试应用程序的网络行为，或作为Charles Proxy的替代品。",
+    "repo_name": "sauravrao637/oproxy",
+    "repo_url": "https://github.com/sauravrao637/oproxy",
+    "language": "Rust",
+    "stars": 367,
+    "starred_at": "",
+    "original_description": "Open-source MITM proxy to intercept, inspect, and mock network traffic."
+  },
+  "1254696756": {
+    "description": "一个基于浏览器的视频编辑器，利用ffmpeg.wasm在本地通过WebAssembly处理视频，无需上传或服务器。",
+    "category": "工具/库",
+    "tags": [
+      "视频编辑",
+      "浏览器端",
+      "ffmpeg-wasm",
+      "隐私优先",
+      "离线优先"
+    ],
+    "use_case": "用户可以在浏览器中直接进行视频编辑操作，如剪辑、转码、合并等，所有处理在本地完成，适合注重隐私和离线使用的场景。",
+    "repo_name": "tejaswigowda/ffmpeg-webCLI",
+    "repo_url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
+    "language": "JavaScript",
+    "stars": 550,
+    "starred_at": "",
+    "original_description": "A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly."
   }
 }
