@@ -6334,24 +6334,6 @@
     "starred_at": "",
     "original_description": "A slide framework built for agents."
   },
-  "1162410458": {
-    "description": "一个基于AI的新闻聚合工具，自动生成中英文每日简报，支持飞书机器人、MCP和Webhook集成。",
-    "category": "工具/库",
-    "tags": [
-      "新闻聚合",
-      "AI",
-      "飞书机器人",
-      "MCP",
-      "Webhook"
-    ],
-    "use_case": "适用于个人或团队快速获取定制化新闻摘要，通过飞书、Webhook等渠道推送每日简报。",
-    "repo_name": "Thysrael/Horizon",
-    "repo_url": "https://github.com/Thysrael/Horizon",
-    "language": "Python",
-    "stars": 2434,
-    "starred_at": "",
-    "original_description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达"
-  },
   "1222252809": {
     "description": "一个开源的语音输入工具，按住快捷键说话，松开后AI自动润色文本并输出到光标位置，支持macOS和Windows。",
     "category": "工具/库",
@@ -7215,5 +7197,23 @@
     "stars": 550,
     "starred_at": "",
     "original_description": "A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly."
+  },
+  "1241959906": {
+    "description": "一个无需API密钥即可通过命令行使用ChatGPT订阅生成图像的Python CLI工具。",
+    "category": "工具/库",
+    "tags": [
+      "chatgpt",
+      "image-generation",
+      "cli",
+      "python",
+      "dalle"
+    ],
+    "use_case": "用户可以通过命令行直接调用ChatGPT的图像生成功能，适用于需要快速生成图像而无需配置API密钥或额外服务的场景。",
+    "repo_name": "leeguooooo/chatgpt-imagegen",
+    "repo_url": "https://github.com/leeguooooo/chatgpt-imagegen",
+    "language": "Python",
+    "stars": 192,
+    "starred_at": "",
+    "original_description": "Use your ChatGPT subscription to generate images from the command line — no OPENAI_API_KEY, no gateway, no daemon. Zero-dep Python CLI + AI-agent skill."
   }
 }
