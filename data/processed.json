@@ -7181,5 +7181,23 @@
     "stars": 4337,
     "starred_at": "",
     "original_description": "AI agent workspace with Code and Write modes built into your application."
+  },
+  "656099147": {
+    "description": "为AI代理提供统一的长期记忆层，支持记忆存储、检索和管理。",
+    "category": "AI/机器学习",
+    "tags": [
+      "agents",
+      "memory",
+      "rag",
+      "llm",
+      "state-management"
+    ],
+    "use_case": "用于构建具有持久记忆能力的AI助手、聊天机器人或智能代理，实现跨会话的上下文保持和个性化交互。",
+    "repo_name": "mem0ai/mem0",
+    "repo_url": "https://github.com/mem0ai/mem0",
+    "language": "Python",
+    "stars": 58803,
+    "starred_at": "",
+    "original_description": "Universal memory layer for AI Agents"
   }
 }
