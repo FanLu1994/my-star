@@ -7011,22 +7011,6 @@
     "starred_at": "",
     "original_description": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code"
   },
-  "1258377532": {
-    "description": "AlignDev 帮助AI辅助前端团队生成共享编码规范和SKILL.md文件，使Claude Code、Codex、Cursor、Copilot等AI代理编写一致的代码。",
-    "category": "工具/库",
-    "tags": [
-      "AI辅助开发",
-      "前端",
-      "编码规范"
-    ],
-    "use_case": "用于前端团队统一AI编码助手的代码风格和规则，提升协作效率。",
-    "repo_name": "razr001/align-dev",
-    "repo_url": "https://github.com/razr001/align-dev",
-    "language": "TypeScript",
-    "stars": 357,
-    "starred_at": "",
-    "original_description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently."
-  },
   "1183971506": {
     "description": "一个用于清理AI编程工具（如Claude Code、Codex、Cursor）产生的僵尸进程的内存清理器。",
     "category": "工具/库",
