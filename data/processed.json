@@ -7183,5 +7183,55 @@
     "stars": 58803,
     "starred_at": "",
     "original_description": "Universal memory layer for AI Agents"
+  },
+  "949382051": {
+    "description": "一个MCP服务器和Claude Code技能，用于通过AI代理以编程方式创建、编辑和导出Excalidraw图表，并支持实时画布同步。",
+    "category": "AI/机器学习",
+    "tags": [
+      "MCP",
+      "Excalidraw",
+      "AI代理",
+      "图表工具"
+    ],
+    "use_case": "开发者或AI代理通过自然语言或编程接口自动生成、修改和导出Excalidraw图表，适用于文档自动化、白板协作和可视化工作流。",
+    "repo_name": "yctimlin/mcp_excalidraw",
+    "repo_url": "https://github.com/yctimlin/mcp_excalidraw",
+    "language": "JavaScript",
+    "stars": 2080,
+    "starred_at": "",
+    "original_description": "MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams via AI agents with real-time canvas sync."
+  },
+  "1266794943": {
+    "description": "一个基于Codex辅助的本地2D动画精灵表生成器和场景合成工作区。",
+    "category": "游戏",
+    "tags": [
+      "2D动画",
+      "精灵表生成器"
+    ],
+    "use_case": "用于游戏开发或动画制作中，快速生成2D动画精灵表并进行场景合成。",
+    "repo_name": "NO6KIKO/gorest-2d-animation-spritesheet-generator",
+    "repo_url": "https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator",
+    "language": "TypeScript",
+    "stars": 865,
+    "starred_at": "",
+    "original_description": "Codex-assisted local 2D animation spritesheet generator and scene compositing workspace."
+  },
+  "53809090": {
+    "description": "一个轻量级的JavaScript动画引擎，用于创建流畅的动画效果。",
+    "category": "工具/库",
+    "tags": [
+      "动画",
+      "JavaScript",
+      "CSS",
+      "SVG",
+      "Canvas"
+    ],
+    "use_case": "用于Web开发中创建高性能的动画效果，如UI动画、SVG动画、Canvas动画等。",
+    "repo_name": "juliangarnier/anime",
+    "repo_url": "https://github.com/juliangarnier/anime",
+    "language": "JavaScript",
+    "stars": 70168,
+    "starred_at": "",
+    "original_description": "JavaScript animation engine"
   }
 }
