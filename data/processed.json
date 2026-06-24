@@ -7233,5 +7233,54 @@
     "stars": 70168,
     "starred_at": "",
     "original_description": "JavaScript animation engine"
+  },
+  "1277708577": {
+    "description": "将模糊的审美描述转化为可确认、可执行、可增量修改的HTML情绪板。",
+    "category": "工具/库",
+    "tags": [
+      "情绪板",
+      "审美共识",
+      "HTML生成",
+      "设计工具"
+    ],
+    "use_case": "用于设计师、产品经理或开发者将客户模糊的审美需求（如品牌文档、会议记录、剧本读本等）快速转化为可视化的HTML情绪板，以便团队对齐和迭代修改。",
+    "repo_name": "zhlmi/moodboard-alignment",
+    "repo_url": "https://github.com/zhlmi/moodboard-alignment",
+    "language": "Python",
+    "stars": 18,
+    "starred_at": "",
+    "original_description": "审美共识引擎 Skill，把客户的 brief、会议记录、剧本读本、品牌文档、PPT 主题、App/游戏设定中的模糊审美描述，转化为可确认、可执行、可增量修改的 HTML 情绪板。Moodboard Alignment turns fuzzy aesthetic briefs into confirmable, executable, and incrementally editable HTML moodboards.​"
+  },
+  "1266797999": {
+    "description": "一个让AI代理像最懒的高级开发人员一样思考的提示工程工具，强调不写代码才是最好的代码。",
+    "category": "工具/库",
+    "tags": [
+      "AI代理",
+      "提示工程",
+      "开发工具"
+    ],
+    "use_case": "用于配置AI编码助手（如Claude Code）以遵循YAGNI原则，减少不必要的代码生成，适用于追求简洁和高效开发的场景。",
+    "repo_name": "DietrichGebert/ponytail",
+    "repo_url": "https://github.com/DietrichGebert/ponytail",
+    "language": "JavaScript",
+    "stars": 52439,
+    "starred_at": "",
+    "original_description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+  },
+  "1232712502": {
+    "description": "一个统一的存储SDK，为对象和blob后端提供简洁、标准化的Web I/O接口。",
+    "category": "工具/库",
+    "tags": [
+      "存储",
+      "SDK",
+      "云服务"
+    ],
+    "use_case": "适用于需要在不同云存储服务（如S3、R2、MinIO、Google Cloud等）之间切换或统一管理的应用开发场景。",
+    "repo_name": "haydenbleasel/files-sdk",
+    "repo_url": "https://github.com/haydenbleasel/files-sdk",
+    "language": "TypeScript",
+    "stars": 1357,
+    "starred_at": "",
+    "original_description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O."
   }
 }
