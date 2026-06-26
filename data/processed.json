@@ -7282,5 +7282,57 @@
     "stars": 1357,
     "starred_at": "",
     "original_description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O."
+  },
+  "925270205": {
+    "description": "为计算机使用代理提供开源基础设施，包括沙箱、SDK和基准测试，用于训练和评估能控制完整桌面（macOS、Linux、Windows）的AI代理。",
+    "category": "AI/机器学习",
+    "tags": [
+      "agent",
+      "ai-agent",
+      "computer-use",
+      "desktop-automation",
+      "containerization",
+      "virtualization"
+    ],
+    "use_case": "开发者可以基于此仓库构建、训练和评估能够自动化桌面操作的AI代理，适用于测试、部署和基准测试场景。",
+    "repo_name": "trycua/cua",
+    "repo_url": "https://github.com/trycua/cua",
+    "language": "HTML",
+    "stars": 18979,
+    "starred_at": "",
+    "original_description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows)."
+  },
+  "1195360525": {
+    "description": "全球首个开源、智能体驱动的视频制作系统，包含12条流水线、52个工具和500+智能体技能，可将AI编程助手转变为完整的视频制作工作室。",
+    "category": "AI/机器学习",
+    "tags": [
+      "视频生成",
+      "智能体",
+      "开源"
+    ],
+    "use_case": "利用AI智能体自动化视频制作流程，适用于内容创作者、视频编辑和开发者快速生成高质量视频内容。",
+    "repo_name": "calesthio/OpenMontage",
+    "repo_url": "https://github.com/calesthio/OpenMontage",
+    "language": "Python",
+    "stars": 22054,
+    "starred_at": "",
+    "original_description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
+  },
+  "1193082155": {
+    "description": "Harness 是一种元技能，用于设计特定领域的智能体团队、定义专业智能体并生成它们使用的技能。",
+    "category": "AI/机器学习",
+    "tags": [
+      "claude-code",
+      "claude-code-plugin",
+      "harness",
+      "harness-engineering"
+    ],
+    "use_case": "用于构建和编排针对特定领域（如软件工程）的AI智能体团队，自动生成智能体所需的技能和工具，提升复杂任务的自动化水平。",
+    "repo_name": "revfactory/harness",
+    "repo_url": "https://github.com/revfactory/harness",
+    "language": "HTML",
+    "stars": 7944,
+    "starred_at": "",
+    "original_description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
   }
 }
