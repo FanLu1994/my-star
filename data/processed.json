@@ -7352,5 +7352,20 @@
     "stars": 375,
     "starred_at": "",
     "original_description": "A native macOS menu-bar app that keeps your keyboard input source locked — global, per-app, and per-URL."
+  },
+  "829940250": {
+    "description": "提供AI系统从底层硬件到上层软件栈支持大模型训练和推理的基础设施资源。",
+    "category": "AI/机器学习",
+    "tags": [
+      "aiinfra",
+      "aisystem"
+    ],
+    "use_case": "用于学习和研究AI基础设施的架构、组件及最佳实践，支持大模型训练和推理的部署与优化。",
+    "repo_name": "Infrasys-AI/AIInfra",
+    "repo_url": "https://github.com/Infrasys-AI/AIInfra",
+    "language": "Jupyter Notebook",
+    "stars": 7465,
+    "starred_at": "",
+    "original_description": "AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。"
   }
 }
