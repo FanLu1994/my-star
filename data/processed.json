@@ -7367,5 +7367,37 @@
     "stars": 7465,
     "starred_at": "",
     "original_description": "AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。"
+  },
+  "1194909813": {
+    "description": "ColaMD 是一个面向 AI 代理的原生 Markdown 编辑器。",
+    "category": "工具/库",
+    "tags": [
+      "Markdown编辑器",
+      "AI代理",
+      "TypeScript"
+    ],
+    "use_case": "用于 AI 代理或开发者编写和编辑 Markdown 文档，支持原生体验和高效协作。",
+    "repo_name": "marswaveai/ColaMD",
+    "repo_url": "https://github.com/marswaveai/ColaMD",
+    "language": "TypeScript",
+    "stars": 528,
+    "starred_at": "",
+    "original_description": "The Agent Native Markdown Editor."
+  },
+  "496233655": {
+    "description": "一个基于AI的Markdown编辑器，支持多种AI模型和跨平台桌面应用。",
+    "category": "工具/库",
+    "tags": [
+      "Markdown编辑器",
+      "AI集成",
+      "跨平台桌面应用"
+    ],
+    "use_case": "适用于需要AI辅助写作和笔记管理的用户，支持在Windows、macOS和Linux上使用。",
+    "repo_name": "drl990114/MarkFlowy",
+    "repo_url": "https://github.com/drl990114/MarkFlowy",
+    "language": "TypeScript",
+    "stars": 2331,
+    "starred_at": "",
+    "original_description": "The AI Markdown Editor"
   }
 }
