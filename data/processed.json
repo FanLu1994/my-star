@@ -7399,5 +7399,102 @@
     "stars": 2331,
     "starred_at": "",
     "original_description": "The AI Markdown Editor"
+  },
+  "172227885": {
+    "description": "一个全栈现代Web应用模板，集成了FastAPI、React、SQLModel、PostgreSQL、Docker和GitHub Actions等工具。",
+    "category": "Web开发",
+    "tags": [
+      "FastAPI",
+      "React",
+      "Docker",
+      "PostgreSQL",
+      "TypeScript"
+    ],
+    "use_case": "用于快速搭建具有前后端分离、数据库集成和自动化部署的现代Web应用。",
+    "repo_name": "fastapi/full-stack-fastapi-template",
+    "repo_url": "https://github.com/fastapi/full-stack-fastapi-template",
+    "language": "TypeScript",
+    "stars": 43959,
+    "starred_at": "",
+    "original_description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more."
+  },
+  "1137411798": {
+    "description": "一个基于TypeScript构建的开源AI代理框架，用于创建和管理智能代理。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI代理",
+      "TypeScript",
+      "框架"
+    ],
+    "use_case": "用于构建和部署自定义AI代理，适用于自动化任务、对话系统或智能工作流场景。",
+    "repo_name": "craft-ai-agents/craft-agents-oss",
+    "repo_url": "https://github.com/craft-ai-agents/craft-agents-oss",
+    "language": "TypeScript",
+    "stars": 6576,
+    "starred_at": "",
+    "original_description": null
+  },
+  "1158096951": {
+    "description": "一个用于管理Markdown知识库的桌面应用程序",
+    "category": "工具/库",
+    "tags": [
+      "Markdown",
+      "知识管理",
+      "桌面应用"
+    ],
+    "use_case": "用户可以通过该应用创建、编辑和组织Markdown格式的笔记或文档，适用于个人知识管理、技术文档编写或学习笔记整理等场景。",
+    "repo_name": "refactoringhq/tolaria",
+    "repo_url": "https://github.com/refactoringhq/tolaria",
+    "language": "TypeScript",
+    "stars": 17507,
+    "starred_at": "",
+    "original_description": "Desktop app to manage markdown knowledge bases"
+  },
+  "1169786040": {
+    "description": "闲鱼超级管家是闲鱼自动回复工具的二次开发版本，提供现代化UI和核心功能。",
+    "category": "工具/库",
+    "tags": [
+      "闲鱼",
+      "自动回复",
+      "UI重构"
+    ],
+    "use_case": "用于闲鱼卖家自动回复买家消息，提升客服效率。",
+    "repo_name": "Mxucc/xianyu-super-butler",
+    "repo_url": "https://github.com/Mxucc/xianyu-super-butler",
+    "language": "Python",
+    "stars": 1295,
+    "starred_at": "",
+    "original_description": "闲鱼超级管家是在 xianyu-auto-reply 基础上的二次开发版本，保留了原项目的所有核心功能，并对前端 UI 进行了全面重构，带来更加现代化、专业化的使用体验。"
+  },
+  "1208221543": {
+    "description": "使用编码代理编辑视频的仓库",
+    "category": "工具/库",
+    "tags": [
+      "视频编辑",
+      "编码代理",
+      "自动化"
+    ],
+    "use_case": "通过编程代理自动化视频编辑任务，适用于需要批量处理或定制化视频编辑的场景",
+    "repo_name": "browser-use/video-use",
+    "repo_url": "https://github.com/browser-use/video-use",
+    "language": "Python",
+    "stars": 11928,
+    "starred_at": "",
+    "original_description": "Edit videos with coding agents"
+  },
+  "32484381": {
+    "description": "这是一个收集了各种提供免费套餐的SaaS、PaaS和IaaS服务的列表，对DevOps和基础设施开发者非常有用。",
+    "category": "DevOps/基础设施",
+    "tags": [
+      "awesome-list",
+      "free-for-developers"
+    ],
+    "use_case": "开发者可以在此查找和比较各种云服务、开发工具和平台的免费套餐，用于个人项目、学习或小规模部署。",
+    "repo_name": "ripienaar/free-for-dev",
+    "repo_url": "https://github.com/ripienaar/free-for-dev",
+    "language": "HTML",
+    "stars": 126711,
+    "starred_at": "",
+    "original_description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
   }
 }
