@@ -7496,5 +7496,56 @@
     "stars": 126711,
     "starred_at": "",
     "original_description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+  },
+  "722184017": {
+    "description": "一个基于TypeScript/React的AI聊天UI组件库，用于快速构建聊天机器人界面。",
+    "category": "Web开发",
+    "tags": [
+      "AI聊天",
+      "React组件",
+      "UI库"
+    ],
+    "use_case": "用于在React应用中集成AI聊天功能，支持对话式AI、Copilot等场景，可与Vercel AI SDK等后端服务配合使用。",
+    "repo_name": "assistant-ui/assistant-ui",
+    "repo_url": "https://github.com/assistant-ui/assistant-ui",
+    "language": "TypeScript",
+    "stars": 10889,
+    "starred_at": "",
+    "original_description": "Typescript/React Library for AI Chat💬🚀"
+  },
+  "47039255": {
+    "description": "一个基于块的编辑器，能够生成干净的JSON输出。",
+    "category": "Web开发",
+    "tags": [
+      "编辑器",
+      "JavaScript",
+      "TypeScript",
+      "JSON",
+      "UI"
+    ],
+    "use_case": "用于构建需要结构化内容编辑的Web应用，如博客、CMS或文档编辑器。",
+    "repo_name": "codex-team/editor.js",
+    "repo_url": "https://github.com/codex-team/editor.js",
+    "language": "TypeScript",
+    "stars": 31844,
+    "starred_at": "",
+    "original_description": "A block-style editor with clean JSON output"
+  },
+  "1038771433": {
+    "description": "基于shadcn/ui构建的组件库和自定义注册表，用于快速开发AI原生应用。",
+    "category": "Web开发",
+    "tags": [
+      "AI",
+      "组件库",
+      "shadcn-ui",
+      "Vercel"
+    ],
+    "use_case": "帮助开发者快速构建集成AI功能的Web应用界面，如聊天、生成式UI等场景。",
+    "repo_name": "vercel/ai-elements",
+    "repo_url": "https://github.com/vercel/ai-elements",
+    "language": "TypeScript",
+    "stars": 2166,
+    "starred_at": "",
+    "original_description": "AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster."
   }
 }
