@@ -7547,5 +7547,40 @@
     "stars": 2166,
     "starred_at": "",
     "original_description": "AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster."
+  },
+  "282087579": {
+    "description": "一个用于低级检查和手动修改虚幻引擎游戏资产的工具。",
+    "category": "游戏",
+    "tags": [
+      "modding",
+      "unreal-engine",
+      "gui",
+      "json"
+    ],
+    "use_case": "游戏模组开发者或逆向工程师用于查看和编辑虚幻引擎游戏的资产文件（如.uasset），以修改游戏内容或进行调试。",
+    "repo_name": "atenfyr/UAssetGUI",
+    "repo_url": "https://github.com/atenfyr/UAssetGUI",
+    "language": "C#",
+    "stars": 993,
+    "starred_at": "",
+    "original_description": "A tool designed for low-level examination and modification of Unreal Engine game assets by hand."
+  },
+  "818331198": {
+    "description": "基于Pydantic的AI Agent框架，用于构建和编排智能代理应用。",
+    "category": "AI/机器学习",
+    "tags": [
+      "agent-framework",
+      "genai",
+      "llm",
+      "pydantic",
+      "python"
+    ],
+    "use_case": "用于开发基于大语言模型的智能代理，支持结构化输出、类型安全的数据验证和复杂的多步骤工作流编排。",
+    "repo_name": "pydantic/pydantic-ai",
+    "repo_url": "https://github.com/pydantic/pydantic-ai",
+    "language": "Python",
+    "stars": 18165,
+    "starred_at": "",
+    "original_description": "AI Agent Framework, the Pydantic way"
   }
 }
