@@ -7582,5 +7582,37 @@
     "stars": 18165,
     "starred_at": "",
     "original_description": "AI Agent Framework, the Pydantic way"
+  },
+  "964404080": {
+    "description": "奈云机场官方地址，提供Shadowsocks、V2Ray、Trojan、Clash等代理工具的相关信息。",
+    "category": "其他",
+    "tags": [
+      "代理工具",
+      "机场",
+      "网络工具"
+    ],
+    "use_case": "用于访问奈云机场官方网站，获取代理服务配置信息。",
+    "repo_name": "jdnei/naiyun",
+    "repo_url": "https://github.com/jdnei/naiyun",
+    "language": null,
+    "stars": 157,
+    "starred_at": "",
+    "original_description": "naiyun奈云机场官方地址"
+  },
+  "1105953775": {
+    "description": "一个支持本地音乐、Navidrome和第三方网易云音乐的播放器，专注于绚丽的歌词动画效果。",
+    "category": "Web开发",
+    "tags": [
+      "音乐播放器",
+      "歌词动画",
+      "React"
+    ],
+    "use_case": "用户可以通过该播放器播放本地音乐、连接Navidrome服务器或网易云音乐，享受带有绚丽歌词动画的听歌体验。",
+    "repo_name": "chthollyphile/folia-major",
+    "repo_url": "https://github.com/chthollyphile/folia-major",
+    "language": "TypeScript",
+    "stars": 864,
+    "starred_at": "",
+    "original_description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器"
   }
 }
