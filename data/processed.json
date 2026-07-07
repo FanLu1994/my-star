@@ -7614,5 +7614,37 @@
     "stars": 864,
     "starred_at": "",
     "original_description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器"
+  },
+  "885118918": {
+    "description": "基于pywinauto实现的Windows桌面微信自动化操作工具，支持微信4.0系列版本，可模拟用户操作实现RPA功能。",
+    "category": "工具/库",
+    "tags": [
+      "微信自动化",
+      "RPA",
+      "pywinauto"
+    ],
+    "use_case": "用于自动化执行微信桌面端的重复性操作，如消息发送、联系人管理、群发消息等，适用于营销、客服或个人效率提升场景。",
+    "repo_name": "Hello-Mr-Crab/pywechat",
+    "repo_url": "https://github.com/Hello-Mr-Crab/pywechat",
+    "language": "Python",
+    "stars": 1672,
+    "starred_at": "",
+    "original_description": "仍然可用的微信RPA！支持4.0系列微信pywechat是一个基于pywinauto实现的windows桌面微信自动化操作工具，基本实现了PC微信内置的各项操作。"
+  },
+  "1148788086": {
+    "description": "一个包含真实工程师技能配置的仓库，源自作者个人的.claude目录。",
+    "category": "工具/库",
+    "tags": [
+      "技能",
+      "配置",
+      "工程师"
+    ],
+    "use_case": "用于快速获取或参考真实工程师的技能配置，可能用于AI助手或开发环境设置。",
+    "repo_name": "mattpocock/skills",
+    "repo_url": "https://github.com/mattpocock/skills",
+    "language": "Shell",
+    "stars": 158756,
+    "starred_at": "",
+    "original_description": "Skills for Real Engineers. Straight from my .claude directory."
   }
 }
