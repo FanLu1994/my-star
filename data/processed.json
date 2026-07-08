@@ -7646,5 +7646,21 @@
     "stars": 158756,
     "starred_at": "",
     "original_description": "Skills for Real Engineers. Straight from my .claude directory."
+  },
+  "1038323680": {
+    "description": "一个用于AI驱动流式渲染的react-markdown替代方案。",
+    "category": "Web开发",
+    "tags": [
+      "AI",
+      "markdown",
+      "streaming"
+    ],
+    "use_case": "在React应用中实时渲染AI生成的流式Markdown内容，如聊天机器人或实时文本生成。",
+    "repo_name": "vercel/streamdown",
+    "repo_url": "https://github.com/vercel/streamdown",
+    "language": "TypeScript",
+    "stars": 5373,
+    "starred_at": "",
+    "original_description": "A drop-in replacement for react-markdown, designed for AI-powered streaming."
   }
 }
