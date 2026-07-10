@@ -7662,5 +7662,23 @@
     "stars": 5373,
     "starred_at": "",
     "original_description": "A drop-in replacement for react-markdown, designed for AI-powered streaming."
+  },
+  "1290921966": {
+    "description": "一个伪装成VS Code、Word、Google Docs等办公软件界面的网页阅读器，让你在工作时也能安全地阅读网页内容。",
+    "category": "工具/库",
+    "tags": [
+      "moyu",
+      "productivity",
+      "reader",
+      "react",
+      "typescript"
+    ],
+    "use_case": "在工作环境中，用户可以通过伪装成办公软件的界面来阅读网页文章、文档或其他在线内容，避免被同事或管理者发现，提高阅读的隐蔽性和便利性。",
+    "repo_name": "SneakRead/sneakread",
+    "repo_url": "https://github.com/SneakRead/sneakread",
+    "language": "TypeScript",
+    "stars": 60,
+    "starred_at": "",
+    "original_description": "Read the web at your desk, disguised as VS Code / Word / Google Docs / Excel / Outlook. 100% client-side, MIT."
   }
 }

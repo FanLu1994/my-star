@@ -1,5 +1,5 @@
 # 我的 GitHub Star 收藏 :star:
-> 最后更新: 2026-07-09 02:01:21 | 总计: **498** 个仓库 | 分类: **10** 个 | 标签: **718** 个
+> 最后更新: 2026-07-10 02:00:03 | 总计: **499** 个仓库 | 分类: **10** 个 | 标签: **722** 个
 
 ---
 ## :open_file_folder: 分类目录
@@ -8,7 +8,7 @@
 |------|------|------|------|
 | [AI/机器学习](#ai机器学习) | 124 | [Web开发](#web开发) | 34 |
 | [移动开发](#移动开发) | 30 | [框架](#框架) | 11 |
-| [数据库](#数据库) | 7 | [工具/库](#工具库) | 224 |
+| [数据库](#数据库) | 7 | [工具/库](#工具库) | 225 |
 | [DevOps/基础设施](#devops基础设施) | 13 | [游戏](#游戏) | 31 |
 | [教育](#教育) | 16 | [其他](#其他) | 8 |
 
@@ -38,74 +38,75 @@
 | [`屏幕录制`](#tag-屏幕录制) (3) | [`Python工具`](#tag-python工具) (3) | [`Windows`](#tag-windows) (3) | [`AI开发工具`](#tag-ai开发工具) (3) |
 | [`TypeScript库`](#tag-typescript库) (3) | [`Android自动化`](#tag-android自动化) (3) | [`移动自动化`](#tag-移动自动化) (3) | [`游戏工具`](#tag-游戏工具) (3) |
 | [`学习资源`](#tag-学习资源) (3) | [`文件管理`](#tag-文件管理) (3) | [`Vue组件`](#tag-vue组件) (3) | [`iOS开发`](#tag-ios开发) (3) |
-| [`负载测试`](#tag-负载测试) (3) | [`网络工具`](#tag-网络工具) (2) | [`gui`](#tag-gui) (2) | [`python`](#tag-python) (2) |
-| [`UI库`](#tag-ui库) (2) | [`JSON`](#tag-json) (2) | [`组件库`](#tag-组件库) (2) | [`Docker`](#tag-docker) (2) |
-| [`Markdown`](#tag-markdown) (2) | [`awesome-list`](#tag-awesome-list) (2) | [`Markdown编辑器`](#tag-markdown编辑器) (2) | [`Swift`](#tag-swift) (2) |
-| [`ai-agent`](#tag-ai-agent) (2) | [`智能体`](#tag-智能体) (2) | [`设计工具`](#tag-设计工具) (2) | [`提示工程`](#tag-提示工程) (2) |
-| [`SDK`](#tag-sdk) (2) | [`动画`](#tag-动画) (2) | [`CSS`](#tag-css) (2) | [`memory`](#tag-memory) (2) |
-| [`chatgpt`](#tag-chatgpt) (2) | [`Rust`](#tag-rust) (2) | [`AI编程`](#tag-ai编程) (2) | [`CLI工具`](#tag-cli工具) (2) |
-| [`ai`](#tag-ai) (2) | [`自动化工作流`](#tag-自动化工作流) (2) | [`图像处理`](#tag-图像处理) (2) | [`工作流`](#tag-工作流) (2) |
-| [`本地优先`](#tag-本地优先) (2) | [`代理`](#tag-代理) (2) | [`调试`](#tag-调试) (2) | [`监控`](#tag-监控) (2) |
-| [`WebRTC`](#tag-webrtc) (2) | [`Kotlin`](#tag-kotlin) (2) | [`移动应用`](#tag-移动应用) (2) | [`Agent`](#tag-agent) (2) |
-| [`模板`](#tag-模板) (2) | [`代码编辑器`](#tag-代码编辑器) (2) | [`UI组件库`](#tag-ui组件库) (2) | [`LLM`](#tag-llm) (2) |
-| [`协作平台`](#tag-协作平台) (2) | [`性能优化`](#tag-性能优化) (2) | [`低代码平台`](#tag-低代码平台) (2) | [`API客户端`](#tag-api客户端) (2) |
-| [`办公自动化`](#tag-办公自动化) (2) | [`飞书`](#tag-飞书) (2) | [`AI/机器学习`](#tag-ai机器学习) (2) | [`IDE插件`](#tag-ide插件) (2) |
-| [`AI应用`](#tag-ai应用) (2) | [`电子书`](#tag-电子书) (2) | [`动画库`](#tag-动画库) (2) | [`WebGL`](#tag-webgl) (2) |
-| [`代码分析`](#tag-代码分析) (2) | [`移动开发`](#tag-移动开发) (2) | [`最佳实践`](#tag-最佳实践) (2) | [`构建工具`](#tag-构建工具) (2) |
-| [`网络代理`](#tag-网络代理) (2) | [`AI助手集成`](#tag-ai助手集成) (2) | [`内存分析`](#tag-内存分析) (2) | [`新闻聚合`](#tag-新闻聚合) (2) |
-| [`Electron`](#tag-electron) (2) | [`Go工具`](#tag-go工具) (2) | [`Web界面`](#tag-web界面) (2) | [`AI摘要`](#tag-ai摘要) (2) |
-| [`内容聚合`](#tag-内容聚合) (2) | [`AI基础设施`](#tag-ai基础设施) (2) | [`视频下载`](#tag-视频下载) (2) | [`终端模拟器`](#tag-终端模拟器) (2) |
-| [`SSH客户端`](#tag-ssh客户端) (2) | [`文件转换`](#tag-文件转换) (2) | [`Obsidian插件`](#tag-obsidian插件) (2) | [`系统监控`](#tag-系统监控) (2) |
-| [`系统工具`](#tag-系统工具) (2) | [`技能库`](#tag-技能库) (2) | [`视频处理`](#tag-视频处理) (2) | [`版本管理`](#tag-版本管理) (2) |
-| [`远程访问`](#tag-远程访问) (2) | [`远程桌面`](#tag-远程桌面) (2) | [`Vue.js`](#tag-vuejs) (2) | [`游戏引擎`](#tag-游戏引擎) (2) |
-| [`资源集合`](#tag-资源集合) (2) | [`静态分析`](#tag-静态分析) (2) | [`Windows应用`](#tag-windows应用) (2) | [`Unity`](#tag-unity) (2) |
-| [`网络加速`](#tag-网络加速) (2) | [`Unreal Engine`](#tag-unreal-engine) (2) | [`代码质量`](#tag-代码质量) (2) | [`思维导图`](#tag-思维导图) (2) |
-| [`开源软件`](#tag-开源软件) (2) | [`屏幕镜像`](#tag-屏幕镜像) (2) | [`远程控制`](#tag-远程控制) (2) | [`电视直播`](#tag-电视直播) (2) |
-| [`Node.js`](#tag-nodejs) (2) | [`IPTV`](#tag-iptv) (2) | [`移动测试`](#tag-移动测试) (2) | [`安全工具`](#tag-安全工具) (2) |
-| [`虚幻引擎`](#tag-虚幻引擎) (2) | [`WebUSB`](#tag-webusb) (2) | [`markdown`](#tag-markdown) (1) | [`streaming`](#tag-streaming) (1) |
-| [`微信自动化`](#tag-微信自动化) (1) | [`RPA`](#tag-rpa) (1) | [`pywinauto`](#tag-pywinauto) (1) | [`技能`](#tag-技能) (1) |
-| [`配置`](#tag-配置) (1) | [`工程师`](#tag-工程师) (1) | [`代理工具`](#tag-代理工具) (1) | [`机场`](#tag-机场) (1) |
-| [`音乐播放器`](#tag-音乐播放器) (1) | [`歌词动画`](#tag-歌词动画) (1) | [`modding`](#tag-modding) (1) | [`unreal-engine`](#tag-unreal-engine) (1) |
-| [`json`](#tag-json) (1) | [`agent-framework`](#tag-agent-framework) (1) | [`genai`](#tag-genai) (1) | [`pydantic`](#tag-pydantic) (1) |
-| [`AI聊天`](#tag-ai聊天) (1) | [`React组件`](#tag-react组件) (1) | [`编辑器`](#tag-编辑器) (1) | [`UI`](#tag-ui) (1) |
-| [`shadcn-ui`](#tag-shadcn-ui) (1) | [`Vercel`](#tag-vercel) (1) | [`FastAPI`](#tag-fastapi) (1) | [`PostgreSQL`](#tag-postgresql) (1) |
-| [`框架`](#tag-框架) (1) | [`闲鱼`](#tag-闲鱼) (1) | [`自动回复`](#tag-自动回复) (1) | [`UI重构`](#tag-ui重构) (1) |
-| [`free-for-developers`](#tag-free-for-developers) (1) | [`跨平台桌面应用`](#tag-跨平台桌面应用) (1) | [`aiinfra`](#tag-aiinfra) (1) | [`aisystem`](#tag-aisystem) (1) |
-| [`macOS`](#tag-macos) (1) | [`输入法`](#tag-输入法) (1) | [`键盘`](#tag-键盘) (1) | [`菜单栏`](#tag-菜单栏) (1) |
-| [`computer-use`](#tag-computer-use) (1) | [`desktop-automation`](#tag-desktop-automation) (1) | [`containerization`](#tag-containerization) (1) | [`virtualization`](#tag-virtualization) (1) |
-| [`claude-code`](#tag-claude-code) (1) | [`claude-code-plugin`](#tag-claude-code-plugin) (1) | [`harness`](#tag-harness) (1) | [`harness-engineering`](#tag-harness-engineering) (1) |
-| [`情绪板`](#tag-情绪板) (1) | [`审美共识`](#tag-审美共识) (1) | [`HTML生成`](#tag-html生成) (1) | [`存储`](#tag-存储) (1) |
-| [`云服务`](#tag-云服务) (1) | [`Excalidraw`](#tag-excalidraw) (1) | [`图表工具`](#tag-图表工具) (1) | [`2D动画`](#tag-2d动画) (1) |
-| [`精灵表生成器`](#tag-精灵表生成器) (1) | [`SVG`](#tag-svg) (1) | [`Canvas`](#tag-canvas) (1) | [`rag`](#tag-rag) (1) |
-| [`state-management`](#tag-state-management) (1) | [`工作空间`](#tag-工作空间) (1) | [`写作辅助`](#tag-写作辅助) (1) | [`image-generation`](#tag-image-generation) (1) |
-| [`cli`](#tag-cli) (1) | [`dalle`](#tag-dalle) (1) | [`AI编码代理`](#tag-ai编码代理) (1) | [`工程技能`](#tag-工程技能) (1) |
-| [`微信机器人`](#tag-微信机器人) (1) | [`Bot管理平台`](#tag-bot管理平台) (1) | [`应用市场`](#tag-应用市场) (1) | [`MITM代理`](#tag-mitm代理) (1) |
-| [`网络调试`](#tag-网络调试) (1) | [`HTTP/HTTPS代理`](#tag-httphttps代理) (1) | [`SOCKS5代理`](#tag-socks5代理) (1) | [`浏览器端`](#tag-浏览器端) (1) |
-| [`ffmpeg-wasm`](#tag-ffmpeg-wasm) (1) | [`隐私优先`](#tag-隐私优先) (1) | [`离线优先`](#tag-离线优先) (1) | [`VSCode`](#tag-vscode) (1) |
-| [`技能训练`](#tag-技能训练) (1) | [`表格比较`](#tag-表格比较) (1) | [`CSV差异`](#tag-csv差异) (1) | [`数据对齐`](#tag-数据对齐) (1) |
-| [`diff工具`](#tag-diff工具) (1) | [`进程清理`](#tag-进程清理) (1) | [`内存优化`](#tag-内存优化) (1) | [`Lottie动画`](#tag-lottie动画) (1) |
-| [`AI代码生成`](#tag-ai代码生成) (1) | [`skills`](#tag-skills) (1) | [`影视创作`](#tag-影视创作) (1) | [`原型工具`](#tag-原型工具) (1) |
-| [`精灵图`](#tag-精灵图) (1) | [`generative-ai`](#tag-generative-ai) (1) | [`large-language-models`](#tag-large-language-models) (1) | [`multiagent`](#tag-multiagent) (1) |
-| [`react-flow`](#tag-react-flow) (1) | [`agent-skills`](#tag-agent-skills) (1) | [`pixel-art`](#tag-pixel-art) (1) | [`sprite-generator`](#tag-sprite-generator) (1) |
-| [`AI文本处理`](#tag-ai文本处理) (1) | [`汉化工具`](#tag-汉化工具) (1) | [`Codex`](#tag-codex) (1) | [`翻译`](#tag-翻译) (1) |
-| [`语言学习`](#tag-语言学习) (1) | [`工作流编排`](#tag-工作流编排) (1) | [`研究`](#tag-研究) (1) | [`文档解析`](#tag-文档解析) (1) |
-| [`PDF处理`](#tag-pdf处理) (1) | [`文本提取`](#tag-文本提取) (1) | [`会话分析`](#tag-会话分析) (1) | [`技能评估`](#tag-技能评估) (1) |
-| [`训练工具`](#tag-训练工具) (1) | [`AI模型`](#tag-ai模型) (1) | [`数据库`](#tag-数据库) (1) | [`插件`](#tag-插件) (1) |
-| [`文件树`](#tag-文件树) (1) | [`build`](#tag-build) (1) | [`minecraft`](#tag-minecraft) (1) | [`voxel`](#tag-voxel) (1) |
-| [`加载动画`](#tag-加载动画) (1) | [`数学曲线`](#tag-数学曲线) (1) | [`前端组件`](#tag-前端组件) (1) | [`agentic`](#tag-agentic) (1) |
-| [`multi-agent`](#tag-multi-agent) (1) | [`black-box-testing`](#tag-black-box-testing) (1) | [`computer-vision`](#tag-computer-vision) (1) | [`automation`](#tag-automation) (1) |
-| [`immediate-gui`](#tag-immediate-gui) (1) | [`cplusplus`](#tag-cplusplus) (1) | [`game-development`](#tag-game-development) (1) | [`multi-platform`](#tag-multi-platform) (1) |
-| [`文本编辑器`](#tag-文本编辑器) (1) | [`富文本编辑`](#tag-富文本编辑) (1) | [`无头UI`](#tag-无头ui) (1) | [`ProseMirror`](#tag-prosemirror) (1) |
-| [`多维表格`](#tag-多维表格) (1) | [`数字人`](#tag-数字人) (1) | [`实时交互`](#tag-实时交互) (1) | [`技能合集`](#tag-技能合集) (1) |
-| [`NotebookLM`](#tag-notebooklm) (1) | [`Python API`](#tag-python-api) (1) | [`AI代理技能`](#tag-ai代理技能) (1) | [`agentic-ai`](#tag-agentic-ai) (1) |
-| [`agentic-workflow`](#tag-agentic-workflow) (1) | [`function-calling`](#tag-function-calling) (1) | [`self-hosted`](#tag-self-hosted) (1) | [`godot`](#tag-godot) (1) |
-| [`mcp`](#tag-mcp) (1) | [`中国历史`](#tag-中国历史) (1) | [`人物传记`](#tag-人物传记) (1) | [`SQLite`](#tag-sqlite) (1) |
-| [`代码知识图谱`](#tag-代码知识图谱) (1) | [`本地索引`](#tag-本地索引) (1) | [`Token优化`](#tag-token优化) (1) | [`软件集成`](#tag-软件集成) (1) |
-| [`vibecoding`](#tag-vibecoding) (1) | [`SaaS开发`](#tag-saas开发) (1) | [`初学者教程`](#tag-初学者教程) (1) | [`RSS`](#tag-rss) (1) |
-| [`Feed聚合`](#tag-feed聚合) (1) | [`embedding`](#tag-embedding) (1) | [`local-first`](#tag-local-first) (1) | [`long-term-memory`](#tag-long-term-memory) (1) |
-| [`vector-search`](#tag-vector-search) (1) | [`AI编辑器`](#tag-ai编辑器) (1) | [`HTML`](#tag-html) (1) | [`编码基础设施`](#tag-编码基础设施) (1) |
-| [`AI交互`](#tag-ai交互) (1) | [`代码自动化`](#tag-代码自动化) (1) | [`LLM集成`](#tag-llm集成) (1) | [`语音输入`](#tag-语音输入) (1) |
-| [`AI润色`](#tag-ai润色) (1) | [`AI设计`](#tag-ai设计) (1) | [`网页浏览`](#tag-网页浏览) (1) | [`react`](#tag-react) (1) |
+| [`负载测试`](#tag-负载测试) (3) | [`react`](#tag-react) (2) | [`网络工具`](#tag-网络工具) (2) | [`gui`](#tag-gui) (2) |
+| [`python`](#tag-python) (2) | [`UI库`](#tag-ui库) (2) | [`JSON`](#tag-json) (2) | [`组件库`](#tag-组件库) (2) |
+| [`Docker`](#tag-docker) (2) | [`Markdown`](#tag-markdown) (2) | [`awesome-list`](#tag-awesome-list) (2) | [`Markdown编辑器`](#tag-markdown编辑器) (2) |
+| [`Swift`](#tag-swift) (2) | [`ai-agent`](#tag-ai-agent) (2) | [`智能体`](#tag-智能体) (2) | [`设计工具`](#tag-设计工具) (2) |
+| [`提示工程`](#tag-提示工程) (2) | [`SDK`](#tag-sdk) (2) | [`动画`](#tag-动画) (2) | [`CSS`](#tag-css) (2) |
+| [`memory`](#tag-memory) (2) | [`chatgpt`](#tag-chatgpt) (2) | [`Rust`](#tag-rust) (2) | [`AI编程`](#tag-ai编程) (2) |
+| [`CLI工具`](#tag-cli工具) (2) | [`ai`](#tag-ai) (2) | [`自动化工作流`](#tag-自动化工作流) (2) | [`图像处理`](#tag-图像处理) (2) |
+| [`工作流`](#tag-工作流) (2) | [`本地优先`](#tag-本地优先) (2) | [`代理`](#tag-代理) (2) | [`调试`](#tag-调试) (2) |
+| [`监控`](#tag-监控) (2) | [`WebRTC`](#tag-webrtc) (2) | [`Kotlin`](#tag-kotlin) (2) | [`移动应用`](#tag-移动应用) (2) |
+| [`Agent`](#tag-agent) (2) | [`模板`](#tag-模板) (2) | [`代码编辑器`](#tag-代码编辑器) (2) | [`UI组件库`](#tag-ui组件库) (2) |
+| [`LLM`](#tag-llm) (2) | [`协作平台`](#tag-协作平台) (2) | [`性能优化`](#tag-性能优化) (2) | [`低代码平台`](#tag-低代码平台) (2) |
+| [`API客户端`](#tag-api客户端) (2) | [`办公自动化`](#tag-办公自动化) (2) | [`飞书`](#tag-飞书) (2) | [`AI/机器学习`](#tag-ai机器学习) (2) |
+| [`IDE插件`](#tag-ide插件) (2) | [`AI应用`](#tag-ai应用) (2) | [`电子书`](#tag-电子书) (2) | [`动画库`](#tag-动画库) (2) |
+| [`WebGL`](#tag-webgl) (2) | [`代码分析`](#tag-代码分析) (2) | [`移动开发`](#tag-移动开发) (2) | [`最佳实践`](#tag-最佳实践) (2) |
+| [`构建工具`](#tag-构建工具) (2) | [`网络代理`](#tag-网络代理) (2) | [`AI助手集成`](#tag-ai助手集成) (2) | [`内存分析`](#tag-内存分析) (2) |
+| [`新闻聚合`](#tag-新闻聚合) (2) | [`Electron`](#tag-electron) (2) | [`Go工具`](#tag-go工具) (2) | [`Web界面`](#tag-web界面) (2) |
+| [`AI摘要`](#tag-ai摘要) (2) | [`内容聚合`](#tag-内容聚合) (2) | [`AI基础设施`](#tag-ai基础设施) (2) | [`视频下载`](#tag-视频下载) (2) |
+| [`终端模拟器`](#tag-终端模拟器) (2) | [`SSH客户端`](#tag-ssh客户端) (2) | [`文件转换`](#tag-文件转换) (2) | [`Obsidian插件`](#tag-obsidian插件) (2) |
+| [`系统监控`](#tag-系统监控) (2) | [`系统工具`](#tag-系统工具) (2) | [`技能库`](#tag-技能库) (2) | [`视频处理`](#tag-视频处理) (2) |
+| [`版本管理`](#tag-版本管理) (2) | [`远程访问`](#tag-远程访问) (2) | [`远程桌面`](#tag-远程桌面) (2) | [`Vue.js`](#tag-vuejs) (2) |
+| [`游戏引擎`](#tag-游戏引擎) (2) | [`资源集合`](#tag-资源集合) (2) | [`静态分析`](#tag-静态分析) (2) | [`Windows应用`](#tag-windows应用) (2) |
+| [`Unity`](#tag-unity) (2) | [`网络加速`](#tag-网络加速) (2) | [`Unreal Engine`](#tag-unreal-engine) (2) | [`代码质量`](#tag-代码质量) (2) |
+| [`思维导图`](#tag-思维导图) (2) | [`开源软件`](#tag-开源软件) (2) | [`屏幕镜像`](#tag-屏幕镜像) (2) | [`远程控制`](#tag-远程控制) (2) |
+| [`电视直播`](#tag-电视直播) (2) | [`Node.js`](#tag-nodejs) (2) | [`IPTV`](#tag-iptv) (2) | [`移动测试`](#tag-移动测试) (2) |
+| [`安全工具`](#tag-安全工具) (2) | [`虚幻引擎`](#tag-虚幻引擎) (2) | [`WebUSB`](#tag-webusb) (2) | [`moyu`](#tag-moyu) (1) |
+| [`productivity`](#tag-productivity) (1) | [`reader`](#tag-reader) (1) | [`typescript`](#tag-typescript) (1) | [`markdown`](#tag-markdown) (1) |
+| [`streaming`](#tag-streaming) (1) | [`微信自动化`](#tag-微信自动化) (1) | [`RPA`](#tag-rpa) (1) | [`pywinauto`](#tag-pywinauto) (1) |
+| [`技能`](#tag-技能) (1) | [`配置`](#tag-配置) (1) | [`工程师`](#tag-工程师) (1) | [`代理工具`](#tag-代理工具) (1) |
+| [`机场`](#tag-机场) (1) | [`音乐播放器`](#tag-音乐播放器) (1) | [`歌词动画`](#tag-歌词动画) (1) | [`modding`](#tag-modding) (1) |
+| [`unreal-engine`](#tag-unreal-engine) (1) | [`json`](#tag-json) (1) | [`agent-framework`](#tag-agent-framework) (1) | [`genai`](#tag-genai) (1) |
+| [`pydantic`](#tag-pydantic) (1) | [`AI聊天`](#tag-ai聊天) (1) | [`React组件`](#tag-react组件) (1) | [`编辑器`](#tag-编辑器) (1) |
+| [`UI`](#tag-ui) (1) | [`shadcn-ui`](#tag-shadcn-ui) (1) | [`Vercel`](#tag-vercel) (1) | [`FastAPI`](#tag-fastapi) (1) |
+| [`PostgreSQL`](#tag-postgresql) (1) | [`框架`](#tag-框架) (1) | [`闲鱼`](#tag-闲鱼) (1) | [`自动回复`](#tag-自动回复) (1) |
+| [`UI重构`](#tag-ui重构) (1) | [`free-for-developers`](#tag-free-for-developers) (1) | [`跨平台桌面应用`](#tag-跨平台桌面应用) (1) | [`aiinfra`](#tag-aiinfra) (1) |
+| [`aisystem`](#tag-aisystem) (1) | [`macOS`](#tag-macos) (1) | [`输入法`](#tag-输入法) (1) | [`键盘`](#tag-键盘) (1) |
+| [`菜单栏`](#tag-菜单栏) (1) | [`computer-use`](#tag-computer-use) (1) | [`desktop-automation`](#tag-desktop-automation) (1) | [`containerization`](#tag-containerization) (1) |
+| [`virtualization`](#tag-virtualization) (1) | [`claude-code`](#tag-claude-code) (1) | [`claude-code-plugin`](#tag-claude-code-plugin) (1) | [`harness`](#tag-harness) (1) |
+| [`harness-engineering`](#tag-harness-engineering) (1) | [`情绪板`](#tag-情绪板) (1) | [`审美共识`](#tag-审美共识) (1) | [`HTML生成`](#tag-html生成) (1) |
+| [`存储`](#tag-存储) (1) | [`云服务`](#tag-云服务) (1) | [`Excalidraw`](#tag-excalidraw) (1) | [`图表工具`](#tag-图表工具) (1) |
+| [`2D动画`](#tag-2d动画) (1) | [`精灵表生成器`](#tag-精灵表生成器) (1) | [`SVG`](#tag-svg) (1) | [`Canvas`](#tag-canvas) (1) |
+| [`rag`](#tag-rag) (1) | [`state-management`](#tag-state-management) (1) | [`工作空间`](#tag-工作空间) (1) | [`写作辅助`](#tag-写作辅助) (1) |
+| [`image-generation`](#tag-image-generation) (1) | [`cli`](#tag-cli) (1) | [`dalle`](#tag-dalle) (1) | [`AI编码代理`](#tag-ai编码代理) (1) |
+| [`工程技能`](#tag-工程技能) (1) | [`微信机器人`](#tag-微信机器人) (1) | [`Bot管理平台`](#tag-bot管理平台) (1) | [`应用市场`](#tag-应用市场) (1) |
+| [`MITM代理`](#tag-mitm代理) (1) | [`网络调试`](#tag-网络调试) (1) | [`HTTP/HTTPS代理`](#tag-httphttps代理) (1) | [`SOCKS5代理`](#tag-socks5代理) (1) |
+| [`浏览器端`](#tag-浏览器端) (1) | [`ffmpeg-wasm`](#tag-ffmpeg-wasm) (1) | [`隐私优先`](#tag-隐私优先) (1) | [`离线优先`](#tag-离线优先) (1) |
+| [`VSCode`](#tag-vscode) (1) | [`技能训练`](#tag-技能训练) (1) | [`表格比较`](#tag-表格比较) (1) | [`CSV差异`](#tag-csv差异) (1) |
+| [`数据对齐`](#tag-数据对齐) (1) | [`diff工具`](#tag-diff工具) (1) | [`进程清理`](#tag-进程清理) (1) | [`内存优化`](#tag-内存优化) (1) |
+| [`Lottie动画`](#tag-lottie动画) (1) | [`AI代码生成`](#tag-ai代码生成) (1) | [`skills`](#tag-skills) (1) | [`影视创作`](#tag-影视创作) (1) |
+| [`原型工具`](#tag-原型工具) (1) | [`精灵图`](#tag-精灵图) (1) | [`generative-ai`](#tag-generative-ai) (1) | [`large-language-models`](#tag-large-language-models) (1) |
+| [`multiagent`](#tag-multiagent) (1) | [`react-flow`](#tag-react-flow) (1) | [`agent-skills`](#tag-agent-skills) (1) | [`pixel-art`](#tag-pixel-art) (1) |
+| [`sprite-generator`](#tag-sprite-generator) (1) | [`AI文本处理`](#tag-ai文本处理) (1) | [`汉化工具`](#tag-汉化工具) (1) | [`Codex`](#tag-codex) (1) |
+| [`翻译`](#tag-翻译) (1) | [`语言学习`](#tag-语言学习) (1) | [`工作流编排`](#tag-工作流编排) (1) | [`研究`](#tag-研究) (1) |
+| [`文档解析`](#tag-文档解析) (1) | [`PDF处理`](#tag-pdf处理) (1) | [`文本提取`](#tag-文本提取) (1) | [`会话分析`](#tag-会话分析) (1) |
+| [`技能评估`](#tag-技能评估) (1) | [`训练工具`](#tag-训练工具) (1) | [`AI模型`](#tag-ai模型) (1) | [`数据库`](#tag-数据库) (1) |
+| [`插件`](#tag-插件) (1) | [`文件树`](#tag-文件树) (1) | [`build`](#tag-build) (1) | [`minecraft`](#tag-minecraft) (1) |
+| [`voxel`](#tag-voxel) (1) | [`加载动画`](#tag-加载动画) (1) | [`数学曲线`](#tag-数学曲线) (1) | [`前端组件`](#tag-前端组件) (1) |
+| [`agentic`](#tag-agentic) (1) | [`multi-agent`](#tag-multi-agent) (1) | [`black-box-testing`](#tag-black-box-testing) (1) | [`computer-vision`](#tag-computer-vision) (1) |
+| [`automation`](#tag-automation) (1) | [`immediate-gui`](#tag-immediate-gui) (1) | [`cplusplus`](#tag-cplusplus) (1) | [`game-development`](#tag-game-development) (1) |
+| [`multi-platform`](#tag-multi-platform) (1) | [`文本编辑器`](#tag-文本编辑器) (1) | [`富文本编辑`](#tag-富文本编辑) (1) | [`无头UI`](#tag-无头ui) (1) |
+| [`ProseMirror`](#tag-prosemirror) (1) | [`多维表格`](#tag-多维表格) (1) | [`数字人`](#tag-数字人) (1) | [`实时交互`](#tag-实时交互) (1) |
+| [`技能合集`](#tag-技能合集) (1) | [`NotebookLM`](#tag-notebooklm) (1) | [`Python API`](#tag-python-api) (1) | [`AI代理技能`](#tag-ai代理技能) (1) |
+| [`agentic-ai`](#tag-agentic-ai) (1) | [`agentic-workflow`](#tag-agentic-workflow) (1) | [`function-calling`](#tag-function-calling) (1) | [`self-hosted`](#tag-self-hosted) (1) |
+| [`godot`](#tag-godot) (1) | [`mcp`](#tag-mcp) (1) | [`中国历史`](#tag-中国历史) (1) | [`人物传记`](#tag-人物传记) (1) |
+| [`SQLite`](#tag-sqlite) (1) | [`代码知识图谱`](#tag-代码知识图谱) (1) | [`本地索引`](#tag-本地索引) (1) | [`Token优化`](#tag-token优化) (1) |
+| [`软件集成`](#tag-软件集成) (1) | [`vibecoding`](#tag-vibecoding) (1) | [`SaaS开发`](#tag-saas开发) (1) | [`初学者教程`](#tag-初学者教程) (1) |
+| [`RSS`](#tag-rss) (1) | [`Feed聚合`](#tag-feed聚合) (1) | [`embedding`](#tag-embedding) (1) | [`local-first`](#tag-local-first) (1) |
+| [`long-term-memory`](#tag-long-term-memory) (1) | [`vector-search`](#tag-vector-search) (1) | [`AI编辑器`](#tag-ai编辑器) (1) | [`HTML`](#tag-html) (1) |
+| [`编码基础设施`](#tag-编码基础设施) (1) | [`AI交互`](#tag-ai交互) (1) | [`代码自动化`](#tag-代码自动化) (1) | [`LLM集成`](#tag-llm集成) (1) |
+| [`语音输入`](#tag-语音输入) (1) | [`AI润色`](#tag-ai润色) (1) | [`AI设计`](#tag-ai设计) (1) | [`网页浏览`](#tag-网页浏览) (1) |
 | [`slides`](#tag-slides) (1) | [`网站克隆`](#tag-网站克隆) (1) | [`自动化编码`](#tag-自动化编码) (1) | [`Tailwind CSS`](#tag-tailwind-css) (1) |
 | [`技能管理`](#tag-技能管理) (1) | [`HTML设计`](#tag-html设计) (1) | [`沙箱`](#tag-沙箱) (1) | [`工作流框架`](#tag-工作流框架) (1) |
 | [`transparency`](#tag-transparency) (1) | [`聊天分析`](#tag-聊天分析) (1) | [`文件类型检测`](#tag-文件类型检测) (1) | [`AI推理`](#tag-ai推理) (1) |
@@ -2287,7 +2288,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
 ## 工具/库
 <a name="工具库"></a>
-**224** 个仓库
+**225** 个仓库
 
 ### [mattpocock/skills](https://github.com/mattpocock/skills)
 **⭐ 158756** | **Shell**
@@ -4437,6 +4438,16 @@ LuaCov是一个用于Lua代码的简单覆盖率分析工具。
 标签: [`精灵图`](#tag-精灵图) [`图像处理`](#tag-图像处理) [`TypeScript`](#tag-typescript)
 
 **使用场景**: 用于创建、编辑或管理游戏或Web应用中的精灵图资源
+
+---
+### [SneakRead/sneakread](https://github.com/SneakRead/sneakread)
+**⭐ 60** | **TypeScript**
+
+一个伪装成VS Code、Word、Google Docs等办公软件界面的网页阅读器，让你在工作时也能安全地阅读网页内容。
+
+标签: [`moyu`](#tag-moyu) [`productivity`](#tag-productivity) [`reader`](#tag-reader) [`react`](#tag-react) [`typescript`](#tag-typescript)
+
+**使用场景**: 在工作环境中，用户可以通过伪装成办公软件的界面来阅读网页文章、文档或其他在线内容，避免被同事或管理者发现，提高阅读的隐蔽性和便利性。
 
 ---
 ### [TheStack-ai/zclean](https://github.com/TheStack-ai/zclean)
