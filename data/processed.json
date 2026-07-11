@@ -7680,5 +7680,21 @@
     "stars": 60,
     "starred_at": "",
     "original_description": "Read the web at your desk, disguised as VS Code / Word / Google Docs / Excel / Outlook. 100% client-side, MIT."
+  },
+  "1108469533": {
+    "description": "MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器，支持外部播放器、视频超分、弹幕系统和评论抓取等功能。",
+    "category": "其他",
+    "tags": [
+      "影视播放器",
+      "聚合播放",
+      "弹幕系统"
+    ],
+    "use_case": "用于观看影视内容，支持聚合多个视频源，提供增强的播放体验，适合影视爱好者或需要弹幕和评论功能的用户。",
+    "repo_name": "mtvpls/MoonTVPlus",
+    "repo_url": "https://github.com/mtvpls/MoonTVPlus",
+    "language": "TypeScript",
+    "stars": 2682,
+    "starred_at": "",
+    "original_description": "MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器。它在原版基础上新增了外部播放器支持、视频超分、弹幕系统、评论抓取等实用功能，提供更强大的观影体验。"
   }
 }
