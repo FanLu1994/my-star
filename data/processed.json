@@ -7696,5 +7696,23 @@
     "stars": 2682,
     "starred_at": "",
     "original_description": "MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器。它在原版基础上新增了外部播放器支持、视频超分、弹幕系统、评论抓取等实用功能，提供更强大的观影体验。"
+  },
+  "918620104": {
+    "description": "推荐各类VPN/代理工具（如Clash、Shadowsocks、Trojan、V2Ray）的梯子资源集合。",
+    "category": "其他",
+    "tags": [
+      "clash",
+      "shadowsocks",
+      "trojan",
+      "v2ray",
+      "vpn"
+    ],
+    "use_case": "用于寻找和选择可用的网络代理工具或服务，帮助用户突破网络限制访问互联网。",
+    "repo_name": "mackee3/tizi",
+    "repo_url": "https://github.com/mackee3/tizi",
+    "language": null,
+    "stars": 460,
+    "starred_at": "",
+    "original_description": "梯子推荐🪜"
   }
 }
