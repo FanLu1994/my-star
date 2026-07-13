@@ -7714,5 +7714,54 @@
     "stars": 460,
     "starred_at": "",
     "original_description": "梯子推荐🪜"
+  },
+  "1137441048": {
+    "description": "一个基于浏览器的专业视频编辑器，开源替代CapCut，无需安装、无需云上传、无水印。",
+    "category": "工具/库",
+    "tags": [
+      "视频编辑",
+      "浏览器工具"
+    ],
+    "use_case": "用于在浏览器中直接进行视频编辑，适合需要快速、无安装、无云依赖的视频创作场景。",
+    "repo_name": "Augani/openreel-video",
+    "repo_url": "https://github.com/Augani/openreel-video",
+    "language": "TypeScript",
+    "stars": 4054,
+    "starred_at": "",
+    "original_description": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks."
+  },
+  "1221671194": {
+    "description": "一个基于Tauri、React和TypeScript构建的现代视频编辑器，专注于免费实现CapCut高级功能。",
+    "category": "工具/库",
+    "tags": [
+      "视频编辑",
+      "Tauri",
+      "React",
+      "TypeScript",
+      "桌面应用"
+    ],
+    "use_case": "适用于需要免费视频编辑功能的用户，尤其是希望替代CapCut等付费软件的场景。",
+    "repo_name": "AIEraDev/Clypra",
+    "repo_url": "https://github.com/AIEraDev/Clypra",
+    "language": "TypeScript",
+    "stars": 2329,
+    "starred_at": "",
+    "original_description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities"
+  },
+  "1230751102": {
+    "description": "一个用Rust编写的CodexApp增强工具，旨在提升Codex的使用体验和舒适度。",
+    "category": "工具/库",
+    "tags": [
+      "CodexApp",
+      "增强工具",
+      "Rust"
+    ],
+    "use_case": "用于优化和改善CodexApp的用户体验，提供更便捷的操作和功能扩展。",
+    "repo_name": "BigPizzaV3/CodexPlusPlus",
+    "repo_url": "https://github.com/BigPizzaV3/CodexPlusPlus",
+    "language": "Rust",
+    "stars": 24819,
+    "starred_at": "",
+    "original_description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服"
   }
 }
