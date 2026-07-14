@@ -7763,5 +7763,20 @@
     "stars": 24819,
     "starred_at": "",
     "original_description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服"
+  },
+  "1296301313": {
+    "description": "一个识别并清除AI生成产品中视觉和文案套话的指南及Agent工具。",
+    "category": "工具/库",
+    "tags": [
+      "AI检测",
+      "内容清理"
+    ],
+    "use_case": "用于扫描项目中的AI生成内容，识别并移除常见的AI风格化表达和视觉元素。",
+    "repo_name": "yetone/kill-ai-slop",
+    "repo_url": "https://github.com/yetone/kill-ai-slop",
+    "language": "TypeScript",
+    "stars": 400,
+    "starred_at": "",
+    "original_description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com"
   }
 }
