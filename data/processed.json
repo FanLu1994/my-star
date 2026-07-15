@@ -7778,5 +7778,21 @@
     "stars": 400,
     "starred_at": "",
     "original_description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com"
+  },
+  "1215857200": {
+    "description": "让Pi（可能指Raspberry Pi或其他AI助手）控制你的MacOS和Windows电脑上的应用程序。",
+    "category": "工具/库",
+    "tags": [
+      "自动化",
+      "跨平台控制",
+      "AI助手"
+    ],
+    "use_case": "通过Pi设备或AI助手远程或自动化控制MacOS和Windows上的应用程序，实现跨平台操作和任务自动化。",
+    "repo_name": "injaneity/pi-computer-use",
+    "repo_url": "https://github.com/injaneity/pi-computer-use",
+    "language": "TypeScript",
+    "stars": 1162,
+    "starred_at": "",
+    "original_description": "Let Pi control your apps on MacOS & Windows"
   }
 }
