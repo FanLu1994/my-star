@@ -7794,5 +7794,22 @@
     "stars": 1162,
     "starred_at": "",
     "original_description": "Let Pi control your apps on MacOS & Windows"
+  },
+  "1296627757": {
+    "description": "一个自动下载视频并生成最高画质、封面和GPT双语字幕MP4的工具。",
+    "category": "工具/库",
+    "tags": [
+      "视频处理",
+      "字幕生成",
+      "GPT",
+      "yt-dlp"
+    ],
+    "use_case": "用户提供视频链接，自动获取高清视频、封面和双语字幕，适合需要快速下载并添加翻译字幕的视频内容创作者或学习者。",
+    "repo_name": "pengchujin/jzsub",
+    "repo_url": "https://github.com/pengchujin/jzsub",
+    "language": "Python",
+    "stars": 677,
+    "starred_at": "",
+    "original_description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。"
   }
 }
