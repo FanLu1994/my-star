@@ -7811,5 +7811,21 @@
     "stars": 677,
     "starred_at": "",
     "original_description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。"
+  },
+  "1301597356": {
+    "description": "一个基于JavaScript的皮肤或主题定制工具，可能用于游戏或应用界面美化。",
+    "category": "其他",
+    "tags": [
+      "皮肤",
+      "定制",
+      "JavaScript"
+    ],
+    "use_case": "用于为游戏或应用程序创建和更换自定义皮肤或主题。",
+    "repo_name": "Fei-Away/Codex-Dream-Skin",
+    "repo_url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+    "language": "JavaScript",
+    "stars": 5628,
+    "starred_at": "",
+    "original_description": "Codex Dream Skin"
   }
 }
