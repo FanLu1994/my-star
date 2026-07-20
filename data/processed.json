@@ -5608,22 +5608,6 @@
     "starred_at": "",
     "original_description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
   },
-  "1197742704": {
-    "description": "这是一个关于Anthropic Claude Code CLI源码的深度解析技术文档项目。",
-    "category": "教育",
-    "tags": [
-      "技术文档",
-      "源码分析",
-      "AI工具"
-    ],
-    "use_case": "用于学习和理解Claude Code CLI的架构设计、工程实践和编程思想，适合开发者、技术爱好者和AI工具研究者阅读参考。",
-    "repo_name": "sawzhang/deep-dive-claude-code",
-    "repo_url": "https://github.com/sawzhang/deep-dive-claude-code",
-    "language": "Typst",
-    "stars": 92,
-    "starred_at": "",
-    "original_description": "《深入理解 Claude Code 源码》— 系统剖析 Anthropic Claude Code CLI 的架构设计、工程实践与编程哲学 | 25 chapters, 101 Mermaid diagrams, 467 code blocks"
-  },
   "1156956890": {
     "description": "这是一个用Rust编写的快速、小巧、全自主的AI个人助理基础设施，支持任何操作系统和平台。",
     "category": "AI/机器学习",
