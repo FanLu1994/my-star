@@ -7827,5 +7827,22 @@
     "stars": 4403,
     "starred_at": "",
     "original_description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务"
+  },
+  "1197742704": {
+    "description": "系统剖析Anthropic Claude Code CLI源码的架构设计、工程实践与编程哲学，包含25章、101个Mermaid图表和467个代码块。",
+    "category": "教育",
+    "tags": [
+      "Claude Code",
+      "源码分析",
+      "架构设计",
+      "编程哲学"
+    ],
+    "use_case": "用于开发者深入理解Claude Code CLI的内部实现、设计模式和最佳实践，适合学习AI工具源码和工程化开发。",
+    "repo_name": "sawzhang/deep-dive-claude-code",
+    "repo_url": "https://github.com/sawzhang/deep-dive-claude-code",
+    "language": "Typst",
+    "stars": 339,
+    "starred_at": "",
+    "original_description": "《深入理解 Claude Code 源码》— 系统剖析 Anthropic Claude Code CLI 的架构设计、工程实践与编程哲学 | 25 chapters, 101 Mermaid diagrams, 467 code blocks"
   }
 }
