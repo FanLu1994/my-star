@@ -7844,5 +7844,118 @@
     "stars": 339,
     "starred_at": "",
     "original_description": "《深入理解 Claude Code 源码》— 系统剖析 Anthropic Claude Code CLI 的架构设计、工程实践与编程哲学 | 25 chapters, 101 Mermaid diagrams, 467 code blocks"
+  },
+  "1306841672": {
+    "description": "一个具有触觉反馈的WebGL贴纸制作器，支持富文本、图片上传和交互式剥离物理效果。",
+    "category": "Web开发",
+    "tags": [
+      "sticker",
+      "webgl"
+    ],
+    "use_case": "用于创建和编辑个性化贴纸，适用于社交媒体内容创作、设计原型或趣味互动应用。",
+    "repo_name": "CatsJuice/sticker-forge",
+    "repo_url": "https://github.com/CatsJuice/sticker-forge",
+    "language": "JavaScript",
+    "stars": 177,
+    "starred_at": "",
+    "original_description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics."
+  },
+  "1304673796": {
+    "description": "将手绘故事插图转换为35-45秒的线条揭示和渐变着色视频的工具。",
+    "category": "工具/库",
+    "tags": [
+      "视频生成",
+      "手绘动画"
+    ],
+    "use_case": "用于创作者将手绘故事自动生成带有线条动画和颜色渐变的短视频，适合社交媒体或教育内容制作。",
+    "repo_name": "xiejunjie524/handdraw-story-video",
+    "repo_url": "https://github.com/xiejunjie524/handdraw-story-video",
+    "language": "Python",
+    "stars": 587,
+    "starred_at": "",
+    "original_description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames."
+  },
+  "1305663861": {
+    "description": "一个基于Remotion的AI视频技能库，用于通过Claude Code和Codex生成电影级产品视频，包含106个镜头配方卡片和161个运动预览模板。",
+    "category": "工具/库",
+    "tags": [
+      "AI视频生成",
+      "Remotion",
+      "Claude Code",
+      "Codex",
+      "运动设计",
+      "产品视频"
+    ],
+    "use_case": "开发者或内容创作者使用AI代理（如Claude Code或Codex）快速生成高质量的产品宣传视频、促销视频或动态图形，适用于营销、产品展示和创意视频制作场景。",
+    "repo_name": "Vincentwei1021/video-shotcraft",
+    "repo_url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "language": "TypeScript",
+    "stars": 424,
+    "starred_at": "",
+    "original_description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template"
+  },
+  "1226286910": {
+    "description": "一个macOS菜单栏应用，用通俗语言告诉你插入Mac的每个USB-C线缆的实际功能。",
+    "category": "工具/库",
+    "tags": [
+      "macOS",
+      "USB-C",
+      "硬件信息",
+      "菜单栏应用",
+      "Swift"
+    ],
+    "use_case": "帮助Mac用户识别不同USB-C线缆的传输速度、充电能力等规格，避免混淆。",
+    "repo_name": "darrylmorley/whatcable",
+    "repo_url": "https://github.com/darrylmorley/whatcable",
+    "language": "Swift",
+    "stars": 7776,
+    "starred_at": "",
+    "original_description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do"
+  },
+  "1060300773": {
+    "description": "Pierre的个人开源代码仓库，包含与diffs和memescale相关的项目。",
+    "category": "其他",
+    "tags": [
+      "diffs",
+      "memescale"
+    ],
+    "use_case": "用于展示Pierre的开源项目，可能涉及差异比较或内存缩放相关工具的开发与使用。",
+    "repo_name": "pierrecomputer/pierre",
+    "repo_url": "https://github.com/pierrecomputer/pierre",
+    "language": "TypeScript",
+    "stars": 5487,
+    "starred_at": "",
+    "original_description": "pierre’s open source code"
+  },
+  "1107676388": {
+    "description": "一个用于追踪OpenCode、Claude Code、OpenClaw、Pi、Codex、Gemini、Cursor、AmpCode、Factory Droid、Kimi等多种AI工具Token使用量的CLI工具，并提供全球排行榜和2D/3D贡献图。",
+    "category": "工具/库",
+    "tags": [
+      "AI",
+      "Token追踪",
+      "CLI工具"
+    ],
+    "use_case": "开发者或团队使用多种AI编码助手时，统一监控和比较各工具的Token消耗，优化成本并参与全球排名。",
+    "repo_name": "junhoyeo/tokscale",
+    "repo_url": "https://github.com/junhoyeo/tokscale",
+    "language": "Rust",
+    "stars": 4519,
+    "starred_at": "",
+    "original_description": "🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph"
+  },
+  "1286845683": {
+    "description": "一个本地优先的语音转文字工具，无需云端服务，支持多种模型和OpenAI兼容API。",
+    "category": "工具/库",
+    "tags": [
+      "语音识别",
+      "本地优先"
+    ],
+    "use_case": "在本地环境中进行离线语音转文字处理，适用于隐私敏感或需要低延迟的场景。",
+    "repo_name": "QuintinShaw/openasr",
+    "repo_url": "https://github.com/QuintinShaw/openasr",
+    "language": "Rust",
+    "stars": 121,
+    "starred_at": "",
+    "original_description": "Local-first speech-to-text: no cloud, no telemetry, fail-closed by design. One CLI, seven model families, signed model catalog, OpenAI-compatible local API."
   }
 }
