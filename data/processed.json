@@ -7957,5 +7957,21 @@
     "stars": 121,
     "starred_at": "",
     "original_description": "Local-first speech-to-text: no cloud, no telemetry, fail-closed by design. One CLI, seven model families, signed model catalog, OpenAI-compatible local API."
+  },
+  "1220936047": {
+    "description": "OpenMinis是一个跨平台的AI Agent应用，完全免费且开源。",
+    "category": "移动开发",
+    "tags": [
+      "AI",
+      "Agent",
+      "跨平台"
+    ],
+    "use_case": "用户可以在不同平台上使用AI代理功能，进行智能交互和任务自动化。",
+    "repo_name": "OpenMinis/OpenMinis",
+    "repo_url": "https://github.com/OpenMinis/OpenMinis",
+    "language": "Swift",
+    "stars": 1542,
+    "starred_at": "",
+    "original_description": "OpenMinis — The AI Agent app across platforms. Fully free and open source."
   }
 }

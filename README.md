@@ -1,5 +1,5 @@
 # 我的 GitHub Star 收藏 :star:
-> 最后更新: 2026-07-26 01:53:14 | 总计: **516** 个仓库 | 分类: **10** 个 | 标签: **757** 个
+> 最后更新: 2026-07-27 02:01:05 | 总计: **517** 个仓库 | 分类: **10** 个 | 标签: **757** 个
 
 ---
 ## :open_file_folder: 分类目录
@@ -7,7 +7,7 @@
 | 分类 | 数量 | 分类 | 数量 |
 |------|------|------|------|
 | [AI/机器学习](#ai机器学习) | 124 | [Web开发](#web开发) | 35 |
-| [移动开发](#移动开发) | 30 | [框架](#框架) | 11 |
+| [移动开发](#移动开发) | 31 | [框架](#框架) | 11 |
 | [数据库](#数据库) | 7 | [工具/库](#工具库) | 237 |
 | [DevOps/基础设施](#devops基础设施) | 13 | [游戏](#游戏) | 31 |
 | [教育](#教育) | 16 | [其他](#其他) | 12 |
@@ -19,36 +19,36 @@
 |---|---|---|---|
 | [`AI代理`](#tag-ai代理) (27) | [`自动化测试`](#tag-自动化测试) (18) | [`自动化`](#tag-自动化) (17) | [`AI助手`](#tag-ai助手) (15) |
 | [`TypeScript`](#tag-typescript) (13) | [`开发工具`](#tag-开发工具) (12) | [`AI工具`](#tag-ai工具) (12) | [`逆向工程`](#tag-逆向工程) (12) |
-| [`Android`](#tag-android) (12) | [`桌面应用`](#tag-桌面应用) (11) | [`AI编程助手`](#tag-ai编程助手) (10) | [`性能测试`](#tag-性能测试) (9) |
-| [`AI`](#tag-ai) (8) | [`React`](#tag-react) (8) | [`开发者工具`](#tag-开发者工具) (8) | [`命令行工具`](#tag-命令行工具) (8) |
+| [`Android`](#tag-android) (12) | [`桌面应用`](#tag-桌面应用) (11) | [`AI编程助手`](#tag-ai编程助手) (10) | [`AI`](#tag-ai) (9) |
+| [`性能测试`](#tag-性能测试) (9) | [`React`](#tag-react) (8) | [`开发者工具`](#tag-开发者工具) (8) | [`命令行工具`](#tag-命令行工具) (8) |
 | [`性能分析`](#tag-性能分析) (8) | [`Python`](#tag-python) (7) | [`游戏开发`](#tag-游戏开发) (7) | [`iOS`](#tag-ios) (7) |
-| [`Claude Code`](#tag-claude-code) (6) | [`自托管`](#tag-自托管) (6) | [`浏览器扩展`](#tag-浏览器扩展) (6) | [`浏览器自动化`](#tag-浏览器自动化) (6) |
-| [`Android工具`](#tag-android工具) (6) | [`视频编辑`](#tag-视频编辑) (5) | [`AI集成`](#tag-ai集成) (5) | [`MCP`](#tag-mcp) (5) |
-| [`代码生成`](#tag-代码生成) (5) | [`UI设计`](#tag-ui设计) (5) | [`跨平台`](#tag-跨平台) (5) | [`游戏开发工具`](#tag-游戏开发工具) (5) |
+| [`跨平台`](#tag-跨平台) (6) | [`Claude Code`](#tag-claude-code) (6) | [`自托管`](#tag-自托管) (6) | [`浏览器扩展`](#tag-浏览器扩展) (6) |
+| [`浏览器自动化`](#tag-浏览器自动化) (6) | [`Android工具`](#tag-android工具) (6) | [`视频编辑`](#tag-视频编辑) (5) | [`AI集成`](#tag-ai集成) (5) |
+| [`MCP`](#tag-mcp) (5) | [`代码生成`](#tag-代码生成) (5) | [`UI设计`](#tag-ui设计) (5) | [`游戏开发工具`](#tag-游戏开发工具) (5) |
 | [`AI智能体`](#tag-ai智能体) (5) | [`教程`](#tag-教程) (5) | [`视频生成`](#tag-视频生成) (4) | [`JavaScript`](#tag-javascript) (4) |
 | [`llm`](#tag-llm) (4) | [`编码代理`](#tag-编码代理) (4) | [`agent`](#tag-agent) (4) | [`开源`](#tag-开源) (4) |
 | [`AI Agent`](#tag-ai-agent) (4) | [`AI辅助开发`](#tag-ai辅助开发) (4) | [`UI组件`](#tag-ui组件) (4) | [`自动化工具`](#tag-自动化工具) (4) |
 | [`向量数据库`](#tag-向量数据库) (4) | [`可视化`](#tag-可视化) (4) | [`智能代理`](#tag-智能代理) (4) | [`ADB`](#tag-adb) (4) |
-| [`设备管理`](#tag-设备管理) (4) | [`Swift`](#tag-swift) (3) | [`CLI工具`](#tag-cli工具) (3) | [`本地优先`](#tag-本地优先) (3) |
-| [`视频处理`](#tag-视频处理) (3) | [`Rust`](#tag-rust) (3) | [`知识管理`](#tag-知识管理) (3) | [`agents`](#tag-agents) (3) |
-| [`Claude`](#tag-claude) (3) | [`代理技能`](#tag-代理技能) (3) | [`桌面自动化`](#tag-桌面自动化) (3) | [`GUI自动化`](#tag-gui自动化) (3) |
-| [`OCR`](#tag-ocr) (3) | [`前端开发`](#tag-前端开发) (3) | [`富文本编辑器`](#tag-富文本编辑器) (3) | [`Vue`](#tag-vue) (3) |
-| [`数据可视化`](#tag-数据可视化) (3) | [`语音助手`](#tag-语音助手) (3) | [`CLI`](#tag-cli) (3) | [`设计系统`](#tag-设计系统) (3) |
-| [`原型设计`](#tag-原型设计) (3) | [`prompt-engineering`](#tag-prompt-engineering) (3) | [`知识图谱`](#tag-知识图谱) (3) | [`调试工具`](#tag-调试工具) (3) |
-| [`Shell脚本`](#tag-shell脚本) (3) | [`终端工具`](#tag-终端工具) (3) | [`Vue组件库`](#tag-vue组件库) (3) | [`生产力工具`](#tag-生产力工具) (3) |
-| [`RAG`](#tag-rag) (3) | [`屏幕录制`](#tag-屏幕录制) (3) | [`Python工具`](#tag-python工具) (3) | [`Windows`](#tag-windows) (3) |
-| [`AI开发工具`](#tag-ai开发工具) (3) | [`TypeScript库`](#tag-typescript库) (3) | [`Android自动化`](#tag-android自动化) (3) | [`移动自动化`](#tag-移动自动化) (3) |
-| [`游戏工具`](#tag-游戏工具) (3) | [`学习资源`](#tag-学习资源) (3) | [`文件管理`](#tag-文件管理) (3) | [`Vue组件`](#tag-vue组件) (3) |
-| [`iOS开发`](#tag-ios开发) (3) | [`负载测试`](#tag-负载测试) (3) | [`AI视频生成`](#tag-ai视频生成) (2) | [`Codex`](#tag-codex) (2) |
-| [`macOS`](#tag-macos) (2) | [`浏览器工具`](#tag-浏览器工具) (2) | [`react`](#tag-react) (2) | [`网络工具`](#tag-网络工具) (2) |
-| [`gui`](#tag-gui) (2) | [`python`](#tag-python) (2) | [`UI库`](#tag-ui库) (2) | [`JSON`](#tag-json) (2) |
-| [`组件库`](#tag-组件库) (2) | [`Docker`](#tag-docker) (2) | [`Markdown`](#tag-markdown) (2) | [`awesome-list`](#tag-awesome-list) (2) |
-| [`Markdown编辑器`](#tag-markdown编辑器) (2) | [`ai-agent`](#tag-ai-agent) (2) | [`智能体`](#tag-智能体) (2) | [`设计工具`](#tag-设计工具) (2) |
-| [`提示工程`](#tag-提示工程) (2) | [`SDK`](#tag-sdk) (2) | [`动画`](#tag-动画) (2) | [`CSS`](#tag-css) (2) |
-| [`memory`](#tag-memory) (2) | [`chatgpt`](#tag-chatgpt) (2) | [`AI编程`](#tag-ai编程) (2) | [`ai`](#tag-ai) (2) |
-| [`自动化工作流`](#tag-自动化工作流) (2) | [`图像处理`](#tag-图像处理) (2) | [`工作流`](#tag-工作流) (2) | [`代理`](#tag-代理) (2) |
-| [`调试`](#tag-调试) (2) | [`监控`](#tag-监控) (2) | [`WebRTC`](#tag-webrtc) (2) | [`Kotlin`](#tag-kotlin) (2) |
-| [`移动应用`](#tag-移动应用) (2) | [`Agent`](#tag-agent) (2) | [`模板`](#tag-模板) (2) | [`代码编辑器`](#tag-代码编辑器) (2) |
+| [`设备管理`](#tag-设备管理) (4) | [`Agent`](#tag-agent) (3) | [`Swift`](#tag-swift) (3) | [`CLI工具`](#tag-cli工具) (3) |
+| [`本地优先`](#tag-本地优先) (3) | [`视频处理`](#tag-视频处理) (3) | [`Rust`](#tag-rust) (3) | [`知识管理`](#tag-知识管理) (3) |
+| [`agents`](#tag-agents) (3) | [`Claude`](#tag-claude) (3) | [`代理技能`](#tag-代理技能) (3) | [`桌面自动化`](#tag-桌面自动化) (3) |
+| [`GUI自动化`](#tag-gui自动化) (3) | [`OCR`](#tag-ocr) (3) | [`前端开发`](#tag-前端开发) (3) | [`富文本编辑器`](#tag-富文本编辑器) (3) |
+| [`Vue`](#tag-vue) (3) | [`数据可视化`](#tag-数据可视化) (3) | [`语音助手`](#tag-语音助手) (3) | [`CLI`](#tag-cli) (3) |
+| [`设计系统`](#tag-设计系统) (3) | [`原型设计`](#tag-原型设计) (3) | [`prompt-engineering`](#tag-prompt-engineering) (3) | [`知识图谱`](#tag-知识图谱) (3) |
+| [`调试工具`](#tag-调试工具) (3) | [`Shell脚本`](#tag-shell脚本) (3) | [`终端工具`](#tag-终端工具) (3) | [`Vue组件库`](#tag-vue组件库) (3) |
+| [`生产力工具`](#tag-生产力工具) (3) | [`RAG`](#tag-rag) (3) | [`屏幕录制`](#tag-屏幕录制) (3) | [`Python工具`](#tag-python工具) (3) |
+| [`Windows`](#tag-windows) (3) | [`AI开发工具`](#tag-ai开发工具) (3) | [`TypeScript库`](#tag-typescript库) (3) | [`Android自动化`](#tag-android自动化) (3) |
+| [`移动自动化`](#tag-移动自动化) (3) | [`游戏工具`](#tag-游戏工具) (3) | [`学习资源`](#tag-学习资源) (3) | [`文件管理`](#tag-文件管理) (3) |
+| [`Vue组件`](#tag-vue组件) (3) | [`iOS开发`](#tag-ios开发) (3) | [`负载测试`](#tag-负载测试) (3) | [`AI视频生成`](#tag-ai视频生成) (2) |
+| [`Codex`](#tag-codex) (2) | [`macOS`](#tag-macos) (2) | [`浏览器工具`](#tag-浏览器工具) (2) | [`react`](#tag-react) (2) |
+| [`网络工具`](#tag-网络工具) (2) | [`gui`](#tag-gui) (2) | [`python`](#tag-python) (2) | [`UI库`](#tag-ui库) (2) |
+| [`JSON`](#tag-json) (2) | [`组件库`](#tag-组件库) (2) | [`Docker`](#tag-docker) (2) | [`Markdown`](#tag-markdown) (2) |
+| [`awesome-list`](#tag-awesome-list) (2) | [`Markdown编辑器`](#tag-markdown编辑器) (2) | [`ai-agent`](#tag-ai-agent) (2) | [`智能体`](#tag-智能体) (2) |
+| [`设计工具`](#tag-设计工具) (2) | [`提示工程`](#tag-提示工程) (2) | [`SDK`](#tag-sdk) (2) | [`动画`](#tag-动画) (2) |
+| [`CSS`](#tag-css) (2) | [`memory`](#tag-memory) (2) | [`chatgpt`](#tag-chatgpt) (2) | [`AI编程`](#tag-ai编程) (2) |
+| [`ai`](#tag-ai) (2) | [`自动化工作流`](#tag-自动化工作流) (2) | [`图像处理`](#tag-图像处理) (2) | [`工作流`](#tag-工作流) (2) |
+| [`代理`](#tag-代理) (2) | [`调试`](#tag-调试) (2) | [`监控`](#tag-监控) (2) | [`WebRTC`](#tag-webrtc) (2) |
+| [`Kotlin`](#tag-kotlin) (2) | [`移动应用`](#tag-移动应用) (2) | [`模板`](#tag-模板) (2) | [`代码编辑器`](#tag-代码编辑器) (2) |
 | [`UI组件库`](#tag-ui组件库) (2) | [`LLM`](#tag-llm) (2) | [`协作平台`](#tag-协作平台) (2) | [`性能优化`](#tag-性能优化) (2) |
 | [`低代码平台`](#tag-低代码平台) (2) | [`API客户端`](#tag-api客户端) (2) | [`办公自动化`](#tag-办公自动化) (2) | [`飞书`](#tag-飞书) (2) |
 | [`AI/机器学习`](#tag-ai机器学习) (2) | [`IDE插件`](#tag-ide插件) (2) | [`AI应用`](#tag-ai应用) (2) | [`电子书`](#tag-电子书) (2) |
@@ -1812,7 +1812,7 @@ Vite+ 是一个集成了运行时、包管理和前端工具链的统一Web开�
 
 ## 移动开发
 <a name="移动开发"></a>
-**30** 个仓库
+**31** 个仓库
 
 ### [termux/termux-app](https://github.com/termux/termux-app)
 **⭐ 48945** | **Java**
@@ -2002,6 +2002,16 @@ SoloPi是一个面向Android和HarmonyOS的移动端自动化测试工具
 标签: [`自动化测试`](#tag-自动化测试) [`iOS测试`](#tag-ios测试) [`移动测试`](#tag-移动测试)
 
 **使用场景**: 用于自动化测试iOS和tvOS应用程序，支持Appium等测试框架进行UI测试和功能验证。
+
+---
+### [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)
+**⭐ 1542** | **Swift**
+
+OpenMinis是一个跨平台的AI Agent应用，完全免费且开源。
+
+标签: [`AI`](#tag-ai) [`Agent`](#tag-agent) [`跨平台`](#tag-跨平台)
+
+**使用场景**: 用户可以在不同平台上使用AI代理功能，进行智能交互和任务自动化。
 
 ---
 ### [tiann/hapi](https://github.com/tiann/hapi)
@@ -5567,6 +5577,18 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 - [tiann/hapi](https://github.com/tiann/hapi) (1505 :star:)
 - [fy0/CodeKanban](https://github.com/fy0/CodeKanban) (170 :star:)
 
+#### `AI`
+<a name="tag-ai"></a>
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) (12364 :star:)
+- [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) (11460 :star:)
+- [vercel/streamdown](https://github.com/vercel/streamdown) (5373 :star:)
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) (4519 :star:)
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) (4506 :star:)
+- [vercel/ai-elements](https://github.com/vercel/ai-elements) (2166 :star:)
+- [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) (1542 :star:)
+- [iamzhihuix/skills-manage](https://github.com/iamzhihuix/skills-manage) (886 :star:)
+- [nekocode/filetree-skill](https://github.com/nekocode/filetree-skill) (84 :star:)
+
 #### `性能测试`
 <a name="tag-性能测试"></a>
 - [rakyll/boom](https://github.com/rakyll/boom) (4711 :star:)
@@ -5578,17 +5600,6 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 - [YueChen-C/py-ios-device](https://github.com/YueChen-C/py-ios-device) (781 :star:)
 - [alibaba/mobileperf](https://github.com/alibaba/mobileperf) (750 :star:)
 - [15525730080/iOS17_perf](https://github.com/15525730080/iOS17_perf) (21 :star:)
-
-#### `AI`
-<a name="tag-ai"></a>
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) (12364 :star:)
-- [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) (11460 :star:)
-- [vercel/streamdown](https://github.com/vercel/streamdown) (5373 :star:)
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) (4519 :star:)
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) (4506 :star:)
-- [vercel/ai-elements](https://github.com/vercel/ai-elements) (2166 :star:)
-- [iamzhihuix/skills-manage](https://github.com/iamzhihuix/skills-manage) (886 :star:)
-- [nekocode/filetree-skill](https://github.com/nekocode/filetree-skill) (84 :star:)
 
 #### `React`
 <a name="tag-react"></a>
@@ -5663,6 +5674,15 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 - [codeskyblue/tidevice3](https://github.com/codeskyblue/tidevice3) (276 :star:)
 - [SonicCloudOrg/sonic-ios-wda](https://github.com/SonicCloudOrg/sonic-ios-wda) (29 :star:)
 - [15525730080/iOS17_perf](https://github.com/15525730080/iOS17_perf) (21 :star:)
+
+#### `跨平台`
+<a name="tag-跨平台"></a>
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) (16737 :star:)
+- [pocoproject/poco](https://github.com/pocoproject/poco) (9333 :star:)
+- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) (4081 :star:)
+- [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) (1542 :star:)
+- [appergb/openless](https://github.com/appergb/openless) (967 :star:)
+- [maxim-saplin/CrossPlatformDiskTest](https://github.com/maxim-saplin/CrossPlatformDiskTest) (809 :star:)
 
 #### `Claude Code`
 <a name="tag-claude-code"></a>
@@ -5748,14 +5768,6 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 - [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts) (2959 :star:)
 - [ibelick/ui-skills](https://github.com/ibelick/ui-skills) (1027 :star:)
 - [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) (515 :star:)
-
-#### `跨平台`
-<a name="tag-跨平台"></a>
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) (16737 :star:)
-- [pocoproject/poco](https://github.com/pocoproject/poco) (9333 :star:)
-- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) (4081 :star:)
-- [appergb/openless](https://github.com/appergb/openless) (967 :star:)
-- [maxim-saplin/CrossPlatformDiskTest](https://github.com/maxim-saplin/CrossPlatformDiskTest) (809 :star:)
 
 #### `游戏开发工具`
 <a name="tag-游戏开发工具"></a>
@@ -5886,8 +5898,8 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 - [SonicCloudOrg/sonic-ios-bridge](https://github.com/SonicCloudOrg/sonic-ios-bridge) (1074 :star:)
 - [codeskyblue/tidevice3](https://github.com/codeskyblue/tidevice3) (276 :star:)
 
-#### `Swift`
-<a name="tag-swift"></a>
-- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) (25858 :star:)
-- [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) (7776 :star:)
-- [oomol-lab/LockIME](https://github.com/oomol-lab/LockIME) (375 :star:)
+#### `Agent`
+<a name="tag-agent"></a>
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) (75432 :star:)
+- [browserbase/skills](https://github.com/browserbase/skills) (2550 :star:)
+- [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) (1542 :star:)
