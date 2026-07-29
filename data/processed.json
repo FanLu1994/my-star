@@ -7973,5 +7973,38 @@
     "stars": 1542,
     "starred_at": "",
     "original_description": "OpenMinis — The AI Agent app across platforms. Fully free and open source."
+  },
+  "996540721": {
+    "description": "一个为摄影师设计的现代照片画廊，支持S3/GitHub同步、EXIF详情、地图和WebGL查看器。",
+    "category": "Web开发",
+    "tags": [
+      "照片画廊",
+      "摄影",
+      "自托管",
+      "React",
+      "TypeScript"
+    ],
+    "use_case": "摄影师用于展示和管理照片，支持自托管部署，集成S3或GitHub存储，提供EXIF信息、地图定位和WebGL交互查看。",
+    "repo_name": "Afilmory/afilmory",
+    "repo_url": "https://github.com/Afilmory/afilmory",
+    "language": "TypeScript",
+    "stars": 2563,
+    "starred_at": "",
+    "original_description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer."
+  },
+  "1182162835": {
+    "description": "一个与真实世界交互的AI代理，可能涉及物理世界感知与操作。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI代理",
+      "物理交互"
+    ],
+    "use_case": "用于构建能够感知和操作物理环境的智能系统，如机器人控制或物联网应用。",
+    "repo_name": "physiclaw/PhysiClaw",
+    "repo_url": "https://github.com/physiclaw/PhysiClaw",
+    "language": "Python",
+    "stars": 118,
+    "starred_at": "",
+    "original_description": "The AI agent that interacts with you in the real world."
   }
 }
