@@ -8006,5 +8006,75 @@
     "stars": 118,
     "starred_at": "",
     "original_description": "The AI agent that interacts with you in the real world."
+  },
+  "1131734767": {
+    "description": "一个开源的AI原生操作系统，用于定义、组织和运行智能代理团队。",
+    "category": "AI/机器学习",
+    "tags": [
+      "agent",
+      "ai",
+      "chatbot",
+      "llm",
+      "framework"
+    ],
+    "use_case": "用于构建和管理多智能体协作系统，适用于自动化工作流、智能客服、研究助手等场景。",
+    "repo_name": "wecode-ai/Wegent",
+    "repo_url": "https://github.com/wecode-ai/Wegent",
+    "language": "TypeScript",
+    "stars": 673,
+    "starred_at": "",
+    "original_description": "An open-source AI-native operating system to define, organize, and run intelligent agent teams"
+  },
+  "1283907968": {
+    "description": "一个开源的身份验证网关，通过SDK、CLI、MCP、HTTP和OpenAPI将1000多个SaaS提供商连接到AI代理。",
+    "category": "工具/库",
+    "tags": [
+      "AI代理",
+      "API网关",
+      "SaaS集成",
+      "身份验证",
+      "MCP"
+    ],
+    "use_case": "用于AI代理与各种SaaS服务（如CRM、邮件、日历等）的安全集成和自动化操作。",
+    "repo_name": "oomol-lab/open-connector",
+    "repo_url": "https://github.com/oomol-lab/open-connector",
+    "language": "TypeScript",
+    "stars": 3458,
+    "starred_at": "",
+    "original_description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI."
+  },
+  "1296300799": {
+    "description": "一个收集了各种有助于构建优秀界面的代理技能的仓库，涵盖动画、UI打磨、可访问性和产品写作等方面。",
+    "category": "其他",
+    "tags": [
+      "UI设计",
+      "前端开发",
+      "代理技能"
+    ],
+    "use_case": "用于学习和参考如何通过代理技能提升用户界面设计、动画效果、可访问性和产品文案质量。",
+    "repo_name": "jakubkrehel/skills",
+    "repo_url": "https://github.com/jakubkrehel/skills",
+    "language": null,
+    "stars": 1825,
+    "starred_at": "",
+    "original_description": "A collection of agent skills that help with various parts of building a great interface. From animation and UI polish to accessibility and product writing."
+  },
+  "1305058794": {
+    "description": "一个将任何小说或故事转化为可玩游戏的工具，提供7技能适配管道，支持Claude Code、Codex和Kimi Code。",
+    "category": "游戏",
+    "tags": [
+      "AI游戏开发",
+      "交互式小说",
+      "故事转游戏",
+      "视觉小说",
+      "Web游戏"
+    ],
+    "use_case": "用于将文学作品或叙事内容快速转化为可交互的游戏体验，适合游戏开发者、叙事设计师和AI爱好者探索创意改编。",
+    "repo_name": "worldwonderer/novel-to-game",
+    "repo_url": "https://github.com/worldwonderer/novel-to-game",
+    "language": "Markdown",
+    "stars": 410,
+    "starred_at": "",
+    "original_description": "将任何小说蒸馏为可玩的游戏 · Turn any novel/story into a playable game — a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)"
   }
 }
