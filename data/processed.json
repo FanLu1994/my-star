@@ -8076,5 +8076,39 @@
     "stars": 410,
     "starred_at": "",
     "original_description": "将任何小说蒸馏为可玩的游戏 · Turn any novel/story into a playable game — a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)"
+  },
+  "324100021": {
+    "description": "LogicFlow是一个专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。",
+    "category": "框架",
+    "tags": [
+      "流程图",
+      "可视化",
+      "TypeScript",
+      "SVG",
+      "MVVM"
+    ],
+    "use_case": "适用于需要集成流程图、脑图、ER图等图形编辑功能的Web应用，如工作流设计器、建模工具、低代码平台等。",
+    "repo_name": "didi/LogicFlow",
+    "repo_url": "https://github.com/didi/LogicFlow",
+    "language": "TypeScript",
+    "stars": 11607,
+    "starred_at": "",
+    "original_description": "A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。"
+  },
+  "1273558528": {
+    "description": "一个免费的双向Figma MCP服务器，可将设计稿转换为框架感知的代码，并支持将代码推回画布，兼容Claude Code、Cursor、Codex等MCP客户端。",
+    "category": "AI/机器学习",
+    "tags": [
+      "Figma",
+      "MCP",
+      "设计转代码"
+    ],
+    "use_case": "设计师和开发者使用AI助手（如Claude Code、Cursor）直接从Figma设计稿生成代码，或将代码变更同步回Figma画布，实现设计与开发的自动化协作。",
+    "repo_name": "awdr74100/figwright",
+    "repo_url": "https://github.com/awdr74100/figwright",
+    "language": "TypeScript",
+    "stars": 313,
+    "starred_at": "",
+    "original_description": "Free, two-way Figma MCP server. Turn designs into framework-aware code, and push code back to the canvas. Works with Claude Code, Cursor, Codex, and any MCP client."
   }
 }
