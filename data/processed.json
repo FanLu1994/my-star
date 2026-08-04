@@ -8110,5 +8110,21 @@
     "stars": 313,
     "starred_at": "",
     "original_description": "Free, two-way Figma MCP server. Turn designs into framework-aware code, and push code back to the canvas. Works with Claude Code, Cursor, Codex, and any MCP client."
+  },
+  "1314553634": {
+    "description": "这是一个用Rust编写的统一LLM接入层，通过一套API即可访问325家AI服务提供商。",
+    "category": "工具/库",
+    "tags": [
+      "LLM",
+      "API",
+      "Rust"
+    ],
+    "use_case": "开发者可以将其作为后端服务，统一管理多个AI提供商的调用，简化集成和切换流程。",
+    "repo_name": "arcships/aimux",
+    "repo_url": "https://github.com/arcships/aimux",
+    "language": "Rust",
+    "stars": 152,
+    "starred_at": "",
+    "original_description": "Unified LLM access layer in Rust — one API for 325 AI providers. 统一 LLM 服务接入层：一套 API 接入 325 家 AI 服务商。"
   }
 }
