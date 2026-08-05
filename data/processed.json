@@ -8126,5 +8126,21 @@
     "stars": 152,
     "starred_at": "",
     "original_description": "Unified LLM access layer in Rust — one API for 325 AI providers. 统一 LLM 服务接入层：一套 API 接入 325 家 AI 服务商。"
+  },
+  "155288604": {
+    "description": "Shiki是一个美观且功能强大的语法高亮器，基于TextMate语法，为代码提供精准且视觉愉悦的高亮显示。",
+    "category": "工具/库",
+    "tags": [
+      "语法高亮",
+      "TextMate语法",
+      "代码美化"
+    ],
+    "use_case": "适用于需要在网页、文档或应用中展示代码高亮的场景，如Markdown渲染器、代码编辑器、技术博客等。",
+    "repo_name": "shikijs/shiki",
+    "repo_url": "https://github.com/shikijs/shiki",
+    "language": "TypeScript",
+    "stars": 13661,
+    "starred_at": "",
+    "original_description": "A beautiful yet powerful syntax highlighter"
   }
 }
