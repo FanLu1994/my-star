@@ -8142,5 +8142,70 @@
     "stars": 13661,
     "starred_at": "",
     "original_description": "A beautiful yet powerful syntax highlighter"
+  },
+  "1264811161": {
+    "description": "这是一个AI代理技能，用于从多种视觉主题生成可在浏览器中编辑的演示文稿，并支持导出为HTML、PDF和PPTX格式。",
+    "category": "工具/库",
+    "tags": [
+      "AI-agent",
+      "演示文稿生成",
+      "Claude"
+    ],
+    "use_case": "适用于需要快速创建和编辑演示文稿的用户，尤其是通过AI助手（如Claude）自动生成幻灯片，并希望以多种格式输出或在线编辑的场景。",
+    "repo_name": "chuspeeism/dashi-ppt-skill",
+    "repo_url": "https://github.com/chuspeeism/dashi-ppt-skill",
+    "language": "JavaScript",
+    "stars": 4739,
+    "starred_at": "",
+    "original_description": "An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX."
+  },
+  "1222917575": {
+    "description": "一个为Claude Code、Cursor和Codex等AI编程工具提供反AI风格设计技能的仓库，旨在提升AI生成代码的设计质量。",
+    "category": "工具/库",
+    "tags": [
+      "AI设计",
+      "设计技能",
+      "AI编程助手"
+    ],
+    "use_case": "开发者在使用AI编程助手时，通过安装此技能来避免生成低质量、千篇一律的UI设计，从而获得更美观、更符合设计规范的前端代码。",
+    "repo_name": "Nutlope/hallmark",
+    "repo_url": "https://github.com/Nutlope/hallmark",
+    "language": "CSS",
+    "stars": 22029,
+    "starred_at": "",
+    "original_description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+  },
+  "1320827273": {
+    "description": "一个利用AI技术实现手指框架效果（可能指手指检测或手势识别）的JavaScript项目。",
+    "category": "AI/机器学习",
+    "tags": [
+      "手指检测",
+      "手势识别",
+      "AI效果"
+    ],
+    "use_case": "用于在Web应用中实现基于手指或手势的交互效果，如虚拟绘图、增强现实滤镜等。",
+    "repo_name": "sophiamyang/finger-frame-effect-ai",
+    "repo_url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+    "language": "JavaScript",
+    "stars": 552,
+    "starred_at": "",
+    "original_description": null
+  },
+  "1244859148": {
+    "description": "将工作流转化为可研究、可评测、可发布的Agent技能（Skill）的框架，支持技能创建、评估与发布。",
+    "category": "AI/机器学习",
+    "tags": [
+      "agent-skills",
+      "ai-workflow",
+      "skill-creator",
+      "skill-evaluation"
+    ],
+    "use_case": "适用于AI Agent开发者或团队，用于系统化地设计、测试和发布可复用的Agent技能，提升工作流效率和质量。",
+    "repo_name": "joeseesun/qiaomu-meta-skill",
+    "repo_url": "https://github.com/joeseesun/qiaomu-meta-skill",
+    "language": "Python",
+    "stars": 288,
+    "starred_at": "",
+    "original_description": "把工作流变成可研究、可评测、可发布的乔木 Agent Skill | Turn workflows into researched, tested, release-ready agent skills."
   }
 }
