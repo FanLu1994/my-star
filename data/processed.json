@@ -8207,5 +8207,23 @@
     "stars": 288,
     "starred_at": "",
     "original_description": "把工作流变成可研究、可评测、可发布的乔木 Agent Skill | Turn workflows into researched, tested, release-ready agent skills."
+  },
+  "1316443307": {
+    "description": "一个桌面应用，记录屏幕工作会话，并利用GitHub Copilot CLI将其重构为意图和有序步骤，进而为Microsoft Scout、Copilot Cowork或Copilot Studio构建可复用的技能或自动化。",
+    "category": "工具/库",
+    "tags": [
+      "屏幕录制",
+      "AI代理",
+      "自动化",
+      "Copilot",
+      "Electron"
+    ],
+    "use_case": "用于开发者或业务用户录制操作流程，自动生成可复用的AI技能或自动化脚本，以集成到Microsoft的AI助手平台中。",
+    "repo_name": "microsoft/skill-recorder",
+    "repo_url": "https://github.com/microsoft/skill-recorder",
+    "language": "TypeScript",
+    "stars": 2511,
+    "starred_at": "",
+    "original_description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio."
   }
 }
