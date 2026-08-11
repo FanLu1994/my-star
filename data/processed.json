@@ -8225,5 +8225,23 @@
     "stars": 2511,
     "starred_at": "",
     "original_description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio."
+  },
+  "1200071160": {
+    "description": "定义了一个将AI代理扩展打包为可分发包的最小标准规范，版本为v1.0.0。",
+    "category": "其他",
+    "tags": [
+      "agent-plugins",
+      "agent-skills",
+      "ai-agents",
+      "mcp",
+      "specification"
+    ],
+    "use_case": "用于标准化AI代理插件的打包和分发，使开发者能够创建、共享和安装符合统一规范的代理扩展。",
+    "repo_name": "agentplugins/agent-plugins-spec",
+    "repo_url": "https://github.com/agentplugins/agent-plugins-spec",
+    "language": null,
+    "stars": 859,
+    "starred_at": "",
+    "original_description": "Agent Plugins Specification v1.0.0 — A minimal standard for packaging agent extensions into distributable plugins"
   }
 }
