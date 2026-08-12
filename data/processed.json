@@ -8243,5 +8243,57 @@
     "stars": 859,
     "starred_at": "",
     "original_description": "Agent Plugins Specification v1.0.0 — A minimal standard for packaging agent extensions into distributable plugins"
+  },
+  "1299769220": {
+    "description": "OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于查找、验证和修复安全漏洞。",
+    "category": "工具/库",
+    "tags": [
+      "安全",
+      "CLI",
+      "SDK",
+      "漏洞扫描",
+      "AI安全"
+    ],
+    "use_case": "开发者在开发过程中集成安全扫描，利用 AI 辅助识别和修复代码中的安全漏洞，适用于 DevSecOps 流程。",
+    "repo_name": "openai/codex-security",
+    "repo_url": "https://github.com/openai/codex-security",
+    "language": "TypeScript",
+    "stars": 9625,
+    "starred_at": "",
+    "original_description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
+  },
+  "1220744720": {
+    "description": "这是一个将GPT-Image2提示词工程化的工业级模板库，包含470+个案例逆向工程和20+套模板，支持将提示词作为代码进行管理和复用。",
+    "category": "AI/机器学习",
+    "tags": [
+      "提示词工程",
+      "图像生成",
+      "模板库"
+    ],
+    "use_case": "适用于需要批量生成高质量AI图像、构建可复用的图像生成工作流，或希望系统化管理和优化GPT-Image2提示词的开发者和内容创作者。",
+    "repo_name": "freestylefly/awesome-gpt-image-2",
+    "repo_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "language": "JavaScript",
+    "stars": 10116,
+    "starred_at": "",
+    "original_description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
+  },
+  "1273824907": {
+    "description": "一个通用提供商代理，允许OpenAI Codex和Claude Code使用任何LLM（如Claude、Gemini、Grok、DeepSeek、Ollama等）。",
+    "category": "工具/库",
+    "tags": [
+      "AI网关",
+      "LLM代理",
+      "开发者工具",
+      "OpenAI Codex",
+      "Claude Code"
+    ],
+    "use_case": "开发者希望将Codex CLI或Claude Code连接到非默认的LLM提供商，以灵活选择模型或降低成本。",
+    "repo_name": "lidge-jun/opencodex",
+    "repo_url": "https://github.com/lidge-jun/opencodex",
+    "language": "TypeScript",
+    "stars": 9329,
+    "starred_at": "",
+    "original_description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code"
   }
 }
