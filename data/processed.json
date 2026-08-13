@@ -8295,5 +8295,41 @@
     "stars": 9329,
     "starred_at": "",
     "original_description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code"
+  },
+  "1125856365": {
+    "description": "oh-my-pi 是一个面向终端的 AI 编码代理，提供基于哈希锚定的编辑、优化的工具集、LSP 支持、Python、浏览器、子代理等功能。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI编码代理",
+      "终端",
+      "CLI",
+      "多提供商",
+      "LSP"
+    ],
+    "use_case": "在终端中利用 AI 辅助编码，支持多种 AI 提供商，提供智能编辑和工具集成，适合开发者日常编程工作流。",
+    "repo_name": "can1357/oh-my-pi",
+    "repo_url": "https://github.com/can1357/oh-my-pi",
+    "language": "TypeScript",
+    "stars": 24217,
+    "starred_at": "",
+    "original_description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more"
+  },
+  "1325096132": {
+    "description": "为AI短剧制作提供一套技能集合，涵盖角色拆解、大纲编排、场景与道具设定及剧本编写，支持在Claude Code和codex中运行。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI短剧",
+      "剧本生成",
+      "技能集合",
+      "Claude Code",
+      "codex"
+    ],
+    "use_case": "用于AI辅助短剧创作，帮助创作者快速生成角色设定、剧情大纲、场景道具和完整剧本，提升制作效率。",
+    "repo_name": "eternityspring/shuohao-skills",
+    "repo_url": "https://github.com/eternityspring/shuohao-skills",
+    "language": "JavaScript",
+    "stars": 1165,
+    "starred_at": "",
+    "original_description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex."
   }
 }
