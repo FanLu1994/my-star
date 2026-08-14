@@ -8331,5 +8331,39 @@
     "stars": 1165,
     "starred_at": "",
     "original_description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex."
+  },
+  "1239119721": {
+    "description": "一个用于设计跨平台原生桌面应用的Agent技能，提炼自Raycast 2.0的深度剖析和逆向工程，提供架构原则、分层架构、WebKit/WebView2指南及发布审计清单。",
+    "category": "其他",
+    "tags": [
+      "桌面应用",
+      "Agent Skill",
+      "Raycast",
+      "跨平台",
+      "架构设计"
+    ],
+    "use_case": "用于指导开发者或AI代理设计具有原生体验的跨平台桌面应用，尤其适用于基于Web技术（如Electron）的应用优化，提供从架构到发布的完整参考。",
+    "repo_name": "yetone/native-feel-skill",
+    "repo_url": "https://github.com/yetone/native-feel-skill",
+    "language": null,
+    "stars": 1876,
+    "starred_at": "",
+    "original_description": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit."
+  },
+  "1311108439": {
+    "description": "一个基于JavaScript的任务看板项目，用于管理任务和项目进度。",
+    "category": "Web开发",
+    "tags": [
+      "任务管理",
+      "看板",
+      "JavaScript"
+    ],
+    "use_case": "用于团队或个人进行任务分配、进度跟踪和项目管理。",
+    "repo_name": "chuspeeism/dashi-taskboard",
+    "repo_url": "https://github.com/chuspeeism/dashi-taskboard",
+    "language": "JavaScript",
+    "stars": 2072,
+    "starred_at": "",
+    "original_description": null
   }
 }
