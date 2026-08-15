@@ -8365,5 +8365,24 @@
     "stars": 2072,
     "starred_at": "",
     "original_description": null
+  },
+  "1224172037": {
+    "description": "一个轻量级跨平台数据库客户端，支持70多种数据库，并提供桌面端、Docker、CLI、AI助手和MCP Server。",
+    "category": "数据库",
+    "tags": [
+      "数据库客户端",
+      "跨平台",
+      "Rust",
+      "Tauri",
+      "AI",
+      "MCP"
+    ],
+    "use_case": "用于管理和操作多种数据库，适合开发者和DBA在桌面、容器或命令行环境中进行数据库查询、管理和自动化操作。",
+    "repo_name": "t8y2/dbx",
+    "repo_url": "https://github.com/t8y2/dbx",
+    "language": "Rust",
+    "stars": 14749,
+    "starred_at": "",
+    "original_description": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。"
   }
 }
