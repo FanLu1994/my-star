@@ -8384,5 +8384,21 @@
     "stars": 14749,
     "starred_at": "",
     "original_description": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。"
+  },
+  "493376588": {
+    "description": "Cordis是一个基于TypeScript的元框架，旨在提供时空组合性（Spatiotemporal Composability）的插件化开发能力。",
+    "category": "框架",
+    "tags": [
+      "元框架",
+      "插件系统",
+      "时空组合"
+    ],
+    "use_case": "适用于需要高度模块化、可组合的时空数据处理或应用开发的场景，如实时系统、地理信息系统或复杂事件处理。",
+    "repo_name": "cordiverse/cordis",
+    "repo_url": "https://github.com/cordiverse/cordis",
+    "language": "TypeScript",
+    "stars": 4705,
+    "starred_at": "",
+    "original_description": "Meta-Framework of Spatiotemporal Composability"
   }
 }
