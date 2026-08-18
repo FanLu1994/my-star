@@ -8400,5 +8400,23 @@
     "stars": 4705,
     "starred_at": "",
     "original_description": "Meta-Framework of Spatiotemporal Composability"
+  },
+  "1333068434": {
+    "description": "这是一个为DeepSeek Harness开发的插件，实现在composer中搜索工作区文件并自动将文件路径附加到提示词中，类似Codex的@文件提及功能。",
+    "category": "工具/库",
+    "tags": [
+      "dsh",
+      "dsh-plugin",
+      "文件搜索",
+      "提示词增强",
+      "AI辅助开发"
+    ],
+    "use_case": "适用于使用DeepSeek Harness进行AI辅助编程的场景，开发者可以在对话中快速引用工作区中的文件，提高上下文关联性和开发效率。",
+    "repo_name": "omdsh-dev/dsh-at-file",
+    "repo_url": "https://github.com/omdsh-dev/dsh-at-file",
+    "language": "JavaScript",
+    "stars": 330,
+    "starred_at": "",
+    "original_description": "Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their path to prompts."
   }
 }
