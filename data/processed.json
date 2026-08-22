@@ -1526,21 +1526,6 @@
     "starred_at": "",
     "original_description": "搜集游戏解包工具|Collection of game unpacking tools"
   },
-  "881804112": {
-    "description": "这是一个为开发者资源提供高性能、安全的一体化加速引擎的工具",
-    "category": "工具/库",
-    "tags": [
-      "开发者工具",
-      "网络加速"
-    ],
-    "use_case": "用于加速开发者下载依赖包、镜像资源等，提升开发效率",
-    "repo_name": "xixu-me/xget",
-    "repo_url": "https://github.com/xixu-me/xget",
-    "language": "JavaScript",
-    "stars": 7599,
-    "starred_at": "",
-    "original_description": "Ultra-high-performance, secure, all-in-one acceleration engine for developer resources"
-  },
   "1036033997": {
     "description": "这是一个用Go语言编写的Excel文件对比工具。",
     "category": "工具/库",
