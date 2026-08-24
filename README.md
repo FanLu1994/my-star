@@ -1,5 +1,5 @@
 # 我的 GitHub Star 收藏 :star:
-> 最后更新: 2026-08-23 00:06:27 | 总计: **542** 个仓库 | 分类: **10** 个 | 标签: **813** 个
+> 最后更新: 2026-08-24 00:06:17 | 总计: **541** 个仓库 | 分类: **10** 个 | 标签: **809** 个
 
 ---
 ## :open_file_folder: 分类目录
@@ -8,7 +8,7 @@
 |------|------|------|------|
 | [AI/机器学习](#ai机器学习) | 132 | [Web开发](#web开发) | 37 |
 | [移动开发](#移动开发) | 31 | [框架](#框架) | 13 |
-| [数据库](#数据库) | 8 | [工具/库](#工具库) | 245 |
+| [数据库](#数据库) | 8 | [工具/库](#工具库) | 244 |
 | [DevOps/基础设施](#devops基础设施) | 13 | [游戏](#游戏) | 32 |
 | [教育](#教育) | 16 | [其他](#其他) | 15 |
 
@@ -24,12 +24,12 @@
 | [`Claude Code`](#tag-claude-code) (8) | [`开发者工具`](#tag-开发者工具) (8) | [`命令行工具`](#tag-命令行工具) (8) | [`性能分析`](#tag-性能分析) (8) |
 | [`自托管`](#tag-自托管) (7) | [`Python`](#tag-python) (7) | [`游戏开发`](#tag-游戏开发) (7) | [`iOS`](#tag-ios) (7) |
 | [`UI设计`](#tag-ui设计) (6) | [`浏览器扩展`](#tag-浏览器扩展) (6) | [`浏览器自动化`](#tag-浏览器自动化) (6) | [`Android工具`](#tag-android工具) (6) |
-| [`AI辅助开发`](#tag-ai辅助开发) (5) | [`Rust`](#tag-rust) (5) | [`JavaScript`](#tag-javascript) (5) | [`CLI`](#tag-cli) (5) |
-| [`可视化`](#tag-可视化) (5) | [`agent`](#tag-agent) (5) | [`llm`](#tag-llm) (5) | [`视频编辑`](#tag-视频编辑) (5) |
-| [`AI集成`](#tag-ai集成) (5) | [`代码生成`](#tag-代码生成) (5) | [`游戏开发工具`](#tag-游戏开发工具) (5) | [`AI智能体`](#tag-ai智能体) (5) |
-| [`教程`](#tag-教程) (5) | [`屏幕录制`](#tag-屏幕录制) (4) | [`Claude`](#tag-claude) (4) | [`前端开发`](#tag-前端开发) (4) |
-| [`代理技能`](#tag-代理技能) (4) | [`视频生成`](#tag-视频生成) (4) | [`编码代理`](#tag-编码代理) (4) | [`开源`](#tag-开源) (4) |
-| [`AI Agent`](#tag-ai-agent) (4) | [`UI组件`](#tag-ui组件) (4) | [`自动化工具`](#tag-自动化工具) (4) | [`向量数据库`](#tag-向量数据库) (4) |
+| [`Rust`](#tag-rust) (5) | [`JavaScript`](#tag-javascript) (5) | [`CLI`](#tag-cli) (5) | [`可视化`](#tag-可视化) (5) |
+| [`agent`](#tag-agent) (5) | [`llm`](#tag-llm) (5) | [`视频编辑`](#tag-视频编辑) (5) | [`AI集成`](#tag-ai集成) (5) |
+| [`代码生成`](#tag-代码生成) (5) | [`游戏开发工具`](#tag-游戏开发工具) (5) | [`AI智能体`](#tag-ai智能体) (5) | [`教程`](#tag-教程) (5) |
+| [`屏幕录制`](#tag-屏幕录制) (4) | [`Claude`](#tag-claude) (4) | [`前端开发`](#tag-前端开发) (4) | [`代理技能`](#tag-代理技能) (4) |
+| [`视频生成`](#tag-视频生成) (4) | [`编码代理`](#tag-编码代理) (4) | [`开源`](#tag-开源) (4) | [`AI Agent`](#tag-ai-agent) (4) |
+| [`AI辅助开发`](#tag-ai辅助开发) (4) | [`UI组件`](#tag-ui组件) (4) | [`自动化工具`](#tag-自动化工具) (4) | [`向量数据库`](#tag-向量数据库) (4) |
 | [`智能代理`](#tag-智能代理) (4) | [`ADB`](#tag-adb) (4) | [`设备管理`](#tag-设备管理) (4) | [`SDK`](#tag-sdk) (3) |
 | [`agent-skills`](#tag-agent-skills) (3) | [`Electron`](#tag-electron) (3) | [`LLM`](#tag-llm) (3) | [`ai`](#tag-ai) (3) |
 | [`Agent`](#tag-agent) (3) | [`Swift`](#tag-swift) (3) | [`CLI工具`](#tag-cli工具) (3) | [`本地优先`](#tag-本地优先) (3) |
@@ -66,8 +66,7 @@
 | [`Windows应用`](#tag-windows应用) (2) | [`Unity`](#tag-unity) (2) | [`Unreal Engine`](#tag-unreal-engine) (2) | [`代码质量`](#tag-代码质量) (2) |
 | [`思维导图`](#tag-思维导图) (2) | [`开源软件`](#tag-开源软件) (2) | [`屏幕镜像`](#tag-屏幕镜像) (2) | [`远程控制`](#tag-远程控制) (2) |
 | [`电视直播`](#tag-电视直播) (2) | [`Node.js`](#tag-nodejs) (2) | [`IPTV`](#tag-iptv) (2) | [`移动测试`](#tag-移动测试) (2) |
-| [`安全工具`](#tag-安全工具) (2) | [`虚幻引擎`](#tag-虚幻引擎) (2) | [`WebUSB`](#tag-webusb) (2) | [`dsh`](#tag-dsh) (1) |
-| [`dsh-plugin`](#tag-dsh-plugin) (1) | [`文件搜索`](#tag-文件搜索) (1) | [`提示词增强`](#tag-提示词增强) (1) | [`元框架`](#tag-元框架) (1) |
+| [`安全工具`](#tag-安全工具) (2) | [`虚幻引擎`](#tag-虚幻引擎) (2) | [`WebUSB`](#tag-webusb) (2) | [`元框架`](#tag-元框架) (1) |
 | [`插件系统`](#tag-插件系统) (1) | [`时空组合`](#tag-时空组合) (1) | [`数据库客户端`](#tag-数据库客户端) (1) | [`Agent Skill`](#tag-agent-skill) (1) |
 | [`Raycast`](#tag-raycast) (1) | [`任务管理`](#tag-任务管理) (1) | [`看板`](#tag-看板) (1) | [`多提供商`](#tag-多提供商) (1) |
 | [`LSP`](#tag-lsp) (1) | [`AI短剧`](#tag-ai短剧) (1) | [`剧本生成`](#tag-剧本生成) (1) | [`技能集合`](#tag-技能集合) (1) |
@@ -2461,7 +2460,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
 ## 工具/库
 <a name="工具库"></a>
-**245** 个仓库
+**244** 个仓库
 
 ### [mattpocock/skills](https://github.com/mattpocock/skills)
 **⭐ 158756** | **Shell**
@@ -4593,16 +4592,6 @@ LuaCov是一个用于Lua代码的简单覆盖率分析工具。
 **使用场景**: 开发者或测试人员可以通过自然语言指令，让AI助手（如Claude）自动执行Android设备上的操作，例如安装应用、点击屏幕或获取信息，实现智能化的设备控制和测试。
 
 ---
-### [omdsh-dev/dsh-at-file](https://github.com/omdsh-dev/dsh-at-file)
-**⭐ 330** | **JavaScript**
-
-这是一个为DeepSeek Harness开发的插件，实现在composer中搜索工作区文件并自动将文件路径附加到提示词中，类似Codex的@文件提及功能。
-
-标签: [`dsh`](#tag-dsh) [`dsh-plugin`](#tag-dsh-plugin) [`文件搜索`](#tag-文件搜索) [`提示词增强`](#tag-提示词增强) [`AI辅助开发`](#tag-ai辅助开发)
-
-**使用场景**: 适用于使用DeepSeek Harness进行AI辅助编程的场景，开发者可以在对话中快速引用工作区中的文件，提高上下文关联性和开发效率。
-
----
 ### [codeskyblue/tidevice3](https://github.com/codeskyblue/tidevice3)
 **⭐ 276** | **Python**
 
@@ -6020,14 +6009,6 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 - [modstart-lib/linkandroid](https://github.com/modstart-lib/linkandroid) (1836 :star:)
 - [alibaba/mobileperf](https://github.com/alibaba/mobileperf) (750 :star:)
 
-#### `AI辅助开发`
-<a name="tag-ai辅助开发"></a>
-- [github/spec-kit](https://github.com/github/spec-kit) (63302 :star:)
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) (22558 :star:)
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) (14977 :star:)
-- [omdsh-dev/dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) (330 :star:)
-- [tmwgsicp/vibecoding-for-beginners](https://github.com/tmwgsicp/vibecoding-for-beginners) (15 :star:)
-
 #### `Rust`
 <a name="tag-rust"></a>
 - [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) (24819 :star:)
@@ -6179,6 +6160,13 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 - [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) (5934 :star:)
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) (2369 :star:)
 - [miantiao-me/aigc-weekly](https://github.com/miantiao-me/aigc-weekly) (450 :star:)
+
+#### `AI辅助开发`
+<a name="tag-ai辅助开发"></a>
+- [github/spec-kit](https://github.com/github/spec-kit) (63302 :star:)
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) (22558 :star:)
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) (14977 :star:)
+- [tmwgsicp/vibecoding-for-beginners](https://github.com/tmwgsicp/vibecoding-for-beginners) (15 :star:)
 
 #### `UI组件`
 <a name="tag-ui组件"></a>
