@@ -8385,5 +8385,23 @@
     "stars": 4705,
     "starred_at": "",
     "original_description": "Meta-Framework of Spatiotemporal Composability"
+  },
+  "1291980736": {
+    "description": "一个零依赖的Canvas 2D引擎和React适配器，用于在屏幕边缘创建有机的发光效果。",
+    "category": "工具/库",
+    "tags": [
+      "animation",
+      "canvas",
+      "glow",
+      "react",
+      "typescript"
+    ],
+    "use_case": "用于Web前端开发中，为UI界面添加动态的边缘光晕效果，提升视觉吸引力。",
+    "repo_name": "takuyajodai/edge-aura",
+    "repo_url": "https://github.com/takuyajodai/edge-aura",
+    "language": "TypeScript",
+    "stars": 82,
+    "starred_at": "",
+    "original_description": "An organic glow that hugs the edge of your screen — zero-dependency Canvas 2D engine + React adapter"
   }
 }
