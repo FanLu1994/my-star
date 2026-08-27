@@ -8403,5 +8403,38 @@
     "stars": 82,
     "starred_at": "",
     "original_description": "An organic glow that hugs the edge of your screen — zero-dependency Canvas 2D engine + React adapter"
+  },
+  "1338237504": {
+    "description": "一个用Rust和GPUI构建的桌面应用，用于集中浏览、搜索和恢复所有AI代理会话。",
+    "category": "工具/库",
+    "tags": [
+      "AI会话管理",
+      "Rust",
+      "GPUI",
+      "桌面应用"
+    ],
+    "use_case": "适用于需要管理多个AI代理会话（如ChatGPT、Claude等）的用户，方便统一查看、搜索和继续之前的对话。",
+    "repo_name": "iAmCorey/Wake",
+    "repo_url": "https://github.com/iAmCorey/Wake",
+    "language": "Rust",
+    "stars": 648,
+    "starred_at": "",
+    "original_description": "All your AI agent sessions in one place — browse, search, resume. Rust + GPUI."
+  },
+  "756244057": {
+    "description": "获取QQ空间用户发布的历史说说内容的Python工具。",
+    "category": "工具/库",
+    "tags": [
+      "QQ空间",
+      "爬虫",
+      "数据获取"
+    ],
+    "use_case": "用于个人数据备份、历史动态导出或社交数据分析。",
+    "repo_name": "LibraHp/GetQzonehistory",
+    "repo_url": "https://github.com/LibraHp/GetQzonehistory",
+    "language": "Python",
+    "stars": 7544,
+    "starred_at": "",
+    "original_description": "获取QQ空间发布的历史说说"
   }
 }
