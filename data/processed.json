@@ -8436,5 +8436,25 @@
     "stars": 7544,
     "starred_at": "",
     "original_description": "获取QQ空间发布的历史说说"
+  },
+  "299832860": {
+    "description": "LiveKit是一个端到端的实时通信堆栈，用于连接人类与AI，支持语音、视频和WebRTC传输。",
+    "category": "框架",
+    "tags": [
+      "golang",
+      "media-server",
+      "sfu",
+      "video",
+      "voice",
+      "voice-ai",
+      "webrtc"
+    ],
+    "use_case": "用于构建实时音视频应用，如视频会议、语音助手、AI对话系统等，支持大规模SFU分发和AI集成。",
+    "repo_name": "livekit/livekit",
+    "repo_url": "https://github.com/livekit/livekit",
+    "language": "Go",
+    "stars": 20581,
+    "starred_at": "",
+    "original_description": "End-to-end realtime stack for connecting humans and AI"
   }
 }
