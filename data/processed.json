@@ -6170,23 +6170,6 @@
     "starred_at": "",
     "original_description": "An open source collection of animated, interactive & fully customizable React components for building memorable websites."
   },
-  "1209098380": {
-    "description": "一个桌面应用，用于在Claude Code、Cursor、Gemini CLI、Codex等20多个平台上统一管理AI编码代理的技能。",
-    "category": "工具/库",
-    "tags": [
-      "AI",
-      "桌面应用",
-      "技能管理",
-      "编码代理"
-    ],
-    "use_case": "开发者可以使用此应用集中管理和同步不同AI编码平台（如Claude Code、Cursor等）的技能配置，提高工作效率。",
-    "repo_name": "iamzhihuix/skills-manage",
-    "repo_url": "https://github.com/iamzhihuix/skills-manage",
-    "language": "TypeScript",
-    "stars": 886,
-    "starred_at": "",
-    "original_description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place."
-  },
   "1180745961": {
     "description": "一个通过AI编码代理一键克隆任何网站的模板工具。",
     "category": "工具/库",
@@ -8506,5 +8489,41 @@
     "stars": 149759,
     "starred_at": "",
     "original_description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+  },
+  "1352351185": {
+    "description": "FrontierHarness Eval 是一个公开的评估结果和任务定义仓库，用于测试和比较多种AI编码代理工具（如Claude Code、Codex等）的性能。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI评估",
+      "编码代理",
+      "基准测试",
+      "Claude Code",
+      "Codex"
+    ],
+    "use_case": "用于研究人员和开发者评估不同AI编码助手的实际能力，通过标准任务集进行对比测试，以选择最适合的工具或改进现有代理。",
+    "repo_name": "frontier-harness-eval/eval",
+    "repo_url": "https://github.com/frontier-harness-eval/eval",
+    "language": "JavaScript",
+    "stars": 114,
+    "starred_at": "",
+    "original_description": "Public results and task definitions for FrontierHarness Eval"
+  },
+  "1188860591": {
+    "description": "这是一个中文优先的去AI味改写技能仓库，帮助用户在Codex、Claude Code、Cursor、ChatGPT等工具中去除AI写作痕迹，保留事实并分场景改写，使文本更自然、可直接发布。",
+    "category": "工具/库",
+    "tags": [
+      "AI写作",
+      "中文改写",
+      "Prompt工程",
+      "Agent技能",
+      "文本质量"
+    ],
+    "use_case": "适用于需要去除AI生成文本的机械感、提升中文自然度的场景，如内容创作者、开发者或普通用户在使用AI辅助写作后，对文本进行润色和人性化处理，以便直接用于社交媒体、博客、报告等。",
+    "repo_name": "MrGeDiao/shuorenhua",
+    "repo_url": "https://github.com/MrGeDiao/shuorenhua",
+    "language": "Python",
+    "stars": 1401,
+    "starred_at": "",
+    "original_description": "说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts."
   }
 }
