@@ -8525,5 +8525,60 @@
     "stars": 1401,
     "starred_at": "",
     "original_description": "说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts."
+  },
+  "1326099407": {
+    "description": "Lody是一个让团队在手机和桌面上共享编码代理（AI编程助手）的协作平台，支持多代理编排和本地优先的工作流。",
+    "category": "工具/库",
+    "tags": [
+      "coding-agent",
+      "collaboration",
+      "multi-agent",
+      "local-first",
+      "orchestration"
+    ],
+    "use_case": "适用于开发团队在桌面或移动设备上共享、协调和管理多个AI编码代理，以协作完成代码任务和自动化工作流。",
+    "repo_name": "LodyAI/Lody",
+    "repo_url": "https://github.com/LodyAI/Lody",
+    "language": "TypeScript",
+    "stars": 959,
+    "starred_at": "",
+    "original_description": "Share coding agents with your team on phone and desktop"
+  },
+  "1359630749": {
+    "description": "一个无需WebGL、仅用单文件实现真实折射液体玻璃效果的Web开发库，结合SDF透镜映射、SVG位移和backdrop-filter技术。",
+    "category": "Web开发",
+    "tags": [
+      "glassmorphism",
+      "refraction",
+      "svg-filters",
+      "backdrop-filter",
+      "css"
+    ],
+    "use_case": "用于在网页上创建逼真的液体玻璃视觉效果，适用于需要高级视觉特效的UI设计、交互式演示或创意网站，无需依赖WebGL，便于集成到现有前端项目中。",
+    "repo_name": "VII-Cae/hyalite--liquid-glass",
+    "repo_url": "https://github.com/VII-Cae/hyalite--liquid-glass",
+    "language": "JavaScript",
+    "stars": 108,
+    "starred_at": "",
+    "original_description": "Real refraction liquid glass for the web: SDF lens maps + SVG displacement + backdrop-filter. One file, no WebGL."
+  },
+  "1354645252": {
+    "description": "一个通过互联网快速在真实设备上安装已签名iOS和Android构建的工具，无需等待TestFlight或Play Beta。",
+    "category": "移动开发",
+    "tags": [
+      "iOS",
+      "Android",
+      "远程安装",
+      "Rust",
+      "Tailscale",
+      "Cloudflare"
+    ],
+    "use_case": "开发者或测试团队在无法直接连接设备时，通过互联网远程分发和安装内部测试构建，加速测试流程。",
+    "repo_name": "icodesign/remote-installer",
+    "repo_url": "https://github.com/icodesign/remote-installer",
+    "language": "Rust",
+    "stars": 97,
+    "starred_at": "",
+    "original_description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta."
   }
 }
