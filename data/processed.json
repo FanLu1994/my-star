@@ -1012,22 +1012,6 @@
     "starred_at": "",
     "original_description": "🎉A WebDriver server for iOS and tvOS"
   },
-  "231865705": {
-    "description": "这是一个收集中国小学、初中、高中及大学PDF教材的仓库。",
-    "category": "教育",
-    "tags": [
-      "教材",
-      "PDF",
-      "教育资源"
-    ],
-    "use_case": "为学生、教师或自学者提供方便获取和下载各阶段教育教材的电子资源。",
-    "repo_name": "TapXWorld/ChinaTextbook",
-    "repo_url": "https://github.com/TapXWorld/ChinaTextbook",
-    "language": "Roff",
-    "stars": 64230,
-    "starred_at": "",
-    "original_description": "所有小初高、大学PDF教材。"
-  },
   "978236277": {
     "description": "这是一个用于构建、评估和部署复杂AI代理的开源Go工具包。",
     "category": "AI/机器学习",
@@ -8580,5 +8564,22 @@
     "stars": 97,
     "starred_at": "",
     "original_description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta."
+  },
+  "1158198234": {
+    "description": "OpenJarvis 是一个在个人设备上运行的个人 AI 助手项目。",
+    "category": "AI/机器学习",
+    "tags": [
+      "个人AI",
+      "本地部署",
+      "隐私保护",
+      "语音助手"
+    ],
+    "use_case": "用户可以在自己的设备上部署和运行个人 AI 助手，实现本地化的智能交互，保护隐私并减少对云服务的依赖。",
+    "repo_name": "open-jarvis/OpenJarvis",
+    "repo_url": "https://github.com/open-jarvis/OpenJarvis",
+    "language": "Python",
+    "stars": 9554,
+    "starred_at": "",
+    "original_description": "Personal AI, On Personal Devices"
   }
 }
