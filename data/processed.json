@@ -8581,5 +8581,22 @@
     "stars": 9554,
     "starred_at": "",
     "original_description": "Personal AI, On Personal Devices"
+  },
+  "1209444325": {
+    "description": "一个用Rust编写的匿名评价/吐槽平台，允许用户对他人进行评价并生成排行榜。",
+    "category": "Web开发",
+    "tags": [
+      "Rust",
+      "Web应用",
+      "匿名评价",
+      "排行榜"
+    ],
+    "use_case": "用于创建类似“骂了么”的匿名评价网站，用户可对指定对象进行评价，系统根据评价生成排行榜。",
+    "repo_name": "Yeuoly/maleme",
+    "repo_url": "https://github.com/Yeuoly/maleme",
+    "language": "Rust",
+    "stars": 161,
+    "starred_at": "",
+    "original_description": "骂了么"
   }
 }
