@@ -8598,5 +8598,21 @@
     "stars": 161,
     "starred_at": "",
     "original_description": "骂了么"
+  },
+  "231865705": {
+    "description": "该仓库收集并分享了从小学到大学的各类PDF教材资源。",
+    "category": "教育",
+    "tags": [
+      "教材",
+      "PDF",
+      "教育资源"
+    ],
+    "use_case": "学生、教师或自学者可以下载所需的PDF教材进行学习或教学参考。",
+    "repo_name": "TapXWorld/ChinaTextbook",
+    "repo_url": "https://github.com/TapXWorld/ChinaTextbook",
+    "language": "Roff",
+    "stars": 81757,
+    "starred_at": "",
+    "original_description": "所有小初高、大学PDF教材。"
   }
 }
