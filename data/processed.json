@@ -8614,5 +8614,23 @@
     "stars": 81757,
     "starred_at": "",
     "original_description": "所有小初高、大学PDF教材。"
+  },
+  "1087993542": {
+    "description": "一个用户友好的iOS侧载工具，用于将应用安装到iPhone或iPad上。",
+    "category": "移动开发",
+    "tags": [
+      "iOS",
+      "侧载",
+      "sideloading",
+      "iDevice",
+      "SideStore"
+    ],
+    "use_case": "适用于需要在不越狱的情况下，通过非App Store渠道将应用安装到iOS设备的用户。",
+    "repo_name": "nab138/iloader",
+    "repo_url": "https://github.com/nab138/iloader",
+    "language": "TypeScript",
+    "stars": 3319,
+    "starred_at": "",
+    "original_description": "User friendly sideloader"
   }
 }

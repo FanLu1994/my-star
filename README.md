@@ -1,5 +1,5 @@
 # 我的 GitHub Star 收藏 :star:
-> 最后更新: 2026-09-14 02:27:15 | 总计: **554** 个仓库 | 分类: **10** 个 | 标签: **850** 个
+> 最后更新: 2026-09-15 02:31:59 | 总计: **555** 个仓库 | 分类: **10** 个 | 标签: **854** 个
 
 ---
 ## :open_file_folder: 分类目录
@@ -7,7 +7,7 @@
 | 分类 | 数量 | 分类 | 数量 |
 |------|------|------|------|
 | [AI/机器学习](#ai机器学习) | 135 | [Web开发](#web开发) | 39 |
-| [移动开发](#移动开发) | 32 | [框架](#框架) | 14 |
+| [移动开发](#移动开发) | 33 | [框架](#框架) | 14 |
 | [数据库](#数据库) | 8 | [工具/库](#工具库) | 250 |
 | [DevOps/基础设施](#devops基础设施) | 13 | [游戏](#游戏) | 32 |
 | [教育](#教育) | 16 | [其他](#其他) | 15 |
@@ -19,9 +19,9 @@
 |---|---|---|---|
 | [`AI代理`](#tag-ai代理) (31) | [`自动化`](#tag-自动化) (19) | [`自动化测试`](#tag-自动化测试) (18) | [`TypeScript`](#tag-typescript) (15) |
 | [`AI助手`](#tag-ai助手) (15) | [`Android`](#tag-android) (13) | [`逆向工程`](#tag-逆向工程) (13) | [`桌面应用`](#tag-桌面应用) (12) |
-| [`开发工具`](#tag-开发工具) (12) | [`AI工具`](#tag-ai工具) (12) | [`AI编程助手`](#tag-ai编程助手) (11) | [`Claude Code`](#tag-claude-code) (9) |
-| [`AI`](#tag-ai) (9) | [`React`](#tag-react) (9) | [`性能测试`](#tag-性能测试) (9) | [`Rust`](#tag-rust) (8) |
-| [`iOS`](#tag-ios) (8) | [`跨平台`](#tag-跨平台) (8) | [`MCP`](#tag-mcp) (8) | [`开发者工具`](#tag-开发者工具) (8) |
+| [`开发工具`](#tag-开发工具) (12) | [`AI工具`](#tag-ai工具) (12) | [`AI编程助手`](#tag-ai编程助手) (11) | [`iOS`](#tag-ios) (9) |
+| [`Claude Code`](#tag-claude-code) (9) | [`AI`](#tag-ai) (9) | [`React`](#tag-react) (9) | [`性能测试`](#tag-性能测试) (9) |
+| [`Rust`](#tag-rust) (8) | [`跨平台`](#tag-跨平台) (8) | [`MCP`](#tag-mcp) (8) | [`开发者工具`](#tag-开发者工具) (8) |
 | [`命令行工具`](#tag-命令行工具) (8) | [`性能分析`](#tag-性能分析) (8) | [`自托管`](#tag-自托管) (7) | [`Python`](#tag-python) (7) |
 | [`游戏开发`](#tag-游戏开发) (7) | [`UI设计`](#tag-ui设计) (6) | [`浏览器扩展`](#tag-浏览器扩展) (6) | [`浏览器自动化`](#tag-浏览器自动化) (6) |
 | [`Android工具`](#tag-android工具) (6) | [`JavaScript`](#tag-javascript) (5) | [`CLI`](#tag-cli) (5) | [`可视化`](#tag-可视化) (5) |
@@ -68,7 +68,8 @@
 | [`Unity`](#tag-unity) (2) | [`Unreal Engine`](#tag-unreal-engine) (2) | [`代码质量`](#tag-代码质量) (2) | [`思维导图`](#tag-思维导图) (2) |
 | [`开源软件`](#tag-开源软件) (2) | [`屏幕镜像`](#tag-屏幕镜像) (2) | [`远程控制`](#tag-远程控制) (2) | [`电视直播`](#tag-电视直播) (2) |
 | [`Node.js`](#tag-nodejs) (2) | [`IPTV`](#tag-iptv) (2) | [`移动测试`](#tag-移动测试) (2) | [`安全工具`](#tag-安全工具) (2) |
-| [`虚幻引擎`](#tag-虚幻引擎) (2) | [`WebUSB`](#tag-webusb) (2) | [`Web应用`](#tag-web应用) (1) | [`匿名评价`](#tag-匿名评价) (1) |
+| [`虚幻引擎`](#tag-虚幻引擎) (2) | [`WebUSB`](#tag-webusb) (2) | [`侧载`](#tag-侧载) (1) | [`sideloading`](#tag-sideloading) (1) |
+| [`iDevice`](#tag-idevice) (1) | [`SideStore`](#tag-sidestore) (1) | [`Web应用`](#tag-web应用) (1) | [`匿名评价`](#tag-匿名评价) (1) |
 | [`排行榜`](#tag-排行榜) (1) | [`个人AI`](#tag-个人ai) (1) | [`本地部署`](#tag-本地部署) (1) | [`coding-agent`](#tag-coding-agent) (1) |
 | [`collaboration`](#tag-collaboration) (1) | [`orchestration`](#tag-orchestration) (1) | [`glassmorphism`](#tag-glassmorphism) (1) | [`refraction`](#tag-refraction) (1) |
 | [`svg-filters`](#tag-svg-filters) (1) | [`backdrop-filter`](#tag-backdrop-filter) (1) | [`css`](#tag-css) (1) | [`远程安装`](#tag-远程安装) (1) |
@@ -1985,7 +1986,7 @@ Vite+ 是一个集成了运行时、包管理和前端工具链的统一Web开�
 
 ## 移动开发
 <a name="移动开发"></a>
-**32** 个仓库
+**33** 个仓库
 
 ### [termux/termux-app](https://github.com/termux/termux-app)
 **⭐ 48945** | **Java**
@@ -2115,6 +2116,16 @@ SoloPi是一个面向Android和HarmonyOS的移动端自动化测试工具
 标签: [`Android`](#tag-android) [`Kotlin`](#tag-kotlin) [`WebView`](#tag-webview) [`电视直播`](#tag-电视直播)
 
 **使用场景**: 用于在Android电视或电视盒子上，通过WebView加载和播放网页端的电视直播流，提供大屏观看体验。
+
+---
+### [nab138/iloader](https://github.com/nab138/iloader)
+**⭐ 3319** | **TypeScript**
+
+一个用户友好的iOS侧载工具，用于将应用安装到iPhone或iPad上。
+
+标签: [`iOS`](#tag-ios) [`侧载`](#tag-侧载) [`sideloading`](#tag-sideloading) [`iDevice`](#tag-idevice) [`SideStore`](#tag-sidestore)
+
+**使用场景**: 适用于需要在不越狱的情况下，通过非App Store渠道将应用安装到iOS设备的用户。
 
 ---
 ### [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
@@ -5970,6 +5981,18 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 - [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) (2677 :star:)
 - [tiann/hapi](https://github.com/tiann/hapi) (1505 :star:)
 
+#### `iOS`
+<a name="tag-ios"></a>
+- [facebook/idb](https://github.com/facebook/idb) (4873 :star:)
+- [nab138/iloader](https://github.com/nab138/iloader) (3319 :star:)
+- [openatx/facebook-wda](https://github.com/openatx/facebook-wda) (1852 :star:)
+- [YueChen-C/py-ios-device](https://github.com/YueChen-C/py-ios-device) (781 :star:)
+- [NyaMisty/ipatool-py](https://github.com/NyaMisty/ipatool-py) (686 :star:)
+- [codeskyblue/tidevice3](https://github.com/codeskyblue/tidevice3) (276 :star:)
+- [icodesign/remote-installer](https://github.com/icodesign/remote-installer) (97 :star:)
+- [SonicCloudOrg/sonic-ios-wda](https://github.com/SonicCloudOrg/sonic-ios-wda) (29 :star:)
+- [15525730080/iOS17_perf](https://github.com/15525730080/iOS17_perf) (21 :star:)
+
 #### `Claude Code`
 <a name="tag-claude-code"></a>
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) (33731 :star:)
@@ -6028,17 +6051,6 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 - [Yeuoly/maleme](https://github.com/Yeuoly/maleme) (161 :star:)
 - [arcships/aimux](https://github.com/arcships/aimux) (152 :star:)
 - [icodesign/remote-installer](https://github.com/icodesign/remote-installer) (97 :star:)
-
-#### `iOS`
-<a name="tag-ios"></a>
-- [facebook/idb](https://github.com/facebook/idb) (4873 :star:)
-- [openatx/facebook-wda](https://github.com/openatx/facebook-wda) (1852 :star:)
-- [YueChen-C/py-ios-device](https://github.com/YueChen-C/py-ios-device) (781 :star:)
-- [NyaMisty/ipatool-py](https://github.com/NyaMisty/ipatool-py) (686 :star:)
-- [codeskyblue/tidevice3](https://github.com/codeskyblue/tidevice3) (276 :star:)
-- [icodesign/remote-installer](https://github.com/icodesign/remote-installer) (97 :star:)
-- [SonicCloudOrg/sonic-ios-wda](https://github.com/SonicCloudOrg/sonic-ios-wda) (29 :star:)
-- [15525730080/iOS17_perf](https://github.com/15525730080/iOS17_perf) (21 :star:)
 
 #### `跨平台`
 <a name="tag-跨平台"></a>
