@@ -8632,5 +8632,22 @@
     "stars": 3319,
     "starred_at": "",
     "original_description": "User friendly sideloader"
+  },
+  "1340501779": {
+    "description": "一个基于283万字语料统计的去除AI写作痕迹（去AI味）的Python工具。",
+    "category": "AI/机器学习",
+    "tags": [
+      "文本处理",
+      "AI检测",
+      "写作辅助",
+      "语料分析"
+    ],
+    "use_case": "用于对AI生成的文本进行后处理，降低其AI痕迹，使其更接近人类写作风格，适用于内容创作、学术写作等场景。",
+    "repo_name": "larashero3-dotcom/lieflat-less-ai-tone",
+    "repo_url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
+    "language": "Python",
+    "stars": 1744,
+    "starred_at": "",
+    "original_description": "一个基于 283 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 2.83-million-character corpus study"
   }
 }
