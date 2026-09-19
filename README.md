@@ -1,31 +1,31 @@
 # 我的 GitHub Star 收藏 :star:
-> 最后更新: 2026-09-18 02:16:22 | 总计: **556** 个仓库 | 分类: **10** 个 | 标签: **856** 个
+> 最后更新: 2026-09-19 02:18:22 | 总计: **560** 个仓库 | 分类: **10** 个 | 标签: **864** 个
 
 ---
 ## :open_file_folder: 分类目录
 
 | 分类 | 数量 | 分类 | 数量 |
 |------|------|------|------|
-| [AI/机器学习](#ai机器学习) | 136 | [Web开发](#web开发) | 39 |
+| [AI/机器学习](#ai机器学习) | 137 | [Web开发](#web开发) | 39 |
 | [移动开发](#移动开发) | 33 | [框架](#框架) | 14 |
-| [数据库](#数据库) | 8 | [工具/库](#工具库) | 250 |
+| [数据库](#数据库) | 8 | [工具/库](#工具库) | 252 |
 | [DevOps/基础设施](#devops基础设施) | 13 | [游戏](#游戏) | 32 |
-| [教育](#教育) | 16 | [其他](#其他) | 15 |
+| [教育](#教育) | 17 | [其他](#其他) | 15 |
 
 ---
 ## :label: 标签导航
 
 | | | | |
 |---|---|---|---|
-| [`AI代理`](#tag-ai代理) (31) | [`自动化`](#tag-自动化) (19) | [`自动化测试`](#tag-自动化测试) (18) | [`TypeScript`](#tag-typescript) (15) |
+| [`AI代理`](#tag-ai代理) (32) | [`自动化`](#tag-自动化) (20) | [`自动化测试`](#tag-自动化测试) (18) | [`TypeScript`](#tag-typescript) (15) |
 | [`AI助手`](#tag-ai助手) (15) | [`Android`](#tag-android) (13) | [`逆向工程`](#tag-逆向工程) (13) | [`桌面应用`](#tag-桌面应用) (12) |
-| [`开发工具`](#tag-开发工具) (12) | [`AI工具`](#tag-ai工具) (12) | [`AI编程助手`](#tag-ai编程助手) (11) | [`iOS`](#tag-ios) (9) |
-| [`Claude Code`](#tag-claude-code) (9) | [`AI`](#tag-ai) (9) | [`React`](#tag-react) (9) | [`性能测试`](#tag-性能测试) (9) |
-| [`Rust`](#tag-rust) (8) | [`跨平台`](#tag-跨平台) (8) | [`MCP`](#tag-mcp) (8) | [`开发者工具`](#tag-开发者工具) (8) |
-| [`命令行工具`](#tag-命令行工具) (8) | [`性能分析`](#tag-性能分析) (8) | [`自托管`](#tag-自托管) (7) | [`Python`](#tag-python) (7) |
-| [`游戏开发`](#tag-游戏开发) (7) | [`UI设计`](#tag-ui设计) (6) | [`浏览器扩展`](#tag-浏览器扩展) (6) | [`浏览器自动化`](#tag-浏览器自动化) (6) |
-| [`Android工具`](#tag-android工具) (6) | [`JavaScript`](#tag-javascript) (5) | [`CLI`](#tag-cli) (5) | [`可视化`](#tag-可视化) (5) |
-| [`agent`](#tag-agent) (5) | [`llm`](#tag-llm) (5) | [`视频编辑`](#tag-视频编辑) (5) | [`AI集成`](#tag-ai集成) (5) |
+| [`开发工具`](#tag-开发工具) (12) | [`AI工具`](#tag-ai工具) (12) | [`AI编程助手`](#tag-ai编程助手) (11) | [`Python`](#tag-python) (9) |
+| [`Rust`](#tag-rust) (9) | [`MCP`](#tag-mcp) (9) | [`iOS`](#tag-ios) (9) | [`Claude Code`](#tag-claude-code) (9) |
+| [`AI`](#tag-ai) (9) | [`React`](#tag-react) (9) | [`性能测试`](#tag-性能测试) (9) | [`自托管`](#tag-自托管) (8) |
+| [`跨平台`](#tag-跨平台) (8) | [`开发者工具`](#tag-开发者工具) (8) | [`命令行工具`](#tag-命令行工具) (8) | [`性能分析`](#tag-性能分析) (8) |
+| [`游戏开发`](#tag-游戏开发) (7) | [`视频编辑`](#tag-视频编辑) (6) | [`CLI`](#tag-cli) (6) | [`UI设计`](#tag-ui设计) (6) |
+| [`浏览器扩展`](#tag-浏览器扩展) (6) | [`浏览器自动化`](#tag-浏览器自动化) (6) | [`Android工具`](#tag-android工具) (6) | [`JavaScript`](#tag-javascript) (5) |
+| [`可视化`](#tag-可视化) (5) | [`agent`](#tag-agent) (5) | [`llm`](#tag-llm) (5) | [`AI集成`](#tag-ai集成) (5) |
 | [`代码生成`](#tag-代码生成) (5) | [`游戏开发工具`](#tag-游戏开发工具) (5) | [`AI智能体`](#tag-ai智能体) (5) | [`教程`](#tag-教程) (5) |
 | [`语音助手`](#tag-语音助手) (4) | [`编码代理`](#tag-编码代理) (4) | [`屏幕录制`](#tag-屏幕录制) (4) | [`Claude`](#tag-claude) (4) |
 | [`前端开发`](#tag-前端开发) (4) | [`代理技能`](#tag-代理技能) (4) | [`视频生成`](#tag-视频生成) (4) | [`开源`](#tag-开源) (4) |
@@ -69,6 +69,8 @@
 | [`代码质量`](#tag-代码质量) (2) | [`思维导图`](#tag-思维导图) (2) | [`开源软件`](#tag-开源软件) (2) | [`屏幕镜像`](#tag-屏幕镜像) (2) |
 | [`远程控制`](#tag-远程控制) (2) | [`电视直播`](#tag-电视直播) (2) | [`Node.js`](#tag-nodejs) (2) | [`IPTV`](#tag-iptv) (2) |
 | [`移动测试`](#tag-移动测试) (2) | [`安全工具`](#tag-安全工具) (2) | [`虚幻引擎`](#tag-虚幻引擎) (2) | [`WebUSB`](#tag-webusb) (2) |
+| [`高性能`](#tag-高性能) (1) | [`速度优化`](#tag-速度优化) (1) | [`开发环境`](#tag-开发环境) (1) | [`视觉推理`](#tag-视觉推理) (1) |
+| [`教育实验`](#tag-教育实验) (1) | [`Apple Silicon`](#tag-apple-silicon) (1) | [`剪映`](#tag-剪映) (1) | [`CapCut`](#tag-capcut) (1) |
 | [`文本处理`](#tag-文本处理) (1) | [`语料分析`](#tag-语料分析) (1) | [`侧载`](#tag-侧载) (1) | [`sideloading`](#tag-sideloading) (1) |
 | [`iDevice`](#tag-idevice) (1) | [`SideStore`](#tag-sidestore) (1) | [`Web应用`](#tag-web应用) (1) | [`匿名评价`](#tag-匿名评价) (1) |
 | [`排行榜`](#tag-排行榜) (1) | [`个人AI`](#tag-个人ai) (1) | [`本地部署`](#tag-本地部署) (1) | [`coding-agent`](#tag-coding-agent) (1) |
@@ -236,7 +238,7 @@
 
 ## AI/机器学习
 <a name="ai机器学习"></a>
-**136** 个仓库
+**137** 个仓库
 
 ### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 **⭐ 149759** | **Shell**
@@ -1246,6 +1248,16 @@ TencentDB Agent Memory 是一个为AI代理提供完全本地化长期记忆的4
 标签: [`AI工具`](#tag-ai工具) [`前端开发`](#tag-前端开发)
 
 **使用场景**: 用于增强AI助手或代码生成工具的输出质量，避免生成平庸、通用或低质量的内容，特别适用于需要创意或设计感的前端开发场景。
+
+---
+### [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex)
+**⭐ 1328** | **Rust**
+
+为云端AI代理（如ChatGPT、Claude等）提供在用户自己机器上运行的真实开发环境。
+
+标签: [`AI代理`](#tag-ai代理) [`开发环境`](#tag-开发环境) [`自托管`](#tag-自托管) [`Rust`](#tag-rust) [`MCP`](#tag-mcp)
+
+**使用场景**: 开发者希望让云端AI代理（如Claude Code、Codex等）直接操作本地机器上的代码和工具，进行真实的开发任务，同时保持对环境的完全控制。
 
 ---
 ### [antoinezambelli/forge](https://github.com/antoinezambelli/forge)
@@ -2561,7 +2573,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
 ## 工具/库
 <a name="工具库"></a>
-**250** 个仓库
+**252** 个仓库
 
 ### [mattpocock/skills](https://github.com/mattpocock/skills)
 **⭐ 158756** | **Shell**
@@ -3541,6 +3553,16 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 标签: [`API中转`](#tag-api中转) [`AI服务集成`](#tag-ai服务集成)
 
 **使用场景**: 适用于需要同时使用Claude、OpenAI、Gemini等AI服务的团队或个人，通过统一中转接口管理多个订阅，实现成本分摊和便捷调用。
+
+---
+### [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
+**⭐ 5676** | **Python**
+
+jev-ultrafast 是一个追求极致速度的 Python 项目，可能用于高性能计算或网络请求优化。
+
+标签: [`高性能`](#tag-高性能) [`Python`](#tag-python) [`速度优化`](#tag-速度优化)
+
+**使用场景**: 适用于需要极速处理或低延迟响应的场景，如高频交易、实时数据处理或网络爬虫加速。
 
 ---
 ### [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web)
@@ -4563,6 +4585,16 @@ Lody是一个让团队在手机和桌面上共享编码代理（AI编程助手�
 **使用场景**: 用于API请求频率限制、防止DDoS攻击、控制资源访问速率等需要限制请求频率的场景。
 
 ---
+### [renezander030/capcut-cli](https://github.com/renezander030/capcut-cli)
+**⭐ 595** | **JavaScript**
+
+一个独立的非官方CLI工具，用于直接编辑CapCut和剪映项目的草稿文件，实现字幕、时间、速度、音量、模板等视频编辑操作。
+
+标签: [`视频编辑`](#tag-视频编辑) [`CLI`](#tag-cli) [`剪映`](#tag-剪映) [`CapCut`](#tag-capcut) [`自动化`](#tag-自动化)
+
+**使用场景**: 视频创作者和开发者可以通过命令行批量处理剪映/CapCut项目，如自动生成字幕、调整视频速度、剪辑长视频为短视频等，无需依赖官方API。
+
+---
 ### [xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)
 **⭐ 587** | **Python**
 
@@ -5526,7 +5558,7 @@ Envoy是一个云原生高性能边缘/中间/服务代理，用于处理服务�
 
 ## 教育
 <a name="教育"></a>
-**16** 个仓库
+**17** 个仓库
 
 ### [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 **⭐ 140403** | **Python**
@@ -5676,6 +5708,16 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 标签: [`演示文稿`](#tag-演示文稿) [`AI教育`](#tag-ai教育)
 
 **使用场景**: 用于展示和学习如何在实际工作中与人工智能工具协作，适合技术分享、教学或内部培训场景。
+
+---
+### [hr98w/jev-visual](https://github.com/hr98w/jev-visual)
+**⭐ 111** | **Python**
+
+一个在Apple Silicon上运行的教育性类Jev视觉推理实验，支持共享上下文、直接候选评分和本地视觉演示。
+
+标签: [`视觉推理`](#tag-视觉推理) [`教育实验`](#tag-教育实验) [`Apple Silicon`](#tag-apple-silicon) [`Python`](#tag-python)
+
+**使用场景**: 用于学习和研究视觉推理算法，在Apple Silicon设备上运行本地演示和实验。
 
 ---
 ### [tmwgsicp/vibecoding-for-beginners](https://github.com/tmwgsicp/vibecoding-for-beginners)
@@ -5991,6 +6033,42 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 - [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) (2677 :star:)
 - [tiann/hapi](https://github.com/tiann/hapi) (1505 :star:)
 
+#### `Python`
+<a name="tag-python"></a>
+- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) (5676 :star:)
+- [CollegesChat/university-information](https://github.com/CollegesChat/university-information) (4707 :star:)
+- [pydantic/logfire](https://github.com/pydantic/logfire) (3941 :star:)
+- [pympler/pympler](https://github.com/pympler/pympler) (1395 :star:)
+- [codeskyblue/tidevice3](https://github.com/codeskyblue/tidevice3) (276 :star:)
+- [inspatio/inspatio-world](https://github.com/inspatio/inspatio-world) (266 :star:)
+- [vibeshotclub/vsc-skills](https://github.com/vibeshotclub/vsc-skills) (194 :star:)
+- [hr98w/jev-visual](https://github.com/hr98w/jev-visual) (111 :star:)
+- [DY-2026/ParanoiaSkills](https://github.com/DY-2026/ParanoiaSkills) (13 :star:)
+
+#### `Rust`
+<a name="tag-rust"></a>
+- [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) (24819 :star:)
+- [t8y2/dbx](https://github.com/t8y2/dbx) (14749 :star:)
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) (4506 :star:)
+- [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) (1328 :star:)
+- [iAmCorey/Wake](https://github.com/iAmCorey/Wake) (648 :star:)
+- [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy) (367 :star:)
+- [Yeuoly/maleme](https://github.com/Yeuoly/maleme) (161 :star:)
+- [arcships/aimux](https://github.com/arcships/aimux) (152 :star:)
+- [icodesign/remote-installer](https://github.com/icodesign/remote-installer) (97 :star:)
+
+#### `MCP`
+<a name="tag-mcp"></a>
+- [t8y2/dbx](https://github.com/t8y2/dbx) (14749 :star:)
+- [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) (8121 :star:)
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) (3458 :star:)
+- [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) (2080 :star:)
+- [mark3labs/mcphost](https://github.com/mark3labs/mcphost) (1521 :star:)
+- [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) (1328 :star:)
+- [better-auth/better-icons](https://github.com/better-auth/better-icons) (783 :star:)
+- [awdr74100/figwright](https://github.com/awdr74100/figwright) (313 :star:)
+- [Leon-Algo/feishu_user_token_mcp](https://github.com/Leon-Algo/feishu_user_token_mcp) (2 :star:)
+
 #### `iOS`
 <a name="tag-ios"></a>
 - [facebook/idb](https://github.com/facebook/idb) (4873 :star:)
@@ -6051,16 +6129,16 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 - [alibaba/mobileperf](https://github.com/alibaba/mobileperf) (750 :star:)
 - [15525730080/iOS17_perf](https://github.com/15525730080/iOS17_perf) (21 :star:)
 
-#### `Rust`
-<a name="tag-rust"></a>
-- [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) (24819 :star:)
-- [t8y2/dbx](https://github.com/t8y2/dbx) (14749 :star:)
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) (4506 :star:)
-- [iAmCorey/Wake](https://github.com/iAmCorey/Wake) (648 :star:)
-- [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy) (367 :star:)
-- [Yeuoly/maleme](https://github.com/Yeuoly/maleme) (161 :star:)
-- [arcships/aimux](https://github.com/arcships/aimux) (152 :star:)
-- [icodesign/remote-installer](https://github.com/icodesign/remote-installer) (97 :star:)
+#### `自托管`
+<a name="tag-自托管"></a>
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (268774 :star:)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) (105901 :star:)
+- [immich-app/immich](https://github.com/immich-app/immich) (91467 :star:)
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) (32997 :star:)
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) (15062 :star:)
+- [Afilmory/afilmory](https://github.com/Afilmory/afilmory) (2563 :star:)
+- [openilink/openilink-hub](https://github.com/openilink/openilink-hub) (1332 :star:)
+- [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) (1328 :star:)
 
 #### `跨平台`
 <a name="tag-跨平台"></a>
@@ -6072,17 +6150,6 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 - [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) (1542 :star:)
 - [appergb/openless](https://github.com/appergb/openless) (967 :star:)
 - [maxim-saplin/CrossPlatformDiskTest](https://github.com/maxim-saplin/CrossPlatformDiskTest) (809 :star:)
-
-#### `MCP`
-<a name="tag-mcp"></a>
-- [t8y2/dbx](https://github.com/t8y2/dbx) (14749 :star:)
-- [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) (8121 :star:)
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) (3458 :star:)
-- [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) (2080 :star:)
-- [mark3labs/mcphost](https://github.com/mark3labs/mcphost) (1521 :star:)
-- [better-auth/better-icons](https://github.com/better-auth/better-icons) (783 :star:)
-- [awdr74100/figwright](https://github.com/awdr74100/figwright) (313 :star:)
-- [Leon-Algo/feishu_user_token_mcp](https://github.com/Leon-Algo/feishu_user_token_mcp) (2 :star:)
 
 #### `开发者工具`
 <a name="tag-开发者工具"></a>
@@ -6117,26 +6184,6 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 - [vinjn/perf-doctor](https://github.com/vinjn/perf-doctor) (450 :star:)
 - [ARM-software/libGPUCounters](https://github.com/ARM-software/libGPUCounters) (259 :star:)
 
-#### `自托管`
-<a name="tag-自托管"></a>
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (268774 :star:)
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) (105901 :star:)
-- [immich-app/immich](https://github.com/immich-app/immich) (91467 :star:)
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) (32997 :star:)
-- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) (15062 :star:)
-- [Afilmory/afilmory](https://github.com/Afilmory/afilmory) (2563 :star:)
-- [openilink/openilink-hub](https://github.com/openilink/openilink-hub) (1332 :star:)
-
-#### `Python`
-<a name="tag-python"></a>
-- [CollegesChat/university-information](https://github.com/CollegesChat/university-information) (4707 :star:)
-- [pydantic/logfire](https://github.com/pydantic/logfire) (3941 :star:)
-- [pympler/pympler](https://github.com/pympler/pympler) (1395 :star:)
-- [codeskyblue/tidevice3](https://github.com/codeskyblue/tidevice3) (276 :star:)
-- [inspatio/inspatio-world](https://github.com/inspatio/inspatio-world) (266 :star:)
-- [vibeshotclub/vsc-skills](https://github.com/vibeshotclub/vsc-skills) (194 :star:)
-- [DY-2026/ParanoiaSkills](https://github.com/DY-2026/ParanoiaSkills) (13 :star:)
-
 #### `游戏开发`
 <a name="tag-游戏开发"></a>
 - [tomlooman/ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) (4322 :star:)
@@ -6146,6 +6193,24 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 - [yukiarrr/Il2cppSpy](https://github.com/yukiarrr/Il2cppSpy) (357 :star:)
 - [AirtestProject/Poco-SDK](https://github.com/AirtestProject/Poco-SDK) (303 :star:)
 - [Jiang-Night/UE5Dumper](https://github.com/Jiang-Night/UE5Dumper) (92 :star:)
+
+#### `视频编辑`
+<a name="tag-视频编辑"></a>
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) (45095 :star:)
+- [browser-use/video-use](https://github.com/browser-use/video-use) (11928 :star:)
+- [Augani/openreel-video](https://github.com/Augani/openreel-video) (4054 :star:)
+- [AIEraDev/Clypra](https://github.com/AIEraDev/Clypra) (2329 :star:)
+- [renezander030/capcut-cli](https://github.com/renezander030/capcut-cli) (595 :star:)
+- [tejaswigowda/ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI) (550 :star:)
+
+#### `CLI`
+<a name="tag-cli"></a>
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) (36618 :star:)
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (24217 :star:)
+- [openai/codex-security](https://github.com/openai/codex-security) (9625 :star:)
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) (4506 :star:)
+- [mark3labs/mcphost](https://github.com/mark3labs/mcphost) (1521 :star:)
+- [renezander030/capcut-cli](https://github.com/renezander030/capcut-cli) (595 :star:)
 
 #### `UI设计`
 <a name="tag-ui设计"></a>
@@ -6191,14 +6256,6 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 - [chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) (2072 :star:)
 - [zhaoolee/notes](https://github.com/zhaoolee/notes) (42 :star:)
 
-#### `CLI`
-<a name="tag-cli"></a>
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) (36618 :star:)
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (24217 :star:)
-- [openai/codex-security](https://github.com/openai/codex-security) (9625 :star:)
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) (4506 :star:)
-- [mark3labs/mcphost](https://github.com/mark3labs/mcphost) (1521 :star:)
-
 #### `可视化`
 <a name="tag-可视化"></a>
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) (11607 :star:)
@@ -6222,14 +6279,6 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 - [Tencent/TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory) (1863 :star:)
 - [antoinezambelli/forge](https://github.com/antoinezambelli/forge) (1199 :star:)
 - [wecode-ai/Wegent](https://github.com/wecode-ai/Wegent) (673 :star:)
-
-#### `视频编辑`
-<a name="tag-视频编辑"></a>
-- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) (45095 :star:)
-- [browser-use/video-use](https://github.com/browser-use/video-use) (11928 :star:)
-- [Augani/openreel-video](https://github.com/Augani/openreel-video) (4054 :star:)
-- [AIEraDev/Clypra](https://github.com/AIEraDev/Clypra) (2329 :star:)
-- [tejaswigowda/ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI) (550 :star:)
 
 #### `AI集成`
 <a name="tag-ai集成"></a>

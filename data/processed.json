@@ -8649,5 +8649,74 @@
     "stars": 1744,
     "starred_at": "",
     "original_description": "一个基于 283 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 2.83-million-character corpus study"
+  },
+  "1373655162": {
+    "description": "jev-ultrafast 是一个追求极致速度的 Python 项目，可能用于高性能计算或网络请求优化。",
+    "category": "工具/库",
+    "tags": [
+      "高性能",
+      "Python",
+      "速度优化"
+    ],
+    "use_case": "适用于需要极速处理或低延迟响应的场景，如高频交易、实时数据处理或网络爬虫加速。",
+    "repo_name": "browser-use/jev-ultrafast",
+    "repo_url": "https://github.com/browser-use/jev-ultrafast",
+    "language": "Python",
+    "stars": 5676,
+    "starred_at": "",
+    "original_description": "i. am. speed."
+  },
+  "1252306996": {
+    "description": "为云端AI代理（如ChatGPT、Claude等）提供在用户自己机器上运行的真实开发环境。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI代理",
+      "开发环境",
+      "自托管",
+      "Rust",
+      "MCP"
+    ],
+    "use_case": "开发者希望让云端AI代理（如Claude Code、Codex等）直接操作本地机器上的代码和工具，进行真实的开发任务，同时保持对环境的完全控制。",
+    "repo_name": "yyjeqhc/webcodex",
+    "repo_url": "https://github.com/yyjeqhc/webcodex",
+    "language": "Rust",
+    "stars": 1328,
+    "starred_at": "",
+    "original_description": "Give cloud AI agents a real development environment on your own machines."
+  },
+  "1374829176": {
+    "description": "一个在Apple Silicon上运行的教育性类Jev视觉推理实验，支持共享上下文、直接候选评分和本地视觉演示。",
+    "category": "教育",
+    "tags": [
+      "视觉推理",
+      "教育实验",
+      "Apple Silicon",
+      "Python"
+    ],
+    "use_case": "用于学习和研究视觉推理算法，在Apple Silicon设备上运行本地演示和实验。",
+    "repo_name": "hr98w/jev-visual",
+    "repo_url": "https://github.com/hr98w/jev-visual",
+    "language": "Python",
+    "stars": 111,
+    "starred_at": "",
+    "original_description": "An educational Jev-like visual inference experiment on Apple Silicon: shared context, direct candidate scoring, and local visual demos."
+  },
+  "1209237271": {
+    "description": "一个独立的非官方CLI工具，用于直接编辑CapCut和剪映项目的草稿文件，实现字幕、时间、速度、音量、模板等视频编辑操作。",
+    "category": "工具/库",
+    "tags": [
+      "视频编辑",
+      "CLI",
+      "剪映",
+      "CapCut",
+      "自动化"
+    ],
+    "use_case": "视频创作者和开发者可以通过命令行批量处理剪映/CapCut项目，如自动生成字幕、调整视频速度、剪辑长视频为短视频等，无需依赖官方API。",
+    "repo_name": "renezander030/capcut-cli",
+    "repo_url": "https://github.com/renezander030/capcut-cli",
+    "language": "JavaScript",
+    "stars": 595,
+    "starred_at": "",
+    "original_description": "Independent, unofficial CLI to edit CapCut and JianYing (剪映) projects — subtitles, timing, speed, volume, templates, cut long-form to shorts. No API needed, reads draft_content.json and draft_info.json (剪映草稿) directly. Not affiliated with ByteDance."
   }
 }
