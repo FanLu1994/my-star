@@ -8718,5 +8718,23 @@
     "stars": 595,
     "starred_at": "",
     "original_description": "Independent, unofficial CLI to edit CapCut and JianYing (剪映) projects — subtitles, timing, speed, volume, templates, cut long-form to shorts. No API needed, reads draft_content.json and draft_info.json (剪映草稿) directly. Not affiliated with ByteDance."
+  },
+  "1316080880": {
+    "description": "为 Maka Computer Use 提供原生 macOS 执行层，基于 open-codex-computer-use 的 Swift 分支。",
+    "category": "AI/机器学习",
+    "tags": [
+      "macOS",
+      "Swift",
+      "Computer Use",
+      "AI Agent",
+      "自动化"
+    ],
+    "use_case": "在 macOS 上运行 AI 代理，通过原生执行层控制计算机完成自动化任务。",
+    "repo_name": "maka-agent/maka-cu",
+    "repo_url": "https://github.com/maka-agent/maka-cu",
+    "language": "Swift",
+    "stars": 28,
+    "starred_at": "",
+    "original_description": "Native macOS execution layer for Maka Computer Use. Forked from iFurySt/open-codex-computer-use (MIT)."
   }
 }
