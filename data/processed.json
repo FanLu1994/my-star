@@ -8736,5 +8736,23 @@
     "stars": 28,
     "starred_at": "",
     "original_description": "Native macOS execution layer for Maka Computer Use. Forked from iFurySt/open-codex-computer-use (MIT)."
+  },
+  "98771110": {
+    "description": "一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，支持任务栏显示和更换皮肤。",
+    "category": "工具/库",
+    "tags": [
+      "系统监控",
+      "桌面悬浮窗",
+      "任务栏",
+      "C++",
+      "Windows"
+    ],
+    "use_case": "适用于Windows用户实时监控电脑的网络速度、CPU和内存使用情况，方便查看系统资源占用。",
+    "repo_name": "zhongyang219/TrafficMonitor",
+    "repo_url": "https://github.com/zhongyang219/TrafficMonitor",
+    "language": "C++",
+    "stars": 46254,
+    "starred_at": "",
+    "original_description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。"
   }
 }
