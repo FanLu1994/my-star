@@ -8769,5 +8769,57 @@
     "stars": 16938,
     "starred_at": "",
     "original_description": null
+  },
+  "1383809012": {
+    "description": "Magpie 是一个 macOS 菜单栏工具，让用户将 Codex、Claude Code 等 AI 编程代理连接到 DeepSeek、Kimi 等任意大模型后端。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI代理",
+      "LLM路由",
+      "macOS菜单栏",
+      "Claude Code",
+      "Codex"
+    ],
+    "use_case": "开发者希望在 macOS 上通过菜单栏快速切换或配置 AI 编程代理（如 Codex、Claude Code）使用不同的大模型（如 DeepSeek、Kimi），以灵活控制成本或性能。",
+    "repo_name": "yetone/magpie",
+    "repo_url": "https://github.com/yetone/magpie",
+    "language": "Go",
+    "stars": 157,
+    "starred_at": "",
+    "original_description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+  },
+  "1378288598": {
+    "description": "Z.ai 推出的编码智能体框架，提供强大、智能且可扩展的 AI 编程辅助能力。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI编程助手",
+      "编码智能体",
+      "TypeScript",
+      "开发工具"
+    ],
+    "use_case": "用于集成 AI 编码智能体到开发工作流中，辅助代码生成、补全和自动化编程任务。",
+    "repo_name": "zai-org/ZCode",
+    "repo_url": "https://github.com/zai-org/ZCode",
+    "language": "TypeScript",
+    "stars": 6550,
+    "starred_at": "",
+    "original_description": "Z.ai's coding agent harness. Powerful, intelligent, extensible."
+  },
+  "734569425": {
+    "description": "一款开源的浏览器双语翻译插件，用于网页内容的双语对照翻译。",
+    "category": "工具/库",
+    "tags": [
+      "浏览器扩展",
+      "翻译",
+      "双语",
+      "TypeScript"
+    ],
+    "use_case": "用户在浏览网页时，通过该插件实现原文与译文的双语对照显示，方便阅读外文内容。",
+    "repo_name": "FluentRead/FluentRead",
+    "repo_url": "https://github.com/FluentRead/FluentRead",
+    "language": "TypeScript",
+    "stars": 8194,
+    "starred_at": "",
+    "original_description": "An open-source browser extension for bilingual translation. 一款开源的浏览器双语翻译插件。"
   }
 }
