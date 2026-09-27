@@ -8821,5 +8821,23 @@
     "stars": 8194,
     "starred_at": "",
     "original_description": "An open-source browser extension for bilingual translation. 一款开源的浏览器双语翻译插件。"
+  },
+  "722597620": {
+    "description": "RustFS 是一个开源、兼容 S3 的高性能对象存储系统，支持与其他 S3 兼容平台（如 MinIO 和 Ceph）迁移和共存。",
+    "category": "DevOps/基础设施",
+    "tags": [
+      "对象存储",
+      "S3兼容",
+      "Rust",
+      "云原生",
+      "AI存储"
+    ],
+    "use_case": "适用于需要高性能、可扩展的对象存储场景，如云原生应用、大数据分析、AI 训练数据存储，以及从 MinIO 或 Ceph 迁移或共存的需求。",
+    "repo_name": "rustfs/rustfs",
+    "repo_url": "https://github.com/rustfs/rustfs",
+    "language": "Rust",
+    "stars": 33943,
+    "starred_at": "",
+    "original_description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph."
   }
 }
