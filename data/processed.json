@@ -8839,5 +8839,23 @@
     "stars": 33943,
     "starred_at": "",
     "original_description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph."
+  },
+  "1297141131": {
+    "description": "一个在Windows上通过USB和AirPlay实现iPhone/iPad本地屏幕镜像的工具，支持D3D11预览、多设备会话、OBS输出和独立驱动管理。",
+    "category": "工具/库",
+    "tags": [
+      "屏幕镜像",
+      "AirPlay",
+      "Windows",
+      "USB",
+      "OBS"
+    ],
+    "use_case": "用于在Windows电脑上低延迟地镜像iPhone或iPad屏幕，适合游戏直播、演示、录屏或开发调试等场景。",
+    "repo_name": "RayrenSX/iPhoneMirror",
+    "repo_url": "https://github.com/RayrenSX/iPhoneMirror",
+    "language": "C#",
+    "stars": 896,
+    "starred_at": "",
+    "original_description": "Local Windows iPhone/iPad mirroring over USB and AirPlay with D3D11 preview, multi-device sessions, OBS output, and a standalone driver manager."
   }
 }
