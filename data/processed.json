@@ -8857,5 +8857,22 @@
     "stars": 896,
     "starred_at": "",
     "original_description": "Local Windows iPhone/iPad mirroring over USB and AirPlay with D3D11 preview, multi-device sessions, OBS output, and a standalone driver manager."
+  },
+  "1385817306": {
+    "description": "DiPlay 是一个为兼容的 Android 车机提供独立 CarPlay 接收功能的开源项目，支持有线和无线连接。",
+    "category": "移动开发",
+    "tags": [
+      "CarPlay",
+      "Android",
+      "车机",
+      "Kotlin"
+    ],
+    "use_case": "在 Android 车机上安装后，用户可以通过有线或无线方式连接 iPhone，实现 CarPlay 投屏和交互，无需依赖原厂 CarPlay 硬件。",
+    "repo_name": "shihabal3amri/DiPlay",
+    "repo_url": "https://github.com/shihabal3amri/DiPlay",
+    "language": "Kotlin",
+    "stars": 1024,
+    "starred_at": "",
+    "original_description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview."
   }
 }
