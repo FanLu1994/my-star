@@ -7827,25 +7827,6 @@
     "starred_at": "",
     "original_description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames."
   },
-  "1305663861": {
-    "description": "一个基于Remotion的AI视频技能库，用于通过Claude Code和Codex生成电影级产品视频，包含106个镜头配方卡片和161个运动预览模板。",
-    "category": "工具/库",
-    "tags": [
-      "AI视频生成",
-      "Remotion",
-      "Claude Code",
-      "Codex",
-      "运动设计",
-      "产品视频"
-    ],
-    "use_case": "开发者或内容创作者使用AI代理（如Claude Code或Codex）快速生成高质量的产品宣传视频、促销视频或动态图形，适用于营销、产品展示和创意视频制作场景。",
-    "repo_name": "Vincentwei1021/video-shotcraft",
-    "repo_url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "language": "TypeScript",
-    "stars": 424,
-    "starred_at": "",
-    "original_description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template"
-  },
   "1226286910": {
     "description": "一个macOS菜单栏应用，用通俗语言告诉你插入Mac的每个USB-C线缆的实际功能。",
     "category": "工具/库",
@@ -8874,5 +8855,22 @@
     "stars": 1024,
     "starred_at": "",
     "original_description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview."
+  },
+  "881804112": {
+    "description": "一个面向开发者资源的高性能、安全的一体化加速引擎。",
+    "category": "工具/库",
+    "tags": [
+      "加速引擎",
+      "开发者资源",
+      "性能优化",
+      "安全"
+    ],
+    "use_case": "用于加速开发者日常使用的资源下载、依赖获取或网络请求，提升开发效率。",
+    "repo_name": "xixu-me/xget",
+    "repo_url": "https://github.com/xixu-me/xget",
+    "language": "JavaScript",
+    "stars": 8189,
+    "starred_at": "",
+    "original_description": "Ultra-high-performance, secure, all-in-one acceleration engine for developer resources"
   }
 }
