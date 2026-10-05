@@ -8872,5 +8872,23 @@
     "stars": 8189,
     "starred_at": "",
     "original_description": "Ultra-high-performance, secure, all-in-one acceleration engine for developer resources"
+  },
+  "1305663861": {
+    "description": "一个为 Claude Code 和 Codex 提供 AI 视频制作技能的工具库，基于 Remotion 生成电影级产品视频，包含 152 个镜头配方卡片、209 个动态预览和生产级模板。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI视频生成",
+      "Remotion",
+      "Claude Code技能",
+      "动态图形",
+      "产品视频"
+    ],
+    "use_case": "用于让 AI 代理（如 Claude Code、Codex）自动生成电影级产品宣传视频，适合营销推广、产品展示和动态设计场景。",
+    "repo_name": "Vincentwei1021/video-shotcraft",
+    "repo_url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "language": "TypeScript",
+    "stars": 10294,
+    "starred_at": "",
+    "original_description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template"
   }
 }
