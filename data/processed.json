@@ -8890,5 +8890,23 @@
     "stars": 10294,
     "starred_at": "",
     "original_description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template"
+  },
+  "1211139949": {
+    "description": "Archify 是一个 AI Agent 技能，可将任意想法、计划或代码库自动转换为美观的交互式架构图与流程图。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI Agent",
+      "架构图",
+      "可视化",
+      "Mermaid",
+      "开发者工具"
+    ],
+    "use_case": "开发者在 Claude Code、Codex 等编码 Agent 中调用该技能，快速将系统设计或代码结构生成可交互的架构图、流程图和时序图，用于文档、评审和沟通。",
+    "repo_name": "tt-a1i/archify",
+    "repo_url": "https://github.com/tt-a1i/archify",
+    "language": "JavaScript",
+    "stars": 80293,
+    "starred_at": "",
+    "original_description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more."
   }
 }
