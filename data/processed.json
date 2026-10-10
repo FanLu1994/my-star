@@ -7876,21 +7876,6 @@
     "starred_at": "",
     "original_description": "🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph"
   },
-  "1286845683": {
-    "description": "一个本地优先的语音转文字工具，无需云端服务，支持多种模型和OpenAI兼容API。",
-    "category": "工具/库",
-    "tags": [
-      "语音识别",
-      "本地优先"
-    ],
-    "use_case": "在本地环境中进行离线语音转文字处理，适用于隐私敏感或需要低延迟的场景。",
-    "repo_name": "QuintinShaw/openasr",
-    "repo_url": "https://github.com/QuintinShaw/openasr",
-    "language": "Rust",
-    "stars": 121,
-    "starred_at": "",
-    "original_description": "Local-first speech-to-text: no cloud, no telemetry, fail-closed by design. One CLI, seven model families, signed model catalog, OpenAI-compatible local API."
-  },
   "1220936047": {
     "description": "OpenMinis是一个跨平台的AI Agent应用，完全免费且开源。",
     "category": "移动开发",
@@ -8908,5 +8893,76 @@
     "stars": 80293,
     "starred_at": "",
     "original_description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more."
+  },
+  "1209966933": {
+    "description": "一个基于AI代理的逆向工程工具，可从应用行为分析到原生二进制文件的深度逆向。",
+    "category": "AI/机器学习",
+    "tags": [
+      "逆向工程",
+      "AI代理",
+      "二进制分析",
+      "反编译",
+      "静态分析"
+    ],
+    "use_case": "安全研究人员和CTF选手使用AI代理自动化逆向工程任务，如分析二进制文件、反编译代码、静态分析等。",
+    "repo_name": "morluto/rea",
+    "repo_url": "https://github.com/morluto/rea",
+    "language": "TypeScript",
+    "stars": 49771,
+    "starred_at": "",
+    "original_description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+  },
+  "1388982050": {
+    "description": "atv-core 是一个用 Rust 编写的核心库，从命名和语言推测可能与 Android TV 或 Apple TV 相关的设备控制或自动化工具。",
+    "category": "工具/库",
+    "tags": [
+      "Rust",
+      "TV控制",
+      "自动化",
+      "核心库"
+    ],
+    "use_case": "用于构建与电视设备（如 Android TV 或 Apple TV）交互的应用程序，可能涉及设备发现、远程控制或自动化操作。",
+    "repo_name": "corvofeng/atv-core",
+    "repo_url": "https://github.com/corvofeng/atv-core",
+    "language": "Rust",
+    "stars": 311,
+    "starred_at": "",
+    "original_description": null
+  },
+  "1383177508": {
+    "description": "一个在浏览器中本地完成视频字幕编辑与烧录，并支持自动识别生成字幕的工具。",
+    "category": "工具/库",
+    "tags": [
+      "视频字幕",
+      "本地处理",
+      "自动识别",
+      "浏览器",
+      "TypeScript"
+    ],
+    "use_case": "适用于需要为视频添加或编辑字幕并烧录到视频中的用户，无需上传视频到服务器，保护隐私，且支持自动生成字幕。",
+    "repo_name": "anghunk/video-transcript",
+    "repo_url": "https://github.com/anghunk/video-transcript",
+    "language": "TypeScript",
+    "stars": 108,
+    "starred_at": "",
+    "original_description": "在浏览器中完成视频字幕编辑与烧录，全程本地处理。支持本地自动识别生成字幕。"
+  },
+  "1374826074": {
+    "description": "一个通过一行命令对服务器进行全面体检的工具，涵盖硬件性能、IP质量和网络质量检测。",
+    "category": "DevOps/基础设施",
+    "tags": [
+      "服务器检测",
+      "网络测试",
+      "性能基准",
+      "IP质量",
+      "VPS"
+    ],
+    "use_case": "适用于VPS或服务器用户快速评估服务器硬件性能、网络延迟、路由质量和IP信誉，帮助选择或诊断服务器。",
+    "repo_name": "CleanIP/sh.cd",
+    "repo_url": "https://github.com/CleanIP/sh.cd",
+    "language": "TypeScript",
+    "stars": 119,
+    "starred_at": "",
+    "original_description": "服务器全面体检: 硬件与性能、IP 质量、网络质量, 一行命令跑完 · One-line server check-up by CleanIP"
   }
 }
