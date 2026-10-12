@@ -8964,5 +8964,23 @@
     "stars": 119,
     "starred_at": "",
     "original_description": "服务器全面体检: 硬件与性能、IP 质量、网络质量, 一行命令跑完 · One-line server check-up by CleanIP"
+  },
+  "1389416650": {
+    "description": "一个用Go语言开发桌面应用的框架，支持使用Web前端或原生UI。",
+    "category": "框架",
+    "tags": [
+      "Go",
+      "桌面应用",
+      "Web前端",
+      "原生UI",
+      "跨平台"
+    ],
+    "use_case": "开发者可以使用Go语言快速构建跨平台桌面应用，并选择使用Web技术（如HTML/CSS/JS）或原生UI组件来构建界面。",
+    "repo_name": "egoist/mygo",
+    "repo_url": "https://github.com/egoist/mygo",
+    "language": "Go",
+    "stars": 1588,
+    "starred_at": "",
+    "original_description": "Develop desktop apps with a web frontend or native UI in Go"
   }
 }
