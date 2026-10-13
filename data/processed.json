@@ -8982,5 +8982,41 @@
     "stars": 1588,
     "starred_at": "",
     "original_description": "Develop desktop apps with a web frontend or native UI in Go"
+  },
+  "1142019171": {
+    "description": "一个开源的Chrome扩展，提供Spotlight风格命令面板、即时标签页/书签/历史搜索以及可自定义的新标签页。",
+    "category": "工具/库",
+    "tags": [
+      "浏览器扩展",
+      "命令面板",
+      "搜索",
+      "新标签页",
+      "生产力"
+    ],
+    "use_case": "用于快速搜索和切换浏览器标签页、书签和历史记录，提升浏览效率，并自定义新标签页。",
+    "repo_name": "kubai087/lumno-extension",
+    "repo_url": "https://github.com/kubai087/lumno-extension",
+    "language": "JavaScript",
+    "stars": 266,
+    "starred_at": "",
+    "original_description": "Open-source Chrome extension with a Spotlight-style command palette, instant tab, bookmark and history search, and a customizable new tab page."
+  },
+  "1263481027": {
+    "description": "一个基于 Rust 的开源工具，让 AI agent（如 Claude Code、Codex 等 MCP 客户端）通过 USB 或 Wi-Fi 操作真实 iPhone，实现读屏、点击、输入、滑动等自动化控制。",
+    "category": "移动开发",
+    "tags": [
+      "AI Agent",
+      "iOS 自动化",
+      "MCP",
+      "Rust",
+      "iPhone 控制"
+    ],
+    "use_case": "用于让 AI agent 自动化操作真实 iPhone 设备，例如执行可回放的 App 流程、移动端自动化测试、远程控制 iPhone 完成点击输入滑动等任务。",
+    "repo_name": "leeguooooo/iphone-use",
+    "repo_url": "https://github.com/leeguooooo/iphone-use",
+    "language": "Rust",
+    "stars": 193,
+    "starred_at": "",
+    "original_description": "响应快 省Token， Let AI agents (Claude Code, Codex, any MCP client) drive a real iPhone · 让 AI agent 操作真实 iPhone：读屏、点击、输入、滑动，USB 或 Wi-Fi，自有 XCTest runner，可回放的 App flow。Open source, self-hosted on macOS."
   }
 }
