@@ -9018,5 +9018,59 @@
     "stars": 193,
     "starred_at": "",
     "original_description": "响应快 省Token， Let AI agents (Claude Code, Codex, any MCP client) drive a real iPhone · 让 AI agent 操作真实 iPhone：读屏、点击、输入、滑动，USB 或 Wi-Fi，自有 XCTest runner，可回放的 App flow。Open source, self-hosted on macOS."
+  },
+  "1415202039": {
+    "description": "一个基于 bevy-ts ECS 和 Pixi 渲染的淡色等距线条艺术风格的城镇模拟游戏。",
+    "category": "游戏",
+    "tags": [
+      "城镇模拟",
+      "等距视角",
+      "线条艺术",
+      "ECS",
+      "Pixi",
+      "TypeScript"
+    ],
+    "use_case": "用于演示或体验基于 bevy-ts ECS 和 Pixi 构建的等距视角城镇模拟，适合学习 ECS 架构或等距渲染技术。",
+    "repo_name": "SandroMaglione/inkline-town",
+    "repo_url": "https://github.com/SandroMaglione/inkline-town",
+    "language": "TypeScript",
+    "stars": 48,
+    "starred_at": "",
+    "original_description": "A town simulation in pale isometric line art, on the bevy-ts ECS and Pixi"
+  },
+  "1416386910": {
+    "description": "一个为 Qwen-Image 2.1 提供 NSFW/姿势出图能力的 Agent Skill，包含作者级提示词配方、NSFW LoRA 和 136 种姿势的 VNCCS 人偶控制，适用于 Claude Code、Codex、Cursor、OpenClaw 等 AI 编程助手。",
+    "category": "AI/机器学习",
+    "tags": [
+      "图像生成",
+      "Agent Skill",
+      "姿势控制",
+      "ComfyUI",
+      "LoRA"
+    ],
+    "use_case": "在 Claude Code、Codex、Cursor 等 AI 编程助手或 OpenClaw 中，通过调用该 skill 生成带有指定姿势和 NSFW 内容的 Qwen-Image 2.1 图像。",
+    "repo_name": "Arekejoker/qwen21-nsfw-pose-skill",
+    "repo_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+    "language": "Python",
+    "stars": 900,
+    "starred_at": "",
+    "original_description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw"
+  },
+  "1217396442": {
+    "description": "一个提供43+精心设计的UI过渡动画的动效代理库，可作为技能集成到你的工作流中。",
+    "category": "Web开发",
+    "tags": [
+      "UI动效",
+      "过渡动画",
+      "设计系统",
+      "前端开发"
+    ],
+    "use_case": "为Web应用或网站快速添加高质量的UI过渡动画，提升用户体验和界面交互效果。",
+    "repo_name": "Jakubantalik/transitions.dev",
+    "repo_url": "https://github.com/Jakubantalik/transitions.dev",
+    "language": "HTML",
+    "stars": 5214,
+    "starred_at": "",
+    "original_description": "UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow."
   }
 }
