@@ -9072,5 +9072,57 @@
     "stars": 5214,
     "starred_at": "",
     "original_description": "UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow."
+  },
+  "382496361": {
+    "description": "Uptime Kuma 是一个自托管的监控工具，用于监控网站、服务等的可用性。",
+    "category": "DevOps/基础设施",
+    "tags": [
+      "监控",
+      "自托管",
+      "Docker",
+      "WebSocket"
+    ],
+    "use_case": "适用于个人或团队自建监控系统，实时监控网站、API、服务器等服务的运行状态，并在故障时发送告警。",
+    "repo_name": "louislam/uptime-kuma",
+    "repo_url": "https://github.com/louislam/uptime-kuma",
+    "language": "JavaScript",
+    "stars": 92515,
+    "starred_at": "",
+    "original_description": "A fancy self-hosted monitoring tool"
+  },
+  "1417985199": {
+    "description": "OpenScion 是一个面向超大型 monorepo 的开源、以服务器为中心的源码控制系统，主要服务于 AI 代理和 CI 任务而非人类开发者。",
+    "category": "DevOps/基础设施",
+    "tags": [
+      "版本控制",
+      "Monorepo",
+      "AI代理",
+      "CI/CD",
+      "Rust"
+    ],
+    "use_case": "适用于需要管理超大型代码仓库、且主要操作者（如 AI 代理和 CI 流水线）以服务器为中心进行源码控制的场景。",
+    "repo_name": "tinyhumansai/openscion",
+    "repo_url": "https://github.com/tinyhumansai/openscion",
+    "language": "Rust",
+    "stars": 70,
+    "starred_at": "",
+    "original_description": "OpenScion is an open-source, server-centric source control system for very large monorepos where most clients are AI agents and CI jobs rather than people on laptops. Based on Anthropic's Scion"
+  },
+  "1385776214": {
+    "description": "DroidDeck 将 SteamOS 的游戏体验带到 Android 设备上。",
+    "category": "移动开发",
+    "tags": [
+      "Android",
+      "SteamOS",
+      "游戏平台",
+      "Kotlin"
+    ],
+    "use_case": "在 Android 手机或平板上模拟 SteamOS 界面和功能，用于游玩 Steam 游戏或管理游戏库。",
+    "repo_name": "Droid-Deck/DroidDeck",
+    "repo_url": "https://github.com/Droid-Deck/DroidDeck",
+    "language": "Kotlin",
+    "stars": 9006,
+    "starred_at": "",
+    "original_description": "DroidDeck brings the SteamOS experience to Android"
   }
 }
