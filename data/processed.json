@@ -9124,5 +9124,92 @@
     "stars": 9006,
     "starred_at": "",
     "original_description": "DroidDeck brings the SteamOS experience to Android"
+  },
+  "1407951147": {
+    "description": "harness2 是 Google Research 开发的一个用于构建和运行机器学习实验的 Python 框架。",
+    "category": "AI/机器学习",
+    "tags": [
+      "机器学习",
+      "实验管理",
+      "Google Research"
+    ],
+    "use_case": "用于管理和自动化机器学习实验的配置、运行和结果跟踪。",
+    "repo_name": "google-research/harness2",
+    "repo_url": "https://github.com/google-research/harness2",
+    "language": "Python",
+    "stars": 12187,
+    "starred_at": "",
+    "original_description": null
+  },
+  "1417456983": {
+    "description": "一个从零开始重建并开源全球软件（如Photoshop、CAD、Office等）的Web应用项目。",
+    "category": "Web开发",
+    "tags": [
+      "开源软件",
+      "Web应用",
+      "SaaS",
+      "生产力工具"
+    ],
+    "use_case": "用于在浏览器中提供类似Photoshop、CAD、Office等软件的在线替代方案，适合个人或企业进行图像编辑、设计、办公文档处理等任务。",
+    "repo_name": "HeyPuter/everything",
+    "repo_url": "https://github.com/HeyPuter/everything",
+    "language": "JavaScript",
+    "stars": 2475,
+    "starred_at": "",
+    "original_description": "We're rebuilding and open-sourcing the world’s software from scratch."
+  },
+  "1423101235": {
+    "description": "通过Wi-Fi对Android TV或Google TV进行去臃肿处理，并提供类似Apple TV风格的桌面启动器。",
+    "category": "工具/库",
+    "tags": [
+      "Android TV",
+      "去臃肿",
+      "启动器",
+      "ADB",
+      "隐私"
+    ],
+    "use_case": "适用于希望清理智能电视预装软件、提升隐私保护并更换为简洁桌面体验的用户。",
+    "repo_name": "Gathin23/cleanyourtv",
+    "repo_url": "https://github.com/Gathin23/cleanyourtv",
+    "language": "Java",
+    "stars": 5767,
+    "starred_at": "",
+    "original_description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home."
+  },
+  "240263361": {
+    "description": "Pulse 是一个用于 Apple 平台（iOS、macOS 等）的网络日志记录器，帮助开发者调试和监控网络请求。",
+    "category": "移动开发",
+    "tags": [
+      "网络调试",
+      "日志记录",
+      "iOS",
+      "macOS",
+      "Swift"
+    ],
+    "use_case": "在 iOS 或 macOS 应用开发中，集成 Pulse 可以实时记录和查看网络请求与响应，便于调试网络问题、分析 API 调用和优化性能。",
+    "repo_name": "kean/Pulse",
+    "repo_url": "https://github.com/kean/Pulse",
+    "language": "Swift",
+    "stars": 7240,
+    "starred_at": "",
+    "original_description": "Network logger for Apple platforms"
+  },
+  "1420442370": {
+    "description": "一个开源技术栈，用于构建通用计算机使用智能体，结合代码执行、GUI交互和跨设备控制能力。",
+    "category": "AI/机器学习",
+    "tags": [
+      "计算机使用智能体",
+      "GUI交互",
+      "代码执行",
+      "跨设备控制",
+      "开源"
+    ],
+    "use_case": "用于开发和部署能够操作计算机界面、执行代码并跨设备协同工作的通用AI智能体，适用于自动化办公、软件测试、远程控制等场景。",
+    "repo_name": "Tongyi-MAI/OpenGCUA",
+    "repo_url": "https://github.com/Tongyi-MAI/OpenGCUA",
+    "language": "HTML",
+    "stars": 247,
+    "starred_at": "",
+    "original_description": "An open-source stack for generalist computer-use agents, combining code execution, GUI interaction, and cross-device control."
   }
 }
