@@ -9211,5 +9211,77 @@
     "stars": 247,
     "starred_at": "",
     "original_description": "An open-source stack for generalist computer-use agents, combining code execution, GUI interaction, and cross-device control."
+  },
+  "1424183124": {
+    "description": "一个面向中小学的数学和英语知识图谱与自适应诊断系统，包含1244个知识点和5123道题目，对齐课标和人教版教材。",
+    "category": "教育",
+    "tags": [
+      "知识图谱",
+      "自适应诊断",
+      "K12教育",
+      "数学",
+      "英语"
+    ],
+    "use_case": "用于中小学数学和英语的个性化学习与诊断，帮助学生识别知识薄弱点，教师可基于知识图谱进行教学规划。",
+    "repo_name": "xiaoyang111222/cn-math-taxonomy",
+    "repo_url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+    "language": "Python",
+    "stars": 1623,
+    "starred_at": "",
+    "original_description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断"
+  },
+  "1416502082": {
+    "description": "一个让Switch游戏在iPhone、iPad和Mac上原生运行的工具，通过将NSP文件夹转换为未签名的IPA，并实现NSO重写、Horizon HLE宿主和NVN到Metal的转换。",
+    "category": "游戏",
+    "tags": [
+      "Switch模拟",
+      "iOS",
+      "macOS",
+      "游戏移植",
+      "Metal"
+    ],
+    "use_case": "用于在苹果设备上原生运行Switch游戏，适合开发者和技术爱好者进行游戏移植和测试。",
+    "repo_name": "seedds/nxnative",
+    "repo_url": "https://github.com/seedds/nxnative",
+    "language": "C",
+    "stars": 932,
+    "starred_at": "",
+    "original_description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)"
+  },
+  "1193909050": {
+    "description": "Herdr 是一个用 Rust 编写的终端多路复用器与工作区管理器，为编码智能体（如 Claude Code、Codex）提供运行时环境，支持智能体编排。",
+    "category": "工具/库",
+    "tags": [
+      "终端多路复用器",
+      "智能体编排",
+      "TUI",
+      "Rust",
+      "开发者工具"
+    ],
+    "use_case": "开发者可以在终端中同时运行和管理多个 AI 编码智能体，通过多路复用和编排功能提升编码效率。",
+    "repo_name": "herdrdev/herdr",
+    "repo_url": "https://github.com/herdrdev/herdr",
+    "language": "Rust",
+    "stars": 45037,
+    "starred_at": "",
+    "original_description": "the runtime your coding agents live on"
+  },
+  "1426270002": {
+    "description": "Ely Office 是一个基于 Rust 和 GPUI 构建的离线优先桌面办公应用套件。",
+    "category": "工具/库",
+    "tags": [
+      "Rust",
+      "GPUI",
+      "桌面应用",
+      "离线优先",
+      "办公套件"
+    ],
+    "use_case": "适用于需要在无网络环境下进行文档处理、表格编辑等办公任务的用户，提供本地化、高性能的桌面办公体验。",
+    "repo_name": "ELY-Open-Source/ElyOffice",
+    "repo_url": "https://github.com/ELY-Open-Source/ElyOffice",
+    "language": "Rust",
+    "stars": 614,
+    "starred_at": "",
+    "original_description": "Ely Office: offline-first desktop apps in Rust and GPUI"
   }
 }
