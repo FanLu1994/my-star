@@ -9283,5 +9283,24 @@
     "stars": 614,
     "starred_at": "",
     "original_description": "Ely Office: offline-first desktop apps in Rust and GPUI"
+  },
+  "1339970099": {
+    "description": "Peach 蜜桃是一个单用户、本地优先的个人媒体系统，用于管理和播放本地媒体库。",
+    "category": "工具/库",
+    "tags": [
+      "媒体管理",
+      "本地优先",
+      "自托管",
+      "视频播放",
+      "Python",
+      "React"
+    ],
+    "use_case": "个人用户可以在本地搭建媒体服务器，集中管理电影、视频等媒体文件，并通过Web界面浏览和播放。",
+    "repo_name": "peach-mitao/peach",
+    "repo_url": "https://github.com/peach-mitao/peach",
+    "language": "Python",
+    "stars": 566,
+    "starred_at": "",
+    "original_description": "Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system"
   }
 }
