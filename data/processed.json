@@ -9302,5 +9302,23 @@
     "stars": 566,
     "starred_at": "",
     "original_description": "Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system"
+  },
+  "1286845683": {
+    "description": "一个本地优先的语音转文字命令行工具，支持七种模型家族，提供OpenAI兼容的本地API，无云端和遥测。",
+    "category": "AI/机器学习",
+    "tags": [
+      "语音识别",
+      "本地优先",
+      "Rust",
+      "命令行工具",
+      "OpenAI兼容API"
+    ],
+    "use_case": "适用于需要隐私保护的语音转文字场景，如本地会议记录、音频转录，无需联网即可使用多种模型进行识别。",
+    "repo_name": "QuintinShaw/openasr",
+    "repo_url": "https://github.com/QuintinShaw/openasr",
+    "language": "Rust",
+    "stars": 285,
+    "starred_at": "",
+    "original_description": "Local-first speech-to-text: no cloud, no telemetry, fail-closed by design. One CLI, seven model families, signed model catalog, OpenAI-compatible local API."
   }
 }
