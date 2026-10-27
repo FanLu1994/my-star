@@ -9320,5 +9320,55 @@
     "stars": 285,
     "starred_at": "",
     "original_description": "Local-first speech-to-text: no cloud, no telemetry, fail-closed by design. One CLI, seven model families, signed model catalog, OpenAI-compatible local API."
+  },
+  "1212503250": {
+    "description": "一个专为AI代理设计的最快浏览器自动化工具，可共享已登录的浏览器状态给Codex或Claude Code等AI代理，且不干扰用户。",
+    "category": "工具/库",
+    "tags": [
+      "浏览器自动化",
+      "AI代理",
+      "状态共享"
+    ],
+    "use_case": "当AI代理需要执行网页自动化任务（如登录后操作、数据抓取）时，使用该工具共享用户已登录的浏览器会话，避免重复登录和干扰用户。",
+    "repo_name": "citrolabs/ego-lite",
+    "repo_url": "https://github.com/citrolabs/ego-lite",
+    "language": "JavaScript",
+    "stars": 19825,
+    "starred_at": "",
+    "original_description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config."
+  },
+  "1140828898": {
+    "description": "一个面向知识工作者的开源插件集合，用于在Claude Cowork中扩展功能。",
+    "category": "AI/机器学习",
+    "tags": [
+      "插件",
+      "Claude",
+      "知识工作",
+      "AI助手"
+    ],
+    "use_case": "知识工作者在Claude Cowork平台中安装这些插件，以增强文档处理、信息整理等日常工作效率。",
+    "repo_name": "anthropics/knowledge-work-plugins",
+    "repo_url": "https://github.com/anthropics/knowledge-work-plugins",
+    "language": "Python",
+    "stars": 33240,
+    "starred_at": "",
+    "original_description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+  },
+  "1409013846": {
+    "description": "一个基于 DeepSeek Harness 的多智能体机器人团队，支持主机器人、机器人间消息传递和群聊功能。",
+    "category": "AI/机器学习",
+    "tags": [
+      "多智能体",
+      "聊天机器人",
+      "DeepSeek",
+      "群聊"
+    ],
+    "use_case": "用于构建和部署长期运行的多机器人协作系统，实现机器人之间的消息交互和群组聊天场景。",
+    "repo_name": "Fei2411/DS-Bot",
+    "repo_url": "https://github.com/Fei2411/DS-Bot",
+    "language": "JavaScript",
+    "stars": 4133,
+    "starred_at": "",
+    "original_description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats."
   }
 }
