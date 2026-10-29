@@ -9370,5 +9370,22 @@
     "stars": 4133,
     "starred_at": "",
     "original_description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats."
+  },
+  "1314868034": {
+    "description": "PicLite 是一个注重隐私的图片和 GIF 压缩工具，支持 Web、Windows、macOS 和 Linux 平台。",
+    "category": "工具/库",
+    "tags": [
+      "图片压缩",
+      "GIF压缩",
+      "隐私保护",
+      "跨平台"
+    ],
+    "use_case": "用户可以在不同平台上压缩图片和 GIF 文件，同时保护隐私，适用于需要减小文件大小且注重数据安全的场景。",
+    "repo_name": "amiaoapp/PicLite",
+    "repo_url": "https://github.com/amiaoapp/PicLite",
+    "language": "TypeScript",
+    "stars": 830,
+    "starred_at": "",
+    "original_description": "PicLite 图轻 / PicLite — privacy-first image and GIF compression for Web, Windows, macOS and Linux."
   }
 }
