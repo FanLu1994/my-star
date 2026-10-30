@@ -9387,5 +9387,23 @@
     "stars": 830,
     "starred_at": "",
     "original_description": "PicLite 图轻 / PicLite — privacy-first image and GIF compression for Web, Windows, macOS and Linux."
+  },
+  "1183888342": {
+    "description": "Orca 是一个用于管理和编排多个 AI 编码代理（如 Claude Code、Grok Bot）的工作平台，支持桌面、移动和远程运行时。",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI 代理",
+      "代理编排",
+      "编码助手",
+      "终端工具",
+      "跨平台"
+    ],
+    "use_case": "开发者可以使用 Orca 在桌面或移动设备上同时运行和协调多个 AI 编码代理，利用自己的订阅进行自动化编程、代码生成和任务管理。",
+    "repo_name": "stablyai/orca",
+    "repo_url": "https://github.com/stablyai/orca",
+    "language": "TypeScript",
+    "stars": 110310,
+    "starred_at": "",
+    "original_description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
   }
 }
