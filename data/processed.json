@@ -9405,5 +9405,74 @@
     "stars": 110310,
     "starred_at": "",
     "original_description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+  },
+  "1440705679": {
+    "description": "一个探索更自主智能体系统的TypeScript原型项目。",
+    "category": "AI/机器学习",
+    "tags": [
+      "智能体",
+      "自主系统",
+      "TypeScript"
+    ],
+    "use_case": "用于研究和实验自主智能体系统的架构与行为，适合AI开发者构建和测试智能体原型。",
+    "repo_name": "deepseek-ai/dsh-superagent-prototype",
+    "repo_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "language": "TypeScript",
+    "stars": 8754,
+    "starred_at": "",
+    "original_description": "Towards a More Autonomous Agent System"
+  },
+  "1161958643": {
+    "description": "Agent Desktop 是一个基于 Rust 构建的桌面自动化工具，通过操作系统无障碍树让 AI 代理可靠地感知和操作任意应用的界面。",
+    "category": "工具/库",
+    "tags": [
+      "桌面自动化",
+      "AI代理",
+      "无障碍API",
+      "Rust"
+    ],
+    "use_case": "用于构建 AI 代理，使其能够像人类一样操作桌面应用程序，适用于自动化测试、辅助技术、智能助手等场景。",
+    "repo_name": "vercel-labs/agent-desktop",
+    "repo_url": "https://github.com/vercel-labs/agent-desktop",
+    "language": "Rust",
+    "stars": 7133,
+    "starred_at": "",
+    "original_description": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels."
+  },
+  "1440886267": {
+    "description": "为Alma远程访问提供自托管中继服务，让用户通过手机在任何地方控制桌面Alma。",
+    "category": "工具/库",
+    "tags": [
+      "远程访问",
+      "中继服务",
+      "自托管",
+      "Docker",
+      "Cloudflare Workers"
+    ],
+    "use_case": "用户部署此中继服务后，可在移动设备上远程连接并控制自己的桌面Alma应用，实现跨网络的安全远程访问。",
+    "repo_name": "yetone/alma-relay",
+    "repo_url": "https://github.com/yetone/alma-relay",
+    "language": "JavaScript",
+    "stars": 354,
+    "starred_at": "",
+    "original_description": "Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers."
+  },
+  "1438540053": {
+    "description": "一个运行在Android设备上的AI代理，通过操作应用和网页来自动完成用户任务。",
+    "category": "移动开发",
+    "tags": [
+      "AI代理",
+      "Android自动化",
+      "无障碍服务",
+      "Kotlin",
+      "LLM"
+    ],
+    "use_case": "用户可通过自然语言指令让手机自动执行跨应用操作，如发送消息、浏览网页、填写表单等，提升移动端自动化效率。",
+    "repo_name": "wangzan101/Mika",
+    "repo_url": "https://github.com/wangzan101/Mika",
+    "language": "Kotlin",
+    "stars": 4114,
+    "starred_at": "",
+    "original_description": "An on-device AI agent for Android that operates apps and the web to get things done for you."
   }
 }
