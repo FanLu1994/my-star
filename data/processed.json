@@ -5787,21 +5787,6 @@
     "starred_at": "",
     "original_description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
   },
-  "662430836": {
-    "description": "这是一个提供flowercloud机场官网地址的仓库，主要用于访问和分享相关服务信息。",
-    "category": "其他",
-    "tags": [
-      "代理服务",
-      "网络工具"
-    ],
-    "use_case": "用户可通过此仓库获取flowercloud机场的官网链接，以使用Clash、Shadowsocks、V2Ray等代理服务进行网络访问或翻墙。",
-    "repo_name": "winston779/flowercloud",
-    "repo_url": "https://github.com/winston779/flowercloud",
-    "language": null,
-    "stars": 169,
-    "starred_at": "",
-    "original_description": "flowercloud机场官网地址"
-  },
   "1199201064": {
     "description": "这是一个用Go语言重写的Claude Code代码编辑器，完全去除了Node.js和Electron依赖，仅需单个二进制文件即可运行。",
     "category": "工具/库",
@@ -9474,5 +9459,23 @@
     "stars": 4114,
     "starred_at": "",
     "original_description": "An on-device AI agent for Android that operates apps and the web to get things done for you."
+  },
+  "1288221712": {
+    "description": "一个移动端Web应用，用于远程审批和监控Herdr代理，支持推送通知、二维码设置及通过Cloudflare、WebRTC或Tailscale进行多计算机中继。",
+    "category": "移动开发",
+    "tags": [
+      "远程监控",
+      "推送通知",
+      "PWA",
+      "多机中继",
+      "移动Web应用"
+    ],
+    "use_case": "适用于需要在手机上远程审批和监控Herdr代理运行状态的场景，尤其适合多台计算机分布式部署时通过中继连接进行统一管理。",
+    "repo_name": "0cv/herdr-mobile-relay",
+    "repo_url": "https://github.com/0cv/herdr-mobile-relay",
+    "language": "TypeScript",
+    "stars": 347,
+    "starred_at": "",
+    "original_description": "Approve and monitor Herdr agents remotely from your phone, a mobile web app for Android/iOS smartphones with push notifications, QR setup, and multi-computer relays over Cloudflare, WebRTC or Tailscale connections."
   }
 }
