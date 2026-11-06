@@ -9477,5 +9477,23 @@
     "stars": 347,
     "starred_at": "",
     "original_description": "Approve and monitor Herdr agents remotely from your phone, a mobile web app for Android/iOS smartphones with push notifications, QR setup, and multi-computer relays over Cloudflare, WebRTC or Tailscale connections."
+  },
+  "1419078245": {
+    "description": "基于逆向工程高保真还原 Claude 官方桌面端 UI 的 React 组件库，包含 30 个组件和 8 项交互物理算法。",
+    "category": "Web开发",
+    "tags": [
+      "React",
+      "UI组件",
+      "逆向工程",
+      "设计系统",
+      "动画物理"
+    ],
+    "use_case": "用于学习和参考 Claude 桌面端 UI 的设计与实现，快速构建类似风格的 React 应用界面。",
+    "repo_name": "Caho1/open-claude-ui",
+    "repo_url": "https://github.com/Caho1/open-claude-ui",
+    "language": "TypeScript",
+    "stars": 1709,
+    "starred_at": "",
+    "original_description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。"
   }
 }
