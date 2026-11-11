@@ -1,5 +1,5 @@
 # 我的 GitHub Star 收藏 :star:
-> 最后更新: 2026-11-10 13:17:48 | 总计: **612** 个仓库 | 分类: **10** 个 | 标签: **939** 个
+> 最后更新: 2026-11-11 11:49:21 | 总计: **612** 个仓库 | 分类: **10** 个 | 标签: **939** 个
 
 ---
 ## :open_file_folder: 分类目录
@@ -38,7 +38,7 @@
 **154** 个仓库
 
 ### [morluto/rea](https://github.com/morluto/rea)
-**⭐ 447555** | **TypeScript**
+**⭐ 450396** | **TypeScript**
 
 一个基于AI代理的逆向工程工具，可从应用行为分析到原生二进制文件的深度逆向。
 
@@ -48,7 +48,7 @@
 
 ---
 ### [openclaw/openclaw](https://github.com/openclaw/openclaw)
-**⭐ 394265** | **TypeScript**
+**⭐ 394308** | **TypeScript**
 
 这是一个跨平台的个人AI助手，让用户能够拥有和控制自己的数据。
 
@@ -58,7 +58,7 @@
 
 ---
 ### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-**⭐ 300323** | **JavaScript**
+**⭐ 300864** | **JavaScript**
 
 这是一个为Claude Code等AI编程助手设计的性能优化系统，专注于技能、记忆、安全和研究优先的开发。
 
@@ -68,7 +68,7 @@
 
 ---
 ### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-**⭐ 262142** | **Python**
+**⭐ 262495** | **Python**
 
 这是一个基于大型语言模型的AI智能体框架，能够根据用户需求进行扩展和成长。
 
@@ -78,7 +78,7 @@
 
 ---
 ### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-**⭐ 231472** | **None**
+**⭐ 231918** | **None**
 
 这是一个包含改进Claude代码生成行为的提示工程文件的仓库。
 
@@ -88,7 +88,7 @@
 
 ---
 ### [anthropics/skills](https://github.com/anthropics/skills)
-**⭐ 191284** | **Python**
+**⭐ 192467** | **Python**
 
 这是一个用于构建和共享AI代理技能的公共仓库。
 
@@ -98,7 +98,7 @@
 
 ---
 ### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-**⭐ 167536** | **Shell**
+**⭐ 167680** | **Shell**
 
 一个提供多种具有个性、流程和可交付成果的AI代理（如前端专家、Reddit社区运营、创意注入者等）的完整AI代理机构。
 
@@ -108,7 +108,7 @@
 
 ---
 ### [langgenius/dify](https://github.com/langgenius/dify)
-**⭐ 160792** | **Python**
+**⭐ 160912** | **Python**
 
 Dify是一个用于开发AI智能体工作流的低代码/无代码生产就绪平台。
 
@@ -118,7 +118,7 @@ Dify是一个用于开发AI智能体工作流的低代码/无代码生产就绪�
 
 ---
 ### [langflow-ai/langflow](https://github.com/langflow-ai/langflow)
-**⭐ 156493** | **Python**
+**⭐ 156514** | **Python**
 
 Langflow 是一个用于构建和部署 AI 代理及工作流的强大工具。
 
@@ -128,7 +128,7 @@ Langflow 是一个用于构建和部署 AI 代理及工作流的强大工具。
 
 ---
 ### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-**⭐ 147455** | **Python**
+**⭐ 147851** | **Python**
 
 这是一个提供跨平台专业UI/UX设计智能的AI技能工具。
 
@@ -138,7 +138,7 @@ Langflow 是一个用于构建和部署 AI 代理及工作流的强大工具。
 
 ---
 ### [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
-**⭐ 145128** | **Python**
+**⭐ 145724** | **Python**
 
 这是一个AI编程助手工具，能将代码、文档、论文或图像文件夹转换为可查询的知识图谱。
 
@@ -148,7 +148,7 @@ Langflow 是一个用于构建和部署 AI 代理及工作流的强大工具。
 
 ---
 ### [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-**⭐ 144587** | **None**
+**⭐ 144606** | **None**
 
 这是一个收集和整理各种AI编程工具（如Cursor、Devin AI、Replit等）的系统提示词、内部工具和AI模型的仓库。
 
@@ -158,7 +158,7 @@ Langflow 是一个用于构建和部署 AI 代理及工作流的强大工具。
 
 ---
 ### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-**⭐ 141701** | **Python**
+**⭐ 142027** | **Python**
 
 这是一个利用AI大模型一键生成高清短视频的自动化工具。
 
@@ -168,7 +168,7 @@ Langflow 是一个用于构建和部署 AI 代理及工作流的强大工具。
 
 ---
 ### [openai/codex](https://github.com/openai/codex)
-**⭐ 134530** | **Rust**
+**⭐ 134797** | **Rust**
 
 这是一个轻量级的代码助手，可以在终端中运行，帮助开发者编写和优化代码。
 
@@ -177,18 +177,8 @@ Langflow 是一个用于构建和部署 AI 代理及工作流的强大工具。
 **使用场景**: 适用于开发者在终端环境中快速生成代码片段、自动化编码任务或辅助代码调试。
 
 ---
-### [earendil-works/pi](https://github.com/earendil-works/pi)
-**⭐ 121114** | **TypeScript**
-
-这是一个AI代理工具包，提供编码代理CLI、统一的LLM API、TUI和Web UI库、Slack机器人以及vLLM pods等功能。
-
-标签: [`AI代理`](#tag-ai代理) `LLM工具`
-
-**使用场景**: 用于构建和集成AI代理应用，例如自动化代码生成、多平台用户界面开发以及基于大型语言模型的聊天机器人部署。
-
----
 ### [stablyai/orca](https://github.com/stablyai/orca)
-**⭐ 120625** | **TypeScript**
+**⭐ 121603** | **TypeScript**
 
 Orca 是一个用于管理和编排多个 AI 编码代理（如 Claude Code、Grok Bot）的工作平台，支持桌面、移动和远程运行时。
 
@@ -197,8 +187,18 @@ Orca 是一个用于管理和编排多个 AI 编码代理（如 Claude Code、Gr
 **使用场景**: 开发者可以使用 Orca 在桌面或移动设备上同时运行和协调多个 AI 编码代理，利用自己的订阅进行自动化编程、代码生成和任务管理。
 
 ---
+### [earendil-works/pi](https://github.com/earendil-works/pi)
+**⭐ 121284** | **TypeScript**
+
+这是一个AI代理工具包，提供编码代理CLI、统一的LLM API、TUI和Web UI库、Slack机器人以及vLLM pods等功能。
+
+标签: [`AI代理`](#tag-ai代理) `LLM工具`
+
+**使用场景**: 用于构建和集成AI代理应用，例如自动化代码生成、多平台用户界面开发以及基于大型语言模型的聊天机器人部署。
+
+---
 ### [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
-**⭐ 118706** | **Go**
+**⭐ 118931** | **Go**
 
 这是一个通过模仿原始人说话风格来减少Claude AI代码生成中token使用量的技能工具。
 
@@ -208,7 +208,7 @@ Orca 是一个用于管理和编排多个 AI 编码代理（如 Claude Code、Gr
 
 ---
 ### [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-**⭐ 115488** | **TypeScript**
+**⭐ 115891** | **TypeScript**
 
 这是一个Claude Code插件，能够自动记录Claude在编码会话中的所有操作，使用AI压缩存储，并在未来会话中注入相关上下文。
 
@@ -218,7 +218,7 @@ Orca 是一个用于管理和编排多个 AI 编码代理（如 Claude Code、Gr
 
 ---
 ### [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
-**⭐ 112607** | **JavaScript**
+**⭐ 113053** | **JavaScript**
 
 这是一个为AI提供审美判断能力的前端工具，旨在提升AI生成内容的品味和质量。
 
@@ -228,7 +228,7 @@ Orca 是一个用于管理和编排多个 AI 编码代理（如 Claude Code、Gr
 
 ---
 ### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-**⭐ 107022** | **Rust**
+**⭐ 107687** | **Rust**
 
 这是一个为AI设计助手提供设计语言和组件的JavaScript库。
 
@@ -238,7 +238,7 @@ Orca 是一个用于管理和编排多个 AI 编码代理（如 Claude Code、Gr
 
 ---
 ### [tt-a1i/archify](https://github.com/tt-a1i/archify)
-**⭐ 95138** | **JavaScript**
+**⭐ 95415** | **JavaScript**
 
 Archify 是一个 AI Agent 技能，可将任意想法、计划或代码库自动转换为美观的交互式架构图与流程图。
 
@@ -248,7 +248,7 @@ Archify 是一个 AI Agent 技能，可将任意想法、计划或代码库自�
 
 ---
 ### [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
-**⭐ 93923** | **Go**
+**⭐ 93988** | **Go**
 
 RAGFlow是一个开源的检索增强生成引擎，结合了先进的RAG技术和Agent能力，为大型语言模型提供优质的上下文层。
 
@@ -258,7 +258,7 @@ RAGFlow是一个开源的检索增强生成引擎，结合了先进的RAG技术�
 
 ---
 ### [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
-**⭐ 85202** | **Python**
+**⭐ 85229** | **Python**
 
 DeerFlow是一个开源的多智能体框架，通过沙箱、记忆、工具和子代理等机制，能够处理从几分钟到数小时不同复杂度的任务。
 
@@ -268,7 +268,7 @@ DeerFlow是一个开源的多智能体框架，通过沙箱、记忆、工具和
 
 ---
 ### [lobehub/lobehub](https://github.com/lobehub/lobehub)
-**⭐ 84631** | **TypeScript**
+**⭐ 84912** | **TypeScript**
 
 这是一个用于构建、管理和协作AI智能体团队的平台，支持多智能体协作和知识库集成。
 
@@ -278,7 +278,7 @@ DeerFlow是一个开源的多智能体框架，通过沙箱、记忆、工具和
 
 ---
 ### [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage)
-**⭐ 79189** | **Python**
+**⭐ 79471** | **Python**
 
 全球首个开源、智能体驱动的视频制作系统，包含12条流水线、52个工具和500+智能体技能，可将AI编程助手转变为完整的视频制作工作室。
 
@@ -288,7 +288,7 @@ DeerFlow是一个开源的多智能体框架，通过沙箱、记忆、工具和
 
 ---
 ### [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
-**⭐ 79158** | **Python**
+**⭐ 79232** | **Python**
 
 这是一个收集和整理Claude AI技能、资源和工具的精选列表，用于定制Claude AI工作流程。
 
@@ -298,7 +298,7 @@ DeerFlow是一个开源的多智能体框架，通过沙箱、记忆、工具和
 
 ---
 ### [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-**⭐ 71094** | **Python**
+**⭐ 71160** | **Python**
 
 这是一个收集和提取流行聊天机器人（如ChatGPT、Claude和Gemini）系统提示词的仓库。
 
@@ -308,7 +308,7 @@ DeerFlow是一个开源的多智能体框架，通过沙箱、记忆、工具和
 
 ---
 ### [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
-**⭐ 69128** | **Python**
+**⭐ 69605** | **Python**
 
 这是一个基于LLM的A股和H股智能分析工具，整合多数据源行情、实时新闻和Gemini决策，提供自动化股票分析和推送服务。
 
@@ -318,7 +318,7 @@ DeerFlow是一个开源的多智能体框架，通过沙箱、记忆、工具和
 
 ---
 ### [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
-**⭐ 68912** | **HTML**
+**⭐ 68951** | **HTML**
 
 这是一个关于使用Claude AI进行编程最佳实践的仓库，主要包含HTML示例和指导文档。
 
@@ -328,7 +328,7 @@ DeerFlow是一个开源的多智能体框架，通过沙箱、记忆、工具和
 
 ---
 ### [mem0ai/mem0](https://github.com/mem0ai/mem0)
-**⭐ 68721** | **Python**
+**⭐ 68777** | **Python**
 
 为AI代理提供统一的长期记忆层，支持记忆存储、检索和管理。
 
@@ -338,7 +338,7 @@ DeerFlow是一个开源的多智能体框架，通过沙箱、记忆、工具和
 
 ---
 ### [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
-**⭐ 63256** | **Python**
+**⭐ 63285** | **Python**
 
 这是一个基于PyTorch的YOLO（You Only Look Once）目标检测框架，提供训练、验证和部署功能。
 
@@ -348,7 +348,7 @@ DeerFlow是一个开源的多智能体框架，通过沙箱、记忆、工具和
 
 ---
 ### [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
-**⭐ 60495** | **Python**
+**⭐ 60510** | **Python**
 
 这是一个基于Python开发的AI记忆系统，通过向量数据库技术实现高效的信息存储和检索。
 
@@ -358,7 +358,7 @@ DeerFlow是一个开源的多智能体框架，通过沙箱、记忆、工具和
 
 ---
 ### [aaif-goose/goose](https://github.com/aaif-goose/goose)
-**⭐ 56413** | **Rust**
+**⭐ 56441** | **Rust**
 
 一个开源、可扩展的AI代理，超越代码建议，支持安装、执行、编辑和测试，可与任何大型语言模型配合使用。
 
@@ -368,7 +368,7 @@ DeerFlow是一个开源的多智能体框架，通过沙箱、记忆、工具和
 
 ---
 ### [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-**⭐ 54434** | **TypeScript**
+**⭐ 55922** | **TypeScript**
 
 T3 Code 是一个基于 TypeScript 的 AI 编程助手/代码生成工具，提供网页版和桌面应用。
 
@@ -378,7 +378,7 @@ T3 Code 是一个基于 TypeScript 的 AI 编程助手/代码生成工具，提�
 
 ---
 ### [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
-**⭐ 51929** | **None**
+**⭐ 52150** | **None**
 
 该仓库收集并公开了多个主流AI系统（如ChatGPT、Gemini等）的系统提示词，旨在提高AI系统的透明度。
 
@@ -388,7 +388,7 @@ T3 Code 是一个基于 TypeScript 的 AI 编程助手/代码生成工具，提�
 
 ---
 ### [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
-**⭐ 48648** | **Rust**
+**⭐ 49339** | **Rust**
 
 这是一个为AI智能体设计的浏览器自动化命令行工具。
 
@@ -398,7 +398,7 @@ T3 Code 是一个基于 TypeScript 的 AI 编程助手/代码生成工具，提�
 
 ---
 ### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-**⭐ 46667** | **Python**
+**⭐ 46792** | **Python**
 
 这是Anthropic官方维护的高质量Claude代码插件目录
 
@@ -408,7 +408,7 @@ T3 Code 是一个基于 TypeScript 的 AI 编程助手/代码生成工具，提�
 
 ---
 ### [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-**⭐ 46554** | **Python**
+**⭐ 46640** | **Python**
 
 这是一个支持多平台集成的智能聊天机器人基础设施，能够整合多种即时通讯平台、大语言模型和AI插件。
 
@@ -418,7 +418,7 @@ T3 Code 是一个基于 TypeScript 的 AI 编程助手/代码生成工具，提�
 
 ---
 ### [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
-**⭐ 41293** | **C++**
+**⭐ 41375** | **C++**
 
 Faiss是一个用于高效相似性搜索和密集向量聚类的库。
 
@@ -428,7 +428,7 @@ Faiss是一个用于高效相似性搜索和密集向量聚类的库。
 
 ---
 ### [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-**⭐ 38469** | **TypeScript**
+**⭐ 38589** | **TypeScript**
 
 oh-my-pi 是一个面向终端的 AI 编码代理，提供基于哈希锚定的编辑、优化的工具集、LSP 支持、Python、浏览器、子代理等功能。
 
@@ -438,7 +438,7 @@ oh-my-pi 是一个面向终端的 AI 编码代理，提供基于哈希锚定的�
 
 ---
 ### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-**⭐ 35645** | **JavaScript**
+**⭐ 35680** | **JavaScript**
 
 这是一个将GPT-Image2提示词工程化的工业级模板库，包含470+个案例逆向工程和20+套模板，支持将提示词作为代码进行管理和复用。
 
@@ -448,7 +448,7 @@ oh-my-pi 是一个面向终端的 AI 编码代理，提供基于哈希锚定的�
 
 ---
 ### [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
-**⭐ 35281** | **Python**
+**⭐ 35379** | **Python**
 
 一个面向知识工作者的开源插件集合，用于在Claude Cowork中扩展功能。
 
@@ -458,7 +458,7 @@ oh-my-pi 是一个面向终端的 AI 编码代理，提供基于哈希锚定的�
 
 ---
 ### [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
-**⭐ 35016** | **JavaScript**
+**⭐ 35041** | **JavaScript**
 
 这是一个使用Claude Code中的Codex进行代码审查或任务委派的插件。
 
@@ -468,7 +468,7 @@ oh-my-pi 是一个面向终端的 AI 编码代理，提供基于哈希锚定的�
 
 ---
 ### [Twigpine/openclaude](https://github.com/Twigpine/openclaude)
-**⭐ 34311** | **TypeScript**
+**⭐ 34317** | **TypeScript**
 
 这是一个开源的代码助手CLI工具，支持通过OpenAI兼容API调用200多种AI模型进行代码生成和编程辅助。
 
@@ -478,7 +478,7 @@ oh-my-pi 是一个面向终端的 AI 编码代理，提供基于哈希锚定的�
 
 ---
 ### [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
-**⭐ 34179** | **TypeScript**
+**⭐ 34202** | **TypeScript**
 
 这是一个免费的本地开源AI协作工具，支持多种AI模型（如Gemini CLI、Claude Code、Codex等）的Web界面。
 
@@ -488,7 +488,7 @@ oh-my-pi 是一个面向终端的 AI 编码代理，提供基于哈希锚定的�
 
 ---
 ### [yetone/magpie](https://github.com/yetone/magpie)
-**⭐ 33309** | **Go**
+**⭐ 34042** | **Go**
 
 Magpie 是一个 macOS 菜单栏工具，让用户将 Codex、Claude Code 等 AI 编程代理连接到 DeepSeek、Kimi 等任意大模型后端。
 
@@ -498,7 +498,7 @@ Magpie 是一个 macOS 菜单栏工具，让用户将 Codex、Claude Code 等 AI
 
 ---
 ### [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
-**⭐ 33302** | **Rust**
+**⭐ 33314** | **Rust**
 
 这是一个用Rust编写的快速、小巧、全自主的AI个人助理基础设施，支持任何操作系统和平台。
 
@@ -508,7 +508,7 @@ Magpie 是一个 macOS 菜单栏工具，让用户将 Codex、Claude Code 等 AI
 
 ---
 ### [trycua/cua](https://github.com/trycua/cua)
-**⭐ 32092** | **Rust**
+**⭐ 32150** | **Rust**
 
 为计算机使用代理提供开源基础设施，包括沙箱、SDK和基准测试，用于训练和评估能控制完整桌面（macOS、Linux、Windows）的AI代理。
 
@@ -518,7 +518,7 @@ Magpie 是一个 macOS 菜单栏工具，让用户将 Codex、Claude Code 等 AI
 
 ---
 ### [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
-**⭐ 31159** | **Python**
+**⭐ 31182** | **Python**
 
 这是一个基于LangChain和LangGraph构建的智能代理框架，具备规划工具、文件系统后端和子代理生成能力，用于处理复杂的自动化任务。
 
@@ -528,7 +528,7 @@ Magpie 是一个 macOS 菜单栏工具，让用户将 Codex、Claude Code 等 AI
 
 ---
 ### [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
-**⭐ 30876** | **None**
+**⭐ 30890** | **None**
 
 这是一个收集AI自主代理相关资源的精选列表仓库。
 
@@ -538,7 +538,7 @@ Magpie 是一个 macOS 菜单栏工具，让用户将 Codex、Claude Code 等 AI
 
 ---
 ### [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
-**⭐ 30717** | **TypeScript**
+**⭐ 30766** | **TypeScript**
 
 TencentDB Agent Memory 是一个为AI代理提供完全本地化长期记忆的4层渐进式流水线，无需任何外部API依赖。
 
@@ -548,7 +548,7 @@ TencentDB Agent Memory 是一个为AI代理提供完全本地化长期记忆的4
 
 ---
 ### [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)
-**⭐ 30134** | **Python**
+**⭐ 30138** | **Python**
 
 一个支持80多种语言的开箱即用光学字符识别（OCR）工具库。
 
@@ -558,7 +558,7 @@ TencentDB Agent Memory 是一个为AI代理提供完全本地化长期记忆的4
 
 ---
 ### [alibaba/page-agent](https://github.com/alibaba/page-agent)
-**⭐ 29655** | **TypeScript**
+**⭐ 29659** | **TypeScript**
 
 这是一个基于JavaScript的页面GUI代理工具，允许用户通过自然语言控制网页界面。
 
@@ -568,7 +568,7 @@ TencentDB Agent Memory 是一个为AI代理提供完全本地化长期记忆的4
 
 ---
 ### [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)
-**⭐ 29060** | **HTML**
+**⭐ 29146** | **HTML**
 
 这是一个为Claude Code设计的HTML原生设计技能库，提供高保真原型、幻灯片和动画制作能力。
 
@@ -577,18 +577,8 @@ TencentDB Agent Memory 是一个为AI代理提供完全本地化长期记忆的4
 **使用场景**: 用于在Claude Code等AI编程环境中快速创建高质量的HTML原型、演示文稿和动画，支持MP4导出和设计评审流程。
 
 ---
-### [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
-**⭐ 28634** | **Rust**
-
-这是一个基于AI的看板工具，旨在提升Claude Code、Codex等编码代理的工作效率。
-
-标签: [`AI代理`](#tag-ai代理) `项目管理`
-
-**使用场景**: 开发团队或个体开发者使用AI编码助手时，通过可视化的看板界面来管理和跟踪AI生成的任务与代码，实现更高效的工作流协作。
-
----
 ### [gastownhall/beads](https://github.com/gastownhall/beads)
-**⭐ 28632** | **Go**
+**⭐ 28664** | **Go**
 
 这是一个为AI编程助手提供内存增强功能的Go语言库，旨在提升编码代理的长期记忆能力。
 
@@ -597,8 +587,18 @@ TencentDB Agent Memory 是一个为AI代理提供完全本地化长期记忆的4
 **使用场景**: 用于增强Claude Code等AI编程助手的上下文记忆能力，使其在长时间编码会话中能更好地记住之前的代码结构和决策。
 
 ---
+### [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
+**⭐ 28649** | **Rust**
+
+这是一个基于AI的看板工具，旨在提升Claude Code、Codex等编码代理的工作效率。
+
+标签: [`AI代理`](#tag-ai代理) `项目管理`
+
+**使用场景**: 开发团队或个体开发者使用AI编码助手时，通过可视化的看板界面来管理和跟踪AI生成的任务与代码，实现更高效的工作流协作。
+
+---
 ### [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
-**⭐ 27428** | **TypeScript**
+**⭐ 27455** | **TypeScript**
 
 这是一个为AI代理（如Claude、Codex、OpenClaw）提供技能插件的TypeScript仓库。
 
@@ -608,7 +608,7 @@ TencentDB Agent Memory 是一个为AI代理提供完全本地化长期记忆的4
 
 ---
 ### [agentsmd/agents.md](https://github.com/agentsmd/agents.md)
-**⭐ 25413** | **TypeScript**
+**⭐ 25430** | **TypeScript**
 
 这是一个定义AGENTS.md开放格式的仓库，用于指导AI编码助手完成项目任务。
 
@@ -618,7 +618,7 @@ TencentDB Agent Memory 是一个为AI代理提供完全本地化长期记忆的4
 
 ---
 ### [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)
-**⭐ 25259** | **Kotlin**
+**⭐ 25265** | **Kotlin**
 
 这是一个展示设备端机器学习和生成式AI用例的画廊，允许用户在本地尝试和使用模型。
 
@@ -628,7 +628,7 @@ TencentDB Agent Memory 是一个为AI代理提供完全本地化长期记忆的4
 
 ---
 ### [slopus/happy](https://github.com/slopus/happy)
-**⭐ 24562** | **Swift**
+**⭐ 24576** | **Swift**
 
 这是一个为Codex和Claude Code提供移动端和Web端客户端的项目，支持实时语音、加密和全功能特性。
 
@@ -638,7 +638,7 @@ TencentDB Agent Memory 是一个为AI代理提供完全本地化长期记忆的4
 
 ---
 ### [different-ai/openwork](https://github.com/different-ai/openwork)
-**⭐ 24467** | **TypeScript**
+**⭐ 24477** | **TypeScript**
 
 这是一个基于OpenCode的开源协作平台，可作为Claude Cowork的替代方案。
 
@@ -648,7 +648,7 @@ TencentDB Agent Memory 是一个为AI代理提供完全本地化长期记忆的4
 
 ---
 ### [coleam00/Archon](https://github.com/coleam00/Archon)
-**⭐ 23876** | **TypeScript**
+**⭐ 23885** | **TypeScript**
 
 这是一个开源的AI编码工具构建器，用于创建确定性和可重复的AI编码工作流。
 
@@ -658,7 +658,7 @@ TencentDB Agent Memory 是一个为AI代理提供完全本地化长期记忆的4
 
 ---
 ### [google-research/harness2](https://github.com/google-research/harness2)
-**⭐ 23312** | **Python**
+**⭐ 23410** | **Python**
 
 harness2 是 Google Research 开发的一个用于构建和运行机器学习实验的 Python 框架。
 
@@ -667,8 +667,18 @@ harness2 是 Google Research 开发的一个用于构建和运行机器学习实
 **使用场景**: 用于管理和自动化机器学习实验的配置、运行和结果跟踪。
 
 ---
+### [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
+**⭐ 22241** | **TypeScript**
+
+一个探索更自主智能体系统的TypeScript原型项目。
+
+标签: `智能体` `自主系统` [`TypeScript`](#tag-typescript)
+
+**使用场景**: 用于研究和实验自主智能体系统的架构与行为，适合AI开发者构建和测试智能体原型。
+
+---
 ### [snarktank/ralph](https://github.com/snarktank/ralph)
-**⭐ 22196** | **TypeScript**
+**⭐ 22199** | **TypeScript**
 
 Ralph是一个自主运行的AI代理循环，持续运行直到所有产品需求文档项目完成。
 
@@ -678,7 +688,7 @@ Ralph是一个自主运行的AI代理循环，持续运行直到所有产品需�
 
 ---
 ### [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills)
-**⭐ 22123** | **Python**
+**⭐ 22162** | **Python**
 
 数字生命卡兹克开源的AI技能合集，包含多种AI相关工具和脚本。
 
@@ -687,18 +697,8 @@ Ralph是一个自主运行的AI代理循环，持续运行直到所有产品需�
 **使用场景**: 用于学习和使用AI技能，包括模型训练、数据处理等场景。
 
 ---
-### [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
-**⭐ 21852** | **TypeScript**
-
-一个探索更自主智能体系统的TypeScript原型项目。
-
-标签: `智能体` `自主系统` [`TypeScript`](#tag-typescript)
-
-**使用场景**: 用于研究和实验自主智能体系统的架构与行为，适合AI开发者构建和测试智能体原型。
-
----
 ### [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
-**⭐ 21112** | **Python**
+**⭐ 21131** | **Python**
 
 基于Pydantic的AI Agent框架，用于构建和编排智能代理应用。
 
@@ -708,7 +708,7 @@ Ralph是一个自主运行的AI代理循环，持续运行直到所有产品需�
 
 ---
 ### [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)
-**⭐ 20187** | **Python**
+**⭐ 20195** | **Python**
 
 一个非官方的Python API和智能体技能库，用于以编程方式访问Google NotebookLM的全部功能，包括Web UI未暴露的能力。
 
@@ -718,7 +718,7 @@ Ralph是一个自主运行的AI代理循环，持续运行直到所有产品需�
 
 ---
 ### [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
-**⭐ 19132** | **Python**
+**⭐ 19157** | **Python**
 
 这是一个全自动AI视频字幕处理工具，能够一键完成字幕切割、翻译、对齐和配音，实现视频内容的本地化处理。
 
@@ -728,7 +728,7 @@ Ralph是一个自主运行的AI代理循环，持续运行直到所有产品需�
 
 ---
 ### [google/magika](https://github.com/google/magika)
-**⭐ 18784** | **Rust**
+**⭐ 18788** | **Rust**
 
 这是一个基于AI的快速准确文件内容类型检测工具
 
@@ -738,7 +738,7 @@ Ralph是一个自主运行的AI代理循环，持续运行直到所有产品需�
 
 ---
 ### [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
-**⭐ 18246** | **TypeScript**
+**⭐ 18519** | **TypeScript**
 
 一个为 Claude Code 和 Codex 提供 AI 视频制作技能的工具库，基于 Remotion 生成电影级产品视频，包含 152 个镜头配方卡片、209 个动态预览和生产级模板。
 
@@ -748,7 +748,7 @@ Ralph是一个自主运行的AI代理循环，持续运行直到所有产品需�
 
 ---
 ### [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
-**⭐ 18192** | **None**
+**⭐ 18255** | **None**
 
 这是GSAP官方为AI编程代理提供的技能库，用于教授如何正确使用GSAP动画平台。
 
@@ -758,7 +758,7 @@ Ralph是一个自主运行的AI代理循环，持续运行直到所有产品需�
 
 ---
 ### [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills)
-**⭐ 17269** | **Python**
+**⭐ 17284** | **Python**
 
 一个精选的实用Codex技能列表，用于通过Codex CLI和API自动化工作流程。
 
@@ -768,7 +768,7 @@ Ralph是一个自主运行的AI代理循环，持续运行直到所有产品需�
 
 ---
 ### [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
-**⭐ 17050** | **Go**
+**⭐ 17072** | **Go**
 
 这是一个为小红书平台提供MCP（模型上下文协议）服务的Go语言服务器。
 
@@ -778,7 +778,7 @@ Ralph是一个自主运行的AI代理循环，持续运行直到所有产品需�
 
 ---
 ### [Anionex/banana-slides](https://github.com/Anionex/banana-slides)
-**⭐ 15974** | **Python**
+**⭐ 15982** | **Python**
 
 这是一个基于nano banana pro的AI原生PPT生成应用，能够通过文字描述自动创建可编辑的演示文稿。
 
@@ -788,7 +788,7 @@ Ralph是一个自主运行的AI代理循环，持续运行直到所有产品需�
 
 ---
 ### [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)
-**⭐ 14535** | **TypeScript**
+**⭐ 14554** | **TypeScript**
 
 这是一个为Claude Code、Cursor CLI和Codex提供移动端和网页端界面的开源GUI工具，帮助用户远程管理AI编程会话和项目。
 
@@ -798,7 +798,7 @@ Ralph是一个自主运行的AI代理循环，持续运行直到所有产品需�
 
 ---
 ### [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis)
-**⭐ 14163** | **Python**
+**⭐ 14308** | **Python**
 
 OpenJarvis 是一个在个人设备上运行的个人 AI 助手项目。
 
@@ -808,7 +808,7 @@ OpenJarvis 是一个在个人设备上运行的个人 AI 助手项目。
 
 ---
 ### [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
-**⭐ 13209** | **Go**
+**⭐ 13219** | **Go**
 
 这是一个用Rust编写的即时、并发、安全且轻量级的AI Agent沙箱环境。
 
@@ -818,7 +818,7 @@ OpenJarvis 是一个在个人设备上运行的个人 AI 助手项目。
 
 ---
 ### [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts)
-**⭐ 13116** | **JavaScript**
+**⭐ 13127** | **JavaScript**
 
 这是一个收集和整理Claude Code系统提示词、工具描述和子代理提示的仓库。
 
@@ -828,7 +828,7 @@ OpenJarvis 是一个在个人设备上运行的个人 AI 助手项目。
 
 ---
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
-**⭐ 12341** | **TypeScript**
+**⭐ 12350** | **TypeScript**
 
 这是一个为LLM和智能体系统设计的AI记忆操作系统，支持跨任务技能记忆的持久化存储、复用和演进。
 
@@ -838,7 +838,7 @@ OpenJarvis 是一个在个人设备上运行的个人 AI 助手项目。
 
 ---
 ### [ibelick/ui-skills](https://github.com/ibelick/ui-skills)
-**⭐ 10903** | **TypeScript**
+**⭐ 10944** | **TypeScript**
 
 这是一个用于提升AI助手构建的界面质量的技能集合库。
 
@@ -848,7 +848,7 @@ OpenJarvis 是一个在个人设备上运行的个人 AI 助手项目。
 
 ---
 ### [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
-**⭐ 10325** | **HTML**
+**⭐ 10330** | **HTML**
 
 这是一个收集了45个从基础到高级的技巧，帮助开发者充分利用Claude Code AI编程助手的仓库。
 
@@ -858,7 +858,7 @@ OpenJarvis 是一个在个人设备上运行的个人 AI 助手项目。
 
 ---
 ### [microsoft/UFO](https://github.com/microsoft/UFO)
-**⭐ 10187** | **Python**
+**⭐ 10198** | **Python**
 
 UFO³是一个基于Python的Windows桌面自动化代理框架，利用大语言模型实现智能GUI操作和任务自动化。
 
@@ -868,7 +868,7 @@ UFO³是一个基于Python的Windows桌面自动化代理框架，利用大语�
 
 ---
 ### [droidrun/mobilerun](https://github.com/droidrun/mobilerun)
-**⭐ 10005** | **Python**
+**⭐ 10017** | **Python**
 
 这是一个使用自然语言命令自动化移动设备的AI代理工具。
 
@@ -878,7 +878,7 @@ UFO³是一个基于Python的Windows桌面自动化代理框架，利用大语�
 
 ---
 ### [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)
-**⭐ 9721** | **Shell**
+**⭐ 9723** | **Shell**
 
 这是一个为Claude Code设计的自主AI开发循环工具，具有智能退出检测功能。
 
@@ -888,7 +888,7 @@ UFO³是一个基于Python的Windows桌面自动化代理框架，利用大语�
 
 ---
 ### [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent)
-**⭐ 9373** | **Python**
+**⭐ 9374** | **Python**
 
 这是一个基于多模态大语言模型的移动端GUI智能体，能够自动化操作Android和iOS应用。
 
@@ -898,7 +898,7 @@ UFO³是一个基于Python的Windows桌面自动化代理框架，利用大语�
 
 ---
 ### [revfactory/harness](https://github.com/revfactory/harness)
-**⭐ 9343** | **None**
+**⭐ 9349** | **None**
 
 Harness 是一种元技能，用于设计特定领域的智能体团队、定义专业智能体并生成它们使用的技能。
 
@@ -918,7 +918,7 @@ Harness 是一种元技能，用于设计特定领域的智能体团队、定义
 
 ---
 ### [zai-org/ZCode](https://github.com/zai-org/ZCode)
-**⭐ 8585** | **TypeScript**
+**⭐ 8597** | **TypeScript**
 
 Z.ai 推出的编码智能体框架，提供强大、智能且可扩展的 AI 编程辅助能力。
 
@@ -928,7 +928,7 @@ Z.ai 推出的编码智能体框架，提供强大、智能且可扩展的 AI �
 
 ---
 ### [Infrasys-AI/AIInfra](https://github.com/Infrasys-AI/AIInfra)
-**⭐ 8570** | **Jupyter Notebook**
+**⭐ 8573** | **Jupyter Notebook**
 
 提供AI系统从底层硬件到上层软件栈支持大模型训练和推理的基础设施资源。
 
@@ -938,7 +938,7 @@ Z.ai 推出的编码智能体框架，提供强大、智能且可扩展的 AI �
 
 ---
 ### [xerrors/Yuxi](https://github.com/xerrors/Yuxi)
-**⭐ 7635** | **Python**
+**⭐ 7645** | **Python**
 
 这是一个基于LangChain构建的智能体平台，集成了轻量级RAG知识库和知识图谱功能。
 
@@ -948,7 +948,7 @@ Z.ai 推出的编码智能体框架，提供强大、智能且可扩展的 AI �
 
 ---
 ### [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab)
-**⭐ 7631** | **TypeScript**
+**⭐ 7637** | **TypeScript**
 
 这是一个基于AI的本地聊天记录分析工具，通过Electron桌面应用帮助用户回顾和分析社交聊天历史。
 
@@ -958,7 +958,7 @@ Z.ai 推出的编码智能体框架，提供强大、智能且可扩展的 AI �
 
 ---
 ### [anomalyco/models.dev](https://github.com/anomalyco/models.dev)
-**⭐ 7581** | **TypeScript**
+**⭐ 7597** | **TypeScript**
 
 一个开源的AI模型数据库，用于存储和检索各种AI模型。
 
@@ -968,7 +968,7 @@ Z.ai 推出的编码智能体框架，提供强大、智能且可扩展的 AI �
 
 ---
 ### [tw93/Waza](https://github.com/tw93/Waza)
-**⭐ 7546** | **Python**
+**⭐ 7554** | **Python**
 
 这是一个用于审计Claude Code配置健康状况的工具。
 
@@ -978,7 +978,7 @@ Z.ai 推出的编码智能体框架，提供强大、智能且可扩展的 AI �
 
 ---
 ### [craft-ai-agents/craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss)
-**⭐ 7321** | **TypeScript**
+**⭐ 7324** | **TypeScript**
 
 一个基于TypeScript构建的开源AI代理框架，用于创建和管理智能代理。
 
@@ -988,7 +988,7 @@ Z.ai 推出的编码智能体框架，提供强大、智能且可扩展的 AI �
 
 ---
 ### [larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone)
-**⭐ 7109** | **Python**
+**⭐ 7266** | **Python**
 
 一个基于283万字语料统计的去除AI写作痕迹（去AI味）的Python工具。
 
@@ -998,13 +998,23 @@ Z.ai 推出的编码智能体框架，提供强大、智能且可扩展的 AI �
 
 ---
 ### [antvis/Infographic](https://github.com/antvis/Infographic)
-**⭐ 7079** | **TypeScript**
+**⭐ 7087** | **TypeScript**
 
 这是一个基于AI的图表生成和渲染框架，能够将文字描述自动转换为可视化图表。
 
 标签: `数据可视化` `AI生成`
 
 **使用场景**: 用于快速生成信息图表、数据报告可视化、将自然语言描述自动转换为图表展示等场景。
+
+---
+### [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot)
+**⭐ 6872** | **JavaScript**
+
+一个基于 DeepSeek Harness 的多智能体机器人团队，支持主机器人、机器人间消息传递和群聊功能。
+
+标签: `多智能体` `聊天机器人` `DeepSeek` `群聊`
+
+**使用场景**: 用于构建和部署长期运行的多机器人协作系统，实现机器人之间的消息交互和群组聊天场景。
 
 ---
 ### [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser)
@@ -1017,18 +1027,8 @@ Z.ai 推出的编码智能体框架，提供强大、智能且可扩展的 AI �
 **使用场景**: 让Claude AI代理能够通过Playwright自动化浏览器进行网页浏览、数据抓取或自动化测试等任务。
 
 ---
-### [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot)
-**⭐ 6702** | **JavaScript**
-
-一个基于 DeepSeek Harness 的多智能体机器人团队，支持主机器人、机器人间消息传递和群聊功能。
-
-标签: `多智能体` `聊天机器人` `DeepSeek` `群聊`
-
-**使用场景**: 用于构建和部署长期运行的多机器人协作系统，实现机器人之间的消息交互和群组聊天场景。
-
----
 ### [op7418/CodePilot](https://github.com/op7418/CodePilot)
-**⭐ 6519** | **TypeScript**
+**⭐ 6520** | **TypeScript**
 
 这是一个基于Electron和Next.js构建的桌面GUI应用，用于可视化管理和使用Claude Code进行聊天、编程和项目管理。
 
@@ -1037,18 +1037,8 @@ Z.ai 推出的编码智能体框架，提供强大、智能且可扩展的 AI �
 **使用场景**: 为开发者提供一个图形化界面来与Claude Code交互，支持代码编写、项目管理和AI对话，提升开发效率。
 
 ---
-### [KunAgent/Kun](https://github.com/KunAgent/Kun)
-**⭐ 6382** | **TypeScript**
-
-Kun是一个将AI代理工作空间（包含代码和写作模式）集成到应用程序中的工具。
-
-标签: [`AI代理`](#tag-ai代理) `工作空间` [`代码生成`](#tag-代码生成) `写作辅助`
-
-**使用场景**: 适用于需要在应用程序中嵌入AI驱动的代码编写和内容生成功能的开发者和企业。
-
----
 ### [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills)
-**⭐ 6355** | **JavaScript**
+**⭐ 6433** | **JavaScript**
 
 为AI短剧制作提供一套技能集合，涵盖角色拆解、大纲编排、场景与道具设定及剧本编写，支持在Claude Code和codex中运行。
 
@@ -1057,8 +1047,18 @@ Kun是一个将AI代理工作空间（包含代码和写作模式）集成到应
 **使用场景**: 用于AI辅助短剧创作，帮助创作者快速生成角色设定、剧情大纲、场景道具和完整剧本，提升制作效率。
 
 ---
+### [KunAgent/Kun](https://github.com/KunAgent/Kun)
+**⭐ 6377** | **TypeScript**
+
+Kun是一个将AI代理工作空间（包含代码和写作模式）集成到应用程序中的工具。
+
+标签: [`AI代理`](#tag-ai代理) `工作空间` [`代码生成`](#tag-代码生成) `写作辅助`
+
+**使用场景**: 适用于需要在应用程序中嵌入AI驱动的代码编写和内容生成功能的开发者和企业。
+
+---
 ### [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)
-**⭐ 6271** | **JavaScript**
+**⭐ 6309** | **JavaScript**
 
 在本地运行Claude Design作为代理技能，生成自包含HTML格式的UI设计稿、原型和线框图。
 
@@ -1068,7 +1068,7 @@ Kun是一个将AI代理工作空间（包含代码和写作模式）集成到应
 
 ---
 ### [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)
-**⭐ 5891** | **TypeScript**
+**⭐ 5892** | **TypeScript**
 
 这是一个用于构建云端智能代理的开源模板项目。
 
@@ -1078,7 +1078,7 @@ Kun是一个将AI代理工作空间（包含代码和写作模式）集成到应
 
 ---
 ### [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui)
-**⭐ 5824** | **TypeScript**
+**⭐ 5828** | **TypeScript**
 
 一个基于Web UI的音频翻译和配音工具
 
@@ -1098,7 +1098,7 @@ Kun是一个将AI代理工作空间（包含代码和写作模式）集成到应
 
 ---
 ### [benjitaylor/agentation](https://github.com/benjitaylor/agentation)
-**⭐ 5365** | **TypeScript**
+**⭐ 5381** | **TypeScript**
 
 这是一个为AI智能体提供可视化反馈的工具。
 
@@ -1118,7 +1118,7 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 
 ---
 ### [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)
-**⭐ 4268** | **Python**
+**⭐ 4321** | **Python**
 
 一个为 Qwen-Image 2.1 提供 NSFW/姿势出图能力的 Agent Skill，包含作者级提示词配方、NSFW LoRA 和 136 种姿势的 VNCCS 人偶控制，适用于 Claude Code、Codex、Cursor、OpenClaw 等 AI 编程助手。
 
@@ -1128,7 +1128,7 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 
 ---
 ### [ginobefun/BestBlogs](https://github.com/ginobefun/BestBlogs)
-**⭐ 4084** | **TypeScript**
+**⭐ 4085** | **TypeScript**
 
 这是一个聚合顶级编程、人工智能、产品及科技文章并提供AI摘要与评分的博客推荐平台。
 
@@ -1148,7 +1148,7 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 
 ---
 ### [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
-**⭐ 3379** | **Python**
+**⭐ 3380** | **Python**
 
 这是一个让AI智能体能够像人类一样操作真实Android和iOS移动应用的Python库。
 
@@ -1168,7 +1168,7 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 
 ---
 ### [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent)
-**⭐ 3073** | **Python**
+**⭐ 3074** | **Python**
 
 这是一个展示智能体核心执行流程和生产级特性的最小化专业单智能体演示项目。
 
@@ -1198,7 +1198,7 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 
 ---
 ### [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw)
-**⭐ 2632** | **TypeScript**
+**⭐ 2636** | **TypeScript**
 
 一个MCP服务器和Claude Code技能，用于通过AI代理以编程方式创建、编辑和导出Excalidraw图表，并支持实时画布同步。
 
@@ -1208,7 +1208,7 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 
 ---
 ### [1sdv/TripStar](https://github.com/1sdv/TripStar)
-**⭐ 2535** | **Vue**
+**⭐ 2536** | **Vue**
 
 这是一个基于AI的旅行规划智能体应用，帮助用户解决旅行信息过载和决策疲劳问题。
 
@@ -1218,7 +1218,7 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 
 ---
 ### [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex)
-**⭐ 2500** | **Rust**
+**⭐ 2503** | **Rust**
 
 为云端AI代理（如ChatGPT、Claude等）提供在用户自己机器上运行的真实开发环境。
 
@@ -1228,7 +1228,7 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 
 ---
 ### [kevinho/clawfeed](https://github.com/kevinho/clawfeed)
-**⭐ 2407** | **HTML**
+**⭐ 2408** | **HTML**
 
 这是一个基于AI的新闻摘要工具，从Twitter/RSS源提取结构化摘要并提供网页仪表板
 
@@ -1238,7 +1238,7 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 
 ---
 ### [antoinezambelli/forge](https://github.com/antoinezambelli/forge)
-**⭐ 2267** | **Python**
+**⭐ 2268** | **Python**
 
 一个用于自托管LLM工具调用和多步骤代理工作流的Python框架
 
@@ -1247,8 +1247,18 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 **使用场景**: 适用于需要构建基于自托管大语言模型的智能代理系统，支持工具调用和多步骤任务自动化，例如自动化客服、数据分析助手或复杂工作流编排
 
 ---
+### [Lynpoint/CyberVerse](https://github.com/Lynpoint/CyberVerse)
+**⭐ 1946** | **Python**
+
+一个开源的实时数字人智能体平台，用于构建支持语音优先的AI代理，集成WebRTC、记忆、工具、RAG和可选的数字人视频功能。
+
+标签: [`AI代理`](#tag-ai代理) `数字人` `语音助手` `WebRTC` `实时交互`
+
+**使用场景**: 适用于需要创建具有语音交互、记忆功能和数字人形象的AI助手或虚拟伴侣的应用场景，如客户服务、虚拟主播、个人助理等。
+
+---
 ### [IPADS-SAI/MobiAgent](https://github.com/IPADS-SAI/MobiAgent)
-**⭐ 1934** | **Python**
+**⭐ 1935** | **Python**
 
 这是一个用于移动设备的智能图形用户界面代理项目。
 
@@ -1257,14 +1267,14 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 **使用场景**: 用于自动化操作移动设备界面，执行任务或进行测试。
 
 ---
-### [Lynpoint/CyberVerse](https://github.com/Lynpoint/CyberVerse)
-**⭐ 1929** | **Python**
+### [DIYgod/pinky](https://github.com/DIYgod/pinky)
+**⭐ 1732** | **Go**
 
-一个开源的实时数字人智能体平台，用于构建支持语音优先的AI代理，集成WebRTC、记忆、工具、RAG和可选的数字人视频功能。
+让AI代理在用户监督下操作手机，实现人机协同的移动端自动化。
 
-标签: [`AI代理`](#tag-ai代理) `数字人` `语音助手` `WebRTC` `实时交互`
+标签: [`AI Agent`](#tag-ai-agent) [`自动化`](#tag-自动化) [`Android`](#tag-android) [`ADB`](#tag-adb) [`AI助手`](#tag-ai助手)
 
-**使用场景**: 适用于需要创建具有语音交互、记忆功能和数字人形象的AI助手或虚拟伴侣的应用场景，如客户服务、虚拟主播、个人助理等。
+**使用场景**: 开发者或用户可通过AI代理自动执行手机上的任务（如点击、输入、导航），同时保持人工监督和干预，适用于自动化测试、辅助操作等场景。
 
 ---
 ### [mark3labs/mcphost](https://github.com/mark3labs/mcphost)
@@ -1277,18 +1287,8 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 **使用场景**: 开发人员或AI研究者可以使用此工具，让LLM（如ChatGPT）通过MCP协议调用和执行外部命令行工具，扩展LLM的功能和自动化任务。
 
 ---
-### [DIYgod/pinky](https://github.com/DIYgod/pinky)
-**⭐ 1506** | **Go**
-
-让AI代理在用户监督下操作手机，实现人机协同的移动端自动化。
-
-标签: [`AI Agent`](#tag-ai-agent) [`自动化`](#tag-自动化) [`Android`](#tag-android) [`ADB`](#tag-adb) [`AI助手`](#tag-ai助手)
-
-**使用场景**: 开发者或用户可通过AI代理自动执行手机上的任务（如点击、输入、导航），同时保持人工监督和干预，适用于自动化测试、辅助操作等场景。
-
----
 ### [awdr74100/figwright](https://github.com/awdr74100/figwright)
-**⭐ 1352** | **TypeScript**
+**⭐ 1367** | **TypeScript**
 
 一个免费的双向Figma MCP服务器，可将设计稿转换为框架感知的代码，并支持将代码推回画布，兼容Claude Code、Cursor、Codex等MCP客户端。
 
@@ -1298,7 +1298,7 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 
 ---
 ### [cclank/news-aggregator-skill](https://github.com/cclank/news-aggregator-skill)
-**⭐ 1317** | **Python**
+**⭐ 1318** | **Python**
 
 这是一个基于Python开发的新闻聚合技能，能够从多个信息源收集新闻，深度解析文章内容并提供智能解读。
 
@@ -1348,7 +1348,7 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 
 ---
 ### [wecode-ai/Wegent](https://github.com/wecode-ai/Wegent)
-**⭐ 886** | **TypeScript**
+**⭐ 887** | **TypeScript**
 
 一个开源的AI原生操作系统，用于定义、组织和运行智能代理团队。
 
@@ -1368,7 +1368,7 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 
 ---
 ### [ljquan/opentu](https://github.com/ljquan/opentu)
-**⭐ 787** | **TypeScript**
+**⭐ 788** | **TypeScript**
 
 这是一个使用AI技术进行绘图创作并生成视频的TypeScript项目。
 
@@ -1398,7 +1398,7 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 
 ---
 ### [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
-**⭐ 631** | **Python**
+**⭐ 633** | **Python**
 
 这是一个收集和分析优秀claude.md文件及AI项目引导模式的精选仓库，旨在帮助开发者为其代码库创建有效的AI引导文档。
 
@@ -1418,7 +1418,7 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 
 ---
 ### [Tongyi-MAI/OpenGCUA](https://github.com/Tongyi-MAI/OpenGCUA)
-**⭐ 597** | **HTML**
+**⭐ 596** | **HTML**
 
 一个开源技术栈，用于构建通用计算机使用智能体，结合代码执行、GUI交互和跨设备控制能力。
 
@@ -1428,7 +1428,7 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 
 ---
 ### [ranpox/awesome-computer-use](https://github.com/ranpox/awesome-computer-use)
-**⭐ 590** | **None**
+**⭐ 591** | **None**
 
 这是一个收集计算机使用GUI代理相关资源的仓库，包括视频、博客、论文和项目。
 
@@ -1448,7 +1448,7 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 
 ---
 ### [VanGong1999/screen-creative-skills](https://github.com/VanGong1999/screen-creative-skills)
-**⭐ 502** | **Python**
+**⭐ 505** | **Python**
 
 提供31个影视创作评估与策划的AI Agent技能，支持竖屏短剧和长剧IP改编的自动化工作流。
 
@@ -1507,6 +1507,16 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 **使用场景**: 适用于AI Agent开发者或团队，用于系统化地设计、测试和发布可复用的Agent技能，提升工作流效率和质量。
 
 ---
+### [frontier-harness-eval/eval](https://github.com/frontier-harness-eval/eval)
+**⭐ 345** | **JavaScript**
+
+FrontierHarness Eval 是一个公开的评估结果和任务定义仓库，用于测试和比较多种AI编码代理工具（如Claude Code、Codex等）的性能。
+
+标签: `AI评估` `编码代理` `基准测试` [`Claude Code`](#tag-claude-code) `Codex`
+
+**使用场景**: 用于研究人员和开发者评估不同AI编码助手的实际能力，通过标准任务集进行对比测试，以选择最适合的工具或改进现有代理。
+
+---
 ### [Kxiandaoyan/Memoh-v2](https://github.com/Kxiandaoyan/Memoh-v2)
 **⭐ 339** | **Go**
 
@@ -1517,18 +1527,8 @@ OpenRAG是一个基于Langflow、Docling和Opensearch构建的综合性检索增
 **使用场景**: 可用于自动化任务处理、智能助手或需要高级代理功能的场景，提供比同类工具更人性化和强大的交互与执行能力。
 
 ---
-### [frontier-harness-eval/eval](https://github.com/frontier-harness-eval/eval)
-**⭐ 338** | **JavaScript**
-
-FrontierHarness Eval 是一个公开的评估结果和任务定义仓库，用于测试和比较多种AI编码代理工具（如Claude Code、Codex等）的性能。
-
-标签: `AI评估` `编码代理` `基准测试` [`Claude Code`](#tag-claude-code) `Codex`
-
-**使用场景**: 用于研究人员和开发者评估不同AI编码助手的实际能力，通过标准任务集进行对比测试，以选择最适合的工具或改进现有代理。
-
----
 ### [QuintinShaw/openasr](https://github.com/QuintinShaw/openasr)
-**⭐ 300** | **Rust**
+**⭐ 301** | **Rust**
 
 一个本地优先的语音转文字命令行工具，支持七种模型家族，提供OpenAI兼容的本地API，无云端和遥测。
 
@@ -1548,7 +1548,7 @@ FrontierHarness Eval 是一个公开的评估结果和任务定义仓库，用�
 
 ---
 ### [flyhero/antumi](https://github.com/flyhero/antumi)
-**⭐ 109** | **TypeScript**
+**⭐ 115** | **TypeScript**
 
 一个多Agent工作台，支持Claude Code、Codex、Cursor等AI编程助手，可查看额度、断档续用、多任务并行和Agent协作。
 
@@ -1583,7 +1583,7 @@ FrontierHarness Eval 是一个公开的评估结果和任务定义仓库，用�
 **43** 个仓库
 
 ### [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-**⭐ 127761** | **TypeScript**
+**⭐ 127861** | **TypeScript**
 
 这是一个基于React的UI组件库，提供美观、可访问的组件，支持多种前端框架。
 
@@ -1593,7 +1593,7 @@ FrontierHarness Eval 是一个公开的评估结果和任务定义仓库，用�
 
 ---
 ### [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
-**⭐ 126366** | **None**
+**⭐ 126517** | **None**
 
 收集各大流行网站的DESIGN.md文件，这些文件记录了设计系统，可用于帮助AI编程助手构建匹配的UI。
 
@@ -1603,7 +1603,7 @@ FrontierHarness Eval 是一个公开的评估结果和任务定义仓库，用�
 
 ---
 ### [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)
-**⭐ 51609** | **JavaScript**
+**⭐ 51666** | **JavaScript**
 
 一个开源的React组件集合，提供动画、交互式和完全可定制的组件，用于构建令人难忘的网站。
 
@@ -1613,7 +1613,7 @@ FrontierHarness Eval 是一个公开的评估结果和任务定义仓库，用�
 
 ---
 ### [slab/quill](https://github.com/slab/quill)
-**⭐ 47367** | **TypeScript**
+**⭐ 47368** | **TypeScript**
 
 Quill是一个现代化的所见即所得富文本编辑器，专注于兼容性和可扩展性。
 
@@ -1623,7 +1623,7 @@ Quill是一个现代化的所见即所得富文本编辑器，专注于兼容性
 
 ---
 ### [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)
-**⭐ 46217** | **TypeScript**
+**⭐ 46221** | **TypeScript**
 
 一个全栈现代Web应用模板，集成了FastAPI、React、SQLModel、PostgreSQL、Docker和GitHub Actions等工具。
 
@@ -1633,7 +1633,7 @@ Quill是一个现代化的所见即所得富文本编辑器，专注于兼容性
 
 ---
 ### [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-**⭐ 39006** | **TypeScript**
+**⭐ 39016** | **TypeScript**
 
 一个无头富文本编辑器框架，专为网页开发者设计，基于ProseMirror构建，支持Vue和React。
 
@@ -1643,7 +1643,7 @@ Quill是一个现代化的所见即所得富文本编辑器，专注于兼容性
 
 ---
 ### [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)
-**⭐ 32142** | **JavaScript**
+**⭐ 32189** | **JavaScript**
 
 这是一个使用Claude前端技能创建精美网页幻灯片的仓库。
 
@@ -1653,7 +1653,7 @@ Quill是一个现代化的所见即所得富文本编辑器，专注于兼容性
 
 ---
 ### [codex-team/editor.js](https://github.com/codex-team/editor.js)
-**⭐ 32001** | **TypeScript**
+**⭐ 32002** | **TypeScript**
 
 一个基于块的编辑器，能够生成干净的JSON输出。
 
@@ -1673,7 +1673,7 @@ VueUse是一个为Vue 3提供一系列核心组合式API实用工具的集合库
 
 ---
 ### [vercel-labs/json-render](https://github.com/vercel-labs/json-render)
-**⭐ 19526** | **TypeScript**
+**⭐ 19555** | **TypeScript**
 
 这是一个将AI生成的JSON数据转换为用户界面的工具库。
 
@@ -1683,7 +1683,7 @@ VueUse是一个为Vue 3提供一系列核心组合式API实用工具的集合库
 
 ---
 ### [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll)
-**⭐ 16428** | **TypeScript**
+**⭐ 16429** | **TypeScript**
 
 Better-scroll是一个用于移动端Web的滚动解决方案，提供流畅的滚动体验和丰富的功能。
 
@@ -1693,7 +1693,7 @@ Better-scroll是一个用于移动端Web的滚动解决方案，提供流畅的�
 
 ---
 ### [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
-**⭐ 13034** | **TypeScript**
+**⭐ 13054** | **TypeScript**
 
 一个基于TypeScript/React的AI聊天UI组件库，用于快速构建聊天机器人界面。
 
@@ -1703,7 +1703,7 @@ Better-scroll是一个用于移动端Web的滚动解决方案，提供流畅的�
 
 ---
 ### [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)
-**⭐ 12376** | **TypeScript**
+**⭐ 12381** | **TypeScript**
 
 这是一个提供美观地图组件的TypeScript库，支持零配置一键安装使用。
 
@@ -1713,7 +1713,7 @@ Better-scroll是一个用于移动端Web的滚动解决方案，提供流畅的�
 
 ---
 ### [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)
-**⭐ 12214** | **TypeScript**
+**⭐ 12298** | **TypeScript**
 
 一个支持本地音乐、Navidrome和第三方网易云音乐的播放器，专注于绚丽的歌词动画效果。
 
@@ -1723,7 +1723,7 @@ Better-scroll是一个用于移动端Web的滚动解决方案，提供流畅的�
 
 ---
 ### [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse)
-**⭐ 9436** | **TypeScript**
+**⭐ 9437** | **TypeScript**
 
 这是一个基于Vite和Vue的现代化Web开发启动模板，包含预设的配置和最佳实践。
 
@@ -1733,7 +1733,7 @@ Better-scroll是一个用于移动端Web的滚动解决方案，提供流畅的�
 
 ---
 ### [HeyPuter/everything](https://github.com/HeyPuter/everything)
-**⭐ 7865** | **JavaScript**
+**⭐ 8033** | **JavaScript**
 
 一个从零开始重建并开源全球软件（如Photoshop、CAD、Office等）的Web应用项目。
 
@@ -1743,7 +1743,7 @@ Better-scroll是一个用于移动端Web的滚动解决方案，提供流畅的�
 
 ---
 ### [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow)
-**⭐ 6933** | **TypeScript**
+**⭐ 6935** | **TypeScript**
 
 这是一个用于Vue 3的高度可定制的流程图组件库。
 
@@ -1753,7 +1753,7 @@ Better-scroll是一个用于移动端Web的滚动解决方案，提供流畅的�
 
 ---
 ### [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
-**⭐ 6599** | **TypeScript**
+**⭐ 6605** | **Rust**
 
 Vite+ 是一个集成了运行时、包管理和前端工具链的统一Web开发工具链
 
@@ -1763,7 +1763,7 @@ Vite+ 是一个集成了运行时、包管理和前端工具链的统一Web开�
 
 ---
 ### [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev)
-**⭐ 6203** | **HTML**
+**⭐ 6230** | **HTML**
 
 一个提供43+精心设计的UI过渡动画的动效代理库，可作为技能集成到你的工作流中。
 
@@ -1773,7 +1773,7 @@ Vite+ 是一个集成了运行时、包管理和前端工具链的统一Web开�
 
 ---
 ### [vercel/streamdown](https://github.com/vercel/streamdown)
-**⭐ 5752** | **TypeScript**
+**⭐ 5753** | **TypeScript**
 
 一个用于AI驱动流式渲染的react-markdown替代方案。
 
@@ -1783,7 +1783,7 @@ Vite+ 是一个集成了运行时、包管理和前端工具链的统一Web开�
 
 ---
 ### [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms)
-**⭐ 5185** | **Python**
+**⭐ 5186** | **Python**
 
 MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容管理系统，提供REST API支持。
 
@@ -1793,7 +1793,7 @@ MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容
 
 ---
 ### [unovue/inspira-ui](https://github.com/unovue/inspira-ui)
-**⭐ 5087** | **Vue**
+**⭐ 5089** | **Vue**
 
 一个基于Vue和Nuxt的UI组件库，用于快速构建美观的网站。
 
@@ -1803,7 +1803,7 @@ MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容
 
 ---
 ### [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits)
-**⭐ 4642** | **Vue**
+**⭐ 4645** | **Vue**
 
 一个开源的Vue组件库，提供动画化、交互式且完全可定制的UI组件，用于构建美观且令人印象深刻的网站。
 
@@ -1823,7 +1823,7 @@ MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容
 
 ---
 ### [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki)
-**⭐ 3660** | **C#**
+**⭐ 3662** | **C#**
 
 这是一个开源的基于C#和TypeScript开发的知识管理与协作平台。
 
@@ -1833,7 +1833,7 @@ MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容
 
 ---
 ### [chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard)
-**⭐ 3473** | **JavaScript**
+**⭐ 3475** | **JavaScript**
 
 一个基于JavaScript的任务看板项目，用于管理任务和项目进度。
 
@@ -1853,7 +1853,7 @@ MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容
 
 ---
 ### [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue)
-**⭐ 3053** | **Vue**
+**⭐ 3054** | **Vue**
 
 这是一个专为AI驱动的流式Markdown渲染设计的Vue 3渲染器，支持Monaco编辑器增量更新、Mermaid图表渐进渲染和KaTeX公式快速显示，提供实时无卡顿的渲染体验。
 
@@ -1863,7 +1863,7 @@ MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容
 
 ---
 ### [Afilmory/afilmory](https://github.com/Afilmory/afilmory)
-**⭐ 2670** | **TypeScript**
+**⭐ 2672** | **TypeScript**
 
 一个为摄影师设计的现代照片画廊，支持S3/GitHub同步、EXIF详情、地图和WebGL查看器。
 
@@ -1873,7 +1873,7 @@ MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容
 
 ---
 ### [vercel/ai-elements](https://github.com/vercel/ai-elements)
-**⭐ 2513** | **TypeScript**
+**⭐ 2514** | **TypeScript**
 
 基于shadcn/ui构建的组件库和自定义注册表，用于快速开发AI原生应用。
 
@@ -1883,7 +1883,7 @@ MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容
 
 ---
 ### [Paidax01/math-curve-loaders](https://github.com/Paidax01/math-curve-loaders)
-**⭐ 2075** | **JavaScript**
+**⭐ 2076** | **JavaScript**
 
 一个基于数学曲线的轻量级加载动画库，包含模态预览、公式和可复制的代码片段。
 
@@ -1903,7 +1903,7 @@ MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容
 
 ---
 ### [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui)
-**⭐ 1738** | **TypeScript**
+**⭐ 1742** | **TypeScript**
 
 基于逆向工程高保真还原 Claude 官方桌面端 UI 的 React 组件库，包含 30 个组件和 8 项交互物理算法。
 
@@ -1913,7 +1913,7 @@ MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容
 
 ---
 ### [vueup/vue-quill](https://github.com/vueup/vue-quill)
-**⭐ 1348** | **TypeScript**
+**⭐ 1347** | **TypeScript**
 
 这是一个用于Vue 3的富文本编辑器组件，基于Quill编辑器构建。
 
@@ -1923,7 +1923,7 @@ MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容
 
 ---
 ### [wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk)
-**⭐ 1315** | **TypeScript**
+**⭐ 1316** | **TypeScript**
 
 这是一个用于微信开发的TypeScript SDK，提供与微信API交互的代理功能。
 
@@ -1933,7 +1933,7 @@ MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容
 
 ---
 ### [CatsJuice/sticker-forge](https://github.com/CatsJuice/sticker-forge)
-**⭐ 756** | **JavaScript**
+**⭐ 757** | **JavaScript**
 
 一个具有触觉反馈的WebGL贴纸制作器，支持富文本、图片上传和交互式剥离物理效果。
 
@@ -1963,7 +1963,7 @@ MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容
 
 ---
 ### [VII-Cae/hyalite--liquid-glass](https://github.com/VII-Cae/hyalite--liquid-glass)
-**⭐ 264** | **JavaScript**
+**⭐ 265** | **JavaScript**
 
 一个无需WebGL、仅用单文件实现真实折射液体玻璃效果的Web开发库，结合SDF透镜映射、SVG位移和backdrop-filter技术。
 
@@ -1993,7 +1993,7 @@ MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容
 
 ---
 ### [Yeuoly/maleme](https://github.com/Yeuoly/maleme)
-**⭐ 163** | **Rust**
+**⭐ 164** | **Rust**
 
 一个用Rust编写的匿名评价/吐槽平台，允许用户对他人进行评价并生成排行榜。
 
@@ -2003,7 +2003,7 @@ MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容
 
 ---
 ### [ds-spec/detent-ui](https://github.com/ds-spec/detent-ui)
-**⭐ 47** | **TypeScript**
+**⭐ 84** | **TypeScript**
 
 一个基于 shadcn 安装的高级 React UI 组件库，支持主题定制和自由修改，免费开源。
 
@@ -2018,7 +2018,7 @@ MediaCMS是一个基于Python/Django和React开发的开源视频和媒体内容
 **39** 个仓库
 
 ### [termux/termux-app](https://github.com/termux/termux-app)
-**⭐ 64515** | **Java**
+**⭐ 64580** | **Java**
 
 Termux是一个为Android系统设计的终端模拟器应用，可通过多种软件包扩展功能。
 
@@ -2038,7 +2038,7 @@ Termux是一个为Android系统设计的终端模拟器应用，可通过多种�
 
 ---
 ### [appium/appium](https://github.com/appium/appium)
-**⭐ 22205** | **TypeScript**
+**⭐ 22209** | **TypeScript**
 
 Appium是一个基于W3C WebDriver协议的跨平台移动应用自动化测试框架。
 
@@ -2048,7 +2048,7 @@ Appium是一个基于W3C WebDriver协议的跨平台移动应用自动化测试�
 
 ---
 ### [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
-**⭐ 20385** | **Rust**
+**⭐ 20402** | **Rust**
 
 这是一个用Rust编写的跨平台GUI工具，通过ADB为无root权限的安卓设备卸载预装软件，以提升隐私、安全和电池续航。
 
@@ -2058,7 +2058,7 @@ Appium是一个基于W3C WebDriver协议的跨平台移动应用自动化测试�
 
 ---
 ### [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck)
-**⭐ 19105** | **Kotlin**
+**⭐ 19323** | **Kotlin**
 
 DroidDeck 将 SteamOS 的游戏体验带到 Android 设备上。
 
@@ -2068,7 +2068,7 @@ DroidDeck 将 SteamOS 的游戏体验带到 Android 设备上。
 
 ---
 ### [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL)
-**⭐ 17520** | **None**
+**⭐ 17518** | **None**
 
 这是一个为Android TV设备开发的第三方哔哩哔哩客户端应用。
 
@@ -2078,7 +2078,7 @@ DroidDeck 将 SteamOS 的游戏体验带到 Android 设备上。
 
 ---
 ### [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)
-**⭐ 16234** | **Dart**
+**⭐ 16235** | **Dart**
 
 一个用Dart编写的简单直播观看应用
 
@@ -2088,7 +2088,7 @@ DroidDeck 将 SteamOS 的游戏体验带到 Android 设备上。
 
 ---
 ### [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay)
-**⭐ 13549** | **Kotlin**
+**⭐ 13610** | **Kotlin**
 
 DiPlay 是一个为兼容的 Android 车机提供独立 CarPlay 接收功能的开源项目，支持有线和无线连接。
 
@@ -2098,7 +2098,7 @@ DiPlay 是一个为兼容的 Android 车机提供独立 CarPlay 接收功能的�
 
 ---
 ### [clearw5/Auto.js](https://github.com/clearw5/Auto.js)
-**⭐ 12854** | **None**
+**⭐ 12855** | **None**
 
 这是一个在安卓平台上运行的JavaScript自动化脚本IDE，用于实现自动化操作和工作流程。
 
@@ -2108,7 +2108,7 @@ DiPlay 是一个为兼容的 Android 车机提供独立 CarPlay 接收功能的�
 
 ---
 ### [openatx/uiautomator2](https://github.com/openatx/uiautomator2)
-**⭐ 8492** | **Python**
+**⭐ 8496** | **Python**
 
 这是一个用于Android自动化测试的Python库，封装了Uiautomator2功能。
 
@@ -2118,7 +2118,7 @@ DiPlay 是一个为兼容的 Android 车机提供独立 CarPlay 接收功能的�
 
 ---
 ### [wangzan101/Mika](https://github.com/wangzan101/Mika)
-**⭐ 7943** | **Kotlin**
+**⭐ 8103** | **Kotlin**
 
 一个运行在Android设备上的AI代理，通过操作应用和网页来自动完成用户任务。
 
@@ -2128,7 +2128,7 @@ DiPlay 是一个为兼容的 Android 车机提供独立 CarPlay 接收功能的�
 
 ---
 ### [kean/Pulse](https://github.com/kean/Pulse)
-**⭐ 7257** | **Swift**
+**⭐ 7259** | **Swift**
 
 Pulse 是一个用于 Apple 平台（iOS、macOS 等）的网络日志记录器，帮助开发者调试和监控网络请求。
 
@@ -2138,7 +2138,7 @@ Pulse 是一个用于 Apple 平台（iOS、macOS 等）的网络日志记录器�
 
 ---
 ### [alipay/SoloPi](https://github.com/alipay/SoloPi)
-**⭐ 6365** | **Java**
+**⭐ 6366** | **Java**
 
 SoloPi是一个面向Android和HarmonyOS的移动端自动化测试工具
 
@@ -2148,7 +2148,7 @@ SoloPi是一个面向Android和HarmonyOS的移动端自动化测试工具
 
 ---
 ### [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)
-**⭐ 5844** | **Swift**
+**⭐ 5867** | **Swift**
 
 OpenMinis是一个跨平台的AI Agent应用，完全免费且开源。
 
@@ -2158,7 +2158,7 @@ OpenMinis是一个跨平台的AI Agent应用，完全免费且开源。
 
 ---
 ### [meta/idb](https://github.com/meta/idb)
-**⭐ 5421** | **Swift**
+**⭐ 5422** | **Swift**
 
 这是一个用于自动化iOS模拟器和设备的灵活命令行工具
 
@@ -2168,7 +2168,7 @@ OpenMinis是一个跨平台的AI Agent应用，完全免费且开源。
 
 ---
 ### [tiann/hapi](https://github.com/tiann/hapi)
-**⭐ 5387** | **TypeScript**
+**⭐ 5396** | **TypeScript**
 
 这是一个支持多种AI代码助手（Claude Code/Codex/Gemini/OpenCode）的移动应用，让开发者可以随时随地通过AI辅助进行编程。
 
@@ -2178,7 +2178,7 @@ OpenMinis是一个跨平台的AI Agent应用，完全免费且开源。
 
 ---
 ### [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive)
-**⭐ 5378** | **Kotlin**
+**⭐ 5382** | **Kotlin**
 
 这是一个使用腾讯X5 WebView开发的Android电视直播应用。
 
@@ -2188,7 +2188,7 @@ OpenMinis是一个跨平台的AI Agent应用，完全免费且开源。
 
 ---
 ### [nab138/iloader](https://github.com/nab138/iloader)
-**⭐ 4665** | **TypeScript**
+**⭐ 4742** | **TypeScript**
 
 一个用户友好的iOS侧载工具，用于将应用安装到iPhone或iPad上。
 
@@ -2208,7 +2208,7 @@ OpenMinis是一个跨平台的AI Agent应用，完全免费且开源。
 
 ---
 ### [yanzhenjie/AndServer](https://github.com/yanzhenjie/AndServer)
-**⭐ 3864** | **Java**
+**⭐ 3865** | **Java**
 
 这是一个为Android平台开发的Web服务器和Web框架。
 
@@ -2218,7 +2218,7 @@ OpenMinis是一个跨平台的AI Agent应用，完全免费且开源。
 
 ---
 ### [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
-**⭐ 3757** | **Kotlin**
+**⭐ 3758** | **Kotlin**
 
 这是一个用于Android的开源图像识别自动点击器
 
@@ -2248,7 +2248,7 @@ OpenMinis是一个跨平台的AI Agent应用，完全免费且开源。
 
 ---
 ### [appium/WebDriverAgent](https://github.com/appium/WebDriverAgent)
-**⭐ 1965** | **Objective-C**
+**⭐ 1967** | **Objective-C**
 
 这是一个用于iOS和tvOS平台的WebDriver服务器，用于自动化移动应用测试。
 
@@ -2318,7 +2318,7 @@ OpenMinis是一个跨平台的AI Agent应用，完全免费且开源。
 
 ---
 ### [leeguooooo/iphone-use](https://github.com/leeguooooo/iphone-use)
-**⭐ 485** | **Rust**
+**⭐ 489** | **Rust**
 
 一个基于 Rust 的开源工具，让 AI agent（如 Claude Code、Codex 等 MCP 客户端）通过 USB 或 Wi-Fi 操作真实 iPhone，实现读屏、点击、输入、滑动等自动化控制。
 
@@ -2338,7 +2338,7 @@ OpenMinis是一个跨平台的AI Agent应用，完全免费且开源。
 
 ---
 ### [0cv/herdr-mobile-relay](https://github.com/0cv/herdr-mobile-relay)
-**⭐ 373** | **TypeScript**
+**⭐ 376** | **TypeScript**
 
 一个移动端Web应用，用于远程审批和监控Herdr代理，支持推送通知、二维码设置及通过Cloudflare、WebRTC或Tailscale进行多计算机中继。
 
@@ -2413,7 +2413,7 @@ Sonic云真机平台的Android插件，用于在云端管理和测试Android设�
 **15** 个仓库
 
 ### [obra/superpowers](https://github.com/obra/superpowers)
-**⭐ 315255** | **Shell**
+**⭐ 315809** | **Shell**
 
 这是一个基于代理技能的框架和软件开发方法论，旨在提升开发效率和系统智能化水平。
 
@@ -2423,7 +2423,7 @@ Sonic云真机平台的Android插件，用于在云端管理和测试Android设�
 
 ---
 ### [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
-**⭐ 30590** | **Python**
+**⭐ 30603** | **Python**
 
 这是一个用于构建多智能体工作流程的轻量级Python框架。
 
@@ -2433,7 +2433,7 @@ Sonic云真机平台的Android插件，用于在云端管理和测试Android设�
 
 ---
 ### [meta/lexical](https://github.com/meta/lexical)
-**⭐ 24011** | **TypeScript**
+**⭐ 24017** | **TypeScript**
 
 Lexical是一个可扩展的文本编辑器框架，专注于提供出色的可靠性、可访问性和性能。
 
@@ -2443,7 +2443,7 @@ Lexical是一个可扩展的文本编辑器框架，专注于提供出色的可�
 
 ---
 ### [livekit/livekit](https://github.com/livekit/livekit)
-**⭐ 22124** | **Go**
+**⭐ 22136** | **Go**
 
 LiveKit是一个端到端的实时通信堆栈，用于连接人类与AI，支持语音、视频和WebRTC传输。
 
@@ -2453,7 +2453,7 @@ LiveKit是一个端到端的实时通信堆栈，用于连接人类与AI，支�
 
 ---
 ### [didi/LogicFlow](https://github.com/didi/LogicFlow)
-**⭐ 11774** | **TypeScript**
+**⭐ 11777** | **TypeScript**
 
 LogicFlow是一个专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 
@@ -2463,7 +2463,7 @@ LogicFlow是一个专注于业务自定义的流程图编辑框架，支持实�
 
 ---
 ### [wxt-dev/wxt](https://github.com/wxt-dev/wxt)
-**⭐ 10714** | **TypeScript**
+**⭐ 10718** | **TypeScript**
 
 这是一个用于开发浏览器扩展的下一代框架，支持TypeScript、热重载和现代化开发工具链。
 
@@ -2473,7 +2473,7 @@ LogicFlow是一个专注于业务自定义的流程图编辑框架，支持实�
 
 ---
 ### [cordiverse/cordis](https://github.com/cordiverse/cordis)
-**⭐ 9802** | **TypeScript**
+**⭐ 9828** | **TypeScript**
 
 Cordis是一个基于TypeScript的元框架，旨在提供时空组合性（Spatiotemporal Composability）的插件化开发能力。
 
@@ -2483,7 +2483,7 @@ Cordis是一个基于TypeScript的元框架，旨在提供时空组合性（Spat
 
 ---
 ### [lepoco/wpfui](https://github.com/lepoco/wpfui)
-**⭐ 9748** | **C#**
+**⭐ 9750** | **C#**
 
 这是一个为WPF应用程序提供现代化Fluent Design界面组件和主题的UI库。
 
@@ -2493,7 +2493,7 @@ Cordis是一个基于TypeScript的元框架，旨在提供时空组合性（Spat
 
 ---
 ### [open-slide/open-slide](https://github.com/open-slide/open-slide)
-**⭐ 9720** | **TypeScript**
+**⭐ 9736** | **TypeScript**
 
 一个为AI代理构建的幻灯片框架，支持React和TypeScript。
 
@@ -2503,7 +2503,7 @@ Cordis是一个基于TypeScript的元框架，旨在提供时空组合性（Spat
 
 ---
 ### [egoist/mygo](https://github.com/egoist/mygo)
-**⭐ 5734** | **Go**
+**⭐ 5883** | **Go**
 
 一个用Go语言开发桌面应用的框架，支持使用Web前端或原生UI。
 
@@ -2513,7 +2513,7 @@ Cordis是一个基于TypeScript的元框架，旨在提供时空组合性（Spat
 
 ---
 ### [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework)
-**⭐ 5164** | **C++**
+**⭐ 5167** | **C++**
 
 基于图像识别的自动化黑盒测试框架，用于模拟用户操作和验证应用行为。
 
@@ -2523,7 +2523,7 @@ Cordis是一个基于TypeScript的元框架，旨在提供时空组合性（Spat
 
 ---
 ### [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK)
-**⭐ 4725** | **C++**
+**⭐ 4728** | **C++**
 
 Windows App SDK 是一个为 Windows 桌面应用提供现代 UI、API 和平台功能的开发工具包。
 
@@ -2553,7 +2553,7 @@ Monibuca是一个模块化、可扩展的流媒体服务器框架，用于构建
 
 ---
 ### [LuanRoger/electron-shadcn](https://github.com/LuanRoger/electron-shadcn)
-**⭐ 799** | **TypeScript**
+**⭐ 800** | **TypeScript**
 
 这是一个基于Electron Forge和shadcn-ui的桌面应用开发模板，集成了Vite、TypeScript等现代前端工具链。
 
@@ -2568,7 +2568,7 @@ Monibuca是一个模块化、可扩展的流媒体服务器框架，用于构建
 **8** 个仓库
 
 ### [nocodb/nocodb](https://github.com/nocodb/nocodb)
-**⭐ 65466** | **TypeScript**
+**⭐ 65492** | **TypeScript**
 
 NocoDB是一个开源的Airtable替代品，可将任何数据库转换为智能电子表格界面。
 
@@ -2578,7 +2578,7 @@ NocoDB是一个开源的Airtable替代品，可将任何数据库转换为智能
 
 ---
 ### [milvus-io/milvus](https://github.com/milvus-io/milvus)
-**⭐ 46623** | **Go**
+**⭐ 46633** | **Go**
 
 Milvus是一个专为可扩展向量相似性搜索设计的高性能云原生向量数据库。
 
@@ -2588,7 +2588,7 @@ Milvus是一个专为可扩展向量相似性搜索设计的高性能云原生�
 
 ---
 ### [duckdb/duckdb](https://github.com/duckdb/duckdb)
-**⭐ 42952** | **C++**
+**⭐ 42978** | **C++**
 
 DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
@@ -2598,7 +2598,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
 ---
 ### [t8y2/dbx](https://github.com/t8y2/dbx)
-**⭐ 29780** | **Rust**
+**⭐ 29959** | **Rust**
 
 一个轻量级跨平台数据库客户端，支持70多种数据库，并提供桌面端、Docker、CLI、AI助手和MCP Server。
 
@@ -2608,7 +2608,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
 ---
 ### [chroma-core/chroma](https://github.com/chroma-core/chroma)
-**⭐ 29665** | **Rust**
+**⭐ 29670** | **Rust**
 
 这是一个用于AI应用的开源向量搜索和检索数据库。
 
@@ -2618,7 +2618,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
 ---
 ### [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB)
-**⭐ 28354** | **Java**
+**⭐ 28362** | **Java**
 
 这是一个AI驱动的数据库工具和SQL客户端，支持多种主流数据库系统。
 
@@ -2628,7 +2628,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
 ---
 ### [alibaba/zvec](https://github.com/alibaba/zvec)
-**⭐ 16221** | **C++**
+**⭐ 16225** | **C++**
 
 这是一个轻量级、极速的进程内向量数据库，专门用于向量相似性搜索。
 
@@ -2653,7 +2653,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 **268** 个仓库
 
 ### [mattpocock/skills](https://github.com/mattpocock/skills)
-**⭐ 319945** | **Shell**
+**⭐ 321078** | **Shell**
 
 一个包含真实工程师技能配置的仓库，源自作者个人的.claude目录。
 
@@ -2663,7 +2663,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
 ---
 ### [microsoft/markitdown](https://github.com/microsoft/markitdown)
-**⭐ 194635** | **Python**
+**⭐ 194846** | **Python**
 
 这是一个Python工具，用于将文件和Office文档转换为Markdown格式。
 
@@ -2673,7 +2673,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
 ---
 ### [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-**⭐ 187863** | **JavaScript**
+**⭐ 188483** | **JavaScript**
 
 一个让AI代理像最懒的高级开发人员一样思考的提示工程工具，强调不写代码才是最好的代码。
 
@@ -2683,7 +2683,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
 ---
 ### [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
-**⭐ 154450** | **C**
+**⭐ 154531** | **C**
 
 这是一个用于在电脑上显示和控制Android设备的开源工具。
 
@@ -2693,7 +2693,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
 ---
 ### [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-**⭐ 153142** | **Rust**
+**⭐ 153413** | **Rust**
 
 这是一个跨平台桌面应用，用于管理多个AI代码助手（如Claude Code、Codex、Gemini等）的集成工具。
 
@@ -2703,7 +2703,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
 ---
 ### [github/spec-kit](https://github.com/github/spec-kit)
-**⭐ 149065** | **Python**
+**⭐ 149224** | **Python**
 
 这是一个用于规范驱动开发（Spec-Driven Development）的工具包，帮助开发者基于规范进行软件开发。
 
@@ -2713,7 +2713,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
 ---
 ### [garrytan/gstack](https://github.com/garrytan/gstack)
-**⭐ 140993** | **TypeScript**
+**⭐ 141117** | **TypeScript**
 
 这是一个基于Claude Code的开发者工具集，包含15个经过精心挑选的工具，旨在模拟CEO、设计师、工程经理、发布经理、文档工程师和QA等角色的功能，提升开发效率。
 
@@ -2723,7 +2723,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
 ---
 ### [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
-**⭐ 128826** | **Rust**
+**⭐ 128953** | **Rust**
 
 一个开源自托管的远程桌面应用程序，可作为TeamViewer的替代品。
 
@@ -2733,7 +2733,7 @@ DuckDB是一个用于分析处理的内存SQL数据库管理系统。
 
 ---
 ### [immich-app/immich](https://github.com/immich-app/immich)
-**⭐ 118658** | **TypeScript**
+**⭐ 118760** | **TypeScript**
 
 Immich是一个高性能的自托管照片和视频管理解决方案，旨在替代Google Photos。
 
@@ -2743,7 +2743,7 @@ Immich是一个高性能的自托管照片和视频管理解决方案，旨在�
 
 ---
 ### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-**⭐ 114630** | **JavaScript**
+**⭐ 115268** | **JavaScript**
 
 为AI编码代理提供生产级工程技能的仓库。
 
@@ -2753,7 +2753,7 @@ Immich是一个高性能的自托管照片和视频管理解决方案，旨在�
 
 ---
 ### [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-**⭐ 110683** | **Python**
+**⭐ 110941** | **Python**
 
 这是一个为AI智能体提供互联网内容访问能力的命令行工具，支持从多个社交媒体平台免费抓取数据。
 
@@ -2763,7 +2763,7 @@ Immich是一个高性能的自托管照片和视频管理解决方案，旨在�
 
 ---
 ### [nexu-io/open-design](https://github.com/nexu-io/open-design)
-**⭐ 106881** | **TypeScript**
+**⭐ 107057** | **TypeScript**
 
 一个本地优先、开源的替代Anthropic Claude Design的设计工具，支持多种AI代理和设计系统，可生成网页、桌面、移动原型、幻灯片、图片、视频等。
 
@@ -2773,7 +2773,7 @@ Immich是一个高性能的自托管照片和视频管理解决方案，旨在�
 
 ---
 ### [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-**⭐ 97958** | **TypeScript**
+**⭐ 98045** | **TypeScript**
 
 这是一个开源的视频编辑软件，是剪映的替代品。
 
@@ -2783,7 +2783,7 @@ Immich是一个高性能的自托管照片和视频管理解决方案，旨在�
 
 ---
 ### [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
-**⭐ 91783** | **TypeScript**
+**⭐ 91920** | **TypeScript**
 
 这是一个将任何代码库转换为可交互知识图谱的工具，支持探索、搜索和提问。
 
@@ -2793,7 +2793,7 @@ Immich是一个高性能的自托管照片和视频管理解决方案，旨在�
 
 ---
 ### [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-**⭐ 86036** | **Rust**
+**⭐ 86136** | **Rust**
 
 这是一个用于减少LLM（大语言模型）在常见开发命令中token消耗的CLI代理工具，可将token使用量降低60-90%。
 
@@ -2803,7 +2803,7 @@ Immich是一个高性能的自托管照片和视频管理解决方案，旨在�
 
 ---
 ### [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-**⭐ 77233** | **TypeScript**
+**⭐ 77335** | **TypeScript**
 
 为Claude Code、Codex、Cursor和OpenCode等AI编程助手提供预索引的代码知识图谱，以减少token消耗和工具调用，完全本地运行。
 
@@ -2813,7 +2813,7 @@ Immich是一个高性能的自托管照片和视频管理解决方案，旨在�
 
 ---
 ### [ocornut/imgui](https://github.com/ocornut/imgui)
-**⭐ 77037** | **C++**
+**⭐ 77057** | **C++**
 
 一个无冗余、依赖极少的C++即时模式图形用户界面库。
 
@@ -2823,7 +2823,7 @@ Immich是一个高性能的自托管照片和视频管理解决方案，旨在�
 
 ---
 ### [Eugeny/tabby](https://github.com/Eugeny/tabby)
-**⭐ 75354** | **TypeScript**
+**⭐ 75377** | **TypeScript**
 
 Tabby是一个现代化的跨平台终端模拟器，支持SSH、串口和Telnet连接。
 
@@ -2832,18 +2832,8 @@ Tabby是一个现代化的跨平台终端模拟器，支持SSH、串口和Telnet
 **使用场景**: 适用于开发者和系统管理员进行远程服务器管理、本地命令行操作以及串口设备调试。
 
 ---
-### [juliangarnier/anime](https://github.com/juliangarnier/anime)
-**⭐ 74472** | **JavaScript**
-
-一个轻量级的JavaScript动画引擎，用于创建流畅的动画效果。
-
-标签: `动画` [`JavaScript`](#tag-javascript) `CSS` `SVG` `canvas`
-
-**使用场景**: 用于Web开发中创建高性能的动画效果，如UI动画、SVG动画、Canvas动画等。
-
----
 ### [tw93/Mole](https://github.com/tw93/Mole)
-**⭐ 74452** | **Shell**
+**⭐ 74555** | **Shell**
 
 这是一个用于深度清理和优化Mac系统的Shell脚本工具。
 
@@ -2852,8 +2842,18 @@ Tabby是一个现代化的跨平台终端模拟器，支持SSH、串口和Telnet
 **使用场景**: 当Mac用户需要清理系统垃圾文件、卸载残留应用、优化系统性能时，可以使用此命令行工具进行自动化深度清理。
 
 ---
+### [juliangarnier/anime](https://github.com/juliangarnier/anime)
+**⭐ 74498** | **JavaScript**
+
+一个轻量级的JavaScript动画引擎，用于创建流畅的动画效果。
+
+标签: `动画` [`JavaScript`](#tag-javascript) `CSS` `SVG` `canvas`
+
+**使用场景**: 用于Web开发中创建高性能的动画效果，如UI动画、SVG动画、Canvas动画等。
+
+---
 ### [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
-**⭐ 72063** | **TypeScript**
+**⭐ 72291** | **TypeScript**
 
 这是一个使用React以编程方式创建视频的库。
 
@@ -2863,7 +2863,7 @@ Tabby是一个现代化的跨平台终端模拟器，支持SSH、串口和Telnet
 
 ---
 ### [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-**⭐ 69947** | **Rust**
+**⭐ 69981** | **Rust**
 
 ripgrep是一个用Rust编写的命令行搜索工具，能够递归搜索目录中的正则表达式模式，并自动遵守gitignore规则。
 
@@ -2873,7 +2873,7 @@ ripgrep是一个用Rust编写的命令行搜索工具，能够递归搜索目录
 
 ---
 ### [tw93/Pake](https://github.com/tw93/Pake)
-**⭐ 63053** | **Rust**
+**⭐ 63146** | **Rust**
 
 这是一个用Rust编写的命令行工具，可以将任何网页快速打包成轻量级桌面应用程序。
 
@@ -2883,7 +2883,7 @@ ripgrep是一个用Rust编写的命令行搜索工具，能够递归搜索目录
 
 ---
 ### [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-**⭐ 58525** | **Python**
+**⭐ 58565** | **Python**
 
 CLI-Anything 旨在将任何软件转化为可通过命令行接口（CLI）与AI代理原生交互的工具，使所有软件都能被AI代理直接调用和操作。
 
@@ -2892,18 +2892,8 @@ CLI-Anything 旨在将任何软件转化为可通过命令行接口（CLI）与A
 **使用场景**: 开发者或AI系统通过统一的命令行接口，让AI代理能够自动调用和控制各种软件，实现自动化工作流和智能任务执行。
 
 ---
-### [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
-**⭐ 55812** | **C++**
-
-ImHex是一款专为逆向工程师和程序员设计的现代化十六进制编辑器，支持多种二进制分析功能。
-
-标签: [`逆向工程`](#tag-逆向工程) `二进制分析`
-
-**使用场景**: 用于逆向工程、二进制文件分析、固件解析、漏洞研究、数字取证以及需要查看或编辑二进制文件的开发场景。
-
----
 ### [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
-**⭐ 55553** | **Python**
+**⭐ 56081** | **Python**
 
 通过Wi-Fi对Android TV或Google TV进行去臃肿处理，并提供类似Apple TV风格的桌面启动器。
 
@@ -2912,8 +2902,18 @@ ImHex是一款专为逆向工程师和程序员设计的现代化十六进制编
 **使用场景**: 适用于希望清理智能电视预装软件、提升隐私保护并更换为简洁桌面体验的用户。
 
 ---
+### [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+**⭐ 55819** | **C++**
+
+ImHex是一款专为逆向工程师和程序员设计的现代化十六进制编辑器，支持多种二进制分析功能。
+
+标签: [`逆向工程`](#tag-逆向工程) `二进制分析`
+
+**使用场景**: 用于逆向工程、二进制文件分析、固件解析、漏洞研究、数字取证以及需要查看或编辑二进制文件的开发场景。
+
+---
 ### [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-**⭐ 55036** | **TypeScript**
+**⭐ 55085** | **TypeScript**
 
 这是一个为AI编码助手提供Chrome DevTools功能的MCP服务器，使其能够通过浏览器自动化进行网页调试和操作。
 
@@ -2923,7 +2923,7 @@ ImHex是一款专为逆向工程师和程序员设计的现代化十六进制编
 
 ---
 ### [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
-**⭐ 51920** | **CSS**
+**⭐ 52720** | **CSS**
 
 一个为Claude Code、Cursor和Codex等AI编程工具提供反AI风格设计技能的仓库，旨在提升AI生成代码的设计质量。
 
@@ -2933,7 +2933,7 @@ ImHex是一款专为逆向工程师和程序员设计的现代化十六进制编
 
 ---
 ### [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)
-**⭐ 51381** | **None**
+**⭐ 51593** | **None**
 
 这是一个为Obsidian笔记软件提供AI助手技能插件的仓库。
 
@@ -2943,7 +2943,7 @@ ImHex是一款专为逆向工程师和程序员设计的现代化十六进制编
 
 ---
 ### [astral-sh/ruff](https://github.com/astral-sh/ruff)
-**⭐ 51146** | **Rust**
+**⭐ 51167** | **Rust**
 
 一个用Rust编写的极速Python代码检查器和格式化工具。
 
@@ -2952,18 +2952,8 @@ ImHex是一款专为逆向工程师和程序员设计的现代化十六进制编
 **使用场景**: 用于Python项目的静态代码分析，快速检查代码风格（如PEP 8）和语法错误，并能自动格式化代码以保持一致性。
 
 ---
-### [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
-**⭐ 49983** | **Python**
-
-一个超轻量级的OpenClaw实现，用于数据抓取或自动化任务。
-
-标签: [`自动化`](#tag-自动化) `爬虫`
-
-**使用场景**: 用于轻量级网页数据抓取、自动化测试或机器人控制等场景。
-
----
 ### [herdrdev/herdr](https://github.com/herdrdev/herdr)
-**⭐ 49820** | **Rust**
+**⭐ 50046** | **Rust**
 
 Herdr 是一个用 Rust 编写的终端多路复用器与工作区管理器，为编码智能体（如 Claude Code、Codex）提供运行时环境，支持智能体编排。
 
@@ -2972,8 +2962,18 @@ Herdr 是一个用 Rust 编写的终端多路复用器与工作区管理器，�
 **使用场景**: 开发者可以在终端中同时运行和管理多个 AI 编码智能体，通过多路复用和编排功能提升编码效率。
 
 ---
+### [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+**⭐ 50000** | **Python**
+
+一个超轻量级的OpenClaw实现，用于数据抓取或自动化任务。
+
+标签: [`自动化`](#tag-自动化) `爬虫`
+
+**使用场景**: 用于轻量级网页数据抓取、自动化测试或机器人控制等场景。
+
+---
 ### [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
-**⭐ 49435** | **Python**
+**⭐ 49505** | **Python**
 
 一个包含1400多个可安装的AI代理技能的GitHub库，支持Claude Code、Cursor、Codex CLI、Gemini CLI等工具，并提供CLI安装器、工作流和官方/社区技能集合。
 
@@ -2983,7 +2983,7 @@ Herdr 是一个用 Rust 编写的终端多路复用器与工作区管理器，�
 
 ---
 ### [nvm-windows/nvm](https://github.com/nvm-windows/nvm)
-**⭐ 48170** | **Inno Setup**
+**⭐ 48174** | **Inno Setup**
 
 这是一个用于Windows系统的Node.js版本管理工具，允许用户在同一台机器上安装和切换不同版本的Node.js。
 
@@ -2993,7 +2993,7 @@ Herdr 是一个用 Rust 编写的终端多路复用器与工作区管理器，�
 
 ---
 ### [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
-**⭐ 46959** | **JavaScript**
+**⭐ 46962** | **JavaScript**
 
 Monaco Editor 是一个基于浏览器的代码编辑器，为 Visual Studio Code 提供了核心编辑功能。
 
@@ -3003,7 +3003,7 @@ Monaco Editor 是一个基于浏览器的代码编辑器，为 Visual Studio Cod
 
 ---
 ### [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
-**⭐ 46876** | **C++**
+**⭐ 46882** | **C++**
 
 一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，支持任务栏显示和更换皮肤。
 
@@ -3013,7 +3013,7 @@ Monaco Editor 是一个基于浏览器的代码编辑器，为 Visual Studio Cod
 
 ---
 ### [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
-**⭐ 46771** | **Python**
+**⭐ 46813** | **Python**
 
 mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测试和软件开发调试。
 
@@ -3023,7 +3023,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
-**⭐ 45751** | **Go**
+**⭐ 45810** | **Go**
 
 这是一个开源的中转服务，用于统一接入多个AI服务商的API订阅，支持拼车共享以分摊成本。
 
@@ -3033,7 +3033,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
-**⭐ 44389** | **PowerShell**
+**⭐ 44439** | **PowerShell**
 
 这是一个为AI编程客户端提供逆向工程、渗透测试和安全研究技能路由、工具链自举和知识库自动进化的PowerShell工具包。
 
@@ -3043,7 +3043,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
-**⭐ 42247** | **Rust**
+**⭐ 42352** | **Rust**
 
 一个用Rust编写的跨平台网络流量监控工具，提供图形化界面实时分析网络数据包。
 
@@ -3053,7 +3053,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
-**⭐ 40021** | **TypeScript**
+**⭐ 40022** | **TypeScript**
 
 这是一个开源的屏幕录制工具，可以创建高质量、无水印的屏幕录制视频。
 
@@ -3063,7 +3063,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
-**⭐ 38925** | **TypeScript**
+**⭐ 38968** | **TypeScript**
 
 一个通过AI编码代理一键克隆任何网站的模板工具。
 
@@ -3073,7 +3073,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
-**⭐ 38073** | **TypeScript**
+**⭐ 38091** | **TypeScript**
 
 基于Claude Code构建编码基础设施，允许用户自定义与模型交互方式的同时享受Anthropic的更新。
 
@@ -3083,7 +3083,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)
-**⭐ 36424** | **TypeScript**
+**⭐ 36485** | **TypeScript**
 
 这是一个免费开源的屏幕录制工具，提供自动缩放、光标动画等功能，可作为Screen Studio的替代品。
 
@@ -3093,7 +3093,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [jdx/mise](https://github.com/jdx/mise)
-**⭐ 35987** | **Rust**
+**⭐ 36024** | **Rust**
 
 一个用于管理开发工具、环境变量和任务运行的多语言版本管理器
 
@@ -3103,7 +3103,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-**⭐ 35861** | **Go**
+**⭐ 35858** | **Go**
 
 这是一个基于Web的自托管文件浏览器和管理工具。
 
@@ -3113,7 +3113,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)
-**⭐ 33017** | **Rust**
+**⭐ 33042** | **Rust**
 
 一个用Rust编写的CodexApp增强工具，旨在提升Codex的使用体验和舒适度。
 
@@ -3123,7 +3123,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
-**⭐ 32935** | **Rust**
+**⭐ 32968** | **Rust**
 
 这是一个为Antigravity工具提供专业账号管理和一键无缝切换功能的桌面应用程序。
 
@@ -3133,7 +3133,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)
-**⭐ 32792** | **C++**
+**⭐ 32810** | **C++**
 
 这是一个基于Qt框架开发的Android设备实时投屏与控制软件。
 
@@ -3143,7 +3143,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm)
-**⭐ 32639** | **C**
+**⭐ 32652** | **C**
 
 这是一个专业的跨平台SSH/Sftp/Shell/Telnet/Tmux/串口终端工具。
 
@@ -3153,7 +3153,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)
-**⭐ 30990** | **JavaScript**
+**⭐ 31011** | **JavaScript**
 
 这是一个AI驱动的浏览器自动化工具，可将任何网站转换为命令行界面，实现动态网页数据提取和自动化操作。
 
@@ -3163,7 +3163,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [browser-use/video-use](https://github.com/browser-use/video-use)
-**⭐ 30834** | **Python**
+**⭐ 30883** | **Python**
 
 使用编码代理编辑视频的仓库
 
@@ -3173,7 +3173,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [sipeed/picoclaw](https://github.com/sipeed/picoclaw)
-**⭐ 30117** | **Go**
+**⭐ 30122** | **Go**
 
 一个轻量级、高性能的Go语言自动化工具，用于简化重复性任务和部署流程。
 
@@ -3183,7 +3183,7 @@ mitmproxy是一个交互式的TLS拦截HTTP代理工具，主要用于渗透测�
 
 ---
 ### [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy)
-**⭐ 29652** | **C#**
+**⭐ 29655** | **C#**
 
 dnSpy是一个用于.NET程序的反编译、调试和编辑的工具。
 
@@ -3193,7 +3193,7 @@ dnSpy是一个用于.NET程序的反编译、调试和编辑的工具。
 
 ---
 ### [fanmingming/live](https://github.com/fanmingming/live)
-**⭐ 28804** | **JavaScript**
+**⭐ 28810** | **JavaScript**
 
 这是一个提供可直连访问的电视/广播图标库及相关IPTV工具的开源项目。
 
@@ -3203,7 +3203,7 @@ dnSpy是一个用于.NET程序的反编译、调试和编辑的工具。
 
 ---
 ### [TanStack/table](https://github.com/TanStack/table)
-**⭐ 28557** | **TypeScript**
+**⭐ 28563** | **TypeScript**
 
 这是一个用于构建强大表格和数据网格的无头UI库，支持React、Vue、Solid和Svelte等多种前端框架。
 
@@ -3213,7 +3213,7 @@ dnSpy是一个用于.NET程序的反编译、调试和编辑的工具。
 
 ---
 ### [readest/readest](https://github.com/readest/readest)
-**⭐ 26137** | **TypeScript**
+**⭐ 26170** | **TypeScript**
 
 Readest是一个现代化的跨平台电子书阅读器，支持多种格式并提供丰富的阅读功能。
 
@@ -3223,7 +3223,7 @@ Readest是一个现代化的跨平台电子书阅读器，支持多种格式并�
 
 ---
 ### [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar)
-**⭐ 25012** | **Vue**
+**⭐ 25022** | **Vue**
 
 这是一个帮助开发者加速访问GitHub、Stack Overflow等国外开发资源的代理工具。
 
@@ -3233,7 +3233,7 @@ Readest是一个现代化的跨平台电子书阅读器，支持多种格式并�
 
 ---
 ### [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat)
-**⭐ 24568** | **Rust**
+**⭐ 24579** | **Rust**
 
 这是一个跨平台的互动桌宠应用，可以在桌面上显示一只可爱的Bongo猫，为用户增添桌面乐趣。
 
@@ -3243,7 +3243,7 @@ Readest是一个现代化的跨平台电子书阅读器，支持多种格式并�
 
 ---
 ### [winstonjs/winston](https://github.com/winstonjs/winston)
-**⭐ 24528** | **JavaScript**
+**⭐ 24529** | **JavaScript**
 
 Winston是一个功能丰富的Node.js日志记录库，支持多种传输方式和自定义格式。
 
@@ -3253,7 +3253,7 @@ Winston是一个功能丰富的Node.js日志记录库，支持多种传输方式
 
 ---
 ### [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
-**⭐ 24316** | **Python**
+**⭐ 24383** | **Python**
 
 jev-ultrafast 是一个追求极致速度的 Python 项目，可能用于高性能计算或网络请求优化。
 
@@ -3263,7 +3263,7 @@ jev-ultrafast 是一个追求极致速度的 Python 项目，可能用于高性�
 
 ---
 ### [air-verse/air](https://github.com/air-verse/air)
-**⭐ 24114** | **Go**
+**⭐ 24117** | **Go**
 
 这是一个为Go应用程序提供实时重载功能的工具
 
@@ -3273,7 +3273,7 @@ jev-ultrafast 是一个追求极致速度的 Python 项目，可能用于高性�
 
 ---
 ### [iovisor/bcc](https://github.com/iovisor/bcc)
-**⭐ 22734** | **C**
+**⭐ 22737** | **C**
 
 BCC是一个用于基于BPF的Linux系统性能分析、网络监控和追踪的工具集。
 
@@ -3283,7 +3283,7 @@ BCC是一个用于基于BPF的Linux系统性能分析、网络监控和追踪的
 
 ---
 ### [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)
-**⭐ 22408** | **Python**
+**⭐ 22512** | **Python**
 
 Humanizer 的汉化版本，用于消除文本中 AI 生成的痕迹，适配 Claude Code Skills。
 
@@ -3293,7 +3293,7 @@ Humanizer 的汉化版本，用于消除文本中 AI 生成的痕迹，适配 Cl
 
 ---
 ### [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
-**⭐ 22349** | **JavaScript**
+**⭐ 22464** | **JavaScript**
 
 一个专为AI代理设计的最快浏览器自动化工具，可共享已登录的浏览器状态给Codex或Claude Code等AI代理，且不干扰用户。
 
@@ -3303,7 +3303,7 @@ Humanizer 的汉化版本，用于消除文本中 AI 生成的痕迹，适配 Cl
 
 ---
 ### [1jehuang/jcode](https://github.com/1jehuang/jcode)
-**⭐ 21658** | **Rust**
+**⭐ 21685** | **Rust**
 
 一个用Rust编写的编码代理工具集，支持AI驱动的命令行界面和MCP协议。
 
@@ -3313,7 +3313,7 @@ Humanizer 的汉化版本，用于消除文本中 AI 生成的痕迹，适配 Cl
 
 ---
 ### [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
-**⭐ 20694** | **Rust**
+**⭐ 21493** | **Rust**
 
 Agent Desktop 是一个基于 Rust 构建的桌面自动化工具，通过操作系统无障碍树让 AI 代理可靠地感知和操作任意应用的界面。
 
@@ -3323,7 +3323,7 @@ Agent Desktop 是一个基于 Rust 构建的桌面自动化工具，通过操作
 
 ---
 ### [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
-**⭐ 20492** | **TypeScript**
+**⭐ 20497** | **TypeScript**
 
 一个用于管理Markdown知识库的桌面应用程序
 
@@ -3333,7 +3333,7 @@ Agent Desktop 是一个基于 Rust 构建的桌面自动化工具，通过操作
 
 ---
 ### [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)
-**⭐ 20361** | **TypeScript**
+**⭐ 20364** | **TypeScript**
 
 rrweb 是一个用于录制和回放网页用户操作的库。
 
@@ -3343,7 +3343,7 @@ rrweb 是一个用于录制和回放网页用户操作的库。
 
 ---
 ### [C4illin/ConvertX](https://github.com/C4illin/ConvertX)
-**⭐ 19660** | **TypeScript**
+**⭐ 19676** | **TypeScript**
 
 这是一个自托管的在线文件转换工具，支持超过1000种文件格式的相互转换。
 
@@ -3353,7 +3353,7 @@ rrweb 是一个用于录制和回放网页用户操作的库。
 
 ---
 ### [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)
-**⭐ 18974** | **JavaScript**
+**⭐ 18982** | **JavaScript**
 
 这是一个免费的隐私友好型屏幕录制Chrome扩展，支持屏幕录制、摄像头录制、音频录制和屏幕标注功能。
 
@@ -3363,7 +3363,7 @@ rrweb 是一个用于录制和回放网页用户操作的库。
 
 ---
 ### [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)
-**⭐ 18338** | **TypeScript**
+**⭐ 18372** | **TypeScript**
 
 一个通用提供商代理，允许OpenAI Codex和Claude Code使用任何LLM（如Claude、Gemini、Grok、DeepSeek、Ollama等）。
 
@@ -3373,7 +3373,7 @@ rrweb 是一个用于录制和回放网页用户操作的库。
 
 ---
 ### [larksuite/cli](https://github.com/larksuite/cli)
-**⭐ 18034** | **Go**
+**⭐ 18045** | **Go**
 
 这是Lark/飞书官方团队维护的命令行工具，提供访问Lark/飞书平台核心业务功能的接口。
 
@@ -3383,7 +3383,7 @@ rrweb 是一个用于录制和回放网页用户操作的库。
 
 ---
 ### [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
-**⭐ 16603** | **Swift**
+**⭐ 16618** | **Swift**
 
 这是一个用于在命令行中模拟虚拟手机的Python工具
 
@@ -3393,7 +3393,7 @@ rrweb 是一个用于录制和回放网页用户操作的库。
 
 ---
 ### [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)
-**⭐ 16367** | **Kotlin**
+**⭐ 16375** | **Kotlin**
 
 这是一个用于移动端和Web端无痛E2E自动化测试的工具
 
@@ -3403,7 +3403,7 @@ rrweb 是一个用于录制和回放网页用户操作的库。
 
 ---
 ### [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect)
-**⭐ 16307** | **Go**
+**⭐ 16318** | **Go**
 
 这是一个连接本地AI编程助手与主流通讯平台的桥接工具，让开发者可以在聊天软件中与AI助手对话。
 
@@ -3413,7 +3413,7 @@ rrweb 是一个用于录制和回放网页用户操作的库。
 
 ---
 ### [VERT-sh/VERT](https://github.com/VERT-sh/VERT)
-**⭐ 16235** | **TypeScript**
+**⭐ 16242** | **TypeScript**
 
 这是一个基于Web的下一代开源文件转换工具，支持多种格式转换且完全本地运行。
 
@@ -3423,7 +3423,7 @@ rrweb 是一个用于录制和回放网页用户操作的库。
 
 ---
 ### [YishenTu/claudian](https://github.com/YishenTu/claudian)
-**⭐ 15956** | **TypeScript**
+**⭐ 15968** | **TypeScript**
 
 这是一个Obsidian插件，将Claude Code作为侧边栏聊天界面嵌入到Obsidian笔记应用中。
 
@@ -3433,7 +3433,7 @@ rrweb 是一个用于录制和回放网页用户操作的库。
 
 ---
 ### [benfred/py-spy](https://github.com/benfred/py-spy)
-**⭐ 15635** | **Rust**
+**⭐ 15638** | **Rust**
 
 这是一个用于Python程序的采样性能分析器，可以无需修改代码或重启程序来分析Python程序的性能瓶颈。
 
@@ -3443,7 +3443,7 @@ rrweb 是一个用于录制和回放网页用户操作的库。
 
 ---
 ### [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
-**⭐ 15563** | **TypeScript**
+**⭐ 15576** | **TypeScript**
 
 这是一个基于AI和视觉驱动的跨平台UI自动化测试工具。
 
@@ -3453,7 +3453,7 @@ rrweb 是一个用于录制和回放网页用户操作的库。
 
 ---
 ### [bloomberg/memray](https://github.com/bloomberg/memray)
-**⭐ 15415** | **Python**
+**⭐ 15418** | **Python**
 
 Memray是一个用于Python的内存分析器，能够检测内存泄漏和进行内存分析。
 
@@ -3463,7 +3463,7 @@ Memray是一个用于Python的内存分析器，能够检测内存泄漏和进�
 
 ---
 ### [nelvko/clashctl](https://github.com/nelvko/clashctl)
-**⭐ 15160** | **Shell**
+**⭐ 15168** | **Shell**
 
 这是一个用于在Linux系统上优雅安装和配置clash/mihomo代理环境的Shell脚本工具。
 
@@ -3473,7 +3473,7 @@ Memray是一个用于Python的内存分析器，能够检测内存泄漏和进�
 
 ---
 ### [plait-board/drawnix](https://github.com/plait-board/drawnix)
-**⭐ 15043** | **TypeScript**
+**⭐ 15048** | **TypeScript**
 
 这是一个开源的All-in-One白板工具，支持思维导图、流程图和自由绘图等多种功能。
 
@@ -3483,7 +3483,7 @@ Memray是一个用于Python的内存分析器，能够检测内存泄漏和进�
 
 ---
 ### [peach-mitao/peach](https://github.com/peach-mitao/peach)
-**⭐ 14763** | **Python**
+**⭐ 14857** | **Python**
 
 Peach 蜜桃是一个单用户、本地优先的个人媒体系统，用于管理和播放本地媒体库。
 
@@ -3493,7 +3493,7 @@ Peach 蜜桃是一个单用户、本地优先的个人媒体系统，用于管�
 
 ---
 ### [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
-**⭐ 14615** | **Go**
+**⭐ 14624** | **Go**
 
 这是一个功能强大的摄像头流媒体服务器，支持多种流媒体协议和格式转换。
 
@@ -3503,7 +3503,7 @@ Peach 蜜桃是一个单用户、本地优先的个人媒体系统，用于管�
 
 ---
 ### [originalankur/maptoposter](https://github.com/originalankur/maptoposter)
-**⭐ 14285** | **Python**
+**⭐ 14291** | **Python**
 
 这是一个使用Python代码将城市地图转换为简约风格海报的工具
 
@@ -3513,7 +3513,7 @@ Peach 蜜桃是一个单用户、本地优先的个人媒体系统，用于管�
 
 ---
 ### [shikijs/shiki](https://github.com/shikijs/shiki)
-**⭐ 13922** | **TypeScript**
+**⭐ 13923** | **TypeScript**
 
 Shiki是一个美观且功能强大的语法高亮器，基于TextMate语法，为代码提供精准且视觉愉悦的高亮显示。
 
@@ -3523,7 +3523,7 @@ Shiki是一个美观且功能强大的语法高亮器，基于TextMate语法，�
 
 ---
 ### [run-llama/liteparse](https://github.com/run-llama/liteparse)
-**⭐ 13026** | **Rust**
+**⭐ 13027** | **Rust**
 
 一个快速、实用且开源的文件解析器，支持OCR和文本提取。
 
@@ -3533,7 +3533,7 @@ Shiki是一个美观且功能强大的语法高亮器，基于TextMate语法，�
 
 ---
 ### [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
-**⭐ 12937** | **TypeScript**
+**⭐ 12948** | **TypeScript**
 
 这是一个为Obsidian笔记软件提供实时同步功能的插件。
 
@@ -3543,7 +3543,7 @@ Shiki是一个美观且功能强大的语法高亮器，基于TextMate语法，�
 
 ---
 ### [wanglin2/mind-map](https://github.com/wanglin2/mind-map)
-**⭐ 12927** | **JavaScript**
+**⭐ 12930** | **JavaScript**
 
 这是一个基于Web的思维导图工具，提供强大的可视化思维整理功能。
 
@@ -3563,7 +3563,7 @@ Shiki是一个美观且功能强大的语法高亮器，基于TextMate语法，�
 
 ---
 ### [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy)
-**⭐ 12334** | **JavaScript**
+**⭐ 12343** | **JavaScript**
 
 这是一个基于scrcpy的图形化Android设备屏幕镜像与控制工具，使用JavaScript开发。
 
@@ -3573,7 +3573,7 @@ Shiki是一个美观且功能强大的语法高亮器，基于TextMate语法，�
 
 ---
 ### [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)
-**⭐ 11432** | **Python**
+**⭐ 11489** | **Python**
 
 这是一个为Windows系统提供计算机使用功能的MCP服务器，通过AI实现桌面自动化操作。
 
@@ -3583,7 +3583,7 @@ Shiki是一个美观且功能强大的语法高亮器，基于TextMate语法，�
 
 ---
 ### [openai/codex-security](https://github.com/openai/codex-security)
-**⭐ 11347** | **TypeScript**
+**⭐ 11368** | **TypeScript**
 
 OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于查找、验证和修复安全漏洞。
 
@@ -3593,7 +3593,7 @@ OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于查找、验证和修�
 
 ---
 ### [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)
-**⭐ 11268** | **TypeScript**
+**⭐ 11272** | **TypeScript**
 
 一个用于创建美观Mermaid图表和流程图的TypeScript工具库。
 
@@ -3603,7 +3603,7 @@ OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于查找、验证和修�
 
 ---
 ### [nexmoe/VidBee](https://github.com/nexmoe/VidBee)
-**⭐ 11106** | **TypeScript**
+**⭐ 11114** | **TypeScript**
 
 这是一个支持从全球多个网站下载视频的TypeScript工具
 
@@ -3613,7 +3613,7 @@ OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于查找、验证和修�
 
 ---
 ### [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW)
-**⭐ 11039** | **TypeScript**
+**⭐ 11051** | **TypeScript**
 
 这是一个基于GPU加速的非破坏性RAW图像编辑器，专注于高性能图像处理。
 
@@ -3623,7 +3623,7 @@ OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于查找、验证和修�
 
 ---
 ### [iib0011/omni-tools](https://github.com/iib0011/omni-tools)
-**⭐ 10677** | **TypeScript**
+**⭐ 10685** | **TypeScript**
 
 这是一个自托管的、基于网页的多功能工具集合，提供图像、PDF、视频处理等日常任务工具。
 
@@ -3633,7 +3633,7 @@ OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于查找、验证和修�
 
 ---
 ### [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
-**⭐ 10596** | **Go**
+**⭐ 10595** | **Go**
 
 这是一个用Go语言实现的QQ机器人框架，基于CoolQ HTTP API协议。
 
@@ -3643,7 +3643,7 @@ OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于查找、验证和修�
 
 ---
 ### [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill)
-**⭐ 10529** | **JavaScript**
+**⭐ 10581** | **JavaScript**
 
 这是一个AI代理技能，用于从多种视觉主题生成可在浏览器中编辑的演示文稿，并支持导出为HTML、PDF和PPTX格式。
 
@@ -3653,7 +3653,7 @@ OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于查找、验证和修�
 
 ---
 ### [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn)
-**⭐ 10529** | **TypeScript**
+**⭐ 10536** | **TypeScript**
 
 这是一个为shadcn/ui组件提供可视化无代码主题编辑器的工具
 
@@ -3663,7 +3663,7 @@ OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于查找、验证和修�
 
 ---
 ### [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
-**⭐ 10367** | **TypeScript**
+**⭐ 10386** | **TypeScript**
 
 一个开源的沉浸式翻译浏览器扩展，支持多种语言和LLM翻译引擎，帮助用户阅读外文网页。
 
@@ -3673,7 +3673,7 @@ OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于查找、验证和修�
 
 ---
 ### [FluentRead/FluentRead](https://github.com/FluentRead/FluentRead)
-**⭐ 9877** | **TypeScript**
+**⭐ 10331** | **TypeScript**
 
 一款开源的浏览器双语翻译插件，用于网页内容的双语对照翻译。
 
@@ -3683,7 +3683,7 @@ OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于查找、验证和修�
 
 ---
 ### [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
-**⭐ 9527** | **CSS**
+**⭐ 9531** | **CSS**
 
 这是一个收集Obsidian笔记软件相关优秀资源的精选列表。
 
@@ -3693,7 +3693,7 @@ OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于查找、验证和修�
 
 ---
 ### [pocoproject/poco](https://github.com/pocoproject/poco)
-**⭐ 9494** | **C++**
+**⭐ 9496** | **C++**
 
 POCO是一个用于构建跨平台网络和互联网应用的C++库集合。
 
@@ -3703,7 +3703,7 @@ POCO是一个用于构建跨平台网络和互联网应用的C++库集合。
 
 ---
 ### [nexu-io/html-anything](https://github.com/nexu-io/html-anything)
-**⭐ 9483** | **HTML**
+**⭐ 9495** | **HTML**
 
 一个基于AI代理的HTML编辑器，支持多种输出格式和平台，无需API密钥即可使用。
 
@@ -3713,7 +3713,7 @@ POCO是一个用于构建跨平台网络和互联网应用的C++库集合。
 
 ---
 ### [eze-is/web-access](https://github.com/eze-is/web-access)
-**⭐ 9381** | **JavaScript**
+**⭐ 9386** | **JavaScript**
 
 这是一个为Claude Code提供完整联网能力的技能插件，通过三层通道调度、浏览器CDP和并行分治技术实现网络访问。
 
@@ -3723,7 +3723,7 @@ POCO是一个用于构建跨平台网络和互联网应用的C++库集合。
 
 ---
 ### [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
-**⭐ 9109** | **Go**
+**⭐ 9123** | **Go**
 
 这是一个基于Web的文件浏览器，允许用户通过浏览器界面管理服务器上的文件。
 
@@ -3733,7 +3733,7 @@ POCO是一个用于构建跨平台网络和互联网应用的C++库集合。
 
 ---
 ### [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)
-**⭐ 9102** | **Swift**
+**⭐ 9109** | **Swift**
 
 一个macOS菜单栏应用，用通俗语言告诉你插入Mac的每个USB-C线缆的实际功能。
 
@@ -3743,7 +3743,7 @@ POCO是一个用于构建跨平台网络和互联网应用的C++库集合。
 
 ---
 ### [kelektiv/node-cron](https://github.com/kelektiv/node-cron)
-**⭐ 8956** | **TypeScript**
+**⭐ 8957** | **TypeScript**
 
 这是一个用于Node.js的cron任务调度库。
 
@@ -3753,7 +3753,7 @@ POCO是一个用于构建跨平台网络和互联网应用的C++库集合。
 
 ---
 ### [tailscale/tailcat](https://github.com/tailscale/tailcat)
-**⭐ 8775** | **Go**
+**⭐ 8780** | **Go**
 
 tailcat 是一个类似 netcat 的网络工具，但通过 Tailscale 的数据平面（而非控制平面）进行通信，用于在 Tailscale 网络中的设备之间建立直接的 TCP/UDP 连接。
 
@@ -3763,7 +3763,7 @@ tailcat 是一个类似 netcat 的网络工具，但通过 Tailscale 的数据�
 
 ---
 ### [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)
-**⭐ 8771** | **Vue**
+**⭐ 8772** | **Vue**
 
 这是一个用于美化Bilibili首页的浏览器扩展，支持深色模式等自定义功能。
 
@@ -3773,7 +3773,7 @@ tailcat 是一个类似 netcat 的网络工具，但通过 Tailscale 的数据�
 
 ---
 ### [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
-**⭐ 8586** | **Python**
+**⭐ 8593** | **Python**
 
 这是一个Python API，用于获取YouTube视频的字幕或转录文本。
 
@@ -3783,7 +3783,7 @@ tailcat 是一个类似 netcat 的网络工具，但通过 Tailscale 的数据�
 
 ---
 ### [xixu-me/xget](https://github.com/xixu-me/xget)
-**⭐ 8216** | **JavaScript**
+**⭐ 8217** | **JavaScript**
 
 一个面向开发者资源的高性能、安全的一体化加速引擎。
 
@@ -3793,7 +3793,7 @@ tailcat 是一个类似 netcat 的网络工具，但通过 Tailscale 的数据�
 
 ---
 ### [expr-lang/expr](https://github.com/expr-lang/expr)
-**⭐ 8061** | **Go**
+**⭐ 8063** | **Go**
 
 这是一个用于Go语言的表达式语言和表达式求值库。
 
@@ -3803,7 +3803,7 @@ tailcat 是一个类似 netcat 的网络工具，但通过 Tailscale 的数据�
 
 ---
 ### [joerick/pyinstrument](https://github.com/joerick/pyinstrument)
-**⭐ 8030** | **Python**
+**⭐ 8032** | **Python**
 
 Pyinstrument是一个Python调用栈分析器，用于帮助开发者找出代码运行缓慢的原因。
 
@@ -3813,7 +3813,7 @@ Pyinstrument是一个Python调用栈分析器，用于帮助开发者找出代�
 
 ---
 ### [LibraHp/GetQzonehistory](https://github.com/LibraHp/GetQzonehistory)
-**⭐ 7694** | **None**
+**⭐ 7696** | **None**
 
 获取QQ空间用户发布的历史说说内容的Python工具。
 
@@ -3823,7 +3823,7 @@ Pyinstrument是一个Python调用栈分析器，用于帮助开发者找出代�
 
 ---
 ### [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui)
-**⭐ 7582** | **Java**
+**⭐ 7599** | **Java**
 
 这是一个为JetBrains IDE开发的插件，提供Claude Code和Codex的图形用户界面。
 
@@ -3843,7 +3843,7 @@ Pyinstrument是一个Python调用栈分析器，用于帮助开发者找出代�
 
 ---
 ### [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
-**⭐ 7298** | **TypeScript**
+**⭐ 7299** | **TypeScript**
 
 这是一个用于评估代码质量并生成美观报告的屎山代码检测工具。
 
@@ -3853,7 +3853,7 @@ Pyinstrument是一个Python调用栈分析器，用于帮助开发者找出代�
 
 ---
 ### [electron/forge](https://github.com/electron/forge)
-**⭐ 7172** | **TypeScript**
+**⭐ 7174** | **TypeScript**
 
 一个用于构建和发布Electron应用程序的完整工具链
 
@@ -3863,7 +3863,7 @@ Pyinstrument是一个Python调用栈分析器，用于帮助开发者找出代�
 
 ---
 ### [yuin/gopher-lua](https://github.com/yuin/gopher-lua)
-**⭐ 7008** | **Go**
+**⭐ 7009** | **Go**
 
 这是一个用Go语言实现的Lua虚拟机和编译器。
 
@@ -3873,7 +3873,7 @@ Pyinstrument是一个Python调用栈分析器，用于帮助开发者找出代�
 
 ---
 ### [moudey/Shell](https://github.com/moudey/Shell)
-**⭐ 6938** | **C++**
+**⭐ 6942** | **C++**
 
 这是一个用于增强Windows文件管理器右键菜单功能的强大上下文菜单管理器。
 
@@ -3883,7 +3883,7 @@ Pyinstrument是一个Python调用栈分析器，用于帮助开发者找出代�
 
 ---
 ### [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
-**⭐ 6915** | **C**
+**⭐ 6917** | **C**
 
 这是一个全平台通用的软件包管理器换源工具与框架，支持多种操作系统和包管理器。
 
@@ -3893,7 +3893,7 @@ Pyinstrument是一个Python调用栈分析器，用于帮助开发者找出代�
 
 ---
 ### [piotrkulpinski/open-source-alternatives](https://github.com/piotrkulpinski/open-source-alternatives)
-**⭐ 6891** | **None**
+**⭐ 6895** | **None**
 
 这是一个社区驱动的开源软件替代品列表，帮助用户找到专有软件的开源替代方案。
 
@@ -3903,7 +3903,7 @@ Pyinstrument是一个Python调用栈分析器，用于帮助开发者找出代�
 
 ---
 ### [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor)
-**⭐ 6888** | **C#**
+**⭐ 6894** | **C#**
 
 一款轻量、可定制的开源桌面硬件监控软件，用于实时监测CPU、GPU、内存、磁盘和网络等系统性能。
 
@@ -3913,7 +3913,7 @@ Pyinstrument是一个Python调用栈分析器，用于帮助开发者找出代�
 
 ---
 ### [DetachHead/rebased](https://github.com/DetachHead/rebased)
-**⭐ 6476** | **Java**
+**⭐ 6490** | **Java**
 
 这是一个开源的JetBrains Git客户端重制项目。
 
@@ -3923,7 +3923,7 @@ Pyinstrument是一个Python调用栈分析器，用于帮助开发者找出代�
 
 ---
 ### [kenn-io/agentsview](https://github.com/kenn-io/agentsview)
-**⭐ 6416** | **Go**
+**⭐ 6422** | **Go**
 
 一个本地优先的会话智能和分析工具，用于编码代理，支持Claude Code、Codex等20多种代理，并且是ccusage的100倍替代品。
 
@@ -3933,7 +3933,7 @@ Pyinstrument是一个Python调用栈分析器，用于帮助开发者找出代�
 
 ---
 ### [androguard/androguard](https://github.com/androguard/androguard)
-**⭐ 6414** | **Python**
+**⭐ 6421** | **Python**
 
 这是一个用于Android应用程序逆向工程和安全测试的Python工具集。
 
@@ -3943,7 +3943,7 @@ Pyinstrument是一个Python调用栈分析器，用于帮助开发者找出代�
 
 ---
 ### [Fokkyp/SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill)
-**⭐ 6314** | **Python**
+**⭐ 6324** | **Python**
 
 一个通过读取本地项目自动生成全套.docx格式中国软件著作权申请材料的开源工具。
 
@@ -3953,7 +3953,7 @@ Pyinstrument是一个Python调用栈分析器，用于帮助开发者找出代�
 
 ---
 ### [jagt/clumsy](https://github.com/jagt/clumsy)
-**⭐ 6303** | **C**
+**⭐ 6308** | **C**
 
 clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
@@ -3963,7 +3963,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector)
-**⭐ 6213** | **TypeScript**
+**⭐ 6218** | **TypeScript**
 
 一个开源的身份验证网关，通过SDK、CLI、MCP、HTTP和OpenAPI将1000多个SaaS提供商连接到AI代理。
 
@@ -3973,7 +3973,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [shuding/cobe](https://github.com/shuding/cobe)
-**⭐ 6055** | **TypeScript**
+**⭐ 6056** | **TypeScript**
 
 这是一个轻量级的WebGL地球可视化库，大小仅5KB。
 
@@ -3983,7 +3983,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [vikiboss/60s](https://github.com/vikiboss/60s)
-**⭐ 5900** | **TypeScript**
+**⭐ 5908** | **TypeScript**
 
 这是一个提供多种免费API服务的开源项目，包括每日新闻摘要、社交媒体热搜、实用工具等。
 
@@ -3993,7 +3993,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale)
-**⭐ 5821** | **Rust**
+**⭐ 5826** | **Rust**
 
 一个用于追踪OpenCode、Claude Code、OpenClaw、Pi、Codex、Gemini、Cursor、AmpCode、Factory Droid、Kimi等多种AI工具Token使用量的CLI工具，并提供全球排行榜和2D/3D贡献图。
 
@@ -4003,7 +4003,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)
-**⭐ 5731** | **TypeScript**
+**⭐ 5739** | **TypeScript**
 
 一个桌面应用，记录屏幕工作会话，并利用GitHub Copilot CLI将其重构为意图和有序步骤，进而为Microsoft Scout、Copilot Cowork或Copilot Studio构建可复用的技能或自动化。
 
@@ -4013,13 +4013,23 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie)
-**⭐ 5716** | **TypeScript**
+**⭐ 5717** | **TypeScript**
 
 一个开源工具和技能集，用于通过Codex/Claude代码生成生产就绪的Lottie动画。
 
 标签: `Lottie动画` `AI代码生成`
 
 **使用场景**: 开发者利用AI代码助手（如Codex或Claude）快速创建和导出可用于生产环境的Lottie动画，适用于UI动效、品牌展示等场景。
+
+---
+### [Augani/openreel-video](https://github.com/Augani/openreel-video)
+**⭐ 5638** | **TypeScript**
+
+一个基于浏览器的专业视频编辑器，开源替代CapCut，无需安装、无需云上传、无水印。
+
+标签: [`视频编辑`](#tag-视频编辑) `浏览器工具`
+
+**使用场景**: 用于在浏览器中直接进行视频编辑，适合需要快速、无安装、无云依赖的视频创作场景。
 
 ---
 ### [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web)
@@ -4032,18 +4042,8 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 **使用场景**: 开发人员可以实时查看和调试远程设备上的网页控制台、网络请求、DOM结构等，适用于移动端调试、跨设备问题排查和远程协作开发。
 
 ---
-### [Augani/openreel-video](https://github.com/Augani/openreel-video)
-**⭐ 5624** | **TypeScript**
-
-一个基于浏览器的专业视频编辑器，开源替代CapCut，无需安装、无需云上传、无水印。
-
-标签: [`视频编辑`](#tag-视频编辑) `浏览器工具`
-
-**使用场景**: 用于在浏览器中直接进行视频编辑，适合需要快速、无安装、无云依赖的视频创作场景。
-
----
 ### [liriliri/aya](https://github.com/liriliri/aya)
-**⭐ 5567** | **TypeScript**
+**⭐ 5571** | **TypeScript**
 
 这是一个基于Electron的桌面应用程序，用于通过ADB（Android Debug Bridge）管理Android设备。
 
@@ -4053,7 +4053,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD)
-**⭐ 5430** | **Python**
+**⭐ 5432** | **Python**
 
 这是一个将Markdown格式和AI对话内容一键粘贴到Word、WPS和Excel中的效率工具。
 
@@ -4063,7 +4063,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [MatrixSeven/file-transfer-go](https://github.com/MatrixSeven/file-transfer-go)
-**⭐ 5195** | **TypeScript**
+**⭐ 5197** | **TypeScript**
 
 这是一个使用Go和React开发的端到端WebRTC文件传输、文字传输和桌面共享应用，强调数据安全和隐私，不经过服务器中转。
 
@@ -4083,7 +4083,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [pydantic/logfire](https://github.com/pydantic/logfire)
-**⭐ 4543** | **Python**
+**⭐ 4547** | **Python**
 
 这是一个为Python应用提供简单易用的可观测性（日志、指标、追踪）的库。
 
@@ -4093,7 +4093,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [link1st/go-stress-testing](https://github.com/link1st/go-stress-testing)
-**⭐ 4406** | **Go**
+**⭐ 4407** | **Go**
 
 这是一个用Go语言实现的压力测试工具，支持高并发连接压测。
 
@@ -4103,7 +4103,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [univrsal/input-overlay](https://github.com/univrsal/input-overlay)
-**⭐ 4272** | **C++**
+**⭐ 4276** | **C++**
 
 这是一个用于在直播中显示键盘、游戏手柄和鼠标输入的OBS插件
 
@@ -4113,7 +4113,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api)
-**⭐ 4148** | **TypeScript**
+**⭐ 4150** | **TypeScript**
 
 将GitHub Copilot转换为兼容OpenAI/Anthropic API的服务器，使其能够像Claude Code一样使用。
 
@@ -4123,7 +4123,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [Open-Less/openless](https://github.com/Open-Less/openless)
-**⭐ 4068** | **Rust**
+**⭐ 4081** | **Rust**
 
 一个开源的语音输入工具，按住快捷键说话，松开后AI自动润色文本并输出到光标位置，支持macOS和Windows。
 
@@ -4143,7 +4143,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center)
-**⭐ 3998** | **TypeScript**
+**⭐ 3997** | **TypeScript**
 
 这是一个基于TypeScript开发的控制中心项目，用于管理和监控OpenClaw相关服务。
 
@@ -4163,7 +4163,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)
-**⭐ 3847** | **TypeScript**
+**⭐ 3853** | **TypeScript**
 
 这是一个用于管理GitHub星标仓库的应用程序。
 
@@ -4183,7 +4183,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [browserbase/skills](https://github.com/browserbase/skills)
-**⭐ 3756** | **JavaScript**
+**⭐ 3757** | **JavaScript**
 
 一个基于Claude Agent SDK的网页浏览工具，用于自动化网页操作和数据提取。
 
@@ -4193,7 +4193,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [bojand/ghz](https://github.com/bojand/ghz)
-**⭐ 3359** | **Go**
+**⭐ 3360** | **Go**
 
 一个用于gRPC服务的简单基准测试和负载测试工具。
 
@@ -4202,24 +4202,24 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 **使用场景**: 开发人员或测试人员可以使用该工具对gRPC服务接口进行压力测试、性能基准测试和负载能力评估。
 
 ---
-### [Perfare/Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper)
-**⭐ 3359** | **C**
-
-这是一个利用Zygisk在Android运行时动态提取Unity游戏IL2CPP元数据的工具
-
-标签: `Android逆向` `Unity游戏分析`
-
-**使用场景**: 主要用于逆向分析使用IL2CPP编译的Unity游戏，帮助安全研究人员或游戏修改者获取运行时类型信息、函数地址等元数据
-
----
 ### [AIEraDev/Clypra](https://github.com/AIEraDev/Clypra)
-**⭐ 3353** | **TypeScript**
+**⭐ 3358** | **TypeScript**
 
 一个基于Tauri、React和TypeScript构建的现代视频编辑器，专注于免费实现CapCut高级功能。
 
 标签: [`视频编辑`](#tag-视频编辑) `Tauri` [`React`](#tag-react) [`TypeScript`](#tag-typescript) [`桌面应用`](#tag-桌面应用)
 
 **使用场景**: 适用于需要免费视频编辑功能的用户，尤其是希望替代CapCut等付费软件的场景。
+
+---
+### [Perfare/Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper)
+**⭐ 3358** | **C**
+
+这是一个利用Zygisk在Android运行时动态提取Unity游戏IL2CPP元数据的工具
+
+标签: `Android逆向` `Unity游戏分析`
+
+**使用场景**: 主要用于逆向分析使用IL2CPP编译的Unity游戏，帮助安全研究人员或游戏修改者获取运行时类型信息、函数地址等元数据
 
 ---
 ### [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)
@@ -4233,7 +4233,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb)
-**⭐ 3283** | **TypeScript**
+**⭐ 3285** | **TypeScript**
 
 这是一个在浏览器中运行的ADB（Android调试桥）工具，允许用户通过WebUSB API直接与Android设备通信。
 
@@ -4243,7 +4243,7 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell)
-**⭐ 3221** | **C++**
+**⭐ 3222** | **C++**
 
 这是一个基于QtQuick的灵活工具包，用于为Wayland和X11桌面环境创建自定义桌面外壳和状态栏。
 
@@ -4253,13 +4253,23 @@ clumsy是一个在Windows上可控地模拟恶劣网络条件的工具。
 
 ---
 ### [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core)
-**⭐ 3198** | **TypeScript**
+**⭐ 3199** | **TypeScript**
 
 Mind Elixir是一个与框架无关的JavaScript思维导图核心库。
 
 标签: `思维导图` [`可视化`](#tag-可视化)
 
 **使用场景**: 用于在Web应用中快速集成思维导图功能，支持节点编辑、拖拽、缩放等交互操作，适用于笔记、知识管理、头脑风暴等场景。
+
+---
+### [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3)
+**⭐ 3016** | **Python**
+
+这是一个纯Python 3实现的库，用于与iOS设备（如iPhone）进行通信和交互。
+
+标签: `iOS开发` `设备管理`
+
+**使用场景**: 开发者可以使用此库在Python环境中直接访问和管理iOS设备，例如文件传输、设备信息查询或与系统服务通信，而无需依赖其他外部工具。
 
 ---
 ### [leigest519/ScreenCoder](https://github.com/leigest519/ScreenCoder)
@@ -4272,18 +4282,8 @@ Mind Elixir是一个与框架无关的JavaScript思维导图核心库。
 **使用场景**: 设计师或开发者需要快速将界面设计图或截图转换为可用的前端代码原型时使用
 
 ---
-### [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3)
-**⭐ 3007** | **Python**
-
-这是一个纯Python 3实现的库，用于与iOS设备（如iPhone）进行通信和交互。
-
-标签: `iOS开发` `设备管理`
-
-**使用场景**: 开发者可以使用此库在Python环境中直接访问和管理iOS设备，例如文件传输、设备信息查询或与系统服务通信，而无需依赖其他外部工具。
-
----
 ### [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use)
-**⭐ 2906** | **Swift**
+**⭐ 2922** | **Swift**
 
 一个开源的计算机使用代理，作为Codex Computer Use的替代方案，支持跨平台桌面自动化。
 
@@ -4293,7 +4293,7 @@ Mind Elixir是一个与框架无关的JavaScript思维导图核心库。
 
 ---
 ### [op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)
-**⭐ 2904** | **TypeScript**
+**⭐ 2903** | **TypeScript**
 
 这是一个将Claude AI编程助手连接到即时通讯平台的桥接工具。
 
@@ -4303,7 +4303,7 @@ Mind Elixir是一个与框架无关的JavaScript思维导图核心库。
 
 ---
 ### [modstart-lib/linkandroid](https://github.com/modstart-lib/linkandroid)
-**⭐ 2787** | **TypeScript**
+**⭐ 2789** | **TypeScript**
 
 这是一个通过ADB和Scrcpy技术实现Android设备与PC便捷连接的工具
 
@@ -4343,7 +4343,7 @@ Mind Elixir是一个与框架无关的JavaScript思维导图核心库。
 
 ---
 ### [NetrisTV/ws-scrcpy](https://github.com/NetrisTV/ws-scrcpy)
-**⭐ 2610** | **TypeScript**
+**⭐ 2611** | **TypeScript**
 
 这是一个基于Web的Android设备屏幕镜像和控制客户端原型。
 
@@ -4353,7 +4353,7 @@ Mind Elixir是一个与框架无关的JavaScript思维导图核心库。
 
 ---
 ### [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua)
-**⭐ 2557** | **Python**
+**⭐ 2577** | **Python**
 
 这是一个中文优先的去AI味改写技能仓库，帮助用户在Codex、Claude Code、Cursor、ChatGPT等工具中去除AI写作痕迹，保留事实并分场景改写，使文本更自然、可直接发布。
 
@@ -4363,7 +4363,7 @@ Mind Elixir是一个与框架无关的JavaScript思维导图核心库。
 
 ---
 ### [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy)
-**⭐ 2435** | **TypeScript**
+**⭐ 2436** | **TypeScript**
 
 一个基于AI的Markdown编辑器，支持多种AI模型和跨平台桌面应用。
 
@@ -4393,7 +4393,7 @@ Mind Elixir是一个与框架无关的JavaScript思维导图核心库。
 
 ---
 ### [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios)
-**⭐ 2325** | **Go**
+**⭐ 2329** | **Go**
 
 这是一个用Go语言实现的跨平台iOS设备管理工具，支持UI测试、应用管理等功能。
 
@@ -4403,7 +4403,7 @@ Mind Elixir是一个与框架无关的JavaScript思维导图核心库。
 
 ---
 ### [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd)
-**⭐ 2257** | **Rust**
+**⭐ 2264** | **Rust**
 
 一个用 Rust 和 GPUI 构建的跨平台原生桌面客户端，用于通过本地 Herdr 守护进程查看终端会话、工作区、Git worktree 和 AI 代理活动。
 
@@ -4413,7 +4413,7 @@ Mind Elixir是一个与框架无关的JavaScript思维导图核心库。
 
 ---
 ### [motiondivision/motion-vue](https://github.com/motiondivision/motion-vue)
-**⭐ 2225** | **TypeScript**
+**⭐ 2227** | **TypeScript**
 
 这是一个为Vue.js提供类似Framer Motion动画功能的TypeScript库。
 
@@ -4423,7 +4423,7 @@ Mind Elixir是一个与框架无关的JavaScript思维导图核心库。
 
 ---
 ### [P403n1x87/austin](https://github.com/P403n1x87/austin)
-**⭐ 2215** | **C**
+**⭐ 2216** | **C**
 
 这是一个用于CPython的Python帧栈采样器，用于性能分析和调试。
 
@@ -4433,7 +4433,7 @@ Mind Elixir是一个与框架无关的JavaScript思维导图核心库。
 
 ---
 ### [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use)
-**⭐ 2139** | **TypeScript**
+**⭐ 2141** | **TypeScript**
 
 让Pi（可能指Raspberry Pi或其他AI助手）控制你的MacOS和Windows电脑上的应用程序。
 
@@ -4443,7 +4443,7 @@ Mind Elixir是一个与框架无关的JavaScript思维导图核心库。
 
 ---
 ### [Hello-Mr-Crab/pywechat](https://github.com/Hello-Mr-Crab/pywechat)
-**⭐ 2096** | **Python**
+**⭐ 2100** | **Python**
 
 基于pywinauto实现的Windows桌面微信自动化操作工具，支持微信4.0系列版本，可模拟用户操作实现RPA功能。
 
@@ -4463,7 +4463,7 @@ Mind Elixir是一个与框架无关的JavaScript思维导图核心库。
 
 ---
 ### [DangJin/awesome-social-media-downloader](https://github.com/DangJin/awesome-social-media-downloader)
-**⭐ 1886** | **None**
+**⭐ 1885** | **None**
 
 这是一个收集了多个免费下载YouTube、B站、抖音等社交媒体平台视频工具的仓库。
 
@@ -4493,7 +4493,7 @@ Mind Elixir是一个与框架无关的JavaScript思维导图核心库。
 
 ---
 ### [RayrenSX/iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror)
-**⭐ 1779** | **C#**
+**⭐ 1799** | **C#**
 
 一个在Windows上通过USB和AirPlay实现iPhone/iPad本地屏幕镜像的工具，支持D3D11预览、多设备会话、OBS输出和独立驱动管理。
 
@@ -4503,7 +4503,7 @@ Mind Elixir是一个与框架无关的JavaScript思维导图核心库。
 
 ---
 ### [LodyAI/Lody](https://github.com/LodyAI/Lody)
-**⭐ 1675** | **TypeScript**
+**⭐ 1677** | **TypeScript**
 
 Lody是一个让团队在手机和桌面上共享编码代理（AI编程助手）的协作平台，支持多代理编排和本地优先的工作流。
 
@@ -4513,7 +4513,7 @@ Lody是一个让团队在手机和桌面上共享编码代理（AI编程助手�
 
 ---
 ### [lorryjovens-hub/claude-code-rust](https://github.com/lorryjovens-hub/claude-code-rust)
-**⭐ 1667** | **TypeScript**
+**⭐ 1668** | **TypeScript**
 
 这是一个用Rust语言重构的Claude Code高性能实现，显著提升了启动速度和减少了二进制文件体积。
 
@@ -4523,7 +4523,7 @@ Lody是一个让团队在手机和桌面上共享编码代理（AI编程助手�
 
 ---
 ### [difyz9/ytb2bili](https://github.com/difyz9/ytb2bili)
-**⭐ 1626** | **Go**
+**⭐ 1625** | **Go**
 
 这是一个自动化视频处理系统，能够从YouTube下载视频并自动处理后上传到Bilibili。
 
@@ -4533,7 +4533,7 @@ Lody是一个让团队在手机和桌面上共享编码代理（AI编程助手�
 
 ---
 ### [openilink/openilink-hub](https://github.com/openilink/openilink-hub)
-**⭐ 1612** | **Go**
+**⭐ 1614** | **Go**
 
 一个自托管的微信机器人管理平台，集成了应用市场和AI工具，支持多种通讯平台和多种语言SDK。
 
@@ -4543,7 +4543,7 @@ Lody是一个让团队在手机和桌面上共享编码代理（AI编程助手�
 
 ---
 ### [haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk)
-**⭐ 1605** | **TypeScript**
+**⭐ 1606** | **TypeScript**
 
 一个统一的存储SDK，为对象和blob后端提供简洁、标准化的Web I/O接口。
 
@@ -4553,7 +4553,7 @@ Lody是一个让团队在手机和桌面上共享编码代理（AI编程助手�
 
 ---
 ### [iAmCorey/Wake](https://github.com/iAmCorey/Wake)
-**⭐ 1552** | **Rust**
+**⭐ 1553** | **Rust**
 
 一个用Rust和GPUI构建的桌面应用，用于集中浏览、搜索和恢复所有AI代理会话。
 
@@ -4563,7 +4563,7 @@ Lody是一个让团队在手机和桌面上共享编码代理（AI编程助手�
 
 ---
 ### [better-auth/better-icons](https://github.com/better-auth/better-icons)
-**⭐ 1469** | **TypeScript**
+**⭐ 1472** | **TypeScript**
 
 这是一个用于搜索和获取图标的技能和MCP服务器
 
@@ -4573,7 +4573,7 @@ Lody是一个让团队在手机和桌面上共享编码代理（AI编程助手�
 
 ---
 ### [tejaswigowda/ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI)
-**⭐ 1468** | **JavaScript**
+**⭐ 1471** | **JavaScript**
 
 一个基于浏览器的视频编辑器，利用ffmpeg.wasm在本地通过WebAssembly处理视频，无需上传或服务器。
 
@@ -4583,7 +4583,7 @@ Lody是一个让团队在手机和桌面上共享编码代理（AI编程助手�
 
 ---
 ### [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice)
-**⭐ 1445** | **Rust**
+**⭐ 1461** | **Rust**
 
 Ely Office 是一个基于 Rust 和 GPUI 构建的离线优先桌面办公应用套件。
 
@@ -4593,7 +4593,7 @@ Ely Office 是一个基于 Rust 和 GPUI 构建的离线优先桌面办公应用
 
 ---
 ### [riba2534/feishu-cli](https://github.com/riba2534/feishu-cli)
-**⭐ 1440** | **Go**
+**⭐ 1443** | **Go**
 
 这是一个用于飞书（Feishu）平台的命令行工具，方便用户通过命令行与飞书API进行交互。
 
@@ -4603,7 +4603,7 @@ Ely Office 是一个基于 Rust 和 GPUI 构建的离线优先桌面办公应用
 
 ---
 ### [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop)
-**⭐ 1429** | **TypeScript**
+**⭐ 1431** | **TypeScript**
 
 一个识别并清除AI生成产品中视觉和文案套话的指南及Agent工具。
 
@@ -4623,7 +4623,7 @@ PyMpler是一个用于测量、监控和分析Python应用程序中对象内存�
 
 ---
 ### [nilbuild/claude-statusline](https://github.com/nilbuild/claude-statusline)
-**⭐ 1400** | **Shell**
+**⭐ 1401** | **Shell**
 
 这是一个为Claude Code编辑器配置的极简状态栏设置
 
@@ -4633,7 +4633,7 @@ PyMpler是一个用于测量、监控和分析Python应用程序中对象内存�
 
 ---
 ### [nickbnf/glogg](https://github.com/nickbnf/glogg)
-**⭐ 1360** | **C++**
+**⭐ 1358** | **C++**
 
 一个快速、高级的日志文件查看和搜索工具。
 
@@ -4643,7 +4643,7 @@ PyMpler是一个用于测量、监控和分析Python应用程序中对象内存�
 
 ---
 ### [marswaveai/ColaMD](https://github.com/marswaveai/ColaMD)
-**⭐ 1300** | **TypeScript**
+**⭐ 1301** | **TypeScript**
 
 ColaMD 是一个面向 AI 代理的原生 Markdown 编辑器。
 
@@ -4663,7 +4663,7 @@ ColaMD 是一个面向 AI 代理的原生 Markdown 编辑器。
 
 ---
 ### [smart-test-ti/SoloX](https://github.com/smart-test-ti/SoloX)
-**⭐ 1273** | **HTML**
+**⭐ 1274** | **HTML**
 
 SoloX是一个用于实时收集Android和iOS设备性能数据的工具。
 
@@ -4693,7 +4693,7 @@ SoloX是一个用于实时收集Android和iOS设备性能数据的工具。
 
 ---
 ### [Alan-CRL/Inkeys](https://github.com/Alan-CRL/Inkeys)
-**⭐ 1205** | **C++**
+**⭐ 1206** | **C++**
 
 Inkeys是一款高性能的屏幕手写和标注工具，允许用户在屏幕任意位置自由书写和绘图。
 
@@ -4702,18 +4702,8 @@ Inkeys是一款高性能的屏幕手写和标注工具，允许用户在屏幕�
 **使用场景**: 适用于在线教学、演示讲解、远程协作时进行屏幕标注和手写注释，也可用于创意草图和笔记记录。
 
 ---
-### [public-clis/bilibili-cli](https://github.com/public-clis/bilibili-cli)
-**⭐ 1147** | **Python**
-
-这是一个用于在终端中浏览B站视频、用户和收藏的Python命令行工具。
-
-标签: [`命令行工具`](#tag-命令行工具) `Bilibili`
-
-**使用场景**: 用户可以在不打开浏览器的情况下，通过终端命令行快速搜索、查看B站视频信息、用户资料或管理收藏内容。
-
----
 ### [renezander030/capcut-cli](https://github.com/renezander030/capcut-cli)
-**⭐ 1146** | **JavaScript**
+**⭐ 1151** | **JavaScript**
 
 一个独立的非官方CLI工具，用于直接编辑CapCut和剪映项目的草稿文件，实现字幕、时间、速度、音量、模板等视频编辑操作。
 
@@ -4722,8 +4712,18 @@ Inkeys是一款高性能的屏幕手写和标注工具，允许用户在屏幕�
 **使用场景**: 视频创作者和开发者可以通过命令行批量处理剪映/CapCut项目，如自动生成字幕、调整视频速度、剪辑长视频为短视频等，无需依赖官方API。
 
 ---
+### [public-clis/bilibili-cli](https://github.com/public-clis/bilibili-cli)
+**⭐ 1151** | **Python**
+
+这是一个用于在终端中浏览B站视频、用户和收藏的Python命令行工具。
+
+标签: [`命令行工具`](#tag-命令行工具) `Bilibili`
+
+**使用场景**: 用户可以在不打开浏览器的情况下，通过终端命令行快速搜索、查看B站视频信息、用户资料或管理收藏内容。
+
+---
 ### [laixintao/flameshow](https://github.com/laixintao/flameshow)
-**⭐ 1128** | **Python**
+**⭐ 1129** | **Python**
 
 这是一个在终端中查看火焰图（Flamegraph）的工具。
 
@@ -4733,7 +4733,7 @@ Inkeys是一款高性能的屏幕手写和标注工具，允许用户在屏幕�
 
 ---
 ### [ludo-technologies/pyscn](https://github.com/ludo-technologies/pyscn)
-**⭐ 1107** | **Go**
+**⭐ 1109** | **Go**
 
 这是一个用Go语言编写的智能Python代码质量分析工具，用于静态分析Python代码质量。
 
@@ -4742,24 +4742,24 @@ Inkeys是一款高性能的屏幕手写和标注工具，允许用户在屏幕�
 **使用场景**: 开发者在编写Python代码时，可以使用此工具自动检测代码复杂度、重复代码、死代码、依赖关系等问题，帮助提升代码质量和可维护性。
 
 ---
-### [pengchujin/jzsub](https://github.com/pengchujin/jzsub)
-**⭐ 1036** | **Python**
-
-一个自动下载视频并生成最高画质、封面和GPT双语字幕MP4的工具。
-
-标签: `视频处理` `字幕生成` `GPT` `yt-dlp`
-
-**使用场景**: 用户提供视频链接，自动获取高清视频、封面和双语字幕，适合需要快速下载并添加翻译字幕的视频内容创作者或学习者。
-
----
 ### [amiaoapp/PicLite](https://github.com/amiaoapp/PicLite)
-**⭐ 1034** | **TypeScript**
+**⭐ 1042** | **TypeScript**
 
 PicLite 是一个注重隐私的图片和 GIF 压缩工具，支持 Web、Windows、macOS 和 Linux 平台。
 
 标签: `图片压缩` `GIF压缩` `隐私保护` [`跨平台`](#tag-跨平台)
 
 **使用场景**: 用户可以在不同平台上压缩图片和 GIF 文件，同时保护隐私，适用于需要减小文件大小且注重数据安全的场景。
+
+---
+### [pengchujin/jzsub](https://github.com/pengchujin/jzsub)
+**⭐ 1035** | **Python**
+
+一个自动下载视频并生成最高画质、封面和GPT双语字幕MP4的工具。
+
+标签: `视频处理` `字幕生成` `GPT` `yt-dlp`
+
+**使用场景**: 用户提供视频链接，自动获取高清视频、封面和双语字幕，适合需要快速下载并添加翻译字幕的视频内容创作者或学习者。
 
 ---
 ### [paulfitz/daff](https://github.com/paulfitz/daff)
@@ -4793,7 +4793,7 @@ PicLite 是一个注重隐私的图片和 GIF 压缩工具，支持 Web、Window
 
 ---
 ### [maxim-saplin/CrossPlatformDiskTest](https://github.com/maxim-saplin/CrossPlatformDiskTest)
-**⭐ 879** | **C#**
+**⭐ 880** | **C#**
 
 这是一个用于在Windows、macOS和Android系统上测试存储设备（HDD、SSD、RAM）速度与性能的跨平台基准测试应用程序。
 
@@ -4833,7 +4833,7 @@ PicLite 是一个注重隐私的图片和 GIF 压缩工具，支持 Web、Window
 
 ---
 ### [YueChen-C/py-ios-device](https://github.com/YueChen-C/py-ios-device)
-**⭐ 798** | **Python**
+**⭐ 799** | **Python**
 
 这是一个用于iOS设备性能测试的Python工具，可以获取CPU、GPU、内存等指标。
 
@@ -4893,7 +4893,7 @@ PicLite 是一个注重隐私的图片和 GIF 压缩工具，支持 Web、Window
 
 ---
 ### [ZhuoZhuoCrayon/throttled-py](https://github.com/ZhuoZhuoCrayon/throttled-py)
-**⭐ 653** | **Python**
+**⭐ 654** | **Python**
 
 这是一个高性能的Python限流库，支持多种限流算法和存储后端。
 
@@ -4903,7 +4903,7 @@ PicLite 是一个注重隐私的图片和 GIF 压缩工具，支持 Web、Window
 
 ---
 ### [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)
-**⭐ 628** | **Rust**
+**⭐ 629** | **Rust**
 
 一个开源的中间人代理，用于拦截、检查和模拟网络流量。
 
@@ -4942,8 +4942,18 @@ PicLite 是一个注重隐私的图片和 GIF 压缩工具，支持 Web、Window
 **使用场景**: 用于将多个RSS/Atom订阅源合并为一个统一的Feed流，并支持过滤、排序等自定义处理，适合需要集中管理多个信息源的开发者和内容聚合场景。
 
 ---
+### [yetone/alma-relay](https://github.com/yetone/alma-relay)
+**⭐ 498** | **JavaScript**
+
+为Alma远程访问提供自托管中继服务，让用户通过手机在任何地方控制桌面Alma。
+
+标签: `远程访问` `中继服务` [`自托管`](#tag-自托管) `Docker` `Cloudflare Workers`
+
+**使用场景**: 用户部署此中继服务后，可在移动设备上远程连接并控制自己的桌面Alma应用，实现跨网络的安全远程访问。
+
+---
 ### [mh-cbon/go-msi](https://github.com/mh-cbon/go-msi)
-**⭐ 490** | **Go**
+**⭐ 491** | **Go**
 
 这是一个用于为Go项目生成Windows安装包（MSI）的工具。
 
@@ -4962,18 +4972,8 @@ PicLite 是一个注重隐私的图片和 GIF 压缩工具，支持 Web、Window
 **使用场景**: 用于在局域网内快速搭建临时文件共享服务，方便开发者或团队之间传输文件。
 
 ---
-### [yetone/alma-relay](https://github.com/yetone/alma-relay)
-**⭐ 488** | **JavaScript**
-
-为Alma远程访问提供自托管中继服务，让用户通过手机在任何地方控制桌面Alma。
-
-标签: `远程访问` `中继服务` [`自托管`](#tag-自托管) `Docker` `Cloudflare Workers`
-
-**使用场景**: 用户部署此中继服务后，可在移动设备上远程连接并控制自己的桌面Alma应用，实现跨网络的安全远程访问。
-
----
 ### [DY-2026/GameDesignOS](https://github.com/DY-2026/GameDesignOS)
-**⭐ 451** | **Python**
+**⭐ 453** | **Python**
 
 一个基于Python的Paranoia技能评估与训练工具
 
@@ -4983,7 +4983,7 @@ PicLite 是一个注重隐私的图片和 GIF 压缩工具，支持 Web、Window
 
 ---
 ### [hyperb1iss/droidmind](https://github.com/hyperb1iss/droidmind)
-**⭐ 451** | **Python**
+**⭐ 453** | **Python**
 
 这是一个使用模型上下文协议（MCP）通过AI（如Claude）来控制Android设备的Python工具。
 
@@ -5003,7 +5003,7 @@ PicLite 是一个注重隐私的图片和 GIF 压缩工具，支持 Web、Window
 
 ---
 ### [corvofeng/atv-core](https://github.com/corvofeng/atv-core)
-**⭐ 430** | **Rust**
+**⭐ 434** | **Rust**
 
 atv-core 是一个用 Rust 编写的核心库，从命名和语言推测可能与 Android TV 或 Apple TV 相关的设备控制或自动化工具。
 
@@ -5013,7 +5013,7 @@ atv-core 是一个用 Rust 编写的核心库，从命名和语言推测可能�
 
 ---
 ### [leng-yue/py-scrcpy-client](https://github.com/leng-yue/py-scrcpy-client)
-**⭐ 428** | **Python**
+**⭐ 429** | **Python**
 
 这是一个基于Python的scrcpy客户端，用于通过Python代码控制Android设备屏幕。
 
@@ -5023,13 +5023,23 @@ atv-core 是一个用 Rust 编写的核心库，从命名和语言推测可能�
 
 ---
 ### [leeguooooo/image-use](https://github.com/leeguooooo/image-use)
-**⭐ 417** | **Python**
+**⭐ 419** | **Python**
 
 一个无需API密钥即可通过命令行使用ChatGPT订阅生成图像的Python CLI工具。
 
 标签: `chatgpt` `image-generation` [`CLI`](#tag-cli) [`Python`](#tag-python) `dalle`
 
 **使用场景**: 用户可以通过命令行直接调用ChatGPT的图像生成功能，适用于需要快速生成图像而无需配置API密钥或额外服务的场景。
+
+---
+### [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x)
+**⭐ 362** | **JavaScript**
+
+一个Chrome扩展，用于回看X（Twitter）主页时间线上已滑过的帖子。
+
+标签: [`浏览器扩展`](#tag-浏览器扩展) [`JavaScript`](#tag-javascript) [`前端开发`](#tag-前端开发)
+
+**使用场景**: 当用户在X上浏览时间线时，可以快速找回之前滑过但未仔细阅读的帖子，提升信息获取效率。
 
 ---
 ### [yukiarrr/Il2cppSpy](https://github.com/yukiarrr/Il2cppSpy)
@@ -5043,7 +5053,7 @@ atv-core 是一个用 Rust 编写的核心库，从命名和语言推测可能�
 
 ---
 ### [kubai087/lumno-extension](https://github.com/kubai087/lumno-extension)
-**⭐ 344** | **TypeScript**
+**⭐ 345** | **TypeScript**
 
 一个开源的Chrome扩展，提供Spotlight风格命令面板、即时标签页/书签/历史搜索以及可自定义的新标签页。
 
@@ -5063,23 +5073,13 @@ LuaCov是一个用于Lua代码的简单覆盖率分析工具。
 
 ---
 ### [zhaoolee/notes](https://github.com/zhaoolee/notes)
-**⭐ 331** | **TypeScript**
+**⭐ 332** | **TypeScript**
 
 这是一个高仿锤子便签风格的开源笔记工具，支持将笔记导出为图片。
 
 标签: `笔记工具` [`JavaScript`](#tag-javascript)
 
 **使用场景**: 用于快速记录和整理个人笔记，并可将笔记内容以美观的图片格式导出分享。
-
----
-### [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x)
-**⭐ 289** | **JavaScript**
-
-一个Chrome扩展，用于回看X（Twitter）主页时间线上已滑过的帖子。
-
-标签: [`浏览器扩展`](#tag-浏览器扩展) [`JavaScript`](#tag-javascript) [`前端开发`](#tag-前端开发)
-
-**使用场景**: 当用户在X上浏览时间线时，可以快速找回之前滑过但未仔细阅读的帖子，提升信息获取效率。
 
 ---
 ### [codeskyblue/tidevice3](https://github.com/codeskyblue/tidevice3)
@@ -5103,7 +5103,7 @@ LuaCov是一个用于Lua代码的简单覆盖率分析工具。
 
 ---
 ### [anghunk/video-transcript](https://github.com/anghunk/video-transcript)
-**⭐ 244** | **TypeScript**
+**⭐ 245** | **TypeScript**
 
 一个在浏览器中本地完成视频字幕编辑与烧录，并支持自动识别生成字幕的工具。
 
@@ -5173,7 +5173,7 @@ LuaCov是一个用于Lua代码的简单覆盖率分析工具。
 
 ---
 ### [yangg1g/unpacktools](https://github.com/yangg1g/unpacktools)
-**⭐ 143** | **Java**
+**⭐ 144** | **Java**
 
 这是一个用Java编写的解包工具集合，用于处理各种文件格式的打包和解包操作。
 
@@ -5213,7 +5213,7 @@ LuaCov是一个用于Lua代码的简单覆盖率分析工具。
 
 ---
 ### [takuyajodai/edge-aura](https://github.com/takuyajodai/edge-aura)
-**⭐ 96** | **TypeScript**
+**⭐ 98** | **TypeScript**
 
 一个零依赖的Canvas 2D引擎和React适配器，用于在屏幕边缘创建有机的发光效果。
 
@@ -5293,7 +5293,7 @@ LuaCov是一个用于Lua代码的简单覆盖率分析工具。
 
 ---
 ### [kazimics/podara](https://github.com/kazimics/podara)
-**⭐ 26** | **Kotlin**
+**⭐ 27** | **Kotlin**
 
 一个面向Windows平台的现代开源播客应用。
 
@@ -5338,7 +5338,7 @@ LuaCov是一个用于Lua代码的简单覆盖率分析工具。
 **17** 个仓库
 
 ### [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-**⭐ 142396** | **HTML**
+**⭐ 142525** | **HTML**
 
 这是一个收集了各种提供免费套餐的SaaS、PaaS和IaaS服务的列表，对DevOps和基础设施开发者非常有用。
 
@@ -5348,7 +5348,7 @@ LuaCov是一个用于Lua代码的简单覆盖率分析工具。
 
 ---
 ### [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-**⭐ 93432** | **JavaScript**
+**⭐ 93475** | **JavaScript**
 
 Uptime Kuma 是一个自托管的监控工具，用于监控网站、服务等的可用性。
 
@@ -5358,7 +5358,7 @@ Uptime Kuma 是一个自托管的监控工具，用于监控网站、服务等�
 
 ---
 ### [nektos/act](https://github.com/nektos/act)
-**⭐ 72621** | **Go**
+**⭐ 72640** | **Go**
 
 这是一个允许在本地运行GitHub Actions的工具
 
@@ -5368,7 +5368,7 @@ Uptime Kuma 是一个自托管的监控工具，用于监控网站、服务等�
 
 ---
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-**⭐ 37420** | **Go**
+**⭐ 37428** | **Go**
 
 1Panel是一个基于Web的Linux服务器管理面板，提供直观的界面来管理网站、文件、容器、数据库和LLM服务。
 
@@ -5378,7 +5378,7 @@ Uptime Kuma 是一个自托管的监控工具，用于监控网站、服务等�
 
 ---
 ### [rustfs/rustfs](https://github.com/rustfs/rustfs)
-**⭐ 35908** | **Rust**
+**⭐ 35946** | **Rust**
 
 RustFS 是一个开源、兼容 S3 的高性能对象存储系统，支持与其他 S3 兼容平台（如 MinIO 和 Ceph）迁移和共存。
 
@@ -5388,7 +5388,7 @@ RustFS 是一个开源、兼容 S3 的高性能对象存储系统，支持与其
 
 ---
 ### [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-**⭐ 29205** | **C++**
+**⭐ 29216** | **C++**
 
 Envoy是一个云原生高性能边缘/中间/服务代理，用于处理服务间通信。
 
@@ -5398,7 +5398,7 @@ Envoy是一个云原生高性能边缘/中间/服务代理，用于处理服务�
 
 ---
 ### [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
-**⭐ 28115** | **JavaScript**
+**⭐ 28135** | **JavaScript**
 
 这是一个为OpenWrt路由器系统开发的Clash客户端，提供图形化配置界面。
 
@@ -5408,7 +5408,7 @@ Envoy是一个云原生高性能边缘/中间/服务代理，用于处理服务�
 
 ---
 ### [HQarroum/docker-android](https://github.com/HQarroum/docker-android)
-**⭐ 7395** | **Shell**
+**⭐ 7396** | **Shell**
 
 这是一个运行Android模拟器作为服务的可定制Docker镜像。
 
@@ -5418,7 +5418,7 @@ Envoy是一个云原生高性能边缘/中间/服务代理，用于处理服务�
 
 ---
 ### [ouqiang/gocron](https://github.com/ouqiang/gocron)
-**⭐ 6258** | **Go**
+**⭐ 6259** | **Go**
 
 这是一个用Go语言编写的定时任务管理系统
 
@@ -5458,7 +5458,7 @@ Envoy是一个云原生高性能边缘/中间/服务代理，用于处理服务�
 
 ---
 ### [collectd/collectd](https://github.com/collectd/collectd)
-**⭐ 3368** | **C**
+**⭐ 3369** | **C**
 
 一个用C语言编写的系统统计信息收集守护进程，用于收集系统和应用程序的性能指标。
 
@@ -5488,7 +5488,7 @@ Envoy是一个云原生高性能边缘/中间/服务代理，用于处理服务�
 
 ---
 ### [CleanIP/sh.cd](https://github.com/CleanIP/sh.cd)
-**⭐ 280** | **TypeScript**
+**⭐ 281** | **TypeScript**
 
 一个通过一行命令对服务器进行全面体检的工具，涵盖硬件性能、IP质量和网络质量检测。
 
@@ -5498,7 +5498,7 @@ Envoy是一个云原生高性能边缘/中间/服务代理，用于处理服务�
 
 ---
 ### [tinyhumansai/openscion](https://github.com/tinyhumansai/openscion)
-**⭐ 143** | **Rust**
+**⭐ 146** | **Rust**
 
 OpenScion 是一个面向超大型 monorepo 的开源、以服务器为中心的源码控制系统，主要服务于 AI 代理和 CI 任务而非人类开发者。
 
@@ -5513,7 +5513,7 @@ OpenScion 是一个面向超大型 monorepo 的开源、以服务器为中心的
 **35** 个仓库
 
 ### [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
-**⭐ 37680** | **Shell**
+**⭐ 38113** | **Shell**
 
 这是一个基于Claude Code的AI游戏开发工作室系统，通过49个AI代理和72个工作流技能模拟真实游戏工作室的完整协作体系。
 
@@ -5523,7 +5523,7 @@ OpenScion 是一个面向超大型 monorepo 的开源、以服务器为中心的
 
 ---
 ### [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
-**⭐ 20865** | **TypeScript**
+**⭐ 20897** | **TypeScript**
 
 这是一个基于Qt框架开发的Windows平台开源游戏变速工具。
 
@@ -5533,7 +5533,7 @@ OpenScion 是一个面向超大型 monorepo 的开源、以服务器为中心的
 
 ---
 ### [playcanvas/engine](https://github.com/playcanvas/engine)
-**⭐ 17255** | **JavaScript**
+**⭐ 17266** | **JavaScript**
 
 这是一个基于WebGL、WebGPU、WebXR和glTF构建的强大Web图形运行时引擎。
 
@@ -5543,7 +5543,7 @@ OpenScion 是一个面向超大型 monorepo 的开源、以服务器为中心的
 
 ---
 ### [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
-**⭐ 15839** | **C#**
+**⭐ 15868** | **C#**
 
 这是一个Unity插件，通过Model Context Protocol（MCP）让AI助手（如Claude、Cursor）能够直接与Unity编辑器交互。
 
@@ -5553,7 +5553,7 @@ OpenScion 是一个面向超大型 monorepo 的开源、以服务器为中心的
 
 ---
 ### [seedds/nxnative](https://github.com/seedds/nxnative)
-**⭐ 14227** | **Python**
+**⭐ 14575** | **Python**
 
 一个让Switch游戏在iPhone、iPad和Mac上原生运行的工具，通过将NSP文件夹转换为未签名的IPA，并实现NSO重写、Horizon HLE宿主和NVN到Metal的转换。
 
@@ -5563,7 +5563,7 @@ OpenScion 是一个面向超大型 monorepo 的开源、以服务器为中心的
 
 ---
 ### [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper)
-**⭐ 9624** | **C#**
+**⭐ 9633** | **C#**
 
 这是一个用于反编译Unity游戏IL2CPP代码的工具
 
@@ -5573,7 +5573,7 @@ OpenScion 是一个面向超大型 monorepo 的开源、以服务器为中心的
 
 ---
 ### [XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining)
-**⭐ 9210** | **C#**
+**⭐ 9211** | **C#**
 
 这是一个Unity3D学习资源集合仓库，包含各种Unity开发教程、示例项目和实用代码片段。
 
@@ -5583,7 +5583,7 @@ OpenScion 是一个面向超大型 monorepo 的开源、以服务器为中心的
 
 ---
 ### [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
-**⭐ 8893** | **C#**
+**⭐ 8898** | **C#**
 
 这是一个用于提取和反编译Unity引擎资源、资产包和序列化文件的GUI应用程序。
 
@@ -5593,7 +5593,7 @@ OpenScion 是一个面向超大型 monorepo 的开源、以服务器为中心的
 
 ---
 ### [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves)
-**⭐ 8592** | **Python**
+**⭐ 8600** | **Python**
 
 这是一个用于游戏《鸣潮》的自动化脚本，提供后台自动战斗、刷声骸和一键日常等功能。
 
@@ -5603,7 +5603,7 @@ OpenScion 是一个面向超大型 monorepo 的开源、以服务器为中心的
 
 ---
 ### [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp)
-**⭐ 6584** | **JavaScript**
+**⭐ 6598** | **JavaScript**
 
 一个MCP服务器，用于与Godot游戏引擎交互，提供启动编辑器、运行项目和捕获调试输出的工具。
 
@@ -5613,7 +5613,7 @@ OpenScion 是一个面向超大型 monorepo 的开源、以服务器为中心的
 
 ---
 ### [0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge)
-**⭐ 5487** | **Python**
+**⭐ 5519** | **Python**
 
 一个基于AI提示生成2D精灵图、透明PNG帧和动画GIF的工具。
 
@@ -5643,7 +5643,7 @@ OpenScion 是一个面向超大型 monorepo 的开源、以服务器为中心的
 
 ---
 ### [leigest519/OpenGame](https://github.com/leigest519/OpenGame)
-**⭐ 3056** | **TypeScript**
+**⭐ 3057** | **TypeScript**
 
 一个基于TypeScript的开源游戏编码代理框架，用于自动化游戏开发流程。
 
@@ -5653,7 +5653,7 @@ OpenScion 是一个面向超大型 monorepo 的开源、以服务器为中心的
 
 ---
 ### [Tencent/UnLua](https://github.com/Tencent/UnLua)
-**⭐ 2804** | **C++**
+**⭐ 2805** | **C++**
 
 这是一个为虚幻引擎（UE）提供功能丰富、易学且高度优化的Lua脚本插件。
 
@@ -5662,24 +5662,24 @@ OpenScion 是一个面向超大型 monorepo 的开源、以服务器为中心的
 **使用场景**: 允许开发者在虚幻引擎项目中使用Lua语言进行游戏逻辑脚本编写，提升开发效率和灵活性。
 
 ---
-### [chongdashu/unreal-mcp](https://github.com/chongdashu/unreal-mcp)
-**⭐ 2112** | **C++**
-
-这是一个通过Model Context Protocol（MCP）让AI助手（如Cursor、Windsurf、Claude Desktop）能够用自然语言控制Unreal Engine的服务器。
-
-标签: [`AI集成`](#tag-ai集成) [`游戏开发工具`](#tag-游戏开发工具)
-
-**使用场景**: 游戏开发者或技术美术师可以通过自然语言指令（如“在场景中添加一个立方体”或“调整光照强度”）直接控制Unreal Engine编辑器，提高开发效率和工作流程自动化程度。
-
----
 ### [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)
-**⭐ 2030** | **C#**
+**⭐ 2428** | **C#**
 
 S2Arm 是一个将 Switch 游戏代码静态重编译为 ARM64 并直接使用 Metal 图形 API 的项目，让用户能在 iPhone、iPad 和 Mac 上原生运行自己的 Switch 游戏。
 
 标签: [`游戏开发`](#tag-游戏开发) [`逆向工程`](#tag-逆向工程) [`iOS`](#tag-ios) [`跨平台`](#tag-跨平台) `arm64`
 
 **使用场景**: 适用于希望在 Apple 设备上原生运行自己拥有的 Switch 游戏的玩家或开发者，需要自备游戏和密钥。
+
+---
+### [chongdashu/unreal-mcp](https://github.com/chongdashu/unreal-mcp)
+**⭐ 2113** | **C++**
+
+这是一个通过Model Context Protocol（MCP）让AI助手（如Cursor、Windsurf、Claude Desktop）能够用自然语言控制Unreal Engine的服务器。
+
+标签: [`AI集成`](#tag-ai集成) [`游戏开发工具`](#tag-游戏开发工具)
+
+**使用场景**: 游戏开发者或技术美术师可以通过自然语言指令（如“在场景中添加一个立方体”或“调整光照强度”）直接控制Unreal Engine编辑器，提高开发效率和工作流程自动化程度。
 
 ---
 ### [arimger/Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
@@ -5723,7 +5723,7 @@ S2Arm 是一个将 Switch 游戏代码静态重编译为 ARM64 并直接使用 M
 
 ---
 ### [jasonkneen/tiny-world-builder](https://github.com/jasonkneen/tiny-world-builder)
-**⭐ 1621** | **JavaScript**
+**⭐ 1622** | **JavaScript**
 
 一个基于体素（voxel）的迷你世界构建工具，用于创建类似Minecraft风格的3D场景。
 
@@ -5733,7 +5733,7 @@ S2Arm 是一个将 Switch 游戏代码静态重编译为 ARM64 并直接使用 M
 
 ---
 ### [NO6KIKO/gorest-2d-animation-spritesheet-generator](https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator)
-**⭐ 1506** | **TypeScript**
+**⭐ 1510** | **TypeScript**
 
 一个基于Codex辅助的本地2D动画精灵表生成器和场景合成工作区。
 
@@ -5763,7 +5763,7 @@ S2Arm 是一个将 Switch 游戏代码静态重编译为 ARM64 并直接使用 M
 
 ---
 ### [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game)
-**⭐ 986** | **Markdown**
+**⭐ 987** | **Markdown**
 
 一个将任何小说或故事转化为可玩游戏的工具，提供7技能适配管道，支持Claude Code、Codex和Kimi Code。
 
@@ -5773,7 +5773,7 @@ S2Arm 是一个将 Switch 游戏代码静态重编译为 ARM64 并直接使用 M
 
 ---
 ### [kp7742/UE4Dumper](https://github.com/kp7742/UE4Dumper)
-**⭐ 969** | **C++**
+**⭐ 968** | **C++**
 
 这是一个用于转储Unreal Engine 4游戏引擎的libUE4.so文件并生成结构SDK的工具。
 
@@ -5823,7 +5823,7 @@ S2Arm 是一个将 Switch 游戏代码静态重编译为 ARM64 并直接使用 M
 
 ---
 ### [alttester/AltTester-Unity-SDK](https://github.com/alttester/AltTester-Unity-SDK)
-**⭐ 124** | **C#**
+**⭐ 125** | **C#**
 
 这是一个用于Unity游戏UI自动化测试的开源SDK工具。
 
@@ -5833,7 +5833,7 @@ S2Arm 是一个将 Switch 游戏代码静态重编译为 ARM64 并直接使用 M
 
 ---
 ### [Jiang-Night/UE5Dumper](https://github.com/Jiang-Night/UE5Dumper)
-**⭐ 99** | **C++**
+**⭐ 100** | **C++**
 
 这是一个用于从Unreal Engine 5游戏中提取和生成SDK的工具。
 
@@ -5843,7 +5843,7 @@ S2Arm 是一个将 Switch 游戏代码静态重编译为 ARM64 并直接使用 M
 
 ---
 ### [SandroMaglione/inkline-town](https://github.com/SandroMaglione/inkline-town)
-**⭐ 79** | **TypeScript**
+**⭐ 81** | **TypeScript**
 
 一个基于 bevy-ts ECS 和 Pixi 渲染的淡色等距线条艺术风格的城镇模拟游戏。
 
@@ -5868,7 +5868,7 @@ S2Arm 是一个将 Switch 游戏代码静态重编译为 ARM64 并直接使用 M
 **18** 个仓库
 
 ### [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
-**⭐ 187875** | **Python**
+**⭐ 188053** | **Python**
 
 这是一个分享GitHub上有趣且适合入门级开发者的开源项目的仓库。
 
@@ -5878,7 +5878,7 @@ S2Arm 是一个将 Switch 游戏代码静态重编译为 ARM64 并直接使用 M
 
 ---
 ### [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
-**⭐ 84297** | **None**
+**⭐ 84343** | **None**
 
 该仓库收集并分享了从小学到大学的各类PDF教材资源。
 
@@ -5888,7 +5888,7 @@ S2Arm 是一个将 Switch 游戏代码静态重编译为 ARM64 并直接使用 M
 
 ---
 ### [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
-**⭐ 80170** | **Python**
+**⭐ 80229** | **Python**
 
 这是一个从零开始构建的类Claude Code AI代理的教育项目，使用Bash脚本实现核心功能。
 
@@ -5898,7 +5898,7 @@ S2Arm 是一个将 Switch 游戏代码静态重编译为 ARM64 并直接使用 M
 
 ---
 ### [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
-**⭐ 57705** | **Python**
+**⭐ 58039** | **Python**
 
 DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大语言模型和RAG技术提供交互式学习体验。
 
@@ -5908,7 +5908,7 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 
 ---
 ### [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
-**⭐ 46826** | **Python**
+**⭐ 46912** | **Python**
 
 这是一个关于Claude Code的视觉化、示例驱动的教程仓库，提供从基础概念到高级代理的指南和可直接复用的代码模板。
 
@@ -5918,7 +5918,7 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 
 ---
 ### [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-**⭐ 46656** | **JavaScript**
+**⭐ 46655** | **JavaScript**
 
 这是一个收集流行编程语言、框架和开发工具的速查表（cheatsheets）的仓库，所有内容都整理在单个文件中。
 
@@ -5928,7 +5928,7 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 
 ---
 ### [CyberCommy/geektime-books](https://github.com/CyberCommy/geektime-books)
-**⭐ 13452** | **None**
+**⭐ 13458** | **None**
 
 这是一个收集和分享极客时间平台电子书的仓库。
 
@@ -5938,7 +5938,7 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 
 ---
 ### [xindoo/agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns)
-**⭐ 8462** | **HTML**
+**⭐ 8469** | **HTML**
 
 这是谷歌新书《Agent设计模式》的中文翻译版本，提供在线阅读和电子书下载。
 
@@ -5948,7 +5948,7 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 
 ---
 ### [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)
-**⭐ 7290** | **Python**
+**⭐ 7492** | **Python**
 
 一个面向中小学的数学和英语知识图谱与自适应诊断系统，包含1244个知识点和5123道题目，对齐课标和人教版教材。
 
@@ -5958,7 +5958,7 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 
 ---
 ### [doocs/technical-books](https://github.com/doocs/technical-books)
-**⭐ 7025** | **TypeScript**
+**⭐ 7026** | **TypeScript**
 
 这是一个收集整理国内外互联网技术大牛所著技术书籍的仓库，涵盖计算机基础、网络、前后端、数据库、架构、大数据、深度学习等多个领域。
 
@@ -5968,7 +5968,7 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 
 ---
 ### [CollegesChat/university-information](https://github.com/CollegesChat/university-information)
-**⭐ 5104** | **None**
+**⭐ 5105** | **None**
 
 收集全国高校招生时未明确说明但影响大学生活质量的信息与细节
 
@@ -6008,7 +6008,7 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 
 ---
 ### [luoling8192/software-design-philosophy-skill](https://github.com/luoling8192/software-design-philosophy-skill)
-**⭐ 356** | **None**
+**⭐ 357** | **None**
 
 这是一个基于《软件设计的哲学》一书的Claude Code技能，用于指导软件设计原则和实践。
 
@@ -6018,7 +6018,7 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 
 ---
 ### [hr98w/jev-visual](https://github.com/hr98w/jev-visual)
-**⭐ 328** | **Python**
+**⭐ 329** | **Python**
 
 一个在Apple Silicon上运行的教育性类Jev视觉推理实验，支持共享上下文、直接候选评分和本地视觉演示。
 
@@ -6053,7 +6053,7 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 **15** 个仓库
 
 ### [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-**⭐ 335567** | **None**
+**⭐ 335868** | **None**
 
 这是一个收集可自托管网络服务和Web应用程序的精选列表，专注于自由软件和隐私保护。
 
@@ -6063,7 +6063,7 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 
 ---
 ### [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
-**⭐ 62025** | **None**
+**⭐ 62033** | **None**
 
 这是一个收集和展示中国独立开发者项目的列表，旨在分享和发现国内独立开发者的作品与动态。
 
@@ -6073,7 +6073,7 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 
 ---
 ### [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
-**⭐ 35315** | **Python**
+**⭐ 35371** | **Python**
 
 一个名为 laya 的 Python 项目，但缺乏描述和标签，无法确定具体功能。
 
@@ -6093,7 +6093,7 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 
 ---
 ### [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
-**⭐ 31635** | **None**
+**⭐ 31633** | **None**
 
 这是一个收集OpenClaw使用案例的社区仓库，旨在帮助用户更便捷地应用OpenClaw工具。
 
@@ -6103,7 +6103,7 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 
 ---
 ### [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)
-**⭐ 15385** | **JavaScript**
+**⭐ 15390** | **JavaScript**
 
 一个基于JavaScript的皮肤或主题定制工具，可能用于游戏或应用界面美化。
 
@@ -6113,7 +6113,7 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 
 ---
 ### [jakubkrehel/skills](https://github.com/jakubkrehel/skills)
-**⭐ 11881** | **Markdown**
+**⭐ 11976** | **Markdown**
 
 一个收集了各种有助于构建优秀界面的代理技能的仓库，涵盖动画、UI打磨、可访问性和产品写作等方面。
 
@@ -6123,7 +6123,7 @@ DeepTutor是一个基于多智能体系统的个性化AI学习助手，利用大
 
 ---
 ### [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
-**⭐ 6529** | **TypeScript**
+**⭐ 6533** | **TypeScript**
 
 Pierre的个人开源代码仓库，包含与diffs和memescale相关的项目。
 
@@ -6133,7 +6133,7 @@ Pierre的个人开源代码仓库，包含与diffs和memescale相关的项目。
 
 ---
 ### [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup)
-**⭐ 6471** | **None**
+**⭐ 6477** | **None**
 
 这是一个收集了超过10000个Telegram群组和频道链接以及实用机器人BOT的资源仓库。
 
@@ -6143,7 +6143,7 @@ Pierre的个人开源代码仓库，包含与diffs和memescale相关的项目。
 
 ---
 ### [mtvpls/MoonTVPlus](https://github.com/mtvpls/MoonTVPlus)
-**⭐ 3704** | **TypeScript**
+**⭐ 3710** | **TypeScript**
 
 MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器，支持外部播放器、视频超分、弹幕系统和评论抓取等功能。
 
@@ -6163,7 +6163,7 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 
 ---
 ### [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec)
-**⭐ 1444** | **None**
+**⭐ 1445** | **None**
 
 定义了一个将AI代理扩展打包为可分发包的最小标准规范，版本为v1.0.0。
 
@@ -6173,7 +6173,7 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 
 ---
 ### [inspatio/inspatio-world](https://github.com/inspatio/inspatio-world)
-**⭐ 1043** | **Python**
+**⭐ 1042** | **Python**
 
 一个基于Python的虚拟世界模拟或交互式环境项目
 
@@ -6193,7 +6193,7 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 
 ---
 ### [jdnei/naiyun](https://github.com/jdnei/naiyun)
-**⭐ 292** | **None**
+**⭐ 290** | **None**
 
 奈云机场官方地址，提供Shadowsocks、V2Ray、Trojan、Clash等代理工具的相关信息。
 
@@ -6209,554 +6209,554 @@ MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器�
 
 #### `AI代理`
 <a name="tag-ai代理"></a>
-- [morluto/rea](https://github.com/morluto/rea) (447555 :star:)
-- [anthropics/skills](https://github.com/anthropics/skills) (191284 :star:)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (187863 :star:)
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (167536 :star:)
-- [earendil-works/pi](https://github.com/earendil-works/pi) (121114 :star:)
-- [stablyai/orca](https://github.com/stablyai/orca) (120625 :star:)
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) (80170 :star:)
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) (58525 :star:)
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) (56413 :star:)
-- [yetone/magpie](https://github.com/yetone/magpie) (33309 :star:)
+- [morluto/rea](https://github.com/morluto/rea) (450396 :star:)
+- [anthropics/skills](https://github.com/anthropics/skills) (192467 :star:)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (188483 :star:)
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (167680 :star:)
+- [stablyai/orca](https://github.com/stablyai/orca) (121603 :star:)
+- [earendil-works/pi](https://github.com/earendil-works/pi) (121284 :star:)
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) (80229 :star:)
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) (58565 :star:)
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) (56441 :star:)
+- [yetone/magpie](https://github.com/yetone/magpie) (34042 :star:)
 
 #### `TypeScript`
 <a name="tag-typescript"></a>
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) (54434 :star:)
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) (46217 :star:)
-- [codex-team/editor.js](https://github.com/codex-team/editor.js) (32001 :star:)
-- [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) (21852 :star:)
-- [didi/LogicFlow](https://github.com/didi/LogicFlow) (11774 :star:)
-- [FluentRead/FluentRead](https://github.com/FluentRead/FluentRead) (9877 :star:)
-- [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) (9436 :star:)
-- [zai-org/ZCode](https://github.com/zai-org/ZCode) (8585 :star:)
-- [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) (7582 :star:)
-- [craft-ai-agents/craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss) (7321 :star:)
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) (55922 :star:)
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) (46221 :star:)
+- [codex-team/editor.js](https://github.com/codex-team/editor.js) (32002 :star:)
+- [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) (22241 :star:)
+- [didi/LogicFlow](https://github.com/didi/LogicFlow) (11777 :star:)
+- [FluentRead/FluentRead](https://github.com/FluentRead/FluentRead) (10331 :star:)
+- [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) (9437 :star:)
+- [zai-org/ZCode](https://github.com/zai-org/ZCode) (8597 :star:)
+- [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) (7599 :star:)
+- [craft-ai-agents/craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss) (7324 :star:)
 
 #### `自动化`
 <a name="tag-自动化"></a>
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (167536 :star:)
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) (49983 :star:)
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) (38925 :star:)
-- [browser-use/video-use](https://github.com/browser-use/video-use) (30834 :star:)
-- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) (30117 :star:)
-- [snarktank/ralph](https://github.com/snarktank/ralph) (22196 :star:)
-- [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) (17269 :star:)
-- [clearw5/Auto.js](https://github.com/clearw5/Auto.js) (12854 :star:)
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (167680 :star:)
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) (50000 :star:)
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) (38968 :star:)
+- [browser-use/video-use](https://github.com/browser-use/video-use) (30883 :star:)
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) (30122 :star:)
+- [snarktank/ralph](https://github.com/snarktank/ralph) (22199 :star:)
+- [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) (17284 :star:)
+- [clearw5/Auto.js](https://github.com/clearw5/Auto.js) (12855 :star:)
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) (12752 :star:)
-- [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) (9373 :star:)
+- [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) (9374 :star:)
 
 #### `Rust`
 <a name="tag-rust"></a>
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) (49820 :star:)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) (35908 :star:)
-- [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) (33017 :star:)
-- [t8y2/dbx](https://github.com/t8y2/dbx) (29780 :star:)
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) (21658 :star:)
-- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) (20694 :star:)
-- [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) (2500 :star:)
-- [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) (2257 :star:)
-- [iAmCorey/Wake](https://github.com/iAmCorey/Wake) (1552 :star:)
-- [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) (1445 :star:)
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) (50046 :star:)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) (35946 :star:)
+- [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) (33042 :star:)
+- [t8y2/dbx](https://github.com/t8y2/dbx) (29959 :star:)
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) (21685 :star:)
+- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) (21493 :star:)
+- [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) (2503 :star:)
+- [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) (2264 :star:)
+- [iAmCorey/Wake](https://github.com/iAmCorey/Wake) (1553 :star:)
+- [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) (1461 :star:)
 
 #### `自动化测试`
 <a name="tag-自动化测试"></a>
-- [appium/appium](https://github.com/appium/appium) (22205 :star:)
-- [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) (16367 :star:)
-- [openatx/uiautomator2](https://github.com/openatx/uiautomator2) (8492 :star:)
-- [alipay/SoloPi](https://github.com/alipay/SoloPi) (6365 :star:)
-- [meta/idb](https://github.com/meta/idb) (5421 :star:)
+- [appium/appium](https://github.com/appium/appium) (22209 :star:)
+- [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) (16375 :star:)
+- [openatx/uiautomator2](https://github.com/openatx/uiautomator2) (8496 :star:)
+- [alipay/SoloPi](https://github.com/alipay/SoloPi) (6366 :star:)
+- [meta/idb](https://github.com/meta/idb) (5422 :star:)
 - [httprunner/httprunner](https://github.com/httprunner/httprunner) (4308 :star:)
 - [microsoft/WinAppDriver](https://github.com/microsoft/WinAppDriver) (4054 :star:)
-- [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios) (2325 :star:)
+- [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios) (2329 :star:)
 - [senzhk/ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) (1987 :star:)
-- [appium/WebDriverAgent](https://github.com/appium/WebDriverAgent) (1965 :star:)
+- [appium/WebDriverAgent](https://github.com/appium/WebDriverAgent) (1967 :star:)
 
 #### `桌面应用`
 <a name="tag-桌面应用"></a>
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) (153142 :star:)
-- [tw93/Pake](https://github.com/tw93/Pake) (63053 :star:)
-- [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) (32935 :star:)
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) (24568 :star:)
-- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) (20492 :star:)
-- [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor) (6888 :star:)
-- [op7418/CodePilot](https://github.com/op7418/CodePilot) (6519 :star:)
-- [egoist/mygo](https://github.com/egoist/mygo) (5734 :star:)
-- [AIEraDev/Clypra](https://github.com/AIEraDev/Clypra) (3353 :star:)
-- [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) (2257 :star:)
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) (153413 :star:)
+- [tw93/Pake](https://github.com/tw93/Pake) (63146 :star:)
+- [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) (32968 :star:)
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) (24579 :star:)
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) (20497 :star:)
+- [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor) (6894 :star:)
+- [op7418/CodePilot](https://github.com/op7418/CodePilot) (6520 :star:)
+- [egoist/mygo](https://github.com/egoist/mygo) (5883 :star:)
+- [AIEraDev/Clypra](https://github.com/AIEraDev/Clypra) (3358 :star:)
+- [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) (2264 :star:)
 
 #### `AI助手`
 <a name="tag-ai助手"></a>
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) (394265 :star:)
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (147455 :star:)
-- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) (69128 :star:)
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (51381 :star:)
-- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) (35281 :star:)
-- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) (35016 :star:)
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) (25413 :star:)
-- [slopus/happy](https://github.com/slopus/happy) (24562 :star:)
-- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) (16307 :star:)
-- [YishenTu/claudian](https://github.com/YishenTu/claudian) (15956 :star:)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) (394308 :star:)
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (147851 :star:)
+- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) (69605 :star:)
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (51593 :star:)
+- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) (35379 :star:)
+- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) (35041 :star:)
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) (25430 :star:)
+- [slopus/happy](https://github.com/slopus/happy) (24576 :star:)
+- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) (16318 :star:)
+- [YishenTu/claudian](https://github.com/YishenTu/claudian) (15968 :star:)
 
 #### `逆向工程`
 <a name="tag-逆向工程"></a>
-- [morluto/rea](https://github.com/morluto/rea) (447555 :star:)
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) (55812 :star:)
-- [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) (44389 :star:)
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) (38925 :star:)
-- [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) (9624 :star:)
-- [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) (8893 :star:)
-- [androguard/androguard](https://github.com/androguard/androguard) (6414 :star:)
-- [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) (2030 :star:)
+- [morluto/rea](https://github.com/morluto/rea) (450396 :star:)
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) (55819 :star:)
+- [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) (44439 :star:)
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) (38968 :star:)
+- [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) (9633 :star:)
+- [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) (8898 :star:)
+- [androguard/androguard](https://github.com/androguard/androguard) (6421 :star:)
+- [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) (2428 :star:)
 - [dqzg12300/fridaUiTools](https://github.com/dqzg12300/fridaUiTools) (2019 :star:)
-- [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) (1738 :star:)
+- [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) (1742 :star:)
 
 #### `Android`
 <a name="tag-android"></a>
-- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) (19105 :star:)
-- [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) (17520 :star:)
-- [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) (13549 :star:)
-- [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) (12334 :star:)
-- [openatx/uiautomator2](https://github.com/openatx/uiautomator2) (8492 :star:)
-- [liriliri/aya](https://github.com/liriliri/aya) (5567 :star:)
-- [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) (5378 :star:)
-- [yanzhenjie/AndServer](https://github.com/yanzhenjie/AndServer) (3864 :star:)
+- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) (19323 :star:)
+- [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) (17518 :star:)
+- [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) (13610 :star:)
+- [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) (12343 :star:)
+- [openatx/uiautomator2](https://github.com/openatx/uiautomator2) (8496 :star:)
+- [liriliri/aya](https://github.com/liriliri/aya) (5571 :star:)
+- [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) (5382 :star:)
+- [yanzhenjie/AndServer](https://github.com/yanzhenjie/AndServer) (3865 :star:)
 - [senzhk/ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) (1987 :star:)
 - [google/python-adb](https://github.com/google/python-adb) (1860 :star:)
 
 #### `React`
 <a name="tag-react"></a>
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (127761 :star:)
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) (72063 :star:)
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) (51609 :star:)
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) (46217 :star:)
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) (39006 :star:)
-- [meta/lexical](https://github.com/meta/lexical) (24011 :star:)
-- [peach-mitao/peach](https://github.com/peach-mitao/peach) (14763 :star:)
-- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) (12214 :star:)
-- [open-slide/open-slide](https://github.com/open-slide/open-slide) (9720 :star:)
-- [AIEraDev/Clypra](https://github.com/AIEraDev/Clypra) (3353 :star:)
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (127861 :star:)
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) (72291 :star:)
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) (51666 :star:)
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) (46221 :star:)
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) (39016 :star:)
+- [meta/lexical](https://github.com/meta/lexical) (24017 :star:)
+- [peach-mitao/peach](https://github.com/peach-mitao/peach) (14857 :star:)
+- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) (12298 :star:)
+- [open-slide/open-slide](https://github.com/open-slide/open-slide) (9736 :star:)
+- [AIEraDev/Clypra](https://github.com/AIEraDev/Clypra) (3358 :star:)
 
 #### `开发工具`
 <a name="tag-开发工具"></a>
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (187863 :star:)
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (114630 :star:)
-- [nektos/act](https://github.com/nektos/act) (72621 :star:)
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) (48170 :star:)
-- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) (46656 :star:)
-- [jdx/mise](https://github.com/jdx/mise) (35987 :star:)
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) (25413 :star:)
-- [air-verse/air](https://github.com/air-verse/air) (24114 :star:)
-- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) (13116 :star:)
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) (10714 :star:)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (188483 :star:)
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (115268 :star:)
+- [nektos/act](https://github.com/nektos/act) (72640 :star:)
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) (48174 :star:)
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) (46655 :star:)
+- [jdx/mise](https://github.com/jdx/mise) (36024 :star:)
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) (25430 :star:)
+- [air-verse/air](https://github.com/air-verse/air) (24117 :star:)
+- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) (13127 :star:)
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) (10718 :star:)
 
 #### `MCP`
 <a name="tag-mcp"></a>
-- [t8y2/dbx](https://github.com/t8y2/dbx) (29780 :star:)
-- [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) (17050 :star:)
-- [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) (6584 :star:)
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) (6213 :star:)
-- [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) (2632 :star:)
-- [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) (2500 :star:)
+- [t8y2/dbx](https://github.com/t8y2/dbx) (29959 :star:)
+- [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) (17072 :star:)
+- [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) (6598 :star:)
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) (6218 :star:)
+- [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) (2636 :star:)
+- [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) (2503 :star:)
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) (1591 :star:)
-- [better-auth/better-icons](https://github.com/better-auth/better-icons) (1469 :star:)
-- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) (1444 :star:)
-- [awdr74100/figwright](https://github.com/awdr74100/figwright) (1352 :star:)
+- [better-auth/better-icons](https://github.com/better-auth/better-icons) (1472 :star:)
+- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) (1445 :star:)
+- [awdr74100/figwright](https://github.com/awdr74100/figwright) (1367 :star:)
 
 #### `跨平台`
 <a name="tag-跨平台"></a>
-- [stablyai/orca](https://github.com/stablyai/orca) (120625 :star:)
-- [t8y2/dbx](https://github.com/t8y2/dbx) (29780 :star:)
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) (24568 :star:)
-- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) (11106 :star:)
-- [pocoproject/poco](https://github.com/pocoproject/poco) (9494 :star:)
-- [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) (5844 :star:)
-- [egoist/mygo](https://github.com/egoist/mygo) (5734 :star:)
-- [Open-Less/openless](https://github.com/Open-Less/openless) (4068 :star:)
-- [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) (2257 :star:)
-- [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) (2030 :star:)
+- [stablyai/orca](https://github.com/stablyai/orca) (121603 :star:)
+- [t8y2/dbx](https://github.com/t8y2/dbx) (29959 :star:)
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) (24579 :star:)
+- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) (11114 :star:)
+- [pocoproject/poco](https://github.com/pocoproject/poco) (9496 :star:)
+- [egoist/mygo](https://github.com/egoist/mygo) (5883 :star:)
+- [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) (5867 :star:)
+- [Open-Less/openless](https://github.com/Open-Less/openless) (4081 :star:)
+- [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) (2428 :star:)
+- [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) (2264 :star:)
 
 #### `AI Agent`
 <a name="tag-ai-agent"></a>
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) (95138 :star:)
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) (54434 :star:)
-- [trycua/cua](https://github.com/trycua/cua) (32092 :star:)
-- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) (30717 :star:)
-- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) (20187 :star:)
-- [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) (13209 :star:)
-- [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) (10529 :star:)
-- [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab) (7631 :star:)
-- [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) (2257 :star:)
-- [DIYgod/pinky](https://github.com/DIYgod/pinky) (1506 :star:)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) (95415 :star:)
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) (55922 :star:)
+- [trycua/cua](https://github.com/trycua/cua) (32150 :star:)
+- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) (30766 :star:)
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) (20195 :star:)
+- [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) (13219 :star:)
+- [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) (10581 :star:)
+- [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab) (7637 :star:)
+- [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) (2264 :star:)
+- [DIYgod/pinky](https://github.com/DIYgod/pinky) (1732 :star:)
 
 #### `AI编程助手`
 <a name="tag-ai编程助手"></a>
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) (145128 :star:)
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) (77233 :star:)
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) (54434 :star:)
-- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) (51920 :star:)
-- [Twigpine/openclaude](https://github.com/Twigpine/openclaude) (34311 :star:)
-- [gastownhall/beads](https://github.com/gastownhall/beads) (28632 :star:)
-- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) (14535 :star:)
-- [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) (10325 :star:)
-- [zai-org/ZCode](https://github.com/zai-org/ZCode) (8585 :star:)
-- [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) (7582 :star:)
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) (145724 :star:)
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) (77335 :star:)
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) (55922 :star:)
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) (52720 :star:)
+- [Twigpine/openclaude](https://github.com/Twigpine/openclaude) (34317 :star:)
+- [gastownhall/beads](https://github.com/gastownhall/beads) (28664 :star:)
+- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) (14554 :star:)
+- [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) (10330 :star:)
+- [zai-org/ZCode](https://github.com/zai-org/ZCode) (8597 :star:)
+- [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) (7599 :star:)
 
 #### `Python`
 <a name="tag-python"></a>
-- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) (35315 :star:)
-- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) (24316 :star:)
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) (21112 :star:)
-- [peach-mitao/peach](https://github.com/peach-mitao/peach) (14763 :star:)
-- [CollegesChat/university-information](https://github.com/CollegesChat/university-information) (5104 :star:)
-- [pydantic/logfire](https://github.com/pydantic/logfire) (4543 :star:)
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) (35371 :star:)
+- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) (24383 :star:)
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) (21131 :star:)
+- [peach-mitao/peach](https://github.com/peach-mitao/peach) (14857 :star:)
+- [CollegesChat/university-information](https://github.com/CollegesChat/university-information) (5105 :star:)
+- [pydantic/logfire](https://github.com/pydantic/logfire) (4547 :star:)
 - [pympler/pympler](https://github.com/pympler/pympler) (1414 :star:)
-- [inspatio/inspatio-world](https://github.com/inspatio/inspatio-world) (1043 :star:)
+- [inspatio/inspatio-world](https://github.com/inspatio/inspatio-world) (1042 :star:)
 - [vibeshotclub/vsc-skills](https://github.com/vibeshotclub/vsc-skills) (894 :star:)
-- [DY-2026/GameDesignOS](https://github.com/DY-2026/GameDesignOS) (451 :star:)
+- [DY-2026/GameDesignOS](https://github.com/DY-2026/GameDesignOS) (453 :star:)
 
 #### `iOS`
 <a name="tag-ios"></a>
-- [seedds/nxnative](https://github.com/seedds/nxnative) (14227 :star:)
-- [kean/Pulse](https://github.com/kean/Pulse) (7257 :star:)
-- [meta/idb](https://github.com/meta/idb) (5421 :star:)
-- [nab138/iloader](https://github.com/nab138/iloader) (4665 :star:)
-- [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) (2030 :star:)
+- [seedds/nxnative](https://github.com/seedds/nxnative) (14575 :star:)
+- [kean/Pulse](https://github.com/kean/Pulse) (7259 :star:)
+- [meta/idb](https://github.com/meta/idb) (5422 :star:)
+- [nab138/iloader](https://github.com/nab138/iloader) (4742 :star:)
+- [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) (2428 :star:)
 - [openatx/facebook-wda](https://github.com/openatx/facebook-wda) (1882 :star:)
-- [YueChen-C/py-ios-device](https://github.com/YueChen-C/py-ios-device) (798 :star:)
+- [YueChen-C/py-ios-device](https://github.com/YueChen-C/py-ios-device) (799 :star:)
 - [NyaMisty/ipatool-py](https://github.com/NyaMisty/ipatool-py) (731 :star:)
 - [codeskyblue/tidevice3](https://github.com/codeskyblue/tidevice3) (284 :star:)
 - [icodesign/remote-installer](https://github.com/icodesign/remote-installer) (110 :star:)
 
 #### `AI`
 <a name="tag-ai"></a>
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) (38925 :star:)
-- [t8y2/dbx](https://github.com/t8y2/dbx) (29780 :star:)
-- [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) (22123 :star:)
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) (21658 :star:)
-- [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) (6584 :star:)
-- [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) (5844 :star:)
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) (5821 :star:)
-- [vercel/streamdown](https://github.com/vercel/streamdown) (5752 :star:)
-- [vercel/ai-elements](https://github.com/vercel/ai-elements) (2513 :star:)
-- [wecode-ai/Wegent](https://github.com/wecode-ai/Wegent) (886 :star:)
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) (38968 :star:)
+- [t8y2/dbx](https://github.com/t8y2/dbx) (29959 :star:)
+- [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) (22162 :star:)
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) (21685 :star:)
+- [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) (6598 :star:)
+- [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) (5867 :star:)
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) (5826 :star:)
+- [vercel/streamdown](https://github.com/vercel/streamdown) (5753 :star:)
+- [vercel/ai-elements](https://github.com/vercel/ai-elements) (2514 :star:)
+- [wecode-ai/Wegent](https://github.com/wecode-ai/Wegent) (887 :star:)
 
 #### `AI工具`
 <a name="tag-ai工具"></a>
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) (153142 :star:)
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) (144587 :star:)
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) (112607 :star:)
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (110683 :star:)
-- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) (46826 :star:)
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) (46667 :star:)
-- [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) (29060 :star:)
-- [tw93/Waza](https://github.com/tw93/Waza) (7546 :star:)
-- [benjitaylor/agentation](https://github.com/benjitaylor/agentation) (5365 :star:)
-- [lorryjovens-hub/claude-code-rust](https://github.com/lorryjovens-hub/claude-code-rust) (1667 :star:)
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) (153413 :star:)
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) (144606 :star:)
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) (113053 :star:)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (110941 :star:)
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) (46912 :star:)
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) (46792 :star:)
+- [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) (29146 :star:)
+- [tw93/Waza](https://github.com/tw93/Waza) (7554 :star:)
+- [benjitaylor/agentation](https://github.com/benjitaylor/agentation) (5381 :star:)
+- [lorryjovens-hub/claude-code-rust](https://github.com/lorryjovens-hub/claude-code-rust) (1668 :star:)
 
 #### `Claude Code`
 <a name="tag-claude-code"></a>
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) (38073 :star:)
-- [yetone/magpie](https://github.com/yetone/magpie) (33309 :star:)
-- [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) (22408 :star:)
-- [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) (18338 :star:)
-- [revfactory/harness](https://github.com/revfactory/harness) (9343 :star:)
-- [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) (6355 :star:)
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) (38091 :star:)
+- [yetone/magpie](https://github.com/yetone/magpie) (34042 :star:)
+- [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) (22512 :star:)
+- [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) (18372 :star:)
+- [revfactory/harness](https://github.com/revfactory/harness) (9349 :star:)
+- [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) (6433 :star:)
 - [sawzhang/deep-dive-claude-code](https://github.com/sawzhang/deep-dive-claude-code) (398 :star:)
-- [frontier-harness-eval/eval](https://github.com/frontier-harness-eval/eval) (338 :star:)
+- [frontier-harness-eval/eval](https://github.com/frontier-harness-eval/eval) (345 :star:)
 - [nekocode/filetree-skill](https://github.com/nekocode/filetree-skill) (164 :star:)
-- [flyhero/antumi](https://github.com/flyhero/antumi) (109 :star:)
+- [flyhero/antumi](https://github.com/flyhero/antumi) (115 :star:)
 
 #### `开发者工具`
 <a name="tag-开发者工具"></a>
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) (300323 :star:)
-- [garrytan/gstack](https://github.com/garrytan/gstack) (140993 :star:)
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) (95138 :star:)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) (86036 :star:)
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) (54434 :star:)
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) (49820 :star:)
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) (49435 :star:)
-- [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) (25012 :star:)
-- [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) (18338 :star:)
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) (300864 :star:)
+- [garrytan/gstack](https://github.com/garrytan/gstack) (141117 :star:)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) (95415 :star:)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) (86136 :star:)
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) (55922 :star:)
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) (50046 :star:)
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) (49505 :star:)
+- [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) (25022 :star:)
+- [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) (18372 :star:)
 - [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) (5633 :star:)
 
 #### `自托管`
 <a name="tag-自托管"></a>
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (335567 :star:)
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) (128826 :star:)
-- [immich-app/immich](https://github.com/immich-app/immich) (118658 :star:)
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) (93432 :star:)
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) (35861 :star:)
-- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) (19660 :star:)
-- [peach-mitao/peach](https://github.com/peach-mitao/peach) (14763 :star:)
-- [Afilmory/afilmory](https://github.com/Afilmory/afilmory) (2670 :star:)
-- [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) (2500 :star:)
-- [openilink/openilink-hub](https://github.com/openilink/openilink-hub) (1612 :star:)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (335868 :star:)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) (128953 :star:)
+- [immich-app/immich](https://github.com/immich-app/immich) (118760 :star:)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) (93475 :star:)
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) (35858 :star:)
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) (19676 :star:)
+- [peach-mitao/peach](https://github.com/peach-mitao/peach) (14857 :star:)
+- [Afilmory/afilmory](https://github.com/Afilmory/afilmory) (2672 :star:)
+- [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) (2503 :star:)
+- [openilink/openilink-hub](https://github.com/openilink/openilink-hub) (1614 :star:)
 
 #### `浏览器扩展`
 <a name="tag-浏览器扩展"></a>
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) (10714 :star:)
-- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) (10367 :star:)
-- [FluentRead/FluentRead](https://github.com/FluentRead/FluentRead) (9877 :star:)
-- [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) (8771 :star:)
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) (10718 :star:)
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) (10386 :star:)
+- [FluentRead/FluentRead](https://github.com/FluentRead/FluentRead) (10331 :star:)
+- [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) (8772 :star:)
 - [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) (3375 :star:)
 - [wenyuanw/quick-prompt](https://github.com/wenyuanw/quick-prompt) (861 :star:)
-- [kubai087/lumno-extension](https://github.com/kubai087/lumno-extension) (344 :star:)
-- [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x) (289 :star:)
+- [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x) (362 :star:)
+- [kubai087/lumno-extension](https://github.com/kubai087/lumno-extension) (345 :star:)
 - [TheCSir/TerminalStart](https://github.com/TheCSir/TerminalStart) (231 :star:)
 
 #### `agent`
 <a name="tag-agent"></a>
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) (93923 :star:)
-- [trycua/cua](https://github.com/trycua/cua) (32092 :star:)
-- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) (30717 :star:)
-- [open-slide/open-slide](https://github.com/open-slide/open-slide) (9720 :star:)
-- [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) (5844 :star:)
-- [browserbase/skills](https://github.com/browserbase/skills) (3756 :star:)
-- [wecode-ai/Wegent](https://github.com/wecode-ai/Wegent) (886 :star:)
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) (93988 :star:)
+- [trycua/cua](https://github.com/trycua/cua) (32150 :star:)
+- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) (30766 :star:)
+- [open-slide/open-slide](https://github.com/open-slide/open-slide) (9736 :star:)
+- [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) (5867 :star:)
+- [browserbase/skills](https://github.com/browserbase/skills) (3757 :star:)
+- [wecode-ai/Wegent](https://github.com/wecode-ai/Wegent) (887 :star:)
 - [nexus-research-lab/nexus](https://github.com/nexus-research-lab/nexus) (160 :star:)
-- [flyhero/antumi](https://github.com/flyhero/antumi) (109 :star:)
+- [flyhero/antumi](https://github.com/flyhero/antumi) (115 :star:)
 
 #### `llm`
 <a name="tag-llm"></a>
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) (68721 :star:)
-- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) (30717 :star:)
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) (21112 :star:)
-- [wangzan101/Mika](https://github.com/wangzan101/Mika) (7943 :star:)
-- [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent) (3073 :star:)
-- [antoinezambelli/forge](https://github.com/antoinezambelli/forge) (2267 :star:)
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) (68777 :star:)
+- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) (30766 :star:)
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) (21131 :star:)
+- [wangzan101/Mika](https://github.com/wangzan101/Mika) (8103 :star:)
+- [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent) (3074 :star:)
+- [antoinezambelli/forge](https://github.com/antoinezambelli/forge) (2268 :star:)
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) (1591 :star:)
-- [wecode-ai/Wegent](https://github.com/wecode-ai/Wegent) (886 :star:)
+- [wecode-ai/Wegent](https://github.com/wecode-ai/Wegent) (887 :star:)
 - [arcships/aimux](https://github.com/arcships/aimux) (243 :star:)
 
 #### `命令行工具`
 <a name="tag-命令行工具"></a>
-- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) (69947 :star:)
-- [larksuite/cli](https://github.com/larksuite/cli) (18034 :star:)
-- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) (16603 :star:)
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) (69981 :star:)
+- [larksuite/cli](https://github.com/larksuite/cli) (18045 :star:)
+- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) (16618 :star:)
 - [jackwener/xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli) (2728 :star:)
-- [riba2534/feishu-cli](https://github.com/riba2534/feishu-cli) (1440 :star:)
-- [public-clis/bilibili-cli](https://github.com/public-clis/bilibili-cli) (1147 :star:)
+- [riba2534/feishu-cli](https://github.com/riba2534/feishu-cli) (1443 :star:)
+- [public-clis/bilibili-cli](https://github.com/public-clis/bilibili-cli) (1151 :star:)
 - [mjpclab/go-http-file-server](https://github.com/mjpclab/go-http-file-server) (489 :star:)
 - [shanselman/toasty](https://github.com/shanselman/toasty) (449 :star:)
-- [QuintinShaw/openasr](https://github.com/QuintinShaw/openasr) (300 :star:)
+- [QuintinShaw/openasr](https://github.com/QuintinShaw/openasr) (301 :star:)
 
 #### `性能测试`
 <a name="tag-性能测试"></a>
 - [rakyll/boom](https://github.com/rakyll/boom) (4691 :star:)
-- [link1st/go-stress-testing](https://github.com/link1st/go-stress-testing) (4406 :star:)
-- [bojand/ghz](https://github.com/bojand/ghz) (3359 :star:)
-- [smart-test-ti/SoloX](https://github.com/smart-test-ti/SoloX) (1273 :star:)
+- [link1st/go-stress-testing](https://github.com/link1st/go-stress-testing) (4407 :star:)
+- [bojand/ghz](https://github.com/bojand/ghz) (3360 :star:)
+- [smart-test-ti/SoloX](https://github.com/smart-test-ti/SoloX) (1274 :star:)
 - [myzhan/boomer](https://github.com/myzhan/boomer) (1238 :star:)
-- [maxim-saplin/CrossPlatformDiskTest](https://github.com/maxim-saplin/CrossPlatformDiskTest) (879 :star:)
-- [YueChen-C/py-ios-device](https://github.com/YueChen-C/py-ios-device) (798 :star:)
+- [maxim-saplin/CrossPlatformDiskTest](https://github.com/maxim-saplin/CrossPlatformDiskTest) (880 :star:)
+- [YueChen-C/py-ios-device](https://github.com/YueChen-C/py-ios-device) (799 :star:)
 - [alibaba/mobileperf](https://github.com/alibaba/mobileperf) (764 :star:)
 - [15525730080/iOS17_perf](https://github.com/15525730080/iOS17_perf) (22 :star:)
 
 #### `游戏开发`
 <a name="tag-游戏开发"></a>
 - [tomlooman/ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) (4656 :star:)
-- [leigest519/OpenGame](https://github.com/leigest519/OpenGame) (3056 :star:)
-- [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) (2030 :star:)
-- [kp7742/UE4Dumper](https://github.com/kp7742/UE4Dumper) (969 :star:)
+- [leigest519/OpenGame](https://github.com/leigest519/OpenGame) (3057 :star:)
+- [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) (2428 :star:)
+- [kp7742/UE4Dumper](https://github.com/kp7742/UE4Dumper) (968 :star:)
 - [vinjn/perf-doctor](https://github.com/vinjn/perf-doctor) (454 :star:)
 - [yukiarrr/Il2cppSpy](https://github.com/yukiarrr/Il2cppSpy) (361 :star:)
 - [AirtestProject/Poco-SDK](https://github.com/AirtestProject/Poco-SDK) (327 :star:)
-- [Jiang-Night/UE5Dumper](https://github.com/Jiang-Night/UE5Dumper) (99 :star:)
+- [Jiang-Night/UE5Dumper](https://github.com/Jiang-Night/UE5Dumper) (100 :star:)
 
 #### `性能分析`
 <a name="tag-性能分析"></a>
-- [iovisor/bcc](https://github.com/iovisor/bcc) (22734 :star:)
-- [benfred/py-spy](https://github.com/benfred/py-spy) (15635 :star:)
-- [joerick/pyinstrument](https://github.com/joerick/pyinstrument) (8030 :star:)
+- [iovisor/bcc](https://github.com/iovisor/bcc) (22737 :star:)
+- [benfred/py-spy](https://github.com/benfred/py-spy) (15638 :star:)
+- [joerick/pyinstrument](https://github.com/joerick/pyinstrument) (8032 :star:)
 - [GameTechDev/PresentMon](https://github.com/GameTechDev/PresentMon) (2668 :star:)
-- [P403n1x87/austin](https://github.com/P403n1x87/austin) (2215 :star:)
-- [laixintao/flameshow](https://github.com/laixintao/flameshow) (1128 :star:)
+- [P403n1x87/austin](https://github.com/P403n1x87/austin) (2216 :star:)
+- [laixintao/flameshow](https://github.com/laixintao/flameshow) (1129 :star:)
 - [vinjn/perf-doctor](https://github.com/vinjn/perf-doctor) (454 :star:)
 - [ARM-software/libGPUCounters](https://github.com/ARM-software/libGPUCounters) (284 :star:)
 
 #### `前端开发`
 <a name="tag-前端开发"></a>
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) (112607 :star:)
-- [TanStack/table](https://github.com/TanStack/table) (28557 :star:)
-- [jakubkrehel/skills](https://github.com/jakubkrehel/skills) (11881 :star:)
-- [ibelick/ui-skills](https://github.com/ibelick/ui-skills) (10903 :star:)
-- [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) (6203 :star:)
-- [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x) (289 :star:)
-- [ds-spec/detent-ui](https://github.com/ds-spec/detent-ui) (47 :star:)
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) (113053 :star:)
+- [TanStack/table](https://github.com/TanStack/table) (28563 :star:)
+- [jakubkrehel/skills](https://github.com/jakubkrehel/skills) (11976 :star:)
+- [ibelick/ui-skills](https://github.com/ibelick/ui-skills) (10944 :star:)
+- [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) (6230 :star:)
+- [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x) (362 :star:)
+- [ds-spec/detent-ui](https://github.com/ds-spec/detent-ui) (84 :star:)
 
 #### `ADB`
 <a name="tag-adb"></a>
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) (55553 :star:)
-- [liriliri/aya](https://github.com/liriliri/aya) (5567 :star:)
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) (56081 :star:)
+- [liriliri/aya](https://github.com/liriliri/aya) (5571 :star:)
 - [google/python-adb](https://github.com/google/python-adb) (1860 :star:)
-- [DIYgod/pinky](https://github.com/DIYgod/pinky) (1506 :star:)
+- [DIYgod/pinky](https://github.com/DIYgod/pinky) (1732 :star:)
 - [minhalvp/android-mcp-server](https://github.com/minhalvp/android-mcp-server) (811 :star:)
 - [electricbubble/gadb](https://github.com/electricbubble/gadb) (149 :star:)
 - [restsend/andbrowser](https://github.com/restsend/andbrowser) (45 :star:)
 
 #### `浏览器自动化`
 <a name="tag-浏览器自动化"></a>
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) (55036 :star:)
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) (48648 :star:)
-- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) (30990 :star:)
-- [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) (22349 :star:)
-- [eze-is/web-access](https://github.com/eze-is/web-access) (9381 :star:)
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) (55085 :star:)
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) (49339 :star:)
+- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) (31011 :star:)
+- [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) (22464 :star:)
+- [eze-is/web-access](https://github.com/eze-is/web-access) (9386 :star:)
 - [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) (6728 :star:)
 - [browser-use/qa-use](https://github.com/browser-use/qa-use) (607 :star:)
 
 #### `CLI`
 <a name="tag-cli"></a>
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) (58525 :star:)
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (38469 :star:)
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) (21658 :star:)
-- [openai/codex-security](https://github.com/openai/codex-security) (11347 :star:)
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) (58565 :star:)
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (38589 :star:)
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) (21685 :star:)
+- [openai/codex-security](https://github.com/openai/codex-security) (11368 :star:)
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) (1591 :star:)
-- [renezander030/capcut-cli](https://github.com/renezander030/capcut-cli) (1146 :star:)
-- [leeguooooo/image-use](https://github.com/leeguooooo/image-use) (417 :star:)
+- [renezander030/capcut-cli](https://github.com/renezander030/capcut-cli) (1151 :star:)
+- [leeguooooo/image-use](https://github.com/leeguooooo/image-use) (419 :star:)
 
 #### `UI组件`
 <a name="tag-ui组件"></a>
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (107022 :star:)
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) (51609 :star:)
-- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) (12376 :star:)
-- [lepoco/wpfui](https://github.com/lepoco/wpfui) (9748 :star:)
-- [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) (1738 :star:)
-- [ds-spec/detent-ui](https://github.com/ds-spec/detent-ui) (47 :star:)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (107687 :star:)
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) (51666 :star:)
+- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) (12381 :star:)
+- [lepoco/wpfui](https://github.com/lepoco/wpfui) (9750 :star:)
+- [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) (1742 :star:)
+- [ds-spec/detent-ui](https://github.com/ds-spec/detent-ui) (84 :star:)
 
 #### `JavaScript`
 <a name="tag-javascript"></a>
-- [juliangarnier/anime](https://github.com/juliangarnier/anime) (74472 :star:)
-- [codex-team/editor.js](https://github.com/codex-team/editor.js) (32001 :star:)
-- [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) (15385 :star:)
-- [chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) (3473 :star:)
-- [zhaoolee/notes](https://github.com/zhaoolee/notes) (331 :star:)
-- [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x) (289 :star:)
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) (74498 :star:)
+- [codex-team/editor.js](https://github.com/codex-team/editor.js) (32002 :star:)
+- [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) (15390 :star:)
+- [chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) (3475 :star:)
+- [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x) (362 :star:)
+- [zhaoolee/notes](https://github.com/zhaoolee/notes) (332 :star:)
 
 #### `代码生成`
 <a name="tag-代码生成"></a>
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) (231472 :star:)
-- [openai/codex](https://github.com/openai/codex) (134530 :star:)
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) (54434 :star:)
-- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) (18192 :star:)
-- [KunAgent/Kun](https://github.com/KunAgent/Kun) (6382 :star:)
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) (231918 :star:)
+- [openai/codex](https://github.com/openai/codex) (134797 :star:)
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) (55922 :star:)
+- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) (18255 :star:)
+- [KunAgent/Kun](https://github.com/KunAgent/Kun) (6377 :star:)
 - [leigest519/ScreenCoder](https://github.com/leigest519/ScreenCoder) (3014 :star:)
 
 #### `Windows`
 <a name="tag-windows"></a>
-- [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) (46876 :star:)
+- [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) (46882 :star:)
 - [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) (3843 :star:)
-- [RayrenSX/iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror) (1779 :star:)
+- [RayrenSX/iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror) (1799 :star:)
 - [shanselman/toasty](https://github.com/shanselman/toasty) (449 :star:)
 - [llccd/RDPWrapOffsetFinder](https://github.com/llccd/RDPWrapOffsetFinder) (228 :star:)
-- [kazimics/podara](https://github.com/kazimics/podara) (26 :star:)
+- [kazimics/podara](https://github.com/kazimics/podara) (27 :star:)
 
 #### `Kotlin`
 <a name="tag-kotlin"></a>
-- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) (19105 :star:)
-- [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) (13549 :star:)
-- [wangzan101/Mika](https://github.com/wangzan101/Mika) (7943 :star:)
-- [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) (5378 :star:)
+- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) (19323 :star:)
+- [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) (13610 :star:)
+- [wangzan101/Mika](https://github.com/wangzan101/Mika) (8103 :star:)
+- [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) (5382 :star:)
 - [opencyvis/opencyvis-phone](https://github.com/opencyvis/opencyvis-phone) (422 :star:)
-- [kazimics/podara](https://github.com/kazimics/podara) (26 :star:)
+- [kazimics/podara](https://github.com/kazimics/podara) (27 :star:)
 
 #### `开源`
 <a name="tag-开源"></a>
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) (106881 :star:)
-- [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage) (79189 :star:)
-- [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) (22123 :star:)
-- [anomalyco/models.dev](https://github.com/anomalyco/models.dev) (7581 :star:)
-- [Tongyi-MAI/OpenGCUA](https://github.com/Tongyi-MAI/OpenGCUA) (597 :star:)
-- [kazimics/podara](https://github.com/kazimics/podara) (26 :star:)
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) (107057 :star:)
+- [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage) (79471 :star:)
+- [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) (22162 :star:)
+- [anomalyco/models.dev](https://github.com/anomalyco/models.dev) (7597 :star:)
+- [Tongyi-MAI/OpenGCUA](https://github.com/Tongyi-MAI/OpenGCUA) (596 :star:)
+- [kazimics/podara](https://github.com/kazimics/podara) (27 :star:)
 
 #### `可视化`
 <a name="tag-可视化"></a>
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) (95138 :star:)
-- [didi/LogicFlow](https://github.com/didi/LogicFlow) (11774 :star:)
-- [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) (11268 :star:)
-- [shuding/cobe](https://github.com/shuding/cobe) (6055 :star:)
-- [benjitaylor/agentation](https://github.com/benjitaylor/agentation) (5365 :star:)
-- [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core) (3198 :star:)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) (95415 :star:)
+- [didi/LogicFlow](https://github.com/didi/LogicFlow) (11777 :star:)
+- [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) (11272 :star:)
+- [shuding/cobe](https://github.com/shuding/cobe) (6056 :star:)
+- [benjitaylor/agentation](https://github.com/benjitaylor/agentation) (5381 :star:)
+- [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core) (3199 :star:)
 
 #### `视频编辑`
 <a name="tag-视频编辑"></a>
-- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) (97958 :star:)
-- [browser-use/video-use](https://github.com/browser-use/video-use) (30834 :star:)
-- [Augani/openreel-video](https://github.com/Augani/openreel-video) (5624 :star:)
-- [AIEraDev/Clypra](https://github.com/AIEraDev/Clypra) (3353 :star:)
-- [tejaswigowda/ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI) (1468 :star:)
-- [renezander030/capcut-cli](https://github.com/renezander030/capcut-cli) (1146 :star:)
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) (98045 :star:)
+- [browser-use/video-use](https://github.com/browser-use/video-use) (30883 :star:)
+- [Augani/openreel-video](https://github.com/Augani/openreel-video) (5638 :star:)
+- [AIEraDev/Clypra](https://github.com/AIEraDev/Clypra) (3358 :star:)
+- [tejaswigowda/ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI) (1471 :star:)
+- [renezander030/capcut-cli](https://github.com/renezander030/capcut-cli) (1151 :star:)
 
 #### `UI设计`
 <a name="tag-ui设计"></a>
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (147455 :star:)
-- [jakubkrehel/skills](https://github.com/jakubkrehel/skills) (11881 :star:)
-- [ibelick/ui-skills](https://github.com/ibelick/ui-skills) (10903 :star:)
-- [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) (6271 :star:)
-- [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) (4642 :star:)
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (147851 :star:)
+- [jakubkrehel/skills](https://github.com/jakubkrehel/skills) (11976 :star:)
+- [ibelick/ui-skills](https://github.com/ibelick/ui-skills) (10944 :star:)
+- [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) (6309 :star:)
+- [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) (4645 :star:)
 - [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts) (3851 :star:)
 
 #### `Android工具`
 <a name="tag-android工具"></a>
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) (154450 :star:)
-- [termux/termux-app](https://github.com/termux/termux-app) (64515 :star:)
-- [clearw5/Auto.js](https://github.com/clearw5/Auto.js) (12854 :star:)
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) (154531 :star:)
+- [termux/termux-app](https://github.com/termux/termux-app) (64580 :star:)
+- [clearw5/Auto.js](https://github.com/clearw5/Auto.js) (12855 :star:)
 - [JZ-Darkal/AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture) (4614 :star:)
-- [modstart-lib/linkandroid](https://github.com/modstart-lib/linkandroid) (2787 :star:)
+- [modstart-lib/linkandroid](https://github.com/modstart-lib/linkandroid) (2789 :star:)
 - [alibaba/mobileperf](https://github.com/alibaba/mobileperf) (764 :star:)
 
 #### `设计系统`
 <a name="tag-设计系统"></a>
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) (126366 :star:)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (107022 :star:)
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) (106881 :star:)
-- [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) (6203 :star:)
-- [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) (1738 :star:)
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) (126517 :star:)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (107687 :star:)
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) (107057 :star:)
+- [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) (6230 :star:)
+- [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) (1742 :star:)
 
 #### `Claude`
 <a name="tag-claude"></a>
-- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) (35281 :star:)
-- [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) (10529 :star:)
-- [tw93/Waza](https://github.com/tw93/Waza) (7546 :star:)
-- [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) (6271 :star:)
-- [browserbase/skills](https://github.com/browserbase/skills) (3756 :star:)
+- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) (35379 :star:)
+- [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) (10581 :star:)
+- [tw93/Waza](https://github.com/tw93/Waza) (7554 :star:)
+- [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) (6309 :star:)
+- [browserbase/skills](https://github.com/browserbase/skills) (3757 :star:)
 
 #### `macOS`
 <a name="tag-macos"></a>
-- [seedds/nxnative](https://github.com/seedds/nxnative) (14227 :star:)
-- [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) (9102 :star:)
-- [kean/Pulse](https://github.com/kean/Pulse) (7257 :star:)
+- [seedds/nxnative](https://github.com/seedds/nxnative) (14575 :star:)
+- [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) (9109 :star:)
+- [kean/Pulse](https://github.com/kean/Pulse) (7259 :star:)
 - [oomol-lab/LockIME](https://github.com/oomol-lab/LockIME) (619 :star:)
 - [maka-agent/maka-cu](https://github.com/maka-agent/maka-cu) (48 :star:)
 
 #### `Swift`
 <a name="tag-swift"></a>
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) (26370 :star:)
-- [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) (9102 :star:)
-- [kean/Pulse](https://github.com/kean/Pulse) (7257 :star:)
+- [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) (9109 :star:)
+- [kean/Pulse](https://github.com/kean/Pulse) (7259 :star:)
 - [oomol-lab/LockIME](https://github.com/oomol-lab/LockIME) (619 :star:)
 - [maka-agent/maka-cu](https://github.com/maka-agent/maka-cu) (48 :star:)
 
 #### `AI集成`
 <a name="tag-ai集成"></a>
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) (19526 :star:)
-- [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) (15839 :star:)
-- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) (2435 :star:)
-- [chongdashu/unreal-mcp](https://github.com/chongdashu/unreal-mcp) (2112 :star:)
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) (19555 :star:)
+- [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) (15868 :star:)
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) (2436 :star:)
+- [chongdashu/unreal-mcp](https://github.com/chongdashu/unreal-mcp) (2113 :star:)
 - [RavaniRoshan/winscript-mcp](https://github.com/RavaniRoshan/winscript-mcp) (8 :star:)
 
 #### `游戏开发工具`
 <a name="tag-游戏开发工具"></a>
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) (37680 :star:)
-- [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) (15839 :star:)
-- [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) (9624 :star:)
-- [chongdashu/unreal-mcp](https://github.com/chongdashu/unreal-mcp) (2112 :star:)
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) (38113 :star:)
+- [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) (15868 :star:)
+- [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) (9633 :star:)
+- [chongdashu/unreal-mcp](https://github.com/chongdashu/unreal-mcp) (2113 :star:)
 - [jashking/UnrealPakViewer](https://github.com/jashking/UnrealPakViewer) (1463 :star:)
 
 #### `AI智能体`
 <a name="tag-ai智能体"></a>
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) (262142 :star:)
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) (48648 :star:)
-- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) (30590 :star:)
-- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) (3379 :star:)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) (262495 :star:)
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) (49339 :star:)
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) (30603 :star:)
+- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) (3380 :star:)
 - [showlab/Awesome-GUI-Agent](https://github.com/showlab/Awesome-GUI-Agent) (1224 :star:)
